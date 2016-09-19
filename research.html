@@ -1,0 +1,302 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Yau Group</title>
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/bootstrap-responsive.css" rel="stylesheet">
+	<style>
+
+    /* GLOBAL STYLES
+    -------------------------------------------------- */
+    /* Padding below the footer and lighter body text */
+
+    body {
+      padding-bottom: 40px;
+      color: #5a5a5a;
+    }
+
+
+
+    /* CUSTOMIZE THE NAVBAR
+    -------------------------------------------------- */
+
+    /* Special class on .container surrounding .navbar, used for positioning it into place. */
+    .navbar-wrapper {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+      margin-top: 20px;
+      margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+    }
+    .navbar-wrapper .navbar {
+
+    }
+
+    /* Remove border and change up box shadow for more contrast */
+    .navbar .navbar-inner {
+      border: 0;
+      -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+         -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+              box-shadow: 0 2px 10px rgba(0,0,0,.25);
+    }
+
+    /* Downsize the brand/project name a bit */
+    .navbar .brand {
+      padding: 14px 20px 16px; /* Increase vertical padding to match navbar links */
+      font-size: 16px;
+      font-weight: bold;
+      text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+    }
+
+    /* Navbar links: increase padding for taller navbar */
+    .navbar .nav > li > a {
+      padding: 15px 15px;
+    }
+
+    /* Offset the responsive button for proper vertical alignment */
+    .navbar .btn-navbar {
+      margin-top: 10px;
+    }
+
+
+
+    /* CUSTOMIZE THE NAVBAR
+    -------------------------------------------------- */
+
+    /* Carousel base class */
+    .carousel {
+      margin-bottom: 60px;
+    }
+
+    .carousel .container {
+      position: relative;
+      z-index: 9;
+    }
+
+    .carousel-control {
+      height: 80px;
+      margin-top: 0;
+      font-size: 120px;
+      text-shadow: 0 1px 1px rgba(0,0,0,.4);
+      background-color: transparent;
+      border: 0;
+    }
+
+    .carousel .item {
+      height: 500px;
+    }
+    .carousel img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      height: 500px;
+    }
+
+    .carousel-caption {
+      background-color: rgb(0,0,0,0.3);
+      position: static;
+      max-width: 550px;
+      padding: 20 20px;
+      margin-top: 150px;
+    }
+    .carousel-caption h1,
+    .carousel-caption .lead {
+      margin: 0;
+      line-height: 1.25;
+      color: #fff;
+      text-shadow: 0 1px 1px rgba(0,0,0,.4);
+    }
+    .carousel-caption .btn {
+      margin-top: 10px;
+    }
+     /* RESPONSIVE CSS
+    -------------------------------------------------- */
+
+    @media (max-width: 979px) {
+
+      .container.navbar-wrapper {
+        margin-bottom: 0;
+        width: auto;
+      }
+      .navbar-inner {
+        border-radius: 0;
+        margin: -20px 0;
+      }
+
+      .carousel .item {
+        height: 500px;
+      }
+      .carousel img {
+        width: auto;
+        height: 500px;
+      }
+    }
+
+
+    @media (max-width: 767px) {
+
+      .navbar-inner {
+        margin: -20px;
+      }
+
+      .carousel {
+        margin-left: -20px;
+        margin-right: -20px;
+      }
+      .carousel .container {
+
+      }
+      .carousel .item {
+        height: 300px;
+      }
+      .carousel img {
+        height: 300px;
+      }
+      .carousel-caption {
+        width: 65%;
+        padding: 0 70px;
+        margin-top: 100px;
+      }
+      .carousel-caption h1 {
+        font-size: 30px;
+      }
+      .carousel-caption .lead,
+      .carousel-caption .btn {
+        font-size: 18px;
+      }
+    }
+    .footer {
+      margin-top: -50px;
+      position: relative;
+      height: 150px;
+      clear:both;
+      text-align: center;
+    } 
+    </style>
+</head>
+
+<body>
+	<div class="navbar-wrapper">
+      <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
+      <div class="container">
+
+        <div class="navbar navbar-inverse">
+          <div class="navbar-inner">
+            <a class="brand" href="index.html">Yau Group</a>
+              <ul class="nav">
+                <li><a href="about.html">About</a></li>
+                <li><a href="news.html">News</a></li>
+                <li><a href="people.html">People</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="publications.html">Publications</a><li>
+                <li><a href="opportunities.html">Opportunities</a></li>
+                <li><a href="support.html">Support</a></li>
+                <li><a href="contact.html">Contact</a></li>
+              </ul>
+          </div><!-- /.navbar-inner -->
+        </div><!-- /.navbar -->
+
+      </div> <!-- /.container -->
+
+    <div class="container">
+
+      <!-- Main hero unit for a primary marketing message or call to action -->
+      <div class="hero-unit" style="padding-top:20px;padding-bottom:20px">
+          
+        <h1>Research</h1>
+          
+        <br>  
+
+		<p>The group actively develops novel statistical and computational methods for analysing large datasets (<b>"Big Data"</b>) with a particular focus on genomics and the use of Bayesian methods.</p>
+          
+        </div>
+
+
+    <div class="container">
+          
+		<h2>Areas of work</h2>
+		
+		<p><b>Tumour heterogeneity</b></p>
+		
+		<p>Tumour heterogeneity describes the genetic diversity both within (intra-tumour heterogeniety) and between tumours (inter-tumour heterogeneity). Genetic differences within and between tumours give rise to different disease outcomes and patient responses to therapies. Understanding and characterising tumour heterogeneity is therefore important in developing clinical approaches that are tailored to a patient (individualised medicine).</p>
+
+<figure align="center"><img src="img/research/metastases.png"><figcaption><b>Figure 1. Within-patient tumour heterogeneity.</b></figcaption></figure>		
+		
+		<p>Our group is interested in developing statistical methods to analyse genome sequencing data that comes from heterogeneous tumour samples using advanced machine learning based imputation and deconvolution techniques to deconvolute sequencing measurements on bulk tissue samples to characterise its constituent cellular sub-populations.</p>
+		
+		<b><p>Integrative Genomics</b></p>
+		
+		<p>Modern sequencing technologies allow us to characterise genetic modifications at multiple levels (DNA, RNA, ChIP, DNA methylation, etc) in cancer. Improvements in technology are also enabling more complex experimental designs involving FFPE tumour samples, single cells, circulating tumour cells (CTCs) and free circulating DNA with multiple measurements acquired over time or from different biopsies of the same tumour.</p>
+		
+<figure align="center"><img src="img/research/genomics.png"><figcaption><b>Figure 2. Vertical and horizontal genomic data integration.</b></figcaption></figure>		
+		
+		<p>Our group is working on approaches using Bayesian hierarchical modelling to integrate information from multiple sources across different spatiotemporal scales in order to better understand tumour evolution and heterogeneity.</p>
+		
+		<b><p>Statistical methodology for Big Data</b></p>
+		
+		<p>Bayesian methods are now ubiquitous in statistical modeling applications across a wide range of disciplines. A major challenge for Bayesian approaches is the significant computation required for exact inference in large models applied to big datasets (terabyte or more scale). For this type of data, Markov Chain Monte Carlo (MCMC) simulation approaches are not feasible despite recent advances in massively parallel computational hardware (e.g. graphics programming units or GPUs). Instead, it is necessary to develop approximate methods that are able to give <i>"good"</i> answers that, whilst not guaranteed to be exact or optimal, are sufficient for downstream decision processes and further scientific inquiry.</p>
+		
+		<p>Our group is developing approximate inference methods to fit complex statistical models to large datasets that respect the practical computational and time limitations that govern real-life scientific studies. We are also interested in using decision-theoretic ideas to produce meaningful results for scientists via loss functions that are tailored to the task at hand.</p>
+		
+    </div> <!-- /.container -->
+
+    <div class="container">          
+          
+        <h2>Highlights</h2>
+
+        <p><b><a href="http://genomebiology.com/content/11/9/R92" target="_blank">A statistical approach for detecting genomic aberrations in heterogeneous tumor samples from single nucleotide polymorphism genotyping data</a></b></p>
+        
+        <p><b>Summary</b> We developed a statistical method for the characterization of genomic aberrations in single nucleotide polymorphism microarray data acquired from cancer genomes. Our approach allows us to model the joint effect of polyploidy, normal DNA contamination and intra-tumour heterogeneity within a single unified Bayesian framework. We demonstrate the efficacy of our method on numerous datasets including laboratory generated mixtures of normal-cancer cell lines and real primary tumours. <i>Joint work with <a href="http://www.wehi.edu.au/faculty_members/dr_oliver_sieber">Oliver Sieber</a>.</i></p>   
+
+        <br>
+        
+        <p><b><a href="http://amstat.tandfonline.com/doi/abs/10.1198/jcgs.2010.10039#.UmjtZvmkrRY" target="_blank">On the Utility of Graphics Cards to Perform Massively Parallel Simulation of Advanced Monte Carlo Methods</a></b></p>
+        
+        <p><b>Summary</b> This paper presents a case study on the utility of graphics cards to perform massively parallel simulation of advanced Monte Carlo methods. Graphics cards, containing multiple Graphics Processing Units (GPUs), are self-contained parallel computational devices that can be housed in conventional desktop and laptop computers and can be thought of as prototypes of the next generation of many-core processors. <i>Joint work with <a href="http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/lee/">Anthony Lee</a>.</i></p>         
+
+        <br>
+          
+        <p><b><a href="http://projecteuclid.org/DPubS?service=UI&version=1.0&verb=Display&handle=euclid.aoas/1380804818" target="_blank">A decision-theoretic approach for segmental classification</a></b></p>
+        
+        <p><b>Summary</b> In this paper we proposed a decision theoretic approach for identifying optimal segmentations in Hidden Markov models under a novel class of Markov loss functions. The result is generic and applicable to any probabilistic model on a sequence, such as Hidden Markov models, change point or product partition models. <i>Joint work with <a href="http://www.stats.ox.ac.uk/~cholmes/">Chris Holmes</a>.</i></p>
+          
+        <br>  
+          
+        <p><b><a href="http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9868.2010.00756.x/abstract" target="_blank">Bayesian non-parametric hidden Markov models with applications in genomics</a></b></p> 
+          
+        <p><b>Summary</b> In this work, we proposed a flexible non-parametric specification of the emission distribution for a Hidden Markov model and introduced a novel methodology for carrying out the computations. Whereas current approaches use a finite mixture model, we argue in favour of an infinite mixture model given by a mixture of Dirichlet processes to provide increased robustness to noise distributions that are not adequately captured by standard parametric distributions. <i>Joint work with <a href="http://www.econ.upf.edu/~omiros/">Omiros Papaspiliopoulos</a>.</i></p>
+          
+    </div>
+
+
+    </div><!-- /.navbar-wrapper -->
+
+
+
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../assets/js/jquery.js"></script>
+    <script src="../assets/js/bootstrap-transition.js"></script>
+    <script src="../assets/js/bootstrap-alert.js"></script>
+    <script src="../assets/js/bootstrap-modal.js"></script>
+    <script src="../assets/js/bootstrap-dropdown.js"></script>
+    <script src="../assets/js/bootstrap-scrollspy.js"></script>
+    <script src="../assets/js/bootstrap-tab.js"></script>
+    <script src="../assets/js/bootstrap-tooltip.js"></script>
+    <script src="../assets/js/bootstrap-popover.js"></script>
+    <script src="../assets/js/bootstrap-button.js"></script>
+    <script src="../assets/js/bootstrap-collapse.js"></script>
+    <script src="../assets/js/bootstrap-carousel.js"></script>
+    <script src="../assets/js/bootstrap-typeahead.js"></script>
+
+  </body>
+    
+</body>
+</html>
+

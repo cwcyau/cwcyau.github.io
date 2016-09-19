@@ -1,0 +1,617 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Yau Group</title>
+	<link href="css/bootstrap.css" rel="stylesheet">
+	<link href="css/bootstrap-responsive.css" rel="stylesheet">
+	<style>
+
+    /* GLOBAL STYLES
+    -------------------------------------------------- */
+    /* Padding below the footer and lighter body text */
+
+    body {
+      padding-bottom: 40px;
+      color: #5a5a5a;
+    }
+
+
+
+    /* CUSTOMIZE THE NAVBAR
+    -------------------------------------------------- */
+
+    /* Special class on .container surrounding .navbar, used for positioning it into place. */
+    .navbar-wrapper {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 10;
+      margin-top: 20px;
+      margin-bottom: -90px; /* Negative margin to pull up carousel. 90px is roughly margins and height of navbar. */
+    }
+    .navbar-wrapper .navbar {
+
+    }
+
+    /* Remove border and change up box shadow for more contrast */
+    .navbar .navbar-inner {
+      border: 0;
+      -webkit-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+         -moz-box-shadow: 0 2px 10px rgba(0,0,0,.25);
+              box-shadow: 0 2px 10px rgba(0,0,0,.25);
+    }
+
+    /* Downsize the brand/project name a bit */
+    .navbar .brand {
+      padding: 14px 20px 16px; /* Increase vertical padding to match navbar links */
+      font-size: 16px;
+      font-weight: bold;
+      text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+    }
+
+    /* Navbar links: increase padding for taller navbar */
+    .navbar .nav > li > a {
+      padding: 15px 15px;
+    }
+
+    /* Offset the responsive button for proper vertical alignment */
+    .navbar .btn-navbar {
+      margin-top: 10px;
+    }
+
+
+
+    /* CUSTOMIZE THE NAVBAR
+    -------------------------------------------------- */
+
+    /* Carousel base class */
+    .carousel {
+      margin-bottom: 60px;
+    }
+
+    .carousel .container {
+      position: relative;
+      z-index: 9;
+    }
+
+    .carousel-control {
+      height: 80px;
+      margin-top: 0;
+      font-size: 120px;
+      text-shadow: 0 1px 1px rgba(0,0,0,.4);
+      background-color: transparent;
+      border: 0;
+    }
+
+    .carousel .item {
+      height: 500px;
+    }
+    .carousel img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-width: 100%;
+      height: 500px;
+    }
+
+    .carousel-caption {
+      background-color: rgb(0,0,0,0.3);
+      position: static;
+      max-width: 550px;
+      padding: 20 20px;
+      margin-top: 150px;
+    }
+    .carousel-caption h1,
+    .carousel-caption .lead {
+      margin: 0;
+      line-height: 1.25;
+      color: #fff;
+      text-shadow: 0 1px 1px rgba(0,0,0,.4);
+    }
+    .carousel-caption .btn {
+      margin-top: 10px;
+    }
+     /* RESPONSIVE CSS
+    -------------------------------------------------- */
+
+    @media (max-width: 979px) {
+
+      .container.navbar-wrapper {
+        margin-bottom: 0;
+        width: auto;
+      }
+      .navbar-inner {
+        border-radius: 0;
+        margin: -20px 0;
+      }
+
+      .carousel .item {
+        height: 500px;
+      }
+      .carousel img {
+        width: auto;
+        height: 500px;
+      }
+    }
+
+
+    @media (max-width: 767px) {
+
+      .navbar-inner {
+        margin: -20px;
+      }
+
+      .carousel {
+        margin-left: -20px;
+        margin-right: -20px;
+      }
+      .carousel .container {
+
+      }
+      .carousel .item {
+        height: 300px;
+      }
+      .carousel img {
+        height: 300px;
+      }
+      .carousel-caption {
+        width: 65%;
+        padding: 0 70px;
+        margin-top: 100px;
+      }
+      .carousel-caption h1 {
+        font-size: 30px;
+      }
+      .carousel-caption .lead,
+      .carousel-caption .btn {
+        font-size: 18px;
+      }
+    }
+    .footer {
+      margin-top: -50px;
+      position: relative;
+      height: 150px;
+      clear:both;
+      text-align: center;
+    } 
+    </style>
+</head>
+
+<body>
+	<div class="navbar-wrapper">
+      <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
+      <div class="container">
+
+        <div class="navbar navbar-inverse">
+          <div class="navbar-inner">
+            <a class="brand" href="index.html">Yau Group</a>
+              <ul class="nav">
+                <li><a href="about.html">About</a></li>
+                <li><a href="news.html">News</a></li>
+                <li><a href="people.html">People</a></li>
+                <li><a href="research.html">Research</a></li>
+                <li><a href="publications.html">Publications</a><li>
+                <li><a href="opportunities.html">Opportunities</a></li>
+                <li><a href="support.html">Support</a></li>
+                <li><a href="contact.html">Contact</a></li>
+              </ul>
+          </div><!-- /.navbar-inner -->
+        </div><!-- /.navbar -->
+
+      </div> <!-- /.container -->
+
+    <div class="container">
+
+      <!-- Main hero unit for a primary marketing message or call to action -->
+      <div class="hero-unit" style="padding-top:20px;padding-bottom:20px">
+        <h1>News</h1>
+        <br>
+          
+
+           <dl>
+              <dt>18 August 2016</dt>
+          <dd>
+Justina Zurauskiene and Kieran Campbell will be giving talks at the Young Statisticians Meeting in London.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>16 August 2016</dt>
+          <dd>
+Christopher Yau will be speaking at the NextGenBUG meeting in Glasgow.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>28 July 2016</dt>
+          <dd>
+Our Hamming Ball Sampler paper with Michalis Titsias has been accepted for publication in the Journal of the American Statistical Association. A preprint is available on arXiv.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>12 July 2016</dt>
+          <dd>
+Kaspar Martens, Leon Law, Yuhao Zheng, Xiwen Liu and Daniel Wells will be undertaking projects with the group this summer. Welcome all!</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>8 July 2016</dt>
+          <dd>
+Kieran Campbell will be speaking in the single cell analysis session at HitSeq16.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>5 July 2016</dt>
+          <dd>
+Our paper "Premalignant SOX2 overexpression in the fallopian tubes of ovarian cancer patients: Discovery and validation studies" with Professor Ahmed Ahmed's Ovarian Cancer Laboratory is published in EBioMedicine. Congratulations to Donatien Chedom-Fotso from the group for his hard work! </dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>19 June 2016</dt>
+          <dd>
+Christopher Yau is an invited speaker at the Wellcome Genome Campus Advanced Course: Functional Genomics and Systems Biology</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>13-17 June 2016</dt>
+          <dd>
+Christopher Yau is an invited speaker at the "Bayesian Methods in Bioinformatics" session at ISBA 2016. </dd>
+        </dl>
+
+           <dl>
+              <dt> 6 June 2016</dt>
+          <dd>
+Kieran Campbell will be talking about pseudotime at Quantitative Genomics 2016.</dd>
+        </dl> 
+ 
+
+           <dl>
+              <dt>5 April 2016</dt>
+          <dd>
+Christopher Yau will be speaking at the Crick Institute.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>22 March 2016</dt>
+          <dd>
+Christopher Yau will be speaking at the Deparment of Mathematics at Brunel University.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>14 March 2016</dt>
+          <dd>
+Christopher Yau will be speaking at the Mathematics in the Life Sciences seminar at the University of Manchester.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>9 March 2016</dt>
+          <dd>
+Congratulations to Justina Zurauskiene whose paper "pcaReduce: hierarchical clustering of single cell transcriptional profiles" has been accepted in BMC Bioinformatics.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>3 February 2016</dt>
+          <dd>
+Christopher Yau will be speaking at the Centre for Computational Biology at the University of Birmingham.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>12 December 2015</dt>
+          <dd>
+
+          Kieran Campbell will be giving an oral presentation of his work on pseudo-time inference at the NIPS 2015 Machine Learning in Computational Biology workshop.
+          
+Tammo Rukat will be presenting his work at the 5th NIPS Workshop on Machine Learning and Interpretation in Neuroimaging: Beyond the Scanner workshop.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>7 December 2015</dt>
+          <dd>
+Justina Zuraskiene will be presenting her work at the Women in Machine Learning workshop in Montreal, Canada which is part of the Annual Conference in Neural Information Processing Systems (NIPS 2015) workshop series.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>24 November 2015</dt>
+          <dd>
+PhD student Kieran Campbell will be talking about his work on applying Gaussian Process models for pseudo-time inference at the C1omics workshop in Manchester. A preprint is available on biorxiv.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>2 November 2015</dt>
+          <dd>
+Congratulations to Emma Pierson whose paper on zero-inflated dimensionality reduction for single cell gene expression analysis was published today in Genome Biology.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>1 October 2015</dt>
+          <dd>
+The group welcomes three new DPhil students this academic year:
+          
+Kieran Campbell who joins in his second year and is co-supervised by Dr Caleb Webber. Kieran works on single cell genomics.
+          
+Tammo Rukat, a second year student from the SABS DTC, who will work on statistical machine learning methods for the remaining three years of his research programme.
+          
+Zhiyuan Hu, who joins as a first year NDM student, and will work with Professor Ahmed Ahmed on ovarian cancer genomics.
+          
+In addition, Alejandra Avalos-Pacheco, an OxWASP CDT student, will continue her PhD studies at her host institution (University of Warwick) supervised by Richard Savage and David Rossell but will retain affiliation with the group.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>8 September 2015</dt>
+          <dd>
+Postdoc Justina Zuraskiene will be giving a talk on her work on "pcaReduce: combining k-means clustering and principal components analysis for hierarchical clustering of single cell transcriptional profiles" at Genome Science 2015.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>11 July 2015</dt>
+          <dd>
+Christopher Yau will be speaking about translational clinical genomics at the ISMB/ECCB 2015 AKES Workshop on "Bioinformatics software testing and quality assurance".
+Congratulations to Emma Pierson who has been allocated a oral presentation and travel award to attend HitSeq2015.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>10 June 2015</dt>
+          <dd>
+Sohrab Shah will be giving the Cancer Bioinformatics Seminar. More details.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>5 June 2015</dt>
+          <dd>
+Christopher Yau will be speaking at the CRUK Oxford Annual Symposium with Prof Ahmed Ahmed: http://www.cancercentre.ox.ac.uk/events/symposium/</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>29 May 2015</dt>
+          <dd>
+Our research student Emma Pierson will be speaking about our work on novel statistical methods for single-cell expression analysis at Quantitative Genomics 2015. Click here for further details.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>14 May 2015</dt>
+          <dd>
+Dr Chris Greenman (UEA/TCGA) will be speaking at the Cancer Bioinformatics Seminar Series. Click here for further details.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>5 May 2015 </dt>
+          <dd>
+Christopher Yau will be speaking about the "Hamming Ball Sampler" at the ICMS "Solving big data challenges from modern science through statistical modelling" workshop in Edinburgh.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>16 April 2015</dt>
+          <dd>
+Dr Mattias Rantalainen (Karolinska Institutet) will be speaking about "Translating sequencing-based tumour profiling and prediction models to the clinic" at the Cancer Bioinformatics Seminar Series. Click here for further details.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>19 March 2015</dt>
+          <dd>
+Peter Van Loo (LRI/Crick) will be giving a talk on "Molecular Archaeology of Cancer" as part of the Oxford Cancer Bioinformatics Seminar Series. For more details: http://talks.ox.ac.uk/talk/index/20118</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>13 March 2015</dt>
+          <dd>
+Best wishes to senior postdoc Paul Kirk who leaves the group for MRC Biostatistics Unit in Cambridge.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>13 February 2015</dt>
+          <dd>
+Special Cancer Bioinformatics Seminar with Chris Sander (MSKCC) at WTCHG at 1030. Sign up using this registration form.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>10 December 2014</dt>
+          <dd>
+Our paper "Statistical Inference for Hidden Markov Models with k-segment constraints" with Michalis Titsias and Chris Holmes has been accepted for publication in the Journal of the American Statistical Association as a Theory and Methods paper.
+Christopher Yau and Michalis Titsias (AUEB) will be presenting their Spotlight Paper this evening on "Hamming Ball Auxiliary Sampling for Factorial Hidden Markov Models" at NIPS 2014.</dd>
+        </dl> 
+ 
+
+           <dl>
+              <dt>3 November 2014</dt>
+          <dd>
+Donatien Chedom joins us as a joint postdoctoral with Professor Ahmed's Ovarian Cancer Laboratory. He will work on statistical problems in cancer genomics.</dd>
+        </dl>
+ 
+
+           <dl>
+              <dt>19 October 2014</dt>
+          <dd>
+Paul Kirk will present our work on deconvolving tumour heterogeneity at ASHG 2014. Our poster (1425S) will be presented in the "Bioinformatics and Genomic Technology" on Sunday, Oct. 19 in the 
+Convention Center, Exhibit Hall, Ground Level at 16:00-17:00.</dd>
+        </dl>
+
+           <dl>
+              <dt>6 October 2014</dt>
+          <dd>
+Welcome to Emma Pierson who joins the group as an MSc by Research from the Department of Statistics. She will work with the Stem Cell Biology Group led by Adam Mead on CML Single Cell Genomics. </dd>
+        </dl>
+ 
+           <dl>
+              <dt>25 September 2014</dt>
+          <dd>
+We have been awarded an Oxford Cancer Research Centre Development Fund award for single cell sequencing and imaging analysis with Adam Mead and Quin Wills.</dd>
+        </dl>
+
+          <dl>
+              <dt>8 September 2014</dt>
+          <dd>
+Our work with Michalis Titsias (AUEB) on "Hamming Ball Auxiliary Sampling for Factorial Hidden Markov Models" has been selected for a spotlight presentation at NIPS 2014. </dd>
+        </dl>
+
+           <dl>
+              <dt>1-3 September 2014</dt>
+          <dd>
+Christopher Yau will be chairing the Big Data session at UK Genome Science. Looking forward to talks by Oliver Stegle, Jean-Phillipe Vert, Magnus Rattray, Caleb Webber and Julian Knight.</dd>
+        </dl>
+ 
+          <dl>
+              <dt>1 August 2014</dt>
+          <dd>Justina Zurauskiene joins the group from Michael Stumpf's group at Imperial College London as a Postdoctoral Research Scientist. She will be working with Quin Wills (WTCHG/WIMM) and Michael Osborne (Engineering) on Single Cell Genome Informatics. </dd>
+        </dl>
+ 
+          <dl>
+                <dt>18 July 2014</dt>
+                    <dd>A new postdoctoral position in Cancer Genome Informatics is available in my group joint with the Ahmed group.</dd>
+          </dl>
+ 
+          <dl>
+              <dt>7 July 2014</dt>
+              <dd>
+Zhiyuan Hu from Peking University joins the group as an NDM Summer Intern. She will work with Dr Quin Wills and Dr Daniel Ebner on the effects of metformin in cancer cells at the Target Discovery Institute during her 8-week placement.
+              </dd>
+          </dl>
+          
+            <dl>
+                <dt>2 June 2014</dt>
+                    <dd>Paul Kirk joins the group today from Michael Stumpf's group at Imperial College London as a Senior Postdoctoral Researcher.</dd>
+            </dl>
+
+        	<dl>
+			<dt>7 April 2014</dt>
+			<dd>New postdoctoral position open in my group in Big Data for Single Cell Genomics. The position would suit someone who has an interest in applying state of the art machine learning techniques to single cell biology. The post holder will be working with the Yau Group and Dr Michael Osborne from the Department of Engineering.
+<a href="https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=112695">See here for details</a></dd>
+			</dl>  
+			
+        	<dl>
+			<dt>28 March 2014</dt>
+			<dd>We have been officially awarded an <a href="http://scopeblog.stanford.edu/2014/03/24/euan-ashley-discusses-harnessing-big-data-to-drive-innovation-for-a-healthier-world/" target="_blank">Oxford-Stanford Big Data in Human Health Seed Grant</a>. Our project will examine novel statistical modelling approaches for tackling single cell genomics data. We will be looking forward to working with Dr Michael Osborne, Quin Wills, Anna Gloyn, Prof Mark McCarthy and Prof Stephen Quake on this project.
+</dd>
+			</dl> 
+
+        	<dl>
+			<dt>24 March 2014</dt>
+			<dd>A new postdoctoral position is available in my group. Applications should be made via the University of Oxford Recruitment website. <a href="https://www.recruit.ox.ac.uk/pls/hrisliverecruit/erq_jobspec_version_4.jobspec?p_id=112593" target="_blank">See here for details</a>.      
+
+</dd>
+			</dl> 
+			
+        	<dl>
+			<dt>20 February 2014</dt>
+			<dd>Sign up for an afternoon of talks on the 20th February 2014 given by UK-based Early Research Career Group Leaders in Cancer Bioinformatics. <a href="http://talks.ox.ac.uk/show/index/13119">See here for details</a></dd>
+			</dl>
+        
+         <dl>
+			<dt>29 January 2014</dt>
+			<dd>Congratulations to Prof Ahmed Ahmed on an Ovarian Cancer Action Award! The Yau Group will be working with the <a href="http://www.imm.ox.ac.uk/wimm-pi-list/researcher/ahmed-ahmed">Ahmed Group</a> over the next three years to develop innovative statistical methods for ovarian cancer genomics. <a href="http://ovarian.org.uk/news-and-campaigning/article/oxford-professor-wins-ovarian-cancer-action-research-grant"/>See Ovarian Cancer Action for details.</a></dd>
+			</dl>    
+ 
+        	<dl>
+			<dt>14 January 2014</dt>
+			<dd>Vacancy for a Postdoctoral Research Scientist in Statistical Cancer Genomics. <a href="opportunities.html">See Opportunities.</a></dd>
+			</dl>
+
+        	<dl>
+			<dt>6 December 2013</dt>
+			<dd>Congratulations to Xiaole Zhang who passed his viva today.</dd>
+			</dl>
+
+        	<dl>
+			<dt>26 November 2013</dt>
+			<dd>Our paper <a href="http://arxiv.org/pdf/1301.2897" target="_blank">``A sequential algorithm for fast fitting of Dirichlet process mixture models"</a> has been accepted for publication in the Journal of Computational and Graphical Statistics. Congratulations to my student Xiaole Zhang on his first research paper.</dd>
+			</dl>
+
+        	<dl>
+			<dt>5 November 2013</dt>
+			<dd>Our paper <a href="http://arxiv.org/pdf/1311.1189" target="_blank">``Statistical Inference in Hidden Markov Models using k-segment constraints''</a> is now available on arXiv.</dd>
+			</dl>
+
+        	<dl>
+			<dt>10 October 2013</dt>
+			<dd>Vacancy for a Postdoctoral Research Scientist in Statistical Cancer Genomics. <a href="opportunities.html">See Opportunities.</a></dd>
+			</dl>
+
+        	<dl>
+			<dt>4 October 2013</dt>
+			<dd>Christopher Yau receives the 2010 <a href="http://www.stats.ox.ac.uk/Events/corcoran_memorial_lectures" target="_blank">Corcoran Memorial Prize</a> from the Department of Statistics.</dd>
+			</dl>
+        
+        	<dl>
+			<dt>1 October 2013</dt>
+			<dd>Christopher Yau starts his post at Oxford.</dd>
+			</dl>
+        
+        	<dl>
+			<dt>15 July 2013</dt>
+			<dd>Our paper <i>OncoSNP-SEQ: a statistical approach for identification of somatic copy number alterations from next generation sequencing of cancer genomes</i> has been accepted for publication in <a href="http://bioinformatics.oxfordjournals.org/">Bioinformatics</a>.</dd>
+			</dl>
+
+			<dl>
+			<dt>1 July 2013</dt>
+			<dd>Christopher Yau accepts a Group Leader position at the Wellcome Trust Centre for Human Genetics at the University of Oxford.</dd>
+			</dl>
+
+			<dl>
+			<dt>13 June 2013</dt>
+			<dd>Christopher Yau is awarded a three year <a href="http://www.mrc.ac.uk/Fundingopportunities/Grants/NIRG/index.htm">UK Medical Research Council New Investigator Research Grant</a> for research in Cancer Sequencing Data Analysis.</dd>
+			</dl>
+
+
+        	<dl>
+			<dt>19 May 2013</dt>
+			<dd>Our paper <i>A decision theoretic approach for segmental classification using Hidden Markov models</i> has been accepted for publication in <a href="http://imstat.org/aoas/">Annals of Applied Statistics</a>.</dd>
+			</dl>
+
+
+        </div>
+    </div>
+
+    </div><!-- /.navbar-wrapper -->
+
+
+
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="../assets/js/jquery.js"></script>
+    <script src="../assets/js/bootstrap-transition.js"></script>
+    <script src="../assets/js/bootstrap-alert.js"></script>
+    <script src="../assets/js/bootstrap-modal.js"></script>
+    <script src="../assets/js/bootstrap-dropdown.js"></script>
+    <script src="../assets/js/bootstrap-scrollspy.js"></script>
+    <script src="../assets/js/bootstrap-tab.js"></script>
+    <script src="../assets/js/bootstrap-tooltip.js"></script>
+    <script src="../assets/js/bootstrap-popover.js"></script>
+    <script src="../assets/js/bootstrap-button.js"></script>
+    <script src="../assets/js/bootstrap-collapse.js"></script>
+    <script src="../assets/js/bootstrap-carousel.js"></script>
+    <script src="../assets/js/bootstrap-typeahead.js"></script>
+
+  </body>
+    
+</body>
+</html>
+
