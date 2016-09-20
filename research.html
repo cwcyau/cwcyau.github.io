@@ -92,8 +92,7 @@
       position: absolute;
       top: 0;
       left: 0;
-      min-width: 100%;
-      height: 500px;
+        width: 30%;
     }
 
     .carousel-caption {
@@ -218,14 +217,14 @@
 
     <div class="container">
         
-        <h2>Areas of work</h2>
-        
-        <table align="center">
+        <table align="center" cellpadding="0">
         <tr>
             
             <td width="50%" valign="top">
                 
-                <p><b>Tumour heterogeneity</b></p>
+                <div class="hero-unit" style="padding-top:20px;padding-bottom:20px">
+                
+                <p><h3>Cancer</h3></p>
             
                 <p>Tumour heterogeneity describes the genetic diversity both within (intra-tumour heterogeniety) and between tumours (inter-tumour heterogeneity). Genetic differences within and between tumours give rise to different disease outcomes and patient responses to therapies. Understanding and characterising tumour heterogeneity is therefore important in developing clinical approaches that are tailored to a patient (individualised medicine).</p>
                 
@@ -233,24 +232,50 @@
                 
                 <p>In particular, we have been working extensively with the Ovarian Cancer Laboratory at the University of Oxford, headed by Professor Ahmed Ahmed.</p>
                 
-                <p>Read more about our work in the following:</p>
+                <p>Read our research paper and media coverage of our work:</p>
                 
+                <ul>
+                    
+                    <li>
+                        <p><a href="http://www.ebiomedicine.com/article/S2352-3964(16)30305-X/abstract">Premalignant SOX2 overexpression in the fallopian tubes of ovarian cancer patients: Discovery and validation studies</a> - EBioMedicine</p>
+                    </li>                        
                 
-                <p><a href="http://www.ebiomedicine.com/article/S2352-3964(16)30305-X/abstract">Premalignant SOX2 overexpression in the fallopian tubes of ovarian cancer patients: Discovery and validation studies - EBioMedicine</a></p>
+                    <li>
+                        <p><a href="http://www.ox.ac.uk/news/2016-07-29-two-research-discoveries-offer-hope-managing-ovarian-cancer">Two research discoveries offer hope for managing ovarian cancer</a> - University of Oxford</p>
+                    </li>   
+                    
+                    <li>
+                        <p><a href="http://www.telegraph.co.uk/science/2016/07/28/ovarian-cancer-test-on-horizon-as-scientists-find-earliest-signs/">Ovarian cancer test on horizon as scientists find earliest signs of disease</a> - The Telegraph</p>
+                    </li>   
+                    
+                    <li>  
+                        <p><a href="http://www.dailymail.co.uk/health/article-3712949/Ovarian-cancer-detected-deadly-Scientists-identify-key-enzyme-makes-disease-spread.html">Ovarian cancer can be detected BEFORE it becomes deadly: Scientists identify key enzyme which makes the disease spread</a> - The Daily Mail</p>     
+                    </li>                   
+                </ul>
                 
-                <p><a href="http://www.ox.ac.uk/news/2016-07-29-two-research-discoveries-offer-hope-managing-ovarian-cancer">Two research discoveries offer hope for managing ovarian cancer - University of Oxford</a></p>
-
-                <p><a href="http://www.telegraph.co.uk/science/2016/07/28/ovarian-cancer-test-on-horizon-as-scientists-find-earliest-signs/">Ovarian cancer test on horizon as scientists find earliest signs of disease - The Telegraph</a></p>
-                
-                <p><a href="http://www.dailymail.co.uk/health/article-3712949/Ovarian-cancer-detected-deadly-Scientists-identify-key-enzyme-makes-disease-spread.html">Ovarian cancer can be detected BEFORE it becomes deadly: Scientists identify key enzyme which makes the disease spread - The Daily Mail</a></p>        
+                </div>
                 
             </td>
             <td width="50%" valign="top">
                 
                 <figure align="center">
-                    <img src="img/research/ebiomed.jpg">
+                    <img width="90%" src="img/research/ebiomed.png">
                     <figcaption>
-                        <b>Figure 1. Within-patient tumour heterogeneity.</b>
+                        <b>Multiple tumour sampling to assess within-patient tumour heterogeneity.</b>
+                    </figcaption>
+                </figure>	
+            
+                <figure align="center">
+                    <img width="90%" src="img/research/resistance.jpg">
+                    <figcaption>
+                        <b>Determining the mechanisms of therapeutic resistance.</b>
+                    </figcaption>
+                </figure>                
+                
+                <figure align="center">
+                    <img width="90%" src="img/research/monitoring.png">
+                    <figcaption>
+                        <b>Machine learning for continuous patient monitoring in a genomics-enabled clinic.</b>
                     </figcaption>
                 </figure>	
             
@@ -262,19 +287,36 @@
             
             <td width="640" valign="top">
                 
-                <b><p>Integrative Genomics</b></p>
+                <div class="hero-unit" style="padding-top:20px;padding-bottom:20px">
+                
+                
+                <b><p>Single Cell Genomics</b></p>
 
-                <p>Modern sequencing technologies allow us to characterise genetic modifications at multiple levels (DNA, RNA, ChIP, DNA methylation, etc) in cancer. Improvements in technology are also enabling more complex experimental designs involving FFPE tumour samples, single cells, circulating tumour cells (CTCs) and free circulating DNA with multiple measurements acquired over time or from different biopsies of the same tumour.</p>
+                <p>Advances in single cell technology now allow large-scale experimentation on single cells in a high-throughput fashion providing new insight into cellular function.</p>
             
-                <p>Our group is working on approaches using Bayesian hierarchical modelling to integrate information from multiple sources across different spatiotemporal scales in order to better understand tumour evolution and heterogeneity.</p>
+                <p>Heterogeneity, both biological and technical, confound the simple interpretation of single cell data and sophisticated statistical methods are required to handle different sources of noise and signal.</p>
+            
+                <p>Our group is working on approaches using Bayesian hierarchical modelling to integrate information from multiple sources across different spatiotemporal scales in order to better understand cellular function and dynamics.</p>
+            
+                <ul>
+            
+                    <li>
+                    
+                        <p><a href="http://www.ncbi.nlm.nih.gov/pubmed/26527291">ZIFA: Dimensionality reduction for zero-inflated single-cell gene expression analysis</a> - Genome Biology</p>
+                        
+                    </li>
+                    
+                </ul>
+                
+                </div>
             
             </td>
             <td width="400" valign="top">
                 
                 <figure align="center">
-                    <img src="img/research/genomics.png">
+                    <img src="img/research/ouija.png">
                     <figcaption>
-                        <b>Figure 2. Vertical and horizontal genomic data integration.</b>
+                        <b>Integrating single cell imaging and expression analysis.</b>
                     </figcaption>
                 </figure>
             
@@ -286,14 +328,50 @@
             
             <td width="640" valign="top">
                 
+                <div class="hero-unit" style="padding-top:20px;padding-bottom:20px">
+                
                 <b><p>Statistical methodology for Big Data</b></p>
 
                 <p>Bayesian methods are now ubiquitous in statistical modeling applications across a wide range of disciplines. A major challenge for Bayesian approaches is the significant computation required for exact inference in large models applied to big datasets (terabyte or more scale). For this type of data, Markov Chain Monte Carlo (MCMC) simulation approaches are not feasible despite recent advances in massively parallel computational hardware (e.g. graphics programming units or GPUs). Instead, it is necessary to develop approximate methods that are able to give <i>"good"</i> answers that, whilst not guaranteed to be exact or optimal, are sufficient for downstream decision processes and further scientific inquiry.</p>
 		
-		      <p>Our group is developing approximate inference methods to fit complex statistical models to large datasets that respect the practical computational and time limitations that govern real-life scientific studies. We are also interested in using decision-theoretic ideas to produce meaningful results for scientists via loss functions that are tailored to the task at hand.</p>
+		          <p>Our group is developing approximate inference methods to fit complex statistical models to large datasets that respect the practical computational and time limitations that govern real-life scientific studies. We are also interested in using decision-theoretic ideas to produce meaningful results for scientists via loss functions that are tailored to the task at hand.</p>
+        
+                <p>Our recent work in this area has featured in the leading statistical and machine learning journals and conferences:</p>
+        
+                <ul>
+        
+                    <li>   
+                        <p><a href="http://amstat.tandfonline.com/doi/abs/10.1080/01621459.2016.1222288">The Hamming Ball Sampler</a> - The Journal of the American Statistical Association</p>
+                    </li>
+                    
+                    <li>
+                        <p><a href="https://papers.nips.cc/paper/5456-hamming-ball-auxiliary-sampling-for-factorial-hidden-markov-models.pdf">Hamming Ball Auxiliary Sampling for Factorial Hidden Markov Models</a> - Advances in Neural Information Processing Systems (NIPS)</p>
+                    </li>
+                    
+                    <li>
+                        <p><a href="http://www.tandfonline.com/doi/abs/10.1080/01621459.2014.998762">Statistical Inference in Hidden Markov Models Using k-Segment Constraints</a> - The Journal of the American Statistical Association </p>
+                    </li>
+                    
+                </ul>
+        
+                </div>
             
             </td>
             <td width="400" valign="top">
+                
+                <figure align="center">
+                    <img src="img/research/hammingball.png">
+                    <figcaption>
+                        <b>The Hamming Ball Sampler</b>
+                    </figcaption>
+                </figure>
+                
+                <figure align="center">
+                    <img src="img/research/hm.png">
+                    <figcaption>
+                        <b>Hamming Machine reconstruction of MNIST images</b>
+                    </figcaption>
+                </figure>
                 
             </td>
             
@@ -313,7 +391,7 @@
 
     <div class="container">          
           
-        <h2>Highlights</h2>
+        <h2>Selected Highlights from the Past</h2>
 
         <p><b><a href="http://genomebiology.com/content/11/9/R92" target="_blank">A statistical approach for detecting genomic aberrations in heterogeneous tumor samples from single nucleotide polymorphism genotyping data</a></b></p>
         
@@ -341,7 +419,6 @@
 
 
     </div><!-- /.navbar-wrapper -->
-
 
 
 
