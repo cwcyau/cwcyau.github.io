@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Yau Group</title>
+    <link>https://cwcyau.github.io/blogs/</link>
+    <description>Recent content in About on Yau Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://cwcyau.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://cwcyau.github.io/blogs/about/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>https://cwcyau.github.io/blogs/about/</guid>
+      <description>Group Leader: Christopher Yau</description>
+    </item>
+    
+    <item>
+      <title>Research</title>
+      <link>https://cwcyau.github.io/blogs/research/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>https://cwcyau.github.io/blogs/research/</guid>
+      <description>Overview Our research is primarily concerned with the development of statistical and machine learning methodologies with a particular focus on applications in the biomedical sciences.
+A complete list of publications can be found on Google Scholar and our research software is available on Github
+Cancer Tumour heterogeneity describes the genetic diversity both within (intra-tumour heterogeniety) and between tumours (inter-tumour heterogeneity). Genetic differences within and between tumours give rise to different disease outcomes and patient responses to therapies.</description>
+    </item>
+    
+    <item>
+      <title>Join Us</title>
+      <link>https://cwcyau.github.io/blogs/join/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>https://cwcyau.github.io/blogs/join/</guid>
+      <description>Postdoctoral Research Fellows [10 November 2018] Three postdoctoral positions will soon be available for researchers interested in statistical machine learning based in Birmingham and at the Alan Turing Institute. Contact the Group Leader for details.
+PhD Admissions are currently being taken through the following study programmes, please see the websites for more details:
+ MRC IMPACT Doctoral Training Programme Alan Turing Institute  Potential applicants are encouraged to speak to the Group Leader before making applications.</description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://cwcyau.github.io/blogs/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://cwcyau.github.io/blogs/news/</guid>
+      <description>Quantitative Systems Biology 2018 - 9 November 2018 Christopher Yau gave an invited talk at the QSBW 2018 workshop organised by Kings College London students.
+Conference paper presentation - 2 October 2018 Former ERASMUS student Constantin Alhmann-Eltze presented his paper MixDir: Scalable Bayesian Clustering for High-Dimensional Categorical Data. Software available here.
+Poster Prize - 1 October 2018 Kaspar Martens won a best PhD student poster prize at the GSK Quantitative Science Annual Conference 2018!</description>
+    </item>
+    
+  </channel>
+</rss>
