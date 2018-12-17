@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Yau Group</title>
+    <title>Yau Group</title>
     <link>https://cwcyau.github.io/categories/</link>
-    <description>Recent content in Categories on Yau Group</description>
+    <description>Recent content on Yau Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
@@ -12,25 +12,21 @@
     
     
     <item>
-      <title></title>
-      <link>https://cwcyau.github.io/categories/</link>
+      <title>About</title>
+      <link>https://cwcyau.github.io/blogs/about/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://cwcyau.github.io/categories/</guid>
-      <description></description>
+      <guid>https://cwcyau.github.io/blogs/about/</guid>
+      <description>Group Leader: Christopher Yau</description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>https://cwcyau.github.io/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>About</title>
+      <link>https://cwcyau.github.io/blogs/about/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://cwcyau.github.io/categories/r/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>n>
+      <guid>https://cwcyau.github.io/blogs/about/</guid>
+      <description>Group Leader: Christopher Yau</description>
     </item>
     
     <item>
@@ -83,9 +79,9 @@ PhD Admissions are currently being taken through the following study programmes,
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cwcyau.github.io/blogs/news/</guid>
-      <description>Quantitative Systems Biology 2018 - 9 November 2018 Christopher Yau gave an invited talk at the QSBW 2018 workshop organised by Kings College London students.
-Conference paper presentation - 2 October 2018 Former ERASMUS student Constantin Alhmann-Eltze presented his paper MixDir: Scalable Bayesian Clustering for High-Dimensional Categorical Data. Software available here.
-Poster Prize - 1 October 2018 Kaspar Martens won a best PhD student poster prize at the GSK Quantitative Science Annual Conference 2018!</description>
+      <description>PhD Studentships - 17 December 2018 PhD studentships with the Alan Turing Institute and the MRC IMPACT programme are available for the academic year 2019. For more information see the University of Birmingham ATI Studentship and MRC IMPACT.
+Quantitative Systems Biology 2018 - 9 November 2018 Christopher Yau gave an invited talk at the QSBW 2018 workshop organised by Kings College London students.
+Conference paper presentation - 2 October 2018 Former ERASMUS student Constantin Alhmann-Eltze presented his paper MixDir: Scalable Bayesian Clustering for High-Dimensional Categorical Data.</description>
     </item>
     
     <item>
@@ -94,9 +90,9 @@ Poster Prize - 1 October 2018 Kaspar Martens won a best PhD student poster prize
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://cwcyau.github.io/blogs/news/</guid>
-      <description>Quantitative Systems Biology 2018 - 9 November 2018 Christopher Yau gave an invited talk at the QSBW 2018 workshop organised by Kings College London students.
-Conference paper presentation - 2 October 2018 Former ERASMUS student Constantin Alhmann-Eltze presented his paper MixDir: Scalable Bayesian Clustering for High-Dimensional Categorical Data. Software available here.
-Poster Prize - 1 October 2018 Kaspar Martens won a best PhD student poster prize at the GSK Quantitative Science Annual Conference 2018!</description>
+      <description>PhD Studentships - 17 December 2018 PhD studentships with the Alan Turing Institute and the MRC IMPACT programme are available for the academic year 2019. For more information see the University of Birmingham ATI Studentship and MRC IMPACT.
+Quantitative Systems Biology 2018 - 9 November 2018 Christopher Yau gave an invited talk at the QSBW 2018 workshop organised by Kings College London students.
+Conference paper presentation - 2 October 2018 Former ERASMUS student Constantin Alhmann-Eltze presented his paper MixDir: Scalable Bayesian Clustering for High-Dimensional Categorical Data.</description>
     </item>
     
   </channel>
