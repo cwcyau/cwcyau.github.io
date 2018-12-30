@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Yau Group</title>
+    <title>Yau Group</title>
     <link>https://cwcyau.github.io/categories/</link>
-    <description>Recent content in Categories on Yau Group</description>
+    <description>Recent content on Yau Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
@@ -12,25 +12,21 @@
     
     
     <item>
-      <title></title>
-      <link>https://cwcyau.github.io/categories/</link>
+      <title>About</title>
+      <link>https://cwcyau.github.io/blogs/about/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://cwcyau.github.io/categories/</guid>
-      <description></description>
+      <guid>https://cwcyau.github.io/blogs/about/</guid>
+      <description>Group Leader: Christopher Yau</description>
     </item>
     
     <item>
-      <title>R</title>
-      <link>https://cwcyau.github.io/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>About</title>
+      <link>https://cwcyau.github.io/blogs/about/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://cwcyau.github.io/categories/r/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
-</rss>n>
+      <guid>https://cwcyau.github.io/blogs/about/</guid>
+      <description>Group Leader: Christopher Yau</description>
     </item>
     
     <item>
@@ -61,9 +57,9 @@ Cancer Tumour heterogeneity describes the genetic diversity both within (intra-t
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
       <guid>https://cwcyau.github.io/blogs/join/</guid>
-      <description>Postdoctoral Research Fellows [10 November 2018] Three postdoctoral positions will soon be available for researchers interested in statistical machine learning based in Birmingham and at the Alan Turing Institute. Contact the Group Leader for details.
-PhD Admissions are currently being taken through the following study programmes, please see the websites for more details:
- MRC IMPACT Doctoral Training Programme Alan Turing Institute  Potential applicants are encouraged to speak to the Group Leader before making applications.</description>
+      <description>Philosophy My mission is to provide an environment for those who want to become strong and independent life-long learners.
+I am interested in hearing about great ideas and providing the environment and support in which you can pursue them. This maybe during your time working within my group but it could also mean preparing you for life once you leave.
+I want to empower you to pursue ambitious research by identifying subject matters that stimulate you and providing the tools to critically evaluate and self-direct your own work.</description>
     </item>
     
     <item>
@@ -72,9 +68,9 @@ PhD Admissions are currently being taken through the following study programmes,
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
       <guid>https://cwcyau.github.io/blogs/join/</guid>
-      <description>Postdoctoral Research Fellows [10 November 2018] Three postdoctoral positions will soon be available for researchers interested in statistical machine learning based in Birmingham and at the Alan Turing Institute. Contact the Group Leader for details.
-PhD Admissions are currently being taken through the following study programmes, please see the websites for more details:
- MRC IMPACT Doctoral Training Programme Alan Turing Institute  Potential applicants are encouraged to speak to the Group Leader before making applications.</description>
+      <description>Philosophy My mission is to provide an environment for those who want to become strong and independent life-long learners.
+I am interested in hearing about great ideas and providing the environment and support in which you can pursue them. This maybe during your time working within my group but it could also mean preparing you for life once you leave.
+I want to empower you to pursue ambitious research by identifying subject matters that stimulate you and providing the tools to critically evaluate and self-direct your own work.</description>
     </item>
     
     <item>
