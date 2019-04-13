@@ -38,7 +38,8 @@ Cancer Tumour heterogeneity describes the genetic diversity both within (intra-t
       
       <guid>/blogs/join/</guid>
       <description>Postdoctoral Research Fellows [13 April 2019] A postdoctoral research fellow in statistical machine learning for cancer is available. To apply click here.
-PhD Admissions are currently being taken through the following study programmes, please see the websites for more details:
+PhD An open PhD Studentship is available to examine multimorbidity from electronic health records. To apply click here
+Admissions are currently being taken through the following study programmes, please see the websites for more details:
  MRC IMPACT Doctoral Training Programme Alan Turing Institute  Potential applicants are encouraged to speak to the Group Leader before making applications.</description>
     </item>
     
@@ -59,9 +60,8 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/blogs/news/</guid>
-      <description>MASAMB 2019 - 25 April 2019 Anas Rana will a talk at the MASAMB 2019  workshop organised by EBI Cambridge.
-AISTATS 2019 - 16 April 2019 Kaspar Marten will talk at AISTATS 2019 about his paper Augmented Ensemble MCMC sampling in Factorial Hidden Markov Models.
-Quantitative Systems Biology 2018 - 9 November 2018 Christopher Yau gave an invited talk at the QSBW 2018 workshop organised by Kings College London students.</description>
+      <description>DS-ADVANCES 2019 - 20 May 2019 Kaspar Marten will talk at DS ADVANCES 2019 about his work &amp;ldquo;Decomposing feature-level variation with Covariate Gaussian Process Latent Variable Models&amp;rdquo;
+MASAMB 2019 - 25 April 2019 Anas Rana will give a talk at the MASAMB 2019  workshop organised by EMLB-EBI and CCBI on his work &amp;ldquo;A Bayesian nonparametric integration approach for functional regulatory network inference in haematopoietic development from multi-omics data&amp;rdquo;.</description>
     </item>
     
   </channel>
