@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yau Group</title>
-    <link>https://stoic-engelbart-c89943.netlify.com/</link>
+    <link>/</link>
     <description>Recent content on Yau Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
     
-	<atom:link href="https://stoic-engelbart-c89943.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://stoic-engelbart-c89943.netlify.com/blogs/about/</link>
+      <link>/blogs/about/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>https://stoic-engelbart-c89943.netlify.com/blogs/about/</guid>
+      <guid>/blogs/about/</guid>
       <description>Group Leader: Christopher Yau</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>https://stoic-engelbart-c89943.netlify.com/blogs/research/</link>
+      <link>/blogs/research/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
-      <guid>https://stoic-engelbart-c89943.netlify.com/blogs/research/</guid>
+      <guid>/blogs/research/</guid>
       <description>Overview Our research is primarily concerned with the development of statistical and machine learning methodologies with a particular focus on applications in the biomedical sciences.
 A complete list of publications can be found on Google Scholar and our research software is available on Github
 Cancer Tumour heterogeneity describes the genetic diversity both within (intra-tumour heterogeniety) and between tumours (inter-tumour heterogeneity). Genetic differences within and between tumours give rise to different disease outcomes and patient responses to therapies.</description>
@@ -33,10 +33,10 @@ Cancer Tumour heterogeneity describes the genetic diversity both within (intra-t
     
     <item>
       <title>Join Us</title>
-      <link>https://stoic-engelbart-c89943.netlify.com/blogs/join/</link>
+      <link>/blogs/join/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
       
-      <guid>https://stoic-engelbart-c89943.netlify.com/blogs/join/</guid>
+      <guid>/blogs/join/</guid>
       <description>Postdoctoral Research Fellows [13 April 2019] A postdoctoral research fellow in statistical machine learning for cancer is available. To apply click here.
 PhD An open PhD Studentship is available to examine multimorbidity from electronic health records. To apply click here
 Admissions are currently being taken through the following study programmes, please see the websites for more details:
@@ -45,10 +45,10 @@ Admissions are currently being taken through the following study programmes, ple
     
     <item>
       <title>Hello R Markdown</title>
-      <link>https://stoic-engelbart-c89943.netlify.com/post/2015-07-23-r-rmarkdown/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://stoic-engelbart-c89943.netlify.com/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
@@ -56,10 +56,10 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
     
     <item>
       <title>News</title>
-      <link>https://stoic-engelbart-c89943.netlify.com/blogs/news/</link>
+      <link>/blogs/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://stoic-engelbart-c89943.netlify.com/blogs/news/</guid>
+      <guid>/blogs/news/</guid>
       <description>ICML 2019 SUCCESS! A paper by Kaspar Martens and group alumni Kieran Campbell Covariate GPLVM has been accepted for presentation at the International Conference on Machine Learning.
 DS-ADVANCES 2019 - 20 May 2019 Kaspar Marten will talk at DS ADVANCES 2019 about his work &amp;ldquo;Decomposing feature-level variation with Covariate Gaussian Process Latent Variable Models&amp;rdquo;
 MASAMB 2019 - 25 April 2019 Anas Rana will give a talk at the MASAMB 2019  workshop organised by EMLB-EBI and CCBI on his work &amp;ldquo;A Bayesian nonparametric integration approach for functional regulatory network inference in haematopoietic development from multi-omics data&amp;rdquo;.</description>
