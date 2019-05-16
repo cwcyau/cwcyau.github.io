@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://cwcyau.github.io/blogs/mentoring/</loc>
+    <lastmod>2017-10-31T22:42:51-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://cwcyau.github.io/blogs/</loc>
     <lastmod>2017-10-31T22:27:21-05:00</lastmod>
   </url>
@@ -31,6 +36,10 @@
     <loc>http://cwcyau.github.io/categories/</loc>
     <lastmod>2017-10-31T22:42:51-05:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://cwcyau.github.io/blogs/blog5/</loc>
   </url>
   
   <url>

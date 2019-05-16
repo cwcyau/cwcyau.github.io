@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yau Group</title>
+    <title>Categories on Yau Group</title>
     <link>http://cwcyau.github.io/categories/</link>
-    <description>Recent content on Yau Group</description>
+    <description>Recent content in Categories on Yau Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
@@ -12,21 +12,47 @@
     
     
     <item>
-      <title>About</title>
-      <link>http://cwcyau.github.io/blogs/about/</link>
+      <title></title>
+      <link>http://cwcyau.github.io/categories/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>http://cwcyau.github.io/blogs/about/</guid>
-      <description>Group Leader: Christopher Yau</description>
+      <guid>http://cwcyau.github.io/categories/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>http://cwcyau.github.io/blogs/about/</link>
+      <title>R</title>
+      <link>http://cwcyau.github.io/categories/r/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>http://cwcyau.github.io/categories/r/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>n>
+    </item>
+    
+    <item>
+      <title>Academic Mentorship</title>
+      <link>http://cwcyau.github.io/blogs/mentoring/</link>
       <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
       
-      <guid>http://cwcyau.github.io/blogs/about/</guid>
-      <description>Group Leader: Christopher Yau</description>
+      <guid>http://cwcyau.github.io/blogs/mentoring/</guid>
+      <description>Birmingham Academic tutees can contact me about all aspects of their studies that do not concern academic content. This includes:
+ Issues affecting your ability to perform at your best in your studies Careers advice Academic references  Enquiries related to specific issues around academic content should be addressed to the lecturer/module lead in question.
+All urgent or administrative enquiries should be directed to the relevant programme administrator in the first instance.</description>
+    </item>
+    
+    <item>
+      <title>Academic Mentorship</title>
+      <link>http://cwcyau.github.io/blogs/mentoring/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://cwcyau.github.io/blogs/mentoring/</guid>
+      <description>Birmingham Academic tutees can contact me about all aspects of their studies that do not concern academic content. This includes:
+ Issues affecting your ability to perform at your best in your studies Careers advice Academic references  Enquiries related to specific issues around academic content should be addressed to the lecturer/module lead in question.
+All urgent or administrative enquiries should be directed to the relevant programme administrator in the first instance.</description>
     </item>
     
     <item>
