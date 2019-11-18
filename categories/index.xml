@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on AI &amp; Data Science Group</title>
-    <link>https://cwcyau.github.io/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on AI &amp; Data Science Group</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
     
-	<atom:link href="https://cwcyau.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>R</title>
-      <link>https://cwcyau.github.io/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://cwcyau.github.io/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
