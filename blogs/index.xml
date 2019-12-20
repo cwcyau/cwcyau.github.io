@@ -31,13 +31,22 @@
     </item>
     
     <item>
+      <title>explAIn</title>
+      <link>/blogs/explain/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>/blogs/explain/</guid>
+      <description>The Multidisciplinary Team (MDT) When a patient is diagnosed with cancer, a group of health professionals will work together to plan their treatment. This is called a multidisciplinary team (MDT). The constitution of the team will depend on the type of cancer but may include a surgeon, a cancer doctor (oncologist), a haematologist, and a clinical nurse specialist. The MDT will meet to discuss the results of any tests and to plan treatment.</description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>/blogs/research/</link>
       <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
       
       <guid>/blogs/research/</guid>
       <description>Overview Our research is primarily concerned with the development of statistical and machine learning methodologies with a particular focus on applications in the biomedical sciences.
-A complete list of publications can be found on Google Scholar and our research software is available on Github
+A complete list of publications can be found on [Google Scholar] (https://scholar.google.co.uk/citations?user=5tyrt68AAAAJ&amp;amp;hl=en) and our research software is available on Github
 Cancer Tumour heterogeneity describes the genetic diversity both within (intra-tumour heterogeniety) and between tumours (inter-tumour heterogeneity). Genetic differences within and between tumours give rise to different disease outcomes and patient responses to therapies.</description>
     </item>
     
@@ -67,8 +76,9 @@ PhD Admissions are currently being taken through the following study programmes 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/blogs/news/</guid>
-      <description>HDRUK-Turing PhD programme - APPLICATIONS OPEN - 18 November 2019 Applications are now open for the HDRUK-Turing Wellcome PhD programme in Health Data Science.
-New student - Dominic Danks - 1 October 2019 Welcome to our new Turing PhD student, Dominic Danks who joins us following a MSc in Computational Statistics and Machine Learning at University College London and an MSci in Theoretical Physics from the University of Birmingham. Dominic will be based in London at the Turing and is registered at the University of Birmingham.</description>
+      <description>WIRED - Everyone should be worried by big tech&#39;s huge NHS data grab - 16 December 2019 Christopher Yau talks about data anonymity and privacy concerns in this Wired article.
+HDRUK-Turing PhD programme - APPLICATIONS OPEN - 18 November 2019 Applications are now open for the HDRUK-Turing Wellcome PhD programme in Health Data Science.
+New student - Dominic Danks - 1 October 2019 Welcome to our new Turing PhD student, Dominic Danks who joins us following a MSc in Computational Statistics and Machine Learning at University College London and an MSci in Theoretical Physics from the University of Birmingham.</description>
     </item>
     
   </channel>
