@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lindsay McGuinness | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/lindsay-mcguinness/</link>
+      <atom:link href="https://cwcyau.github.io/authors/lindsay-mcguinness/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lindsay McGuinness</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Lindsay McGuinness</title>
+      <link>https://cwcyau.github.io/authors/lindsay-mcguinness/</link>
+    </image>
+    
+    <item>
+      <title>Presynaptic NMDARs in the hippocampus facilitate transmitter release at theta frequency</title>
+      <link>https://cwcyau.github.io/publication/2010-01-01_mcguinness2010presynaptic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2010-01-01_mcguinness2010presynaptic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

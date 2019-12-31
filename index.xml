@@ -1,95 +1,703 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>AI &amp; Data Science Group</title>
-    <link>/</link>
-    <description>Recent content on AI &amp; Data Science Group</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate>
-    
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>AI4Health</title>
+    <link>https://cwcyau.github.io/</link>
+      <atom:link href="https://cwcyau.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI4Health</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>AI4Health</title>
+      <link>https://cwcyau.github.io/</link>
+    </image>
     
     <item>
-      <title>About</title>
-      <link>/blogs/about/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/blogs/about/</guid>
-      <description>Group Leader: Christopher Yau</description>
+      <title>WIRED - Everyone should be worried by big tech&#39;s huge NHS data grab</title>
+      <link>https://cwcyau.github.io/post/2019-12-16_wired/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2019-12-16_wired/</guid>
+      <description>&lt;p&gt;Christopher Yau talks about data anonymity and privacy concerns in this &lt;a href=&#34;https://www.wired.co.uk/article/google-apple-amazon-nhs-health-data&#34;&gt;Wired article&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Academic Mentorship</title>
-      <link>/blogs/mentoring/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/blogs/mentoring/</guid>
-      <description>Turing I am available to support Turing-based students in the following areas:
- Managing student-supervisor relationships. I have supervised numerous students to completion but I am also young enough to still remember what being a student is like! Happy to provide a helpful ear or work on strategies with you. Career planning. There are great careers out there but maximising your opportunities requires early thought and planning. Get ahead. Fellowship/job application review.</description>
+      <title>BIRM-CAM</title>
+      <link>https://cwcyau.github.io/project/birmcam/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/birmcam/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Christopher Yau is a co-investigator in the &lt;a href=&#34;https://birmcam.github.io/birmcam/&#34;&gt;BIRM-CAM&lt;/a&gt; project that is led by Professors Tom Marshall (University of Birmingham) and Sylvia Richardson (MRC Biostatistics Unit, University of Cambridge).&lt;/p&gt;
+&lt;h1 id=&#34;multimorbidity&#34;&gt;Multimorbidity&lt;/h1&gt;
+&lt;p&gt;Multimorbidity is when people suffer from more than one long-term illness. It is increasingly common as people live longer. It is important because individual illnesses have knock-on effects on others, it is more complex managing multiple than single illnesses, and multimorbid patients are heavy users of medications and health services.&lt;/p&gt;
+&lt;p&gt;To understand multimorbidity we need to know which illnesses tend to occur together and which illness combinations most affect health. To adapt health services we need to know which types of people develop multimorbidity: their age, sex, ethnicity, socio-economic status and whether they tend to live in the same households. To learn how to prevent it we need to identify lifestyle factors (physical activity, diet, smoking, alcohol) linked to multimorbidity and the measurements (laboratory test results, weight, blood pressure) that might be early signs.&lt;/p&gt;
+&lt;h1 id=&#34;electronic-health-records&#34;&gt;Electronic Health Records&lt;/h1&gt;
+&lt;p&gt;Electronic health records are a good source of information on multimorbidity because they include information on the same patient over many years. They include information on illnesses, medications, hospital admissions; measurements (laboratory tests, weight, blood pressure) and lifestyle (smoking, alcohol). Previous research has studied multimorbidity using a variety of statistical methods. It finds some illnesses, such as diabetes and heart disease tend to occur together. But different statistical methods often find different groups of illnesses. We need a single, consistent approach to this type of analysis to ensure we are researching the same groups of illnesses. Previous research generally has not made best use of all the available information. For example, patients are considered either to have or not have diabetes but research did not make use of laboratory measurements (such as blood glucose) identifying some people as likely to develop diabetes. Previous research grouped illnesses according to how commonly they occur together, without giving any special significance to combinations of illnesses linked to risk of death or hospital admission. Clearly such combinations of illness are of more importance. There are more advanced analysis methods which can address these and other shortcomings.&lt;/p&gt;
+&lt;h1 id=&#34;the-research&#34;&gt;The Research&lt;/h1&gt;
+&lt;p&gt;The first part of our research will develop methods of data analysis. We will review research on different statistical methods for grouping illnesses together. We will hold a workshop involving leading UK researchers in the field to try to agree on the best approach to this type of analysis. Informed by this we will analyse two large databases of electronic health records, each including several million patients. In each database we will identify the groups of illnesses that co-occur and check our findings in the other database. This is considered good practice in analysis. At the end of this step we will produce software to analyse and find groups of illnesses in electronic health records and make this freely available for other researchers to use.&lt;/p&gt;
+&lt;p&gt;The next part of our research will use additional information from two large surveys. Both surveys include details not always available in health records e.g. occupation, diet, lifestyle and measures of frailty. One includes 500,000 people the other has information on the same people over a period of 14 years. We will describe the consequences for patients of different combinations of illnesses: their levels of frailty because it is linked to need for social care; development of further illnesses; medications, use of health services and death. We will work with patient advisors to help guide analysis of patients journeys through health services. We will investigate possible causes of multimorbidity including people&#39;s social circumstances, the environment, lifestyle (smoking, alcohol, diet and exercise) and laboratory test results that might help indicate causes. This step will point to the areas of environment and lifestyle which should be investigated further as possible causes.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>explAIn</title>
-      <link>/blogs/explain/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
-      
-      <guid>/blogs/explain/</guid>
-      <description>The Multidisciplinary Team (MDT) When a patient is diagnosed with cancer, a group of health professionals will work together to plan their treatment. This is called a multidisciplinary team (MDT). The constitution of the team will depend on the type of cancer but may include a surgeon, a cancer doctor (oncologist), a haematologist, and a clinical nurse specialist. The MDT will meet to discuss the results of any tests and to plan treatment.</description>
+      <title>HDRUK-Turing PhD programme</title>
+      <link>https://cwcyau.github.io/post/2019-09-12_hdruk/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2019-09-12_hdruk/</guid>
+      <description>&lt;p&gt;The Wellcome Trust have funded a new HDRUK-Turing Wellcome PhD programme in Health Data Science which will be jointly directed by Christopher Yau. Applications for entry October 2020 coming soon.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Research</title>
-      <link>/blogs/research/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
-      
-      <guid>/blogs/research/</guid>
-      <description>Overview Our research is primarily concerned with the development of statistical and machine learning methodologies with a particular focus on applications in the biomedical sciences.
-A complete list of publications can be found on [Google Scholar] (https://scholar.google.co.uk/citations?user=5tyrt68AAAAJ&amp;amp;hl=en) and our research software is available on Github
-Cancer Tumour heterogeneity describes the genetic diversity both within (intra-tumour heterogeniety) and between tumours (inter-tumour heterogeneity). Genetic differences within and between tumours give rise to different disease outcomes and patient responses to therapies.</description>
+      <title>ICML 2019 SUCCESS!</title>
+      <link>https://cwcyau.github.io/post/2019-07-01_icml/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2019-07-01_icml/</guid>
+      <description>&lt;p&gt;A paper by Kaspar Martens and group alumni Kieran Campbell Covariate GPLVM has been accepted for presentation at the International Conference on Machine Learning.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Join Us</title>
-      <link>/blogs/join/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
-      
-      <guid>/blogs/join/</guid>
-      <description>Postdoctoral [September 2019] Postdoctoral opportunities are available at the University of Manchester. Please contact the group leader to enquire.
-PhD Admissions are currently being taken through the following study programmes at the University of Manchester, please see the websites for more details:
- University of Manchester Doctoral Training Programmes China Scholarship Council Wellcome PhD Programme in Health Data Science  Potential applicants are encouraged to speak to the Group Leader before making applications.</description>
+      <title>Bayesian statistical learning for big data biology</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_yau2019bayesian/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_yau2019bayesian/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+      <title>Breaking Free with Artificial Intelligence</title>
+      <link>https://cwcyau.github.io/project/breaking-free/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/breaking-free/</guid>
+      <description>&lt;p&gt;Using digital technology to improve health and care is now a priority focus for the UK National Health Service. New and maturing technological developments hold the potential to have a transformative effect on health service delivery. Digital health solutions can aid in the reduction of waiting times, more effective use of limited resources and improved treatment fidelity but, once such technologies are implemented, the dearth of data that can be acquired through their adoption itself presents a challenge. Data-driven insights, driven by machine learning and artificial intelligence techniques, can offer a glimpse of previously unknown patterns and identify opportunities for the development of new healthcare practices or policies. As digital health platforms become more sophisticated, the data that can be acquired often becomes more complex and heterogeneous, machine-based interpretation becomes a near-necessity.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;http://www.breakingfreegroup.com/&#34;&gt;Breaking Free Group&lt;/a&gt; is a leading digital health and behaviour science company. Founded in 2010, it is formed from a team of psychologists, substance misuse experts and technology specialists. With an organisational philosophy built around the principles of state-of-the-art behaviour science and the UK Medical Research Council evaluation framework, they have developed a bespoke digital behavioural intervention platform that provides 24/7 access to a secure, GDPR-compliant, online digital cognitive behaviour therapy (CBT) platform with a particular focus on substance misuse. Users of the platform complete pre- and post-therapy questionnaires and interactive exercises designed to teach strategies to overcome addictive behaviours and improve wellbeing. Scoring on questionnaire responses can signpost users to personalised information sources. Real-time quantitative data from the platform can be anonymously fed to health service providers and commissioners for planning and policy development purposes.&lt;/p&gt;
+&lt;p&gt;Breaking Free has seen its digital platform commissioned for use by the Ministry of Justice in UK prisons, Non-Government Charitable Organisations and NHS Trusts. Uniquely, Breaking Free operates under a research ethics protocol approved by the NHS Health Research Authority and endorsement by the National Institute of Clinical Excellence allowing the data they collect to be utilised for broader research applications. More recently, two new online platforms have been deployed more widely to the public targeting alcohol consumption reduction and smoking cessation. Breaking Free are based in both Birmingham and Manchester.&lt;/p&gt;
+&lt;p&gt;We have initiated a new multi-disciplinary collaboration with the Breaking Free Online team to develop novel data science methodologies to exploit real-time digital health monitoring and intervention data. Our working exemplars will be based on the unique behavioural insights captured by the Breaking Free Group but the research outputs would have generic applicability in other related settings including youth mental health conditions.&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title></title>
-      <link>/blogs/blog5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blogs/blog5/</guid>
-      <description>Academic Mentorship       code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+      <title>Convolutional filtering for mutation signatures</title>
+      <link>https://cwcyau.github.io/project/convsig/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/convsig/</guid>
+      <description>&lt;p&gt;Mutation signatures are the hallmarks of mutagenic processes in cancer that can provide clues about the biochemical mechanisms by which DNA is altered in cancer. The extraction of such signatures from next generation sequencing data has traditionally been formulated as an unsupervised learning problem and solved using non-negative matrix factorization. We present an entirely novel approach based on convolutional filtering, inspired by technologies used in computer vision and image processing for genomic data analysis. We show that our approach has state-of-the-art performance compared to standard methods but also generalizes to allow consideration of larger sequence contexts using deep layering of convolutional networks providing a tool that could potentially reveal the impact of high-level genome structure on mutational density.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/feng/&#34;&gt;Yun Feng&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
     <item>
-      <title>News</title>
-      <link>/blogs/news/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blogs/news/</guid>
-      <description>WIRED - Everyone should be worried by big tech&#39;s huge NHS data grab - 16 December 2019 Christopher Yau talks about data anonymity and privacy concerns in this Wired article.
-HDRUK-Turing PhD programme - APPLICATIONS OPEN - 18 November 2019 Applications are now open for the HDRUK-Turing Wellcome PhD programme in Health Data Science.
-New student - Dominic Danks - 1 October 2019 Welcome to our new Turing PhD student, Dominic Danks who joins us following a MSc in Computational Statistics and Machine Learning at University College London and an MSci in Theoretical Physics from the University of Birmingham.</description>
+      <title>Decomposing feature-level variation with Covariate Gaussian Process Latent Variable Models</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_martens2019decomposing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_martens2019decomposing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep single-cell RNA-seq of the putative cell of origin revealed a novel molecular subtype of high-grade serous ovarian cancer with poor prognosis</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_hu2019deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_hu2019deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Defective tubulin detyrosination causes structural brain abnormalities with cognitive deficiency in humans and mice</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_pagnamenta2019defective/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_pagnamenta2019defective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Health Data Research UK-Turing PhD Programme</title>
+      <link>https://cwcyau.github.io/project/hdruk-phd/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/hdruk-phd/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;https://www.hdruk.ac.uk/talent-training/hdr-uk-turing-phd-programme-funded-by-the-wellcome-trust/&#34;&gt;Health Data Research UK-Turing PhD programme in Health Data Science&lt;/a&gt; aims to develop future leaders in health data science. Its underlying philosophy is that health data science requires a combination of expertise spanning three fundamental areas: statistical, computational and health sciences.&lt;/p&gt;
+&lt;p&gt;We’re looking for students who want to make a difference. People who want to work together to combine statistics and computation skills within a health setting to overcome existing challenges and look to develop new opportunities.&lt;/p&gt;
+&lt;p&gt;You will develop your background in quantitative science (e.g. maths, statistics, physics, engineering, computing) and learn new skills within the health and biomedical communities, so that together you can undertake ground-breaking research.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Co-Director:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/admin/&#34;&gt;Christopher Yau&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Immunophenotypes of pancreatic ductal adenocarcinoma: Meta-analysis of transcriptional subtypes</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_de2019immunophenotypes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_de2019immunophenotypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Network inference</title>
+      <link>https://cwcyau.github.io/project/monet/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/monet/</guid>
+      <description>&lt;p&gt;Dynamic alterations in gene expression programs during cell differentiation are regulated by the interplay of ubiquitous and tissue-specific transcription factors, and the epigenetic regulatory machinery. A mechanistic understanding can be postulated based on time-course multi-omics genome-wide measurements.&lt;/p&gt;
+&lt;p&gt;We developed a novel Bayesian nonparametric regression approach called &lt;strong&gt;M&lt;/strong&gt;ulti-&lt;strong&gt;O&lt;/strong&gt;mics &lt;strong&gt;NET&lt;/strong&gt;work inference (MONET) for high-dimensionality multi-modal data integration to quantify the temporally dependent forces driving development and investigate by perturbation effects. Sparsity-inducing priors regularise the TF-gene interaction network and a Dirichlet process prior to regulate the number of participating TFs. This gives rise to a Bayesian nonparametric model where the number of TFs are learnt from data and not specified a priori. Statistical inference is performed in a Bayesian setting using an implementation of Hamiltonian Monte Carlo (HMC)-derived No-U Turn Sampler (NUTS) in STAN.&lt;/p&gt;
+&lt;p&gt;We show that MONET is able to extract accurate time-dependent TF-gene interaction networks and assess the importance of each TF for the different stages in haematopoietic development. Our model allows us to make predictions on the importance of specific TF over time and under different perturbation settings. Based on this we can create hypotheses for intervention to improve efficiency or halt development.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/rana/&#34;&gt;Anas Rana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Decomposition</title>
+      <link>https://cwcyau.github.io/project/neural-decomp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/neural-decomp/</guid>
+      <description>&lt;p&gt;Neural network models for dimensionality reduction, such as Variational AutoEncoders (VAEs), can identify latent low-dimensional structures embedded within high-dimensional data. These low-dimensional representations can provide some insight into patterns within datasets but their interpretation relies on how these map back on the original feature set. However the latter requires interpreting what the decoder network has learnt which makes it challenging.&lt;/p&gt;
+&lt;p&gt;In this project, we have focused on understanding the sources of variation in Conditional VAEs. Our goal is to &lt;em&gt;decompose&lt;/em&gt; the feature-level variation in high-dimensional data through disentanglement of additive and interactions effects of latent variables and fixed inputs. We propose to achieve this through the &lt;em&gt;Neural Decomposition&lt;/em&gt; - an adaptation of the well-known concept of variance decomposition from classical statistics to deep learning models. We show that &lt;em&gt;identifiable&lt;/em&gt; Neural Decomposition relies on training models subject to constraints on the marginal properties of the neural networks whilst naive implementations will lead to non-identifiable models.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/kaspar/&#34;&gt;Kaspar Maertens&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Patient-specific cancer genes contribute to recurrently perturbed pathways and establish therapeutic vulnerabilities in esophageal adenocarcinoma</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_mourikis2019patient/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_mourikis2019patient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Precision medicine and individual-level cancer driver genes</title>
+      <link>https://cwcyau.github.io/project/cancer-drivers/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/cancer-drivers/</guid>
+      <description>&lt;p&gt;The identification of cancer-promoting genetic alterations is challenging particularly in highly unstable and heterogeneous cancers. In collaboration with &lt;a href=&#34;https://www.crick.ac.uk/research/labs/francesca-ciccarelli&#34;&gt;Ciccarelli Lab&lt;/a&gt; at the &lt;a href=&#34;https://www.crick.ac.uk/&#34;&gt;Francis Crick Institute&lt;/a&gt; we have developed a machine learning algorithm to identify cancer genes in individual patients considering all types of damaging alterations simultaneously. Analysing 261 EACs from the OCCAMS Consortium, we discover helper genes that, alongside well-known drivers, promote cancer. We confirm the robustness of our approach in 107 additional EACs. Unlike recurrent alterations of known drivers, these cancer helper genes are rare or patient-specific. However, they converge towards perturbations of well-known cancer processes. Recurrence of the same process perturbations, rather than individual genes, divides EACs into six clusters differing in their molecular and clinical features. Experimentally mimicking the alterations of predicted helper genes in cancer and pre-cancer cells validates their contribution to disease progression, while reverting their alterations reveals EAC acquired dependencies that can be exploited in therapy.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/nulsen/&#34;&gt;Joel Nulsen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/misetic//&#34;&gt;Hrvoje Misetic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reporting guidelines for clinical trials evaluating artificial intelligence interventions are needed</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_liu2019reporting/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_liu2019reporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RLevolution</title>
+      <link>https://cwcyau.github.io/project/rlevolution/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/rlevolution/</guid>
+      <description>&lt;p&gt;Genomic copy number evolution in cancer refers to the acquisition or loss of genome segments over time due to mutational processes in cancer that result in the loss of biological mechanisms for the maintenance of genome integrity in cells. Genome sequencing can allow us to detect these copy number alterations in cancer cells but do not directly inform us what the sequence of evolutionary events was that led to the present state of the cancer. We have developed a novel, first-of-its-kind reinforcement learning based approach for inferring evolutionary trajectories from genomic copy number profiles which we call \RLEvolution. We show that \RLEvolution is able to deconvolve the sequence of complex events that may occur during cancer evolution using a combination of simulated and real-world cancer datasets.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/feng/&#34;&gt;Yun Feng&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell RNA sequencing with TCR repertoire profiling of mycosis fungoides</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_murray2019single/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_murray2019single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Automatic BioData Scientist</title>
+      <link>https://cwcyau.github.io/project/neural-odes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/neural-odes/</guid>
+      <description>&lt;p&gt;Mathematical models of disease evolution seek to specify the complex mechanistic relationships between many measurable quantities over space and time. However, as our capability to generate experimental data improves, our ability to conceive of appropriate mathematical descriptions to describe biological phenomena has become a bottleneck.&lt;/p&gt;
+&lt;p&gt;The goal of machine learning is to “learn” complex dependencies automatically within data sets.  Neural networks (NNs) have been at the forefront of recent advances by offering a means of parametrising complex functional mapping between data and its representations.&lt;/p&gt;
+&lt;p&gt;Novel computational machinery have enabled NN approaches to scale to the analysis of unprecedently large datasets and provide versatility over standard modelling approaches. However, despite their successes in a range of applications, in biomedical research, NNs are often derided for their “black box” discoveries, lack of interpretability and the need for unrealistic quantities of training data. Such criticisms often overlook the fact that default NN structures express no explicit assumptions about the problems on which they are applied and they are often used as generic data mining devices for discovery purposes.&lt;/p&gt;
+&lt;p&gt;Nonetheless, there is a clear opportunity for the development of novel NN approaches that combine scalability and versatility with the capability of learning the physically realistic constraints that are embedded in hand-crafted mathematical models.&lt;/p&gt;
+&lt;p&gt;This project seeks to investigate the methodological foundations for what could form an &lt;em&gt;Automated BioData Scientist&lt;/em&gt; (AutoBioDataSci) platform. We would like to develop learning algorithms that can capture biological laws and encapsulate them in such a way that such knowledge can be transfer to new problems. This major project involves inter-linking representation learning theory with transfer and meta-learning as well as having its roots embedded in the biological scientific discovery process.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/danks/&#34;&gt;Dominic Danks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/kaspar/&#34;&gt;Kaspar Maertens&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_hu2019repertoire/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_hu2019repertoire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A descriptive marker gene approach to single-cell pseudotime inference</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_campbell2018descriptive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_campbell2018descriptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated single cell analysis reveals cell cycle and ontogeny related transcriptional heterogeneity in hscs</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_povinelli2018integrated/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_povinelli2018integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MixDir: Scalable Bayesian Clustering for High-Dimensional Categorical Data</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_ahlmann2018mixdir/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_ahlmann2018mixdir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NOX1 loss-of-function genetic variants in patients with inflammatory bowel disease</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_schwerd2018nox1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_schwerd2018nox1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Boolean Tensor Decomposition</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_rukat2018probabilistic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_rukat2018probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning microtubule dynamics to enhance cancer therapy by modulating FER-mediated CRMP2 phosphorylation</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_zheng2018tuning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_zheng2018tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering pseudotemporal trajectories with covariates from single cell and bulk expression data</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_campbell2018uncovering/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_campbell2018uncovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A pan-cancer genome-wide analysis reveals tumour dependencies by induction of nonsense-mediated decay</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_hu2017pan/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_hu2017pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Boolean matrix factorisation</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_rukat2017bayesian/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_rukat2017bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colorectal cancer cell line proteomes are representative of primary tumors and predict drug sensitivity</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_wang2017colorectal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_wang2017colorectal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From single cells to populations: Modelling the dynamics of disease progression from cross-sectional studies using phenotypically-driven pseudotime ordering</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_campbell2017single/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_campbell2017single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germline mutations in PALB2, BRCA1, and RAD51C, which regulate DNA recombination repair, in patients with gastric cancer</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_sahasrabudhe2017germline/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_sahasrabudhe2017germline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic modeling of bifurcations in single-cell gene expression data using a Bayesian mixture of factor analyzers</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_campbell2017probabilistic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_campbell2017probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separation of dual oxidase 2 and lactoperoxidase expression in intestinal crypts and species differences may limit hydrogen peroxide scavenging during mucosal healing in mice and humans</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_rigoni2017separation/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_rigoni2017separation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing and learning on distributions with symmetric noise invariance</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_law2017testing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_law2017testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Hamming ball sampler</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_titsias2017hamming/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_titsias2017hamming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Order Under Uncertainty</title>
+      <link>https://cwcyau.github.io/publication/2016-01-01_campbell2016order1/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2016-01-01_campbell2016order1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Order under uncertainty: robust differential expression analysis using probabilistic models for pseudotime inference</title>
+      <link>https://cwcyau.github.io/publication/2016-01-01_campbell2016order/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2016-01-01_campbell2016order/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ovarian Cancer</title>
+      <link>https://cwcyau.github.io/project/ovarian-cancer/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/ovarian-cancer/</guid>
+      <description>&lt;p&gt;We are working with the &lt;a href=&#34;https://www.wrh.ox.ac.uk/research/ovarian-cancer&#34;&gt;Ovarian Cancer Cell Laboratory&lt;/a&gt; led by &lt;a href=&#34;https://www.wrh.ox.ac.uk/team/ahmed-ahmed&#34;&gt;Professor Ahmed Ahsour Ahmed&lt;/a&gt; to unlock the molecular mechanisms underlying high-grade serous ovarian cancer (HGSOC) using genomics and bioinformatics.&lt;/p&gt;
+&lt;h2 id=&#34;premalignant-sox2-overexpression-in-the-fallopian-tubes-of-ovarian-cancer-patients&#34;&gt;Premalignant SOX2 overexpression in the fallopian tubes of ovarian cancer patients&lt;/h2&gt;
+&lt;p&gt;We have discovered premalignant overexpression of SOX2 in the fallopian tubes of ovarian cancer patients which was nearly ubiquitous in HGSOCs. This was also a common feature in women with BRCA1 and BRCA2 mutations prior to ovarian cancer initiation. Thus, our data has important implications for screening, although it will need additional clinical evaluation to test the feasibility of quantitative detection of SOX2 expression or the expression of its downstream targets for this purpose. You can read the original research paper &lt;a href=&#34;https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(16)30305-X/fulltext&#34;&gt;here&lt;/a&gt; as well as media reports &lt;a href=&#34;https://www.dailymail.co.uk/health/article-3712949/Ovarian-cancer-detected-deadly-Scientists-identify-key-enzyme-makes-disease-spread.html&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.telegraph.co.uk/science/2016/07/28/ovarian-cancer-test-on-horizon-as-scientists-find-earliest-signs/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;the-unmasking-non-genetic-heterogeneity-through-by-single-cell-sequencing-of-fallopian-tube-epithelial-cells&#34;&gt;The unmasking non-genetic heterogeneity through by single-cell sequencing of fallopian tube epithelial cells&lt;/h2&gt;
+&lt;p&gt;More recently, we have used single cell sequencing to understand the inter-differentiation between cell states which promotes cancer cell survival under stress and fosters non-genetic heterogeneity (NGH). NGH is a surrogate of tumor resilience but its quantification is confounded by genetic heterogeneity. We showed that NGH can be accurately measured when informed by the molecular signatures of the normal cells of origin. We surveyed the transcriptomes of 4000 normal fallopian tube epithelial (FTE) cells, the cells of origin of serous ovarian cancer, and identified six FTE subtypes. We used subtype signatures to deconvolute SOC expression data and found substantial intra-tumor NGH that was previously unrecognized. Importantly, NGH-based stratification of ∼1700 tumors robustly predicted survival. Our findings lay the foundation for accurate prognostic and therapeutic stratification of SOC. You can read the preprint of the research paper &lt;a href=&#34;https://www.biorxiv.org/content/10.1101/672626v1&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/hu/&#34;&gt;Zhiyuan Hu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>pcaReduce: hierarchical clustering of single cell transcriptional profiles</title>
+      <link>https://cwcyau.github.io/publication/2016-01-01_zurauskiene2016pcareduce/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2016-01-01_zurauskiene2016pcareduce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Premalignant SOX2 overexpression in the fallopian tubes of ovarian cancer patients: Discovery and validation studies</title>
+      <link>https://cwcyau.github.io/publication/2016-01-01_hellner2016premalignant/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2016-01-01_hellner2016premalignant/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salt-inducible kinase 2 couples ovarian cancer cell metabolism with survival at the adipocyte-rich metastatic niche</title>
+      <link>https://cwcyau.github.io/publication/2016-01-01_miranda2016salt/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2016-01-01_miranda2016salt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical inference in hidden markov models using k-segment constraints</title>
+      <link>https://cwcyau.github.io/publication/2016-01-01_titsias2016statistical/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2016-01-01_titsias2016statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>switchde: inference of switch-like differential expression along single-cell trajectories</title>
+      <link>https://cwcyau.github.io/publication/2016-01-01_campbell2016switchde/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2016-01-01_campbell2016switchde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors influencing success of clinical genome sequencing across a broad spectrum of disorders</title>
+      <link>https://cwcyau.github.io/publication/2015-01-01_taylor2015factors/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2015-01-01_taylor2015factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The alive particle filter and its use in particle Markov chain Monte Carlo</title>
+      <link>https://cwcyau.github.io/publication/2015-01-01_moral2015alive/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2015-01-01_moral2015alive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ZIFA: Dimensionality reduction for zero-inflated single-cell gene expression analysis</title>
+      <link>https://cwcyau.github.io/publication/2015-01-01_pierson2015zifa/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2015-01-01_pierson2015zifa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A sequential algorithm for fast fitting of Dirichlet process mixture models</title>
+      <link>https://cwcyau.github.io/publication/2014-01-01_zhang2014sequential/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2014-01-01_zhang2014sequential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Erythrocytosis associated with a novel missense mutation in the BPGM gene</title>
+      <link>https://cwcyau.github.io/publication/2014-01-01_petousi2014erythrocytosis/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2014-01-01_petousi2014erythrocytosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamming ball auxiliary sampling for factorial hidden Markov models</title>
+      <link>https://cwcyau.github.io/publication/2014-01-01_aueb2014hamming/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2014-01-01_aueb2014hamming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Whole-genome sequencing of bladder cancers reveals somatic CDKN1A mutations and clinicopathological associations with mutation burden</title>
+      <link>https://cwcyau.github.io/publication/2014-01-01_cazier2014whole/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2014-01-01_cazier2014whole/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A decision-theoretic approach for segmental classification</title>
+      <link>https://cwcyau.github.io/publication/2013-01-01_yau2013decision/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2013-01-01_yau2013decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of colorectal cancers in British Bangladeshi identifies early onset, frequent mucinous histotype and a high prevalence of RBFOX1 deletion</title>
+      <link>https://cwcyau.github.io/publication/2013-01-01_sengupta2013analysis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2013-01-01_sengupta2013analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive genome-wide analysis of CLL samples from UK 1st line and relapsed/refractory clinical trials</title>
+      <link>https://cwcyau.github.io/publication/2013-01-01_robbe2013comprehensive/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2013-01-01_robbe2013comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NucleoFinder: a statistical approach for the detection of nucleosome positions</title>
+      <link>https://cwcyau.github.io/publication/2013-01-01_becker2013nucleofinder/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2013-01-01_becker2013nucleofinder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OncoSNP-SEQ: a statistical approach for the identification of somatic copy number alterations from next-generation sequencing of cancer genomes</title>
+      <link>https://cwcyau.github.io/publication/2013-01-01_yau2013oncosnp/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2013-01-01_yau2013oncosnp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival in stage II/III colorectal cancer is independently predicted by chromosomal and microsatellite instability, but not by specific driver mutations</title>
+      <link>https://cwcyau.github.io/publication/2013-01-01_mouradov2013survival/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2013-01-01_mouradov2013survival/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantification of subclonal distributions of recurrent genomic aberrations in paired pre-treatment and relapse samples from patients with B-cell chronic lymphocytic leukemia</title>
+      <link>https://cwcyau.github.io/publication/2012-01-01_knight2012quantification/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2012-01-01_knight2012quantification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian non-parametric hidden Markov models with applications in genomics</title>
+      <link>https://cwcyau.github.io/publication/2011-01-01_yau2011bayesian/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2011-01-01_yau2011bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Bayesian nonparametric mixture models for clustering with variable relevance determination</title>
+      <link>https://cwcyau.github.io/publication/2011-01-01_yau2011hierarchical/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2011-01-01_yau2011hierarchical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Somatic copy number alterations in a defined ethnic cohort with a high frequency of early-onset colorectal cancer</title>
+      <link>https://cwcyau.github.io/publication/2011-01-01_sengupta2011somatic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2011-01-01_sengupta2011somatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A statistical approach for detecting genomic aberrations in heterogeneous tumor samples from single nucleotide polymorphism genotyping data</title>
+      <link>https://cwcyau.github.io/publication/2010-01-01_yau2010statistical/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2010-01-01_yau2010statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association study of CNVs in 16,000 cases of eight common diseases and 3,000 shared controls</title>
+      <link>https://cwcyau.github.io/publication/2010-01-01_craddock2010genome/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2010-01-01_craddock2010genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide association study of CNVs in 16,000 cases of eight common diseases and 3,000 shared controls</title>
+      <link>https://cwcyau.github.io/publication/2010-01-01_lathrop2010genome/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2010-01-01_lathrop2010genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the utility of graphics cards to perform massively parallel simulation of advanced Monte Carlo methods</title>
+      <link>https://cwcyau.github.io/publication/2010-01-01_lee2010utility/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2010-01-01_lee2010utility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presynaptic NMDARs in the hippocampus facilitate transmitter release at theta frequency</title>
+      <link>https://cwcyau.github.io/publication/2010-01-01_mcguinness2010presynaptic/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2010-01-01_mcguinness2010presynaptic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing CNV detection methods for SNP arrays</title>
+      <link>https://cwcyau.github.io/publication/2009-01-01_winchester2009comparing/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2009-01-01_winchester2009comparing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A genotype calling algorithm for the illumina beadarray platform</title>
+      <link>https://cwcyau.github.io/publication/2008-01-01_giannoulatou2008genotype/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2008-01-01_giannoulatou2008genotype/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A recursive, stochastic vessel segmentation framework that robustly handles bifurcations</title>
+      <link>https://cwcyau.github.io/publication/2008-01-01_allen2008recursive/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2008-01-01_allen2008recursive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Akt regulates centrosome migration and spindle orientation in the early Drosophila melanogaster embryo</title>
+      <link>https://cwcyau.github.io/publication/2008-01-01_buttrick2008akt/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2008-01-01_buttrick2008akt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNV discovery using SNP genotyping arrays</title>
+      <link>https://cwcyau.github.io/publication/2008-01-01_yau2008cnv/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2008-01-01_yau2008cnv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GenoSNP: a variational Bayes within-sample SNP genotyping algorithm that does not require a reference population</title>
+      <link>https://cwcyau.github.io/publication/2008-01-01_giannoulatou2008genosnp/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2008-01-01_giannoulatou2008genosnp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical methodologies for the identification of copy number variation in mammalian genomes from high-throughput genomic datasets</title>
+      <link>https://cwcyau.github.io/publication/2008-01-01_yau2008statistical/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2008-01-01_yau2008statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuantiSNP: an Objective Bayes Hidden-Markov Model to detect and accurately map copy number variation using SNP genotyping data</title>
+      <link>https://cwcyau.github.io/publication/2007-01-01_colella2007quantisnp/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2007-01-01_colella2007quantisnp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative image analysis of chromosome dynamics in early Drosophila embryos</title>
+      <link>https://cwcyau.github.io/publication/2007-01-01_yau2007quantitative/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2007-01-01_yau2007quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hidden Markov Models for Detecting Regions of Deletion and Duplication in the Human Genome using Illumina BeadChip Arrays</title>
+      <link>https://cwcyau.github.io/publication/2006-01-01_holmes2006bayesian/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2006-01-01_holmes2006bayesian/</guid>
+      <description></description>
     </item>
     
   </channel>

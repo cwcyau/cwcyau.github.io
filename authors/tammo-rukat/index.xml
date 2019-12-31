@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tammo Rukat | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/tammo-rukat/</link>
+      <atom:link href="https://cwcyau.github.io/authors/tammo-rukat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tammo Rukat</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Tammo Rukat</title>
+      <link>https://cwcyau.github.io/authors/tammo-rukat/</link>
+    </image>
+    
+    <item>
+      <title>Probabilistic Boolean Tensor Decomposition</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_rukat2018probabilistic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_rukat2018probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Boolean matrix factorisation</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_rukat2017bayesian/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_rukat2017bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
