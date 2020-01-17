@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | AI4Health</title>
+    <link>https://cwcyau.github.io/publication_types/1/</link>
+      <atom:link href="https://cwcyau.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://cwcyau.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Decomposing feature-level variation with Covariate Gaussian Process Latent Variable Models</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_martens2019decomposing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_martens2019decomposing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MixDir: Scalable Bayesian Clustering for High-Dimensional Categorical Data</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_ahlmann2018mixdir/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_ahlmann2018mixdir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Boolean Tensor Decomposition</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_rukat2018probabilistic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_rukat2018probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Boolean matrix factorisation</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_rukat2017bayesian/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_rukat2017bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Testing and learning on distributions with symmetric noise invariance</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_law2017testing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_law2017testing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamming ball auxiliary sampling for factorial hidden Markov models</title>
+      <link>https://cwcyau.github.io/publication/2014-01-01_aueb2014hamming/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2014-01-01_aueb2014hamming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive genome-wide analysis of CLL samples from UK 1st line and relapsed/refractory clinical trials</title>
+      <link>https://cwcyau.github.io/publication/2013-01-01_robbe2013comprehensive/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2013-01-01_robbe2013comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative image analysis of chromosome dynamics in early Drosophila embryos</title>
+      <link>https://cwcyau.github.io/publication/2007-01-01_yau2007quantitative/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2007-01-01_yau2007quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hidden Markov Models for Detecting Regions of Deletion and Duplication in the Human Genome using Illumina BeadChip Arrays</title>
+      <link>https://cwcyau.github.io/publication/2006-01-01_holmes2006bayesian/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2006-01-01_holmes2006bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

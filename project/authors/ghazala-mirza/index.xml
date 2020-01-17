@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ghazala Mirza | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/ghazala-mirza/</link>
+      <atom:link href="https://cwcyau.github.io/authors/ghazala-mirza/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ghazala Mirza</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Ghazala Mirza</title>
+      <link>https://cwcyau.github.io/authors/ghazala-mirza/</link>
+    </image>
+    
+    <item>
+      <title>A statistical approach for detecting genomic aberrations in heterogeneous tumor samples from single nucleotide polymorphism genotyping data</title>
+      <link>https://cwcyau.github.io/publication/2010-01-01_yau2010statistical/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2010-01-01_yau2010statistical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QuantiSNP: an Objective Bayes Hidden-Markov Model to detect and accurately map copy number variation using SNP genotyping data</title>
+      <link>https://cwcyau.github.io/publication/2007-01-01_colella2007quantisnp/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2007-01-01_colella2007quantisnp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

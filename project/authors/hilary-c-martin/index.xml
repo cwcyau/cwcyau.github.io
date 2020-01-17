@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hilary C Martin | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/hilary-c-martin/</link>
+      <atom:link href="https://cwcyau.github.io/authors/hilary-c-martin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hilary C Martin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Hilary C Martin</title>
+      <link>https://cwcyau.github.io/authors/hilary-c-martin/</link>
+    </image>
+    
+    <item>
+      <title>Defective tubulin detyrosination causes structural brain abnormalities with cognitive deficiency in humans and mice</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_pagnamenta2019defective/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_pagnamenta2019defective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Factors influencing success of clinical genome sequencing across a broad spectrum of disorders</title>
+      <link>https://cwcyau.github.io/publication/2015-01-01_taylor2015factors/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2015-01-01_taylor2015factors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

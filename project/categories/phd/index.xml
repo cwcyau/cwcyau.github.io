@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phd | AI4Health</title>
+    <link>https://cwcyau.github.io/categories/phd/</link>
+      <atom:link href="https://cwcyau.github.io/categories/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>phd</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>phd</title>
+      <link>https://cwcyau.github.io/categories/phd/</link>
+    </image>
+    
+    <item>
+      <title>HDRUK-Turing PhD programme</title>
+      <link>https://cwcyau.github.io/post/2019-09-12_hdruk/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2019-09-12_hdruk/</guid>
+      <description>&lt;p&gt;The Wellcome Trust have funded a new HDRUK-Turing Wellcome PhD programme in Health Data Science which will be jointly directed by Christopher Yau. Applications for entry October 2020 coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

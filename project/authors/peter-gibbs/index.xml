@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Peter Gibbs | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/peter-gibbs/</link>
+      <atom:link href="https://cwcyau.github.io/authors/peter-gibbs/index.xml" rel="self" type="application/rss+xml" />
+    <description>Peter Gibbs</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Peter Gibbs</title>
+      <link>https://cwcyau.github.io/authors/peter-gibbs/</link>
+    </image>
+    
+    <item>
+      <title>Analysis of colorectal cancers in British Bangladeshi identifies early onset, frequent mucinous histotype and a high prevalence of RBFOX1 deletion</title>
+      <link>https://cwcyau.github.io/publication/2013-01-01_sengupta2013analysis/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2013-01-01_sengupta2013analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Survival in stage II/III colorectal cancer is independently predicted by chromosomal and microsatellite instability, but not by specific driver mutations</title>
+      <link>https://cwcyau.github.io/publication/2013-01-01_mouradov2013survival/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2013-01-01_mouradov2013survival/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

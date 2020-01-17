@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abdulkhaliq Alsaadi | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/abdulkhaliq-alsaadi/</link>
+      <atom:link href="https://cwcyau.github.io/authors/abdulkhaliq-alsaadi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abdulkhaliq Alsaadi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Abdulkhaliq Alsaadi</title>
+      <link>https://cwcyau.github.io/authors/abdulkhaliq-alsaadi/</link>
+    </image>
+    
+    <item>
+      <title>Deep single-cell RNA-seq of the putative cell of origin revealed a novel molecular subtype of high-grade serous ovarian cancer with poor prognosis</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_hu2019deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_hu2019deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_hu2019repertoire/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_hu2019repertoire/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Representation Learning | AI4Health</title>
+    <link>https://cwcyau.github.io/tags/representation-learning/</link>
+      <atom:link href="https://cwcyau.github.io/tags/representation-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Representation Learning</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Representation Learning</title>
+      <link>https://cwcyau.github.io/tags/representation-learning/</link>
+    </image>
+    
+    <item>
+      <title>The Automatic BioData Scientist</title>
+      <link>https://cwcyau.github.io/project/neural-odes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/neural-odes/</guid>
+      <description>&lt;p&gt;Mathematical models of disease evolution seek to specify the complex mechanistic relationships between many measurable quantities over space and time. However, as our capability to generate experimental data improves, our ability to conceive of appropriate mathematical descriptions to describe biological phenomena has become a bottleneck.&lt;/p&gt;
+&lt;p&gt;The goal of machine learning is to “learn” complex dependencies automatically within data sets.  Neural networks (NNs) have been at the forefront of recent advances by offering a means of parametrising complex functional mapping between data and its representations.&lt;/p&gt;
+&lt;p&gt;Novel computational machinery have enabled NN approaches to scale to the analysis of unprecedently large datasets and provide versatility over standard modelling approaches. However, despite their successes in a range of applications, in biomedical research, NNs are often derided for their “black box” discoveries, lack of interpretability and the need for unrealistic quantities of training data. Such criticisms often overlook the fact that default NN structures express no explicit assumptions about the problems on which they are applied and they are often used as generic data mining devices for discovery purposes.&lt;/p&gt;
+&lt;p&gt;Nonetheless, there is a clear opportunity for the development of novel NN approaches that combine scalability and versatility with the capability of learning the physically realistic constraints that are embedded in hand-crafted mathematical models.&lt;/p&gt;
+&lt;p&gt;This project seeks to investigate the methodological foundations for what could form an &lt;em&gt;Automated BioData Scientist&lt;/em&gt; (AutoBioDataSci) platform. We would like to develop learning algorithms that can capture biological laws and encapsulate them in such a way that such knowledge can be transfer to new problems. This major project involves inter-linking representation learning theory with transfer and meta-learning as well as having its roots embedded in the biological scientific discovery process.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/danks/&#34;&gt;Dominic Danks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/kaspar/&#34;&gt;Kaspar Maertens&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
