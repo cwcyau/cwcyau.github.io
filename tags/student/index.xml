@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>machine learning | AI4Health</title>
-    <link>https://cwcyau.github.io/categories/machine-learning/</link>
-      <atom:link href="https://cwcyau.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
-    <description>machine learning</description>
+    <title>student | AI4Health</title>
+    <link>https://cwcyau.github.io/tags/student/</link>
+      <atom:link href="https://cwcyau.github.io/tags/student/index.xml" rel="self" type="application/rss+xml" />
+    <description>student</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
-      <title>machine learning</title>
-      <link>https://cwcyau.github.io/categories/machine-learning/</link>
+      <title>student</title>
+      <link>https://cwcyau.github.io/tags/student/</link>
     </image>
     
     <item>
@@ -18,15 +18,6 @@
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2020-01-17_kaspar/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/kaspar&#34;&gt;Kaspar Martens&lt;/a&gt; who has had two papers accepted into &lt;a href=&#34;https://www.aistats.org/&#34;&gt;AISTATS 2020&lt;/a&gt;. Papers to be published soon.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>ICML 2019 SUCCESS!</title>
-      <link>https://cwcyau.github.io/post/2019-07-01_icml/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2019-07-01_icml/</guid>
-      <description>&lt;p&gt;A paper by Kaspar Martens and group alumni Kieran Campbell Covariate GPLVM has been accepted for presentation at the International Conference on Machine Learning.&lt;/p&gt;
 </description>
     </item>
     

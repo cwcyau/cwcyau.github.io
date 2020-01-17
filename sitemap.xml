@@ -4,12 +4,72 @@
   
   <url>
     <loc>https://cwcyau.github.io/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2020-01-17_kaspar/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/categories/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/conference/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/conference/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/kaspar-martens/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/machine-learning/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/machine-learning/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/publication/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/publication/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/student/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/student/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,16 +79,6 @@
   
   <url>
     <loc>https://cwcyau.github.io/categories/health-data/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/post/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -68,37 +118,17 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/phd/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cwcyau.github.io/categories/phd/</loc>
     <lastmod>2019-09-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://cwcyau.github.io/tags/phd/</loc>
+    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cwcyau.github.io/post/2019-07-01_icml/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/machine-learning/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/categories/machine-learning/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/categories/publication/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/publication/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url>
   

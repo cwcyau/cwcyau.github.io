@@ -5,12 +5,52 @@
     <link>https://cwcyau.github.io/tags/</link>
       <atom:link href="https://cwcyau.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>https://cwcyau.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>conference</title>
+      <link>https://cwcyau.github.io/tags/conference/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kaspar Martens</title>
+      <link>https://cwcyau.github.io/tags/kaspar-martens/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/kaspar-martens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://cwcyau.github.io/tags/machine-learning/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publication</title>
+      <link>https://cwcyau.github.io/tags/publication/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>student</title>
+      <link>https://cwcyau.github.io/tags/student/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/student/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>health data</title>
@@ -49,22 +89,6 @@
       <link>https://cwcyau.github.io/tags/phd/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/tags/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>https://cwcyau.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>publication</title>
-      <link>https://cwcyau.github.io/tags/publication/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/tags/publication/</guid>
       <description></description>
     </item>
     
