@@ -5,7 +5,7 @@
     <link>https://cwcyau.github.io/authors/</link>
       <atom:link href="https://cwcyau.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,8 +15,88 @@
     <item>
       <title>Abdulkhaliq Alsaadi</title>
       <link>https://cwcyau.github.io/authors/abdulkhaliq-alsaadi/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/authors/abdulkhaliq-alsaadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Garry Mallett</title>
+      <link>https://cwcyau.github.io/authors/garry-mallett/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/authors/garry-mallett/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Laura Santana Gonzalez</title>
+      <link>https://cwcyau.github.io/authors/laura-santana-gonzalez/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/authors/laura-santana-gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mara Artibani</title>
+      <link>https://cwcyau.github.io/authors/mara-artibani/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/authors/mara-artibani/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matteo Morotti</title>
+      <link>https://cwcyau.github.io/authors/matteo-morotti/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/authors/matteo-morotti/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad KaramiNejadRanjbar</title>
+      <link>https://cwcyau.github.io/authors/mohammad-karaminejadranjbar/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/authors/mohammad-karaminejadranjbar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nina Wietek</title>
+      <link>https://cwcyau.github.io/authors/nina-wietek/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/authors/nina-wietek/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salma El-Sahhar</title>
+      <link>https://cwcyau.github.io/authors/salma-el-sahhar/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/authors/salma-el-sahhar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tingyan Shi</title>
+      <link>https://cwcyau.github.io/authors/tingyan-shi/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/authors/tingyan-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhiyuan Hu</title>
+      <link>https://cwcyau.github.io/authors/zhiyuan-hu/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/authors/zhiyuan-hu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>{others}</title>
+      <link>https://cwcyau.github.io/authors/others/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/authors/others/</guid>
       <description></description>
     </item>
     
@@ -113,14 +193,6 @@
       <link>https://cwcyau.github.io/authors/florian-markowetz/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/authors/florian-markowetz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Garry Mallett</title>
-      <link>https://cwcyau.github.io/authors/garry-mallett/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/authors/garry-mallett/</guid>
       <description></description>
     </item>
     
@@ -237,14 +309,6 @@
     </item>
     
     <item>
-      <title>Laura Santana Gonzalez</title>
-      <link>https://cwcyau.github.io/authors/laura-santana-gonzalez/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/authors/laura-santana-gonzalez/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lavinia Ferrante {Di Ruffano}</title>
       <link>https://cwcyau.github.io/authors/lavinia-ferrante-di-ruffano/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -277,14 +341,6 @@
     </item>
     
     <item>
-      <title>Mara Artibani</title>
-      <link>https://cwcyau.github.io/authors/mara-artibani/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/authors/mara-artibani/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Mark R Middleton</title>
       <link>https://cwcyau.github.io/authors/mark-r-middleton/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -301,14 +357,6 @@
     </item>
     
     <item>
-      <title>Matteo Morotti</title>
-      <link>https://cwcyau.github.io/authors/matteo-morotti/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/authors/matteo-morotti/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Michael Howell</title>
       <link>https://cwcyau.github.io/authors/michael-howell/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -321,22 +369,6 @@
       <link>https://cwcyau.github.io/authors/michael-l-dustin/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/authors/michael-l-dustin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mohammad KaramiNejadRanjbar</title>
-      <link>https://cwcyau.github.io/authors/mohammad-karaminejadranjbar/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/authors/mohammad-karaminejadranjbar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nina Wietek</title>
-      <link>https://cwcyau.github.io/authors/nina-wietek/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/authors/nina-wietek/</guid>
       <description></description>
     </item>
     
@@ -361,14 +393,6 @@
       <link>https://cwcyau.github.io/authors/pierre-heemeryck/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/authors/pierre-heemeryck/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Salma El-Sahhar</title>
-      <link>https://cwcyau.github.io/authors/salma-el-sahhar/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/authors/salma-el-sahhar/</guid>
       <description></description>
     </item>
     
@@ -421,14 +445,6 @@
     </item>
     
     <item>
-      <title>Tingyan Shi</title>
-      <link>https://cwcyau.github.io/authors/tingyan-shi/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/authors/tingyan-shi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Wayne Croft</title>
       <link>https://cwcyau.github.io/authors/wayne-croft/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
@@ -441,22 +457,6 @@
       <link>https://cwcyau.github.io/authors/xiaoxuan-liu/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/authors/xiaoxuan-liu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhiyuan Hu</title>
-      <link>https://cwcyau.github.io/authors/zhiyuan-hu/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/authors/zhiyuan-hu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>{others}</title>
-      <link>https://cwcyau.github.io/authors/others/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/authors/others/</guid>
       <description></description>
     </item>
     

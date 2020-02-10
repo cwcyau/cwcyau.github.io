@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cancer | AI4Health</title>
+    <link>https://cwcyau.github.io/categories/cancer/</link>
+      <atom:link href="https://cwcyau.github.io/categories/cancer/index.xml" rel="self" type="application/rss+xml" />
+    <description>cancer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>cancer</title>
+      <link>https://cwcyau.github.io/categories/cancer/</link>
+    </image>
+    
+    <item>
+      <title>Cancer Cell Publication</title>
+      <link>https://cwcyau.github.io/post/2020-02-20_cancercell/</link>
+      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-02-20_cancercell/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/hu&#34;&gt;Zhiyuan Hu&lt;/a&gt; whose paper on the &amp;ldquo;The Repertoire of Serous Ovarian Cancer Non-genetic Heterogeneity Revealed by Single-Cell Sequencing of Normal Fallopian Tube Epithelial Cells&amp;rdquo; has been published in &lt;a href=&#34;https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30042-8&#34;&gt;Cancer Cell&lt;/a&gt;. Read press coverage by the &lt;a href=&#34;https://www.dailymail.co.uk/health/article-7987639/Ovarian-cancer-hope-discovery-six-types-cell-trigger-silent-killer.html&#34;&gt;Daily Mail&lt;/a&gt; and the press release by the main funders &lt;a href=&#34;https://ovarian.org.uk/news-and-blog/news/ovarian-cancer-action-scientists-closer-finding-cell-origin-ovarian-cancer/&#34;&gt;Ovarian Cancer Action&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
