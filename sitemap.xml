@@ -73,12 +73,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/publication/</loc>
+    <loc>https://cwcyau.github.io/tags/publication/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/publication/</loc>
+    <loc>https://cwcyau.github.io/categories/publication/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,12 +123,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/zhiyuan-hu/</loc>
+    <loc>https://cwcyau.github.io/authors/zhiyuan-hu/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/authors/zhiyuan-hu/</loc>
+    <loc>https://cwcyau.github.io/tags/zhiyuan-hu/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,12 +143,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/conference/</loc>
+    <loc>https://cwcyau.github.io/categories/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/conference/</loc>
+    <loc>https://cwcyau.github.io/tags/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,12 +158,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/machine-learning/</loc>
+    <loc>https://cwcyau.github.io/categories/machine-learning/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/machine-learning/</loc>
+    <loc>https://cwcyau.github.io/tags/machine-learning/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -1882,11 +1882,19 @@
   </url>
   
   <url>
+    <loc>https://cwcyau.github.io/authors/gunther/</loc>
+  </url>
+  
+  <url>
     <loc>https://cwcyau.github.io/authors/hu/</loc>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/authors/kaspar/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/authors/kim/</loc>
   </url>
   
   <url>

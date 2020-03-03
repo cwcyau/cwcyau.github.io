@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.6.3">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
 
   
 
@@ -51,7 +51,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -76,6 +76,13 @@
     
 
     
+    
+      
+
+      
+      
+
+      
     
       
 
@@ -208,13 +215,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -224,7 +233,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -243,11 +252,12 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://cwcyau.github.io/">
 
+  
   
   
   
@@ -264,8 +274,8 @@
   <meta property="og:site_name" content="AI4Health">
   <meta property="og:url" content="https://cwcyau.github.io/">
   <meta property="og:title" content="AI4Health">
-  <meta property="og:description" content="Artificial Intelligence and Data Science for Health Research Group led by Professor Christopher Yau."><meta property="og:image" content="https://cwcyau.github.io/img/icon-192.png">
-  <meta property="twitter:image" content="https://cwcyau.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Artificial Intelligence and Data Science for Health Research Group led by Professor Christopher Yau."><meta property="og:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-02-10T00:00:00&#43;00:00">
   
@@ -337,6 +347,12 @@
 
 
   
+
+
+
+
+
+
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -835,7 +851,8 @@
       
     
     
-      <a href="/authors/admin/"><img class="portrait" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/admin/"><img class="avatar avatar-circle" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -869,7 +886,8 @@
       
     
     
-      <a href="/authors/danks/"><img class="portrait" src="/authors/danks/avatar_hu819807becae730ca107229190c90596a_53775_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/danks/"><img class="avatar avatar-circle" src="/authors/danks/avatar_hu819807becae730ca107229190c90596a_53775_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -893,7 +911,8 @@
       
     
     
-      <a href="/authors/feng/"><img class="portrait" src="/authors/feng/avatar_hue55f497b7524ef4738690690bd76ee6d_25684_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/feng/"><img class="avatar avatar-circle" src="/authors/feng/avatar_hue55f497b7524ef4738690690bd76ee6d_25684_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -917,14 +936,15 @@
       
     
     
-      <a href="/authors/hu/"><img class="portrait" src="/authors/hu/avatar_hu17900ef8fe202c42e63f0f5cb70efb22_32796_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/gunther/"><img class="avatar avatar-circle" src="/authors/gunther/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
-      <h2><a href="/authors/hu/">Zhiyuan Hu</a></h2>
-      <h3>Postdoctoral Researcher</h3>
+      <h2><a href="/authors/gunther/">Franziska Gunther</a></h2>
+      <h3>Grad Student</h3>
       
-      <p class="people-interests">Cancer Genomics, Ovarian Cancer</p>
+      <p class="people-interests">Psychology, Digital Health</p>
     </div>
   </div>
   
@@ -941,7 +961,8 @@
       
     
     
-      <a href="/authors/kaspar/"><img class="portrait" src="/authors/kaspar/avatar_hu1dc00e2f34058b4897a922d2813eb663_26082_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/kaspar/"><img class="avatar avatar-circle" src="/authors/kaspar/avatar_hu1dc00e2f34058b4897a922d2813eb663_26082_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -965,7 +986,33 @@
       
     
     
-      <a href="/authors/misetic/"><img class="portrait" src="/authors/misetic/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/kim/"><img class="avatar avatar-circle" src="/authors/kim/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/kim/">Woojung Kim</a></h2>
+      <h3>Grad Student</h3>
+      
+      <p class="people-interests">Bayesian Statistics, Machine Learning</p>
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/authors/misetic/"><img class="avatar avatar-circle" src="/authors/misetic/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -989,7 +1036,8 @@
       
     
     
-      <a href="/authors/rana/"><img class="portrait" src="/authors/rana/avatar_hu8fcb8822796edd33d4b95a48eb6bc366_7998_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/rana/"><img class="avatar avatar-circle" src="/authors/rana/avatar_hu8fcb8822796edd33d4b95a48eb6bc366_7998_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1035,7 +1083,33 @@
       
     
     
-      <a href="/authors/nulsen/"><img class="portrait" src="/authors/nulsen/avatar_hu7c5a217107f9ce43a95c0eecd4124145_39986_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/hu/"><img class="avatar avatar-circle" src="/authors/hu/avatar_hu17900ef8fe202c42e63f0f5cb70efb22_32796_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/authors/hu/">Zhiyuan Hu</a></h2>
+      <h3>Postdoctoral Researcher</h3>
+      
+      <p class="people-interests">Cancer Genomics, Ovarian Cancer</p>
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/authors/nulsen/"><img class="avatar avatar-circle" src="/authors/nulsen/avatar_hu7c5a217107f9ce43a95c0eecd4124145_39986_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1075,7 +1149,8 @@
       
     
     
-      <a href="/authors/campbell/"><img class="portrait" src="/authors/campbell/avatar_hud54a2da8924de29a4f5580b4e345e3a5_17957_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/campbell/"><img class="avatar avatar-circle" src="/authors/campbell/avatar_hud54a2da8924de29a4f5580b4e345e3a5_17957_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1099,7 +1174,8 @@
       
     
     
-      <a href="/authors/constantin/"><img class="portrait" src="/authors/constantin/avatar_hu1b9bba4deb0d8194ed4b2d4b8509b0a5_21282_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/constantin/"><img class="avatar avatar-circle" src="/authors/constantin/avatar_hu1b9bba4deb0d8194ed4b2d4b8509b0a5_21282_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1123,7 +1199,8 @@
       
     
     
-      <a href="/authors/doni/"><img class="portrait" src="/authors/doni/avatar_hu81521c5c913b1a3a351760c8af9cf663_21103_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/doni/"><img class="avatar avatar-circle" src="/authors/doni/avatar_hu81521c5c913b1a3a351760c8af9cf663_21103_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1147,7 +1224,8 @@
       
     
     
-      <a href="/authors/kirk/"><img class="portrait" src="/authors/kirk/avatar_hu84a77086283056e4a8511991564a46c0_15862_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/kirk/"><img class="avatar avatar-circle" src="/authors/kirk/avatar_hu84a77086283056e4a8511991564a46c0_15862_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1171,7 +1249,8 @@
       
     
     
-      <a href="/authors/law/"><img class="portrait" src="/authors/law/avatar_hu9086ba57f758cf4351a1f1e5db9c284e_8140_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/law/"><img class="avatar avatar-circle" src="/authors/law/avatar_hu9086ba57f758cf4351a1f1e5db9c284e_8140_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1195,7 +1274,8 @@
       
     
     
-      <a href="/authors/pierson/"><img class="portrait" src="/authors/pierson/avatar_hud1ec1e67a15fdd9cfd9c6f8ecf13a989_260222_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/pierson/"><img class="avatar avatar-circle" src="/authors/pierson/avatar_hud1ec1e67a15fdd9cfd9c6f8ecf13a989_260222_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1219,7 +1299,8 @@
       
     
     
-      <a href="/authors/rukat/"><img class="portrait" src="/authors/rukat/avatar_hufe8a149209f3167caf23ed6ad9ac4a6e_24875_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/rukat/"><img class="avatar avatar-circle" src="/authors/rukat/avatar_hufe8a149209f3167caf23ed6ad9ac4a6e_24875_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1243,7 +1324,8 @@
       
     
     
-      <a href="/authors/siyu/"><img class="portrait" src="/authors/siyu/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_75503_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/siyu/"><img class="avatar avatar-circle" src="/authors/siyu/avatar_hu535661bce2c742bf7a0f6a055ac0b6d1_75503_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1267,7 +1349,8 @@
       
     
     
-      <a href="/authors/zhang/"><img class="portrait" src="/authors/zhang/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/zhang/"><img class="avatar avatar-circle" src="/authors/zhang/avatar_hu52a603635ecebd45650b162dadabb4e5_12861_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -1291,7 +1374,8 @@
       
     
     
-      <a href="/authors/zurauskiene/"><img class="portrait" src="/authors/zurauskiene/avatar_hu4060f07e05fce48d14a37246455c9de6_50032_150x150_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
+      
+      <a href="/authors/zurauskiene/"><img class="avatar avatar-circle" src="/authors/zurauskiene/avatar_hu4060f07e05fce48d14a37246455c9de6_50032_270x270_fill_q90_lanczos_center.jpg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
@@ -3748,14 +3832,18 @@
 <h2 id="phd">PhD</h2>
 <p>Admissions are currently being taken through the following study programmes at the University of Manchester, please see the websites for more details:</p>
 <ul>
-<li><a href="https://www.manchester.ac.uk/study/postgraduate-research/funding/">University of Manchester Doctoral Training Programmes</a></li>
-<li><a href="https://www.bmh.manchester.ac.uk/study/research/financial-support/csc-scholarship/">China Scholarship Council</a></li>
-<li><a href="https://www.hdruk.ac.uk/talent-training/hdr-uk-turing-phd-programme-funded-by-the-wellcome-trust/">Wellcome PhD Programme in Health Data Science</a></li>
+<li>
+<a href="https://www.manchester.ac.uk/study/postgraduate-research/funding/" target="_blank" rel="noopener">University of Manchester Doctoral Training Programmes</a></li>
+<li>
+<a href="https://www.bmh.manchester.ac.uk/study/research/financial-support/csc-scholarship/" target="_blank" rel="noopener">China Scholarship Council</a></li>
+<li>
+<a href="https://www.hdruk.ac.uk/talent-training/hdr-uk-turing-phd-programme-funded-by-the-wellcome-trust/" target="_blank" rel="noopener">Wellcome PhD Programme in Health Data Science</a></li>
 </ul>
 <p>Potential applicants are encouraged to contact the Principal Investigator before making applications.</p>
 <h2 id="affiliates--visitors">Affiliates / Visitors</h2>
 <p>If your study programme involves external laboratory placements then we would be very interested to see how we can host and support a visit to our group. We have welcomed numerous visitors from across the world over the years. Contact the Principal Investigator for further information.</p>
-<p>The Alan Turing Institute provides an <a href="https://www.turing.ac.uk/work-turing/studentships/enrichment">Enrichment programme</a> that allows students to take up to a year of their PhD to be based in London at the Turing Institute. If you would like to apply for the Enrichment scheme and to work with the group during the placement then contact the Principal Investigator.</p>
+<p>The Alan Turing Institute provides an 
+<a href="https://www.turing.ac.uk/work-turing/studentships/enrichment" target="_blank" rel="noopener">Enrichment programme</a> that allows students to take up to a year of their PhD to be based in London at the Turing Institute. If you would like to apply for the Enrichment scheme and to work with the group during the placement then contact the Principal Investigator.</p>
 
     </div>
   
@@ -3933,6 +4021,11 @@
 
     
     
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
     
     
     
@@ -3993,7 +4086,7 @@
     
     
     
-    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
+    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
 
     
 
