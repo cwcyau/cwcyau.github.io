@@ -4,12 +4,47 @@
   
   <url>
     <loc>https://cwcyau.github.io/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/artificial-intelligence/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/artificial-intelligence/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/categories/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/genomics/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/genomics/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2020-05-23_phg/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,22 +58,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/post/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/categories/student/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cwcyau.github.io/tags/student/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/</loc>
+    <loc>https://cwcyau.github.io/categories/student/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -98,12 +123,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/publication/</loc>
+    <loc>https://cwcyau.github.io/categories/publication/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/publication/</loc>
+    <loc>https://cwcyau.github.io/tags/publication/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,12 +178,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/conference/</loc>
+    <loc>https://cwcyau.github.io/tags/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/conference/</loc>
+    <loc>https://cwcyau.github.io/categories/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -359,11 +384,6 @@
   
   <url>
     <loc>https://cwcyau.github.io/authors/florian-markowetz/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/genomics/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   

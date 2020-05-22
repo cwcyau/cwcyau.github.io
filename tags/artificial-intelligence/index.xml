@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>artificial intelligence | AI4Health</title>
+    <link>https://cwcyau.github.io/tags/artificial-intelligence/</link>
+      <atom:link href="https://cwcyau.github.io/tags/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <description>artificial intelligence</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>artificial intelligence</title>
+      <link>https://cwcyau.github.io/tags/artificial-intelligence/</link>
+    </image>
+    
+    <item>
+      <title>PHG Foundation - Artificial intelligence for genomic medicine</title>
+      <link>https://cwcyau.github.io/post/2020-05-23_phg/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-05-23_phg/</guid>
+      <description>&lt;p&gt;The PHG Foundation has published a report on 
+&lt;a href=&#34;https://www.phgfoundation.org/blog/genomics-and-artificial-intelligence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial intelligence for genomic medicine&lt;/a&gt;. Christopher Yau is very pleased to have been able to share his experience and insight into the subjects covered in this report.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

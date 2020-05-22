@@ -5,19 +5,42 @@
     <link>https://cwcyau.github.io/tags/student/</link>
       <atom:link href="https://cwcyau.github.io/tags/student/index.xml" rel="self" type="application/rss+xml" />
     <description>student</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 26 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>student</title>
       <link>https://cwcyau.github.io/tags/student/</link>
     </image>
+    
+    <item>
+      <title>PhD Opportunities 2020/21</title>
+      <link>https://cwcyau.github.io/post/2020-03-26_phd/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-03-26_phd/</guid>
+      <description>&lt;p&gt;There are two new funded PhD opportunities for UK/EU students available to join my group for the academic year 2020/21:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.findaphd.com/phds/project/epsrc-dtp-explainable-ai-for-multimodal-data-integration-in-biomedical-applications/?p120593&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explainable AI for Multimodal Data Integration in Biomedical Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This project will seek to develop explainable probabilistic machine learning methods for multimodal data integration for biomedical applications. We will consider a number of theoretical and practical issues with data integration and explainable AI and develop robust statistically sound solutions to these research problems.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://drive-health.org/apply/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-omics data integration for patient stratification in cancer clinical trials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This project aims to integrate these different types of data to derive correlative maps of the dynamic interplay in space and time between immune and tumour heterogeneity. The resulting molecular maps will then be associated with patient clinical data and response to treatment allowing to (1) identify key molecular players of resistance, reveal mechanistic insights and develop biomarkers of response and (2) inform strategies based on these biomarkers to prevent the onset of resistance and convert cold tumours into hot tumours responsive to immunotherapy.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Cancer Cell Publication</title>
       <link>https://cwcyau.github.io/post/2020-02-20_cancercell/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2020-02-20_cancercell/</guid>
-      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/hu&#34;&gt;Zhiyuan Hu&lt;/a&gt; whose paper on the &amp;ldquo;The Repertoire of Serous Ovarian Cancer Non-genetic Heterogeneity Revealed by Single-Cell Sequencing of Normal Fallopian Tube Epithelial Cells&amp;rdquo; has been published in &lt;a href=&#34;https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30042-8&#34;&gt;Cancer Cell&lt;/a&gt;. Read press coverage by the &lt;a href=&#34;https://www.dailymail.co.uk/health/article-7987639/Ovarian-cancer-hope-discovery-six-types-cell-trigger-silent-killer.html&#34;&gt;Daily Mail&lt;/a&gt; and the press release by the main funders &lt;a href=&#34;https://ovarian.org.uk/news-and-blog/news/ovarian-cancer-action-scientists-closer-finding-cell-origin-ovarian-cancer/&#34;&gt;Ovarian Cancer Action&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Congratulations to 
+&lt;a href=&#34;../../authors/hu&#34;&gt;Zhiyuan Hu&lt;/a&gt; whose paper on the &amp;ldquo;The Repertoire of Serous Ovarian Cancer Non-genetic Heterogeneity Revealed by Single-Cell Sequencing of Normal Fallopian Tube Epithelial Cells&amp;rdquo; has been published in 
+&lt;a href=&#34;https://www.cell.com/cancer-cell/fulltext/S1535-6108%2820%2930042-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cancer Cell&lt;/a&gt;. Read press coverage by the 
+&lt;a href=&#34;https://www.dailymail.co.uk/health/article-7987639/Ovarian-cancer-hope-discovery-six-types-cell-trigger-silent-killer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daily Mail&lt;/a&gt; and the press release by the main funders 
+&lt;a href=&#34;https://ovarian.org.uk/news-and-blog/news/ovarian-cancer-action-scientists-closer-finding-cell-origin-ovarian-cancer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Action&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -26,7 +49,9 @@
       <link>https://cwcyau.github.io/post/2020-01-17_kaspar/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2020-01-17_kaspar/</guid>
-      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/kaspar&#34;&gt;Kaspar Martens&lt;/a&gt; who has had two papers accepted into &lt;a href=&#34;https://www.aistats.org/&#34;&gt;AISTATS 2020&lt;/a&gt;. Papers to be published soon.&lt;/p&gt;
+      <description>&lt;p&gt;Congratulations to 
+&lt;a href=&#34;../../authors/kaspar&#34;&gt;Kaspar Martens&lt;/a&gt; who has had two papers accepted into 
+&lt;a href=&#34;https://www.aistats.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2020&lt;/a&gt;. Papers to be published soon.&lt;/p&gt;
 </description>
     </item>
     

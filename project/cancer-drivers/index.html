@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.6.3">
+  <meta name="generator" content="Source Themes Academic 4.7.0">
 
   
 
@@ -51,7 +51,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -76,6 +76,13 @@
     
 
     
+    
+      
+
+      
+      
+
+      
     
       
 
@@ -208,13 +215,15 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url) {
+  function trackOutboundLink(url, target) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           document.location = url;
+           if (target !== '_blank') {
+             document.location = url;
+           }
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -224,7 +233,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target);  
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
   }
 
   gtag('js', new Date());
@@ -241,11 +250,12 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/img/icon-32.png">
-  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
+  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
+  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
   <link rel="canonical" href="https://cwcyau.github.io/project/cancer-drivers/">
 
+  
   
   
   
@@ -283,8 +293,6 @@
 
 
 
-
-
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -312,7 +320,7 @@
     "name": "Artificial Intelligence and Data Science for Health",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://cwcyau.github.io/img/icon-512.png"
+      "url": "https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
     }
   },
   "description": "Identification of cancer-promoting genetic alterations using genome sequencing and machine learning."
@@ -372,6 +380,12 @@
 
 
   
+
+
+
+
+
+
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -728,11 +742,15 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>The identification of cancer-promoting genetic alterations is challenging particularly in highly unstable and heterogeneous cancers. In collaboration with <a href="https://www.crick.ac.uk/research/labs/francesca-ciccarelli">Ciccarelli Lab</a> at the <a href="https://www.crick.ac.uk/">Francis Crick Institute</a> we have developed a machine learning algorithm to identify cancer genes in individual patients considering all types of damaging alterations simultaneously. Analysing 261 EACs from the OCCAMS Consortium, we discover helper genes that, alongside well-known drivers, promote cancer. We confirm the robustness of our approach in 107 additional EACs. Unlike recurrent alterations of known drivers, these cancer helper genes are rare or patient-specific. However, they converge towards perturbations of well-known cancer processes. Recurrence of the same process perturbations, rather than individual genes, divides EACs into six clusters differing in their molecular and clinical features. Experimentally mimicking the alterations of predicted helper genes in cancer and pre-cancer cells validates their contribution to disease progression, while reverting their alterations reveals EAC acquired dependencies that can be exploited in therapy.</p>
+      <p>The identification of cancer-promoting genetic alterations is challenging particularly in highly unstable and heterogeneous cancers. In collaboration with 
+<a href="https://www.crick.ac.uk/research/labs/francesca-ciccarelli" target="_blank" rel="noopener">Ciccarelli Lab</a> at the 
+<a href="https://www.crick.ac.uk/" target="_blank" rel="noopener">Francis Crick Institute</a> we have developed a machine learning algorithm to identify cancer genes in individual patients considering all types of damaging alterations simultaneously. Analysing 261 EACs from the OCCAMS Consortium, we discover helper genes that, alongside well-known drivers, promote cancer. We confirm the robustness of our approach in 107 additional EACs. Unlike recurrent alterations of known drivers, these cancer helper genes are rare or patient-specific. However, they converge towards perturbations of well-known cancer processes. Recurrence of the same process perturbations, rather than individual genes, divides EACs into six clusters differing in their molecular and clinical features. Experimentally mimicking the alterations of predicted helper genes in cancer and pre-cancer cells validates their contribution to disease progression, while reverting their alterations reveals EAC acquired dependencies that can be exploited in therapy.</p>
 <p><em>Researchers:</em></p>
 <ul>
-<li><a href="/authors/nulsen/">Joel Nulsen</a></li>
-<li><a href="/authors/misetic//">Hrvoje Misetic</a></li>
+<li>
+<a href="/authors/nulsen/">Joel Nulsen</a></li>
+<li>
+<a href="/authors/misetic//">Hrvoje Misetic</a></li>
 </ul>
 
     </div>
@@ -863,10 +881,11 @@
     
   
   
+  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="portrait mr-3" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1025,6 +1044,11 @@
 
     
     
+    <script>const isSiteThemeDark = false;</script>
+    
+
+    
+    
     
     
     
@@ -1085,7 +1109,7 @@
     
     
     
-    <script src="/js/academic.min.600a2e440c16093e23e26e90951c4d4b.js"></script>
+    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
 
     
 

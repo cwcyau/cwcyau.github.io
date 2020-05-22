@@ -7,7 +7,7 @@
     <description>Bioinformatics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Bioinformatics</title>
       <link>https://cwcyau.github.io/tags/bioinformatics/</link>
     </image>
@@ -17,11 +17,15 @@
       <link>https://cwcyau.github.io/project/cancer-drivers/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/project/cancer-drivers/</guid>
-      <description>&lt;p&gt;The identification of cancer-promoting genetic alterations is challenging particularly in highly unstable and heterogeneous cancers. In collaboration with &lt;a href=&#34;https://www.crick.ac.uk/research/labs/francesca-ciccarelli&#34;&gt;Ciccarelli Lab&lt;/a&gt; at the &lt;a href=&#34;https://www.crick.ac.uk/&#34;&gt;Francis Crick Institute&lt;/a&gt; we have developed a machine learning algorithm to identify cancer genes in individual patients considering all types of damaging alterations simultaneously. Analysing 261 EACs from the OCCAMS Consortium, we discover helper genes that, alongside well-known drivers, promote cancer. We confirm the robustness of our approach in 107 additional EACs. Unlike recurrent alterations of known drivers, these cancer helper genes are rare or patient-specific. However, they converge towards perturbations of well-known cancer processes. Recurrence of the same process perturbations, rather than individual genes, divides EACs into six clusters differing in their molecular and clinical features. Experimentally mimicking the alterations of predicted helper genes in cancer and pre-cancer cells validates their contribution to disease progression, while reverting their alterations reveals EAC acquired dependencies that can be exploited in therapy.&lt;/p&gt;
+      <description>&lt;p&gt;The identification of cancer-promoting genetic alterations is challenging particularly in highly unstable and heterogeneous cancers. In collaboration with 
+&lt;a href=&#34;https://www.crick.ac.uk/research/labs/francesca-ciccarelli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ciccarelli Lab&lt;/a&gt; at the 
+&lt;a href=&#34;https://www.crick.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Francis Crick Institute&lt;/a&gt; we have developed a machine learning algorithm to identify cancer genes in individual patients considering all types of damaging alterations simultaneously. Analysing 261 EACs from the OCCAMS Consortium, we discover helper genes that, alongside well-known drivers, promote cancer. We confirm the robustness of our approach in 107 additional EACs. Unlike recurrent alterations of known drivers, these cancer helper genes are rare or patient-specific. However, they converge towards perturbations of well-known cancer processes. Recurrence of the same process perturbations, rather than individual genes, divides EACs into six clusters differing in their molecular and clinical features. Experimentally mimicking the alterations of predicted helper genes in cancer and pre-cancer cells validates their contribution to disease progression, while reverting their alterations reveals EAC acquired dependencies that can be exploited in therapy.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/nulsen/&#34;&gt;Joel Nulsen&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/misetic//&#34;&gt;Hrvoje Misetic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cwcyau.github.io/authors/nulsen/&#34;&gt;Joel Nulsen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cwcyau.github.io/authors/misetic//&#34;&gt;Hrvoje Misetic&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -31,14 +35,22 @@
       <link>https://cwcyau.github.io/project/ovarian-cancer/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/project/ovarian-cancer/</guid>
-      <description>&lt;p&gt;We are working with the &lt;a href=&#34;https://www.wrh.ox.ac.uk/research/ovarian-cancer&#34;&gt;Ovarian Cancer Cell Laboratory&lt;/a&gt; led by &lt;a href=&#34;https://www.wrh.ox.ac.uk/team/ahmed-ahmed&#34;&gt;Professor Ahmed Ahsour Ahmed&lt;/a&gt; to unlock the molecular mechanisms underlying high-grade serous ovarian cancer (HGSOC) using genomics and bioinformatics.&lt;/p&gt;
+      <description>&lt;p&gt;We are working with the 
+&lt;a href=&#34;https://www.wrh.ox.ac.uk/research/ovarian-cancer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Cell Laboratory&lt;/a&gt; led by 
+&lt;a href=&#34;https://www.wrh.ox.ac.uk/team/ahmed-ahmed&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Ahmed Ahsour Ahmed&lt;/a&gt; to unlock the molecular mechanisms underlying high-grade serous ovarian cancer (HGSOC) using genomics and bioinformatics.&lt;/p&gt;
 &lt;h2 id=&#34;premalignant-sox2-overexpression-in-the-fallopian-tubes-of-ovarian-cancer-patients&#34;&gt;Premalignant SOX2 overexpression in the fallopian tubes of ovarian cancer patients&lt;/h2&gt;
-&lt;p&gt;We have discovered premalignant overexpression of SOX2 in the fallopian tubes of ovarian cancer patients which was nearly ubiquitous in HGSOCs. This was also a common feature in women with BRCA1 and BRCA2 mutations prior to ovarian cancer initiation. Thus, our data has important implications for screening, although it will need additional clinical evaluation to test the feasibility of quantitative detection of SOX2 expression or the expression of its downstream targets for this purpose. You can read the original research paper &lt;a href=&#34;https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(16)30305-X/fulltext&#34;&gt;here&lt;/a&gt; as well as media reports &lt;a href=&#34;https://www.dailymail.co.uk/health/article-3712949/Ovarian-cancer-detected-deadly-Scientists-identify-key-enzyme-makes-disease-spread.html&#34;&gt;here&lt;/a&gt; and &lt;a href=&#34;https://www.telegraph.co.uk/science/2016/07/28/ovarian-cancer-test-on-horizon-as-scientists-find-earliest-signs/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We have discovered premalignant overexpression of SOX2 in the fallopian tubes of ovarian cancer patients which was nearly ubiquitous in HGSOCs. This was also a common feature in women with BRCA1 and BRCA2 mutations prior to ovarian cancer initiation. Thus, our data has important implications for screening, although it will need additional clinical evaluation to test the feasibility of quantitative detection of SOX2 expression or the expression of its downstream targets for this purpose. You can read the original research paper 
+&lt;a href=&#34;https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964%2816%2930305-X/fulltext&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; as well as media reports 
+&lt;a href=&#34;https://www.dailymail.co.uk/health/article-3712949/Ovarian-cancer-detected-deadly-Scientists-identify-key-enzyme-makes-disease-spread.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and 
+&lt;a href=&#34;https://www.telegraph.co.uk/science/2016/07/28/ovarian-cancer-test-on-horizon-as-scientists-find-earliest-signs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;the-unmasking-non-genetic-heterogeneity-through-by-single-cell-sequencing-of-fallopian-tube-epithelial-cells&#34;&gt;The unmasking non-genetic heterogeneity through by single-cell sequencing of fallopian tube epithelial cells&lt;/h2&gt;
-&lt;p&gt;More recently, we have used single cell sequencing to understand the inter-differentiation between cell states which promotes cancer cell survival under stress and fosters non-genetic heterogeneity (NGH). NGH is a surrogate of tumor resilience but its quantification is confounded by genetic heterogeneity. We showed that NGH can be accurately measured when informed by the molecular signatures of the normal cells of origin. We surveyed the transcriptomes of 4000 normal fallopian tube epithelial (FTE) cells, the cells of origin of serous ovarian cancer, and identified six FTE subtypes. We used subtype signatures to deconvolute SOC expression data and found substantial intra-tumor NGH that was previously unrecognized. Importantly, NGH-based stratification of ∼1700 tumors robustly predicted survival. Our findings lay the foundation for accurate prognostic and therapeutic stratification of SOC. You can read our Cancer Cell paper &lt;a href=&#34;https://www.cell.com/cancer-cell/fulltext/S1535-6108(20)30042-8&#34;&gt;here&lt;/a&gt; and press coverage from &lt;a href=&#34;https://www.dailymail.co.uk/health/article-7987639/Ovarian-cancer-hope-discovery-six-types-cell-trigger-silent-killer.html&#34;&gt;Daily Mail&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;More recently, we have used single cell sequencing to understand the inter-differentiation between cell states which promotes cancer cell survival under stress and fosters non-genetic heterogeneity (NGH). NGH is a surrogate of tumor resilience but its quantification is confounded by genetic heterogeneity. We showed that NGH can be accurately measured when informed by the molecular signatures of the normal cells of origin. We surveyed the transcriptomes of 4000 normal fallopian tube epithelial (FTE) cells, the cells of origin of serous ovarian cancer, and identified six FTE subtypes. We used subtype signatures to deconvolute SOC expression data and found substantial intra-tumor NGH that was previously unrecognized. Importantly, NGH-based stratification of ∼1700 tumors robustly predicted survival. Our findings lay the foundation for accurate prognostic and therapeutic stratification of SOC. You can read our Cancer Cell paper 
+&lt;a href=&#34;https://www.cell.com/cancer-cell/fulltext/S1535-6108%2820%2930042-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; and press coverage from 
+&lt;a href=&#34;https://www.dailymail.co.uk/health/article-7987639/Ovarian-cancer-hope-discovery-six-types-cell-trigger-silent-killer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daily Mail&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/hu/&#34;&gt;Zhiyuan Hu&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cwcyau.github.io/authors/hu/&#34;&gt;Zhiyuan Hu&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
