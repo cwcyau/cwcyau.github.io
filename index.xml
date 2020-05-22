@@ -13,6 +13,19 @@
     </image>
     
     <item>
+      <title>New eLife publication: A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
+      <link>https://cwcyau.github.io/post/2020-05-21_digipico/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-05-21_digipico/</guid>
+      <description>&lt;p&gt;Bulk whole genome sequencing (WGS) enables the analysis of tumor evolution but, because of depth limitations, can only identify old mutational events. The discovery of current mutational processes for predicting the tumor&#39;s evolutionary trajectory requires dense sequencing of individual clones or single cells. Such studies, however, are inherently problematic because of the discovery of excessive false positive mutations when sequencing picogram quantities of DNA. Data pooling to increase the confidence in the discovered mutations, moves the discovery back in the past to a common ancestor. Here we report a robust whole genome sequencing and analysis pipeline (DigiPico/MutLX) that virtually eliminates all false positive results while retaining an excellent proportion of true positives. Using our method, we identified, for the first time, a hyper-mutation (kataegis) event in a group of ∼30 cancer cells from a recurrent ovarian carcinoma. This was unidentifiable from the bulk WGS data. Overall, we propose DigiPico/MutLX method as a powerful framework for the identification of clone-specific variants at an unprecedented accuracy.&lt;/p&gt;
+&lt;p&gt;The 
+&lt;a href=&#34;https://elifesciences.org/articles/55207&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; is published in 
+&lt;a href=&#34;https://elifesciences.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLife&lt;/a&gt; along with a 
+&lt;a href=&#34;https://elifesciences.org/articles/57678&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;commentary&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>PHG Foundation - Artificial intelligence for genomic medicine</title>
       <link>https://cwcyau.github.io/post/2020-05-23_phg/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
@@ -71,6 +84,14 @@
 &lt;a href=&#34;../../authors/kaspar&#34;&gt;Kaspar Martens&lt;/a&gt; who has had two papers accepted into 
 &lt;a href=&#34;https://www.aistats.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2020&lt;/a&gt;. Papers to be published soon.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
+      <link>https://cwcyau.github.io/publication/2020-01-01_karaminejadranjbar2020highly/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_karaminejadranjbar2020highly/</guid>
+      <description></description>
     </item>
     
     <item>

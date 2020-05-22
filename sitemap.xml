@@ -8,12 +8,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/artificial-intelligence/</loc>
+    <loc>https://cwcyau.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/artificial-intelligence/</loc>
+    <loc>https://cwcyau.github.io/categories/artificial-intelligence/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,6 +29,11 @@
   
   <url>
     <loc>https://cwcyau.github.io/categories/genomics/</loc>
+    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2020-05-21_digipico/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,22 +198,57 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/machine-learning/</loc>
-    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cwcyau.github.io/tags/machine-learning/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/health-data/</loc>
-    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+    <loc>https://cwcyau.github.io/categories/machine-learning/</loc>
+    <lastmod>2020-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/publication/2020-01-01_karaminejadranjbar2020highly/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/authors/ahmed-a-ahmed/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/authors/christopher-yau/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/authors/nina-c-wietek/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/authors/sahand-sharifzadeh/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/authors/tatjana-sauka-spengler/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/authors/volker-tresp/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/categories/health-data/</loc>
+    <lastmod>2019-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/health-data/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -329,11 +369,6 @@
   
   <url>
     <loc>https://cwcyau.github.io/authors/christophe-bosc/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/authors/christopher-yau/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   

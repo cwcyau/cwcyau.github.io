@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed A Ahmed | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/ahmed-a-ahmed/</link>
+      <atom:link href="https://cwcyau.github.io/authors/ahmed-a-ahmed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmed A Ahmed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ahmed A Ahmed</title>
+      <link>https://cwcyau.github.io/authors/ahmed-a-ahmed/</link>
+    </image>
+    
+    <item>
+      <title>A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
+      <link>https://cwcyau.github.io/publication/2020-01-01_karaminejadranjbar2020highly/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_karaminejadranjbar2020highly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
