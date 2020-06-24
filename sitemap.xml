@@ -4,7 +4,42 @@
   
   <url>
     <loc>https://cwcyau.github.io/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/phd/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2020-06-24_mrc_case_2020/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/student/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/student/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/</loc>
+    <lastmod>2020-06-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -18,17 +53,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/</loc>
+    <loc>https://cwcyau.github.io/categories/genomics/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/tags/genomics/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/categories/genomics/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,32 +73,7 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/post/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/categories/phd/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cwcyau.github.io/post/2020-03-26_phd/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/student/</loc>
-    <lastmod>2020-03-26T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/categories/student/</loc>
     <lastmod>2020-03-26T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,12 +168,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/authors/zhiyuan-hu/</loc>
+    <loc>https://cwcyau.github.io/tags/zhiyuan-hu/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/zhiyuan-hu/</loc>
+    <loc>https://cwcyau.github.io/authors/zhiyuan-hu/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -183,12 +188,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/conference/</loc>
+    <loc>https://cwcyau.github.io/categories/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/conference/</loc>
+    <loc>https://cwcyau.github.io/tags/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -243,12 +248,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/health-data/</loc>
+    <loc>https://cwcyau.github.io/tags/health-data/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/health-data/</loc>
+    <loc>https://cwcyau.github.io/categories/health-data/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -1995,6 +2000,10 @@
   
   <url>
     <loc>https://cwcyau.github.io/authors/zurauskiene/</loc>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2020-06-20_case-for-support-final/</loc>
   </url>
   
   <url>

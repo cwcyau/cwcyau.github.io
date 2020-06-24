@@ -5,12 +5,28 @@
     <link>https://cwcyau.github.io/categories/</link>
       <atom:link href="https://cwcyau.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
       <link>https://cwcyau.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>phd</title>
+      <link>https://cwcyau.github.io/categories/phd/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/categories/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>student</title>
+      <link>https://cwcyau.github.io/categories/student/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/categories/student/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>artificial intelligence</title>
@@ -25,22 +41,6 @@
       <link>https://cwcyau.github.io/categories/genomics/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/categories/genomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phd</title>
-      <link>https://cwcyau.github.io/categories/phd/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/categories/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>student</title>
-      <link>https://cwcyau.github.io/categories/student/</link>
-      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/categories/student/</guid>
       <description></description>
     </item>
     
