@@ -5,12 +5,28 @@
     <link>https://cwcyau.github.io/tags/</link>
       <atom:link href="https://cwcyau.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://cwcyau.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://cwcyau.github.io/tags/machine-learning/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postdoc</title>
+      <link>https://cwcyau.github.io/tags/postdoc/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/postdoc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>student</title>
@@ -65,14 +81,6 @@
       <link>https://cwcyau.github.io/tags/kaspar-martens/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/tags/kaspar-martens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>https://cwcyau.github.io/tags/machine-learning/</link>
-      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/tags/machine-learning/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,25 @@
     <link>https://cwcyau.github.io/</link>
       <atom:link href="https://cwcyau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI4Health</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 24 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>AI4Health</title>
       <link>https://cwcyau.github.io/</link>
     </image>
+    
+    <item>
+      <title>Postdoc Opportunity with HDRUK</title>
+      <link>https://cwcyau.github.io/post/2020-07-02_hdruk_mo/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-07-02_hdruk_mo/</guid>
+      <description>&lt;p&gt;A new postdoc opportunity with myself and Dr Mike Inouye is available based in Cambridge:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;http://www.jobs.cam.ac.uk/job/26181/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Research UK (HDRUK) Multi-omics Consortium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>PhD Opportunities 2020/21</title>
