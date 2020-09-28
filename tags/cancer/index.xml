@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cancer | AI4Health</title>
+    <title>cancer | AI4Health</title>
     <link>https://cwcyau.github.io/tags/cancer/</link>
       <atom:link href="https://cwcyau.github.io/tags/cancer/index.xml" rel="self" type="application/rss+xml" />
-    <description>Cancer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <description>cancer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Cancer</title>
+      <title>cancer</title>
       <link>https://cwcyau.github.io/tags/cancer/</link>
     </image>
+    
+    <item>
+      <title>Postdoc Opportunity with HDRUK</title>
+      <link>https://cwcyau.github.io/post/2020-09-28_zh/</link>
+      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-09-28_zh/</guid>
+      <description>&lt;p&gt;Former DPhil student Zhiyuan with the Ovarian Cancer Lab have created a new public engagement video showcasing our work on single cell sequencing of ovarian cancer.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://twitter.com/oxfordahmedlab/status/1310686724402622464?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientists closer to finding the cell of origin for ovarian cancer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Convolutional filtering for mutation signatures</title>
