@@ -5,12 +5,25 @@
     <link>https://cwcyau.github.io/categories/machine-learning/</link>
       <atom:link href="https://cwcyau.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>machine learning</title>
       <link>https://cwcyau.github.io/categories/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Setting guidelines to report the use of AI in clinical trials </title>
+      <link>https://cwcyau.github.io/post/2020-09-09_consortai/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-09-09_consortai/</guid>
+      <description>&lt;p&gt;The CONSORT-AI and SPIRIT-AI Steering Groups (including Christopher Yau) have published their guidelines for conducting and reporting on clinical trials for AI interventions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s41591-020-1069-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting guidelines to report the use of AI in clinical trials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Postdoc Opportunity with HDRUK</title>

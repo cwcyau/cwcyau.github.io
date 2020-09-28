@@ -2149,7 +2149,7 @@
       <link>https://cwcyau.github.io/authors/kaspar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/authors/kaspar/</guid>
-      <description>&lt;p&gt;Kaspar Maerten is a graduate student at the University of Oxford supervised by Christopher Yau and Professor Chris Holmes. He is interested in statistical machine learning and has been researching methods for dimensionality reduction using Gaussian Processes and Deep Neural Networks.&lt;/p&gt;
+      <description>&lt;p&gt;Kaspar Maertens was a graduate student at the University of Oxford supervised by Christopher Yau and Professor Chris Holmes. He completed his DPhil in 2020. He is interested in statistical machine learning and has been researching methods for dimensionality reduction using Gaussian Processes and Deep Neural Networks. He is currently a Research Fellow funded by the Crick-Turing Biomedical Awards.&lt;/p&gt;
 </description>
     </item>
     
@@ -2242,6 +2242,15 @@ He is currently working with Christopher Yau on developing deep learning approac
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/authors/zhang/</guid>
       <description>&lt;p&gt;Xiaole completed his PhD in the Department of Mathematics at Imperial College London. His research is concerned with approximation inference methods in Bayesian Statistics, in particular, online variational methods for fitting Dirichlet Process Mixtures and Approximate Bayesian Computation techniques for Hidden Markov Models with intractable likelihood or transition densities. He was co-supervised by Ajay Jasra (NUS) and Nik Kantas (Imperial).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://cwcyau.github.io/authors/zhou/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/authors/zhou/</guid>
+      <description>&lt;p&gt;Wenhua (Nelson) is a PhD student in Manchester jointly supervised by David Wong. He is working on developing neural network based emulators of classical risk prediction models.&lt;/p&gt;
 </description>
     </item>
     
