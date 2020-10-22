@@ -5,12 +5,28 @@
     <link>https://cwcyau.github.io/authors/christopher-yau/</link>
       <atom:link href="https://cwcyau.github.io/authors/christopher-yau/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Yau</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Christopher Yau</title>
       <link>https://cwcyau.github.io/authors/christopher-yau/</link>
     </image>
+    
+    <item>
+      <title>BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders</title>
+      <link>https://cwcyau.github.io/publication/2020-22-10_martens2020basis/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-22-10_martens2020basis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Decomposition: Functional ANOVA with Variational Autoencoders</title>
+      <link>https://cwcyau.github.io/publication/2020-21-10_martens2020nd/</link>
+      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-21-10_martens2020nd/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>

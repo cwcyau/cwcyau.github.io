@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="Artificial Intelligence and Data Science for Health Research Group led by Professor Christopher Yau.">
+  <meta name="description" content="Variational Autoencoders (VAEs) provide a flexible and scalable framework for non-linear dimensionality reduction. However, in application domains such as genomics where data sets are typically tabular and high-dimensional, a black-box approach to dimensionality reduction does not provide sufficient insights. Common data analysis workflows additionally use clustering techniques to identify groups of similar features. This usually leads to a two-stage process, however, it would be desirable to construct a joint modelling framework for simultaneous dimensionality reduction and clustering of features. In this paper, we propose to achieve this through the BasisVAE: a combination of the VAE and a probabilistic clustering prior, which lets us learn a one-hot basis function representation as part of the decoder network. Furthermore, for scenarios where not all features are aligned, we develop an extension to handle translation-invariant basis functions. We show how a collapsed variational inference scheme leads to scalable and efficient inference for BasisVAE, demonstrated on various toy examples as well as on single-cell gene expression data..">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://cwcyau.github.io/authors/">
+  <link rel="alternate" hreflang="en-us" href="https://cwcyau.github.io/publication/2020-10-22_martens2020basis/">
 
   
 
@@ -251,14 +251,12 @@
 
 
   
-  <link rel="alternate" href="/authors/index.xml" type="application/rss+xml" title="AI4Health">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://cwcyau.github.io/authors/">
+  <link rel="canonical" href="https://cwcyau.github.io/publication/2020-10-22_martens2020basis/">
 
   
   
@@ -275,18 +273,59 @@
   <meta property="twitter:creator" content="@cwcyau">
   
   <meta property="og:site_name" content="AI4Health">
-  <meta property="og:url" content="https://cwcyau.github.io/authors/">
-  <meta property="og:title" content="Authors | AI4Health">
-  <meta property="og:description" content="Artificial Intelligence and Data Science for Health Research Group led by Professor Christopher Yau."><meta property="og:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="https://cwcyau.github.io/publication/2020-10-22_martens2020basis/">
+  <meta property="og:title" content="BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders | AI4Health">
+  <meta property="og:description" content="Variational Autoencoders (VAEs) provide a flexible and scalable framework for non-linear dimensionality reduction. However, in application domains such as genomics where data sets are typically tabular and high-dimensional, a black-box approach to dimensionality reduction does not provide sufficient insights. Common data analysis workflows additionally use clustering techniques to identify groups of similar features. This usually leads to a two-stage process, however, it would be desirable to construct a joint modelling framework for simultaneous dimensionality reduction and clustering of features. In this paper, we propose to achieve this through the BasisVAE: a combination of the VAE and a probabilistic clustering prior, which lets us learn a one-hot basis function representation as part of the decoder network. Furthermore, for scenarios where not all features are aligned, we develop an extension to handle translation-invariant basis functions. We show how a collapsed variational inference scheme leads to scalable and efficient inference for BasisVAE, demonstrated on various toy examples as well as on single-cell gene expression data.."><meta property="og:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-10-22T00:00:00&#43;00:00">
+    
+    
   
 
   
 
 
+    
 
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://cwcyau.github.io/publication/2020-10-22_martens2020basis/"
+  },
+  "headline": "BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders",
+  
+  "datePublished": "0001-01-01T00:00:00Z",
+  "dateModified": "0001-01-01T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Kaspar Martens"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Artificial Intelligence and Data Science for Health",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Variational Autoencoders (VAEs) provide a flexible and scalable framework for non-linear dimensionality reduction. However, in application domains such as genomics where data sets are typically tabular and high-dimensional, a black-box approach to dimensionality reduction does not provide sufficient insights. Common data analysis workflows additionally use clustering techniques to identify groups of similar features. This usually leads to a two-stage process, however, it would be desirable to construct a joint modelling framework for simultaneous dimensionality reduction and clustering of features. In this paper, we propose to achieve this through the BasisVAE: a combination of the VAE and a probabilistic clustering prior, which lets us learn a one-hot basis function representation as part of the decoder network. Furthermore, for scenarios where not all features are aligned, we develop an extension to handle translation-invariant basis functions. We show how a collapsed variational inference scheme leads to scalable and efficient inference for BasisVAE, demonstrated on various toy examples as well as on single-cell gene expression data.."
+}
+</script>
+
+  
 
   
 
@@ -294,10 +333,13 @@
   
 
 
+  
 
 
 
-  <title>Authors | AI4Health</title>
+
+
+  <title>BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders | AI4Health</title>
 
 </head>
 
@@ -603,6 +645,92 @@
 </nav>
 
 
+  <div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+
+
+  
+  <span><a href="/authors/kaspar-martens/">Kaspar Martens</a></span>, <span><a href="/authors/christopher-yau/">Christopher Yau</a></span>
+
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    January 0001
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="btn-links mb-3">
+  
   
 
 
@@ -612,80 +740,241 @@
 
 
 
-
-
-
-
-
-
+  
+    
   
 
-  
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="http://proceedings.mlr.press/v108/martens20b.html" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Authors</h1>
+<a class="btn btn-outline-primary my-1 mr-1" href="http://proceedings.mlr.press/v108/martens20b.html" target="_blank" rel="noopener">
+  Code
+</a>
 
-  
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  <ul>
     
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Variational Autoencoders (VAEs) provide a flexible and scalable framework for non-linear dimensionality reduction. However, in application domains such as genomics where data sets are typically tabular and high-dimensional, a black-box approach to dimensionality reduction does not provide sufficient insights. Common data analysis workflows additionally use clustering techniques to identify groups of similar features. This usually leads to a two-stage process, however, it would be desirable to construct a joint modelling framework for simultaneous dimensionality reduction and clustering of features. In this paper, we propose to achieve this through the BasisVAE: a combination of the VAE and a probabilistic clustering prior, which lets us learn a one-hot basis function representation as part of the decoder network. Furthermore, for scenarios where not all features are aligned, we develop an extension to handle translation-invariant basis functions. We show how a collapsed variational inference scheme leads to scalable and efficient inference for BasisVAE, demonstrated on various toy examples as well as on single-cell gene expression data..</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9">In: Proceedings of the Twenty Third International Conference on Artificial Intelligence and Statistics, 108:2928-2937</div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
       
-      <li><a href="https://cwcyau.github.io/authors/cc-holmes/">CC Holmes</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://cwcyau.github.io/publication/2020-10-22_martens2020basis/&amp;text=BasisVAE:%20Translation-invariant%20feature-level%20clustering%20with%20Variational%20Autoencoders" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://cwcyau.github.io/authors/graham-j-buttrick/">Graham J Buttrick</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://cwcyau.github.io/publication/2020-10-22_martens2020basis/&amp;t=BasisVAE:%20Translation-invariant%20feature-level%20clustering%20with%20Variational%20Autoencoders" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://cwcyau.github.io/authors/j-noble/">J Noble</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=BasisVAE:%20Translation-invariant%20feature-level%20clustering%20with%20Variational%20Autoencoders&amp;body=https://cwcyau.github.io/publication/2020-10-22_martens2020basis/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://cwcyau.github.io/authors/james-g-wakefield/">James G Wakefield</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://cwcyau.github.io/publication/2020-10-22_martens2020basis/&amp;title=BasisVAE:%20Translation-invariant%20feature-level%20clustering%20with%20Variational%20Autoencoders" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://cwcyau.github.io/authors/jessica-leitch/">Jessica Leitch</a></li>
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=BasisVAE:%20Translation-invariant%20feature-level%20clustering%20with%20Variational%20Autoencoders%20https://cwcyau.github.io/publication/2020-10-22_martens2020basis/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
     
       
-      <li><a href="https://cwcyau.github.io/authors/jiannis-ragous-sis/">Jiannis Ragous-sis</a></li>
-    
       
-      <li><a href="https://cwcyau.github.io/authors/julian-r-hughes/">Julian R Hughes</a></li>
-    
       
-      <li><a href="https://cwcyau.github.io/authors/katherine-allen/">Katherine Allen</a></li>
-    
+        
       
-      <li><a href="https://cwcyau.github.io/authors/luke-ma-beaumont/">Luke MA Beaumont</a></li>
-    
       
-      <li><a href="https://cwcyau.github.io/authors/anne-s-bassett/">Anne S Bassett</a></li>
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://cwcyau.github.io/publication/2020-10-22_martens2020basis/&amp;title=BasisVAE:%20Translation-invariant%20feature-level%20clustering%20with%20Variational%20Autoencoders" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
 
   
-<nav>
-  <ul class="pagination justify-content-center">
+  
     
-    <li class="page-item"><a class="page-link" href="/authors/page/24/">&laquo;</a></li>
-    
-    
-    <li class="page-item"><a class="page-link" href="/authors/page/26/">&raquo;</a></li>
-    
-  </ul>
-</nav>
+  
+  
 
 
+
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/authors/kaspar-martens/"></a></h5>
+      
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
 </div>
 
       

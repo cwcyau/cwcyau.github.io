@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://cwcyau.github.io/publication_types/1/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cwcyau.github.io/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://cwcyau.github.io/authors/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/publication/2020-22-10_martens2020basis/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cwcyau.github.io/categories/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/authors/christopher-yau/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/authors/kaspar-martens/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,6 +53,16 @@
   </url>
   
   <url>
+    <loc>https://cwcyau.github.io/publication_types/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/publication/</loc>
+    <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cwcyau.github.io/tags/student/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url>
@@ -40,6 +75,11 @@
   <url>
     <loc>https://cwcyau.github.io/tags/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/publication/2020-21-10_martens2020nd/</loc>
+    <lastmod>2020-10-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -73,22 +113,22 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/digital-health/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cwcyau.github.io/tags/digital-health/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/machine-learning/</loc>
+    <loc>https://cwcyau.github.io/categories/digital-health/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/tags/machine-learning/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/machine-learning/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url>
   
@@ -118,12 +158,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/genomics/</loc>
+    <loc>https://cwcyau.github.io/categories/genomics/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/genomics/</loc>
+    <loc>https://cwcyau.github.io/tags/genomics/</loc>
     <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -149,11 +189,6 @@
   
   <url>
     <loc>https://cwcyau.github.io/authors/abdulkhaliq-alsaadi/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/authors/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -203,16 +238,6 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/publication_types/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/publication/</loc>
-    <lastmod>2020-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cwcyau.github.io/authors/salma-el-sahhar/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
@@ -248,12 +273,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/conference/</loc>
+    <loc>https://cwcyau.github.io/categories/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/conference/</loc>
+    <loc>https://cwcyau.github.io/tags/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -269,11 +294,6 @@
   
   <url>
     <loc>https://cwcyau.github.io/authors/ahmed-a-ahmed/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/authors/christopher-yau/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -349,11 +369,6 @@
   
   <url>
     <loc>https://cwcyau.github.io/publication_types/0/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/publication_types/1/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -529,11 +544,6 @@
   
   <url>
     <loc>https://cwcyau.github.io/authors/juliane-perner/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/authors/kaspar-martens/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
