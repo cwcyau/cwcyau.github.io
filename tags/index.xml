@@ -5,12 +5,20 @@
     <link>https://cwcyau.github.io/tags/</link>
       <atom:link href="https://cwcyau.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
       <link>https://cwcyau.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>student</title>
+      <link>https://cwcyau.github.io/tags/student/</link>
+      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/student/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>cancer</title>
@@ -49,14 +57,6 @@
       <link>https://cwcyau.github.io/tags/machine-learning/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>student</title>
-      <link>https://cwcyau.github.io/tags/student/</link>
-      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/tags/student/</guid>
       <description></description>
     </item>
     
