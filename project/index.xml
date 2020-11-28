@@ -5,12 +5,29 @@
     <link>https://cwcyau.github.io/project/</link>
       <atom:link href="https://cwcyau.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://cwcyau.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>Turing AI Acceleration Fellowship</title>
+      <link>https://cwcyau.github.io/project/turingai/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/turingai/</guid>
+      <description>&lt;p&gt;We aim to develop novel AI-driven predictive models that will allow us to describe how cancers evolve at the molecular level.&lt;/p&gt;
+&lt;p&gt;We aim to exploit the fact that cancers, whilst never exactly identical, often share similar development trajectories which we can learn about by collating information from across deep high-resolution molecular profiles of many cancers.&lt;/p&gt;
+&lt;p&gt;By embedding our extensive biological knowledge of cancer within AI models, we will develop intelligent systems that will produce predictions that are more realistic, interpretable and better explain the progression of cancers.&lt;/p&gt;
+&lt;p&gt;This will help to improve the efficiency of drug development, decisions on treatment and to provide patients with more information about their illness.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Lead Investigator:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://cwcyau.github.io/authors/admin/&#34;&gt;Christopher Yau&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>BIRM-CAM</title>

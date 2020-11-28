@@ -28,12 +28,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/digital-health/</loc>
+    <loc>https://cwcyau.github.io/tags/digital-health/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/digital-health/</loc>
+    <loc>https://cwcyau.github.io/categories/digital-health/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,12 +53,22 @@
   </url>
   
   <url>
+    <loc>https://cwcyau.github.io/project/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cwcyau.github.io/tags/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/post/2020-11-27_turingai/</loc>
+    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/project/turingai/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -278,12 +288,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/conference/</loc>
+    <loc>https://cwcyau.github.io/tags/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/conference/</loc>
+    <loc>https://cwcyau.github.io/categories/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -349,11 +359,6 @@
   
   <url>
     <loc>https://cwcyau.github.io/tags/multimorbidity/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/project/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
