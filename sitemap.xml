@@ -4,11 +4,41 @@
   
   <url>
     <loc>https://cwcyau.github.io/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/tags/artificial-intelligence/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/artificial-intelligence/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2020-12-05_timesradio/</loc>
+    <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/cancer/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -18,12 +48,7 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/cancer/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/categories/</loc>
+    <loc>https://cwcyau.github.io/categories/digital-health/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/digital-health/</loc>
+    <loc>https://cwcyau.github.io/tags/machine-learning/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -43,22 +68,7 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/machine-learning/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/post/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cwcyau.github.io/project/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,12 +93,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/student/</loc>
+    <loc>https://cwcyau.github.io/categories/student/</loc>
     <lastmod>2020-11-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/student/</loc>
+    <loc>https://cwcyau.github.io/tags/student/</loc>
     <lastmod>2020-11-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -165,11 +175,6 @@
   <url>
     <loc>https://cwcyau.github.io/post/2020-06-24_mrc_case_2020/</loc>
     <lastmod>2020-06-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/categories/artificial-intelligence/</loc>
-    <lastmod>2020-05-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -268,12 +273,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/authors/zhiyuan-hu/</loc>
+    <loc>https://cwcyau.github.io/tags/zhiyuan-hu/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/zhiyuan-hu/</loc>
+    <loc>https://cwcyau.github.io/authors/zhiyuan-hu/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -333,12 +338,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/health-data/</loc>
+    <loc>https://cwcyau.github.io/categories/health-data/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/health-data/</loc>
+    <loc>https://cwcyau.github.io/tags/health-data/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url>
   
