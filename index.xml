@@ -5,12 +5,83 @@
     <link>https://cwcyau.github.io/</link>
       <atom:link href="https://cwcyau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI4Health</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>AI4Health</title>
       <link>https://cwcyau.github.io/</link>
     </image>
+    
+    <item>
+      <title>New Nature Reviews Methods Primer</title>
+      <link>https://cwcyau.github.io/post/2021-01-14_bayesprimer/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-01-14_bayesprimer/</guid>
+      <description>&lt;p&gt;Christopher Yau and Kaspar Martens have contributed to an article &lt;em&gt;Bayesian statistics and modelling&lt;/em&gt; for the new Nature Reviews Methods Primer journal.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s43586-020-00001-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New study in Clinical Cancer Research</title>
+      <link>https://cwcyau.github.io/post/2021-01-14_ccr/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-01-14_ccr/</guid>
+      <description>&lt;p&gt;With collaborators in the Oxford Ovarian Cancer Lab and Imperial College London, Zhiyuan Hu has identified that OxC-defined EMT-high SOCs carry particularly poor prognosis independent of established clinical parameters. She found these tumours are associated with high frequency of immunosuppressive macrophages, suggesting a potential therapeutic target to improve clinical outcome.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clincancerres.aacrjournals.org/content/early/2021/01/12/1078-0432.CCR-20-2782&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New study in American Journal of Drug Alcohol Abuse</title>
+      <link>https://cwcyau.github.io/post/2021-01-11_opioid/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-01-11_opioid/</guid>
+      <description>&lt;p&gt;Increasing rates of opioid-related overdose have been identified globally. Treatment for opioid use disorders (OUD) includes medications for opioid use disorder (MOUD) alongside behavioral support. In this study we use statistical analysis and machine learning to show that the Breaking Free Online program may reduce opioid use and improve biopsychosocial functioning in individuals with OUD.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33428458/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Associations between baseline opioid use disorder severity, mental health and biopsychosocial functioning, with clinical responses to computer-assisted therapy treatment</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_elison2021associations/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_elison2021associations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian statistics and modelling</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_van2021bayesian/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_van2021bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promises and challenges of adoptive T-cell therapies for solid tumours</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_morotti2021promises/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_morotti2021promises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Oxford Classic Links Epithelial-to-Mesenchymal Transition to Immunosuppression in Poor Prognosis Ovarian Cancers</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_hu2021oxford/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_hu2021oxford/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Times Radio</title>

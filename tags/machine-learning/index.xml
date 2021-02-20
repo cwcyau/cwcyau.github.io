@@ -5,12 +5,25 @@
     <link>https://cwcyau.github.io/tags/machine-learning/</link>
       <atom:link href="https://cwcyau.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>machine learning</title>
       <link>https://cwcyau.github.io/tags/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>New study in American Journal of Drug Alcohol Abuse</title>
+      <link>https://cwcyau.github.io/post/2021-01-11_opioid/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-01-11_opioid/</guid>
+      <description>&lt;p&gt;Increasing rates of opioid-related overdose have been identified globally. Treatment for opioid use disorders (OUD) includes medications for opioid use disorder (MOUD) alongside behavioral support. In this study we use statistical analysis and machine learning to show that the Breaking Free Online program may reduce opioid use and improve biopsychosocial functioning in individuals with OUD.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33428458/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Turing AI Acceleration Fellowship</title>

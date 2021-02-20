@@ -5,12 +5,28 @@
     <link>https://cwcyau.github.io/authors/kaspar-martens/</link>
       <atom:link href="https://cwcyau.github.io/authors/kaspar-martens/index.xml" rel="self" type="application/rss+xml" />
     <description>Kaspar Martens</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 22 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Kaspar Martens</title>
       <link>https://cwcyau.github.io/authors/kaspar-martens/</link>
     </image>
+    
+    <item>
+      <title>Associations between baseline opioid use disorder severity, mental health and biopsychosocial functioning, with clinical responses to computer-assisted therapy treatment</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_elison2021associations/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_elison2021associations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian statistics and modelling</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_van2021bayesian/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_van2021bayesian/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders</title>
