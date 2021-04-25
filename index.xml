@@ -5,12 +5,34 @@
     <link>https://cwcyau.github.io/</link>
       <atom:link href="https://cwcyau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI4Health</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>AI4Health</title>
       <link>https://cwcyau.github.io/</link>
     </image>
+    
+    <item>
+      <title>PhD Opportunities 2021/22</title>
+      <link>https://cwcyau.github.io/post/2021-04-23_epsrc_dtp_2021/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-04-23_epsrc_dtp_2021/</guid>
+      <description>&lt;p&gt;A new PhD projects is being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by &lt;strong&gt;21 May 2021&lt;/strong&gt; for the EPSRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Explainable AI for Multimodal Data Integration in Biomedical Applications](&lt;a href=&#34;https://www.findaphd.com/phds/project/&#34;&gt;https://www.findaphd.com/phds/project/&lt;/a&gt;
+&lt;a href=&#34;https://www.findaphd.com/phds/project/epsrc-dtp-explainable-ai-for-multimodal-data-integration-in-biomedical-applications/?p122456)&#34;&gt;https://www.findaphd.com/phds/project/epsrc-dtp-explainable-ai-for-multimodal-data-integration-in-biomedical-applications/?p122456)&lt;/a&gt;. Deadline: 21 May 2021.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HDRUK PhD Director</title>
+      <link>https://cwcyau.github.io/post/2021-04-01_hdruk_director/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-04-01_hdruk_director/</guid>
+      <description>&lt;p&gt;Health Data Research UK is pleased to announce the appointment of Professor Christopher Yau as Director of its HDRUK-Turing Wellcome PhD Programme in Health Data Science, starting 1 April 2021. (&lt;a href=&#34;https://www.hdruk.ac.uk/news/christopher-yau-appointed-director-of-health-data-research-uk-turing-wellcome-phd-programme/)&#34;&gt;https://www.hdruk.ac.uk/news/christopher-yau-appointed-director-of-health-data-research-uk-turing-wellcome-phd-programme/)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>New Nature Reviews Methods Primer</title>

@@ -5,12 +5,36 @@
     <link>https://cwcyau.github.io/categories/</link>
       <atom:link href="https://cwcyau.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
       <link>https://cwcyau.github.io/categories/</link>
     </image>
+    
+    <item>
+      <title>phd</title>
+      <link>https://cwcyau.github.io/categories/phd/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/categories/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>student</title>
+      <link>https://cwcyau.github.io/categories/student/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/categories/student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health data</title>
+      <link>https://cwcyau.github.io/categories/health-data/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/categories/health-data/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>artificial intelligence</title>
@@ -69,22 +93,6 @@
     </item>
     
     <item>
-      <title>phd</title>
-      <link>https://cwcyau.github.io/categories/phd/</link>
-      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/categories/phd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>student</title>
-      <link>https://cwcyau.github.io/categories/student/</link>
-      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/categories/student/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>omics</title>
       <link>https://cwcyau.github.io/categories/omics/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
@@ -113,14 +121,6 @@
       <link>https://cwcyau.github.io/categories/conference/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/categories/conference/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>health data</title>
-      <link>https://cwcyau.github.io/categories/health-data/</link>
-      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/categories/health-data/</guid>
       <description></description>
     </item>
     
