@@ -5,7 +5,7 @@
     <link>https://cwcyau.github.io/tags/</link>
       <atom:link href="https://cwcyau.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>digital health</title>
+      <link>https://cwcyau.github.io/tags/digital-health/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/digital-health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>https://cwcyau.github.io/tags/machine-learning/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postdocs</title>
+      <link>https://cwcyau.github.io/tags/postdocs/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/postdocs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>phd</title>
+      <link>https://cwcyau.github.io/tags/phd/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>student</title>
       <link>https://cwcyau.github.io/tags/student/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/tags/student/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistics</title>
+      <link>https://cwcyau.github.io/tags/statistics/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/statistics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cancer</title>
+      <link>https://cwcyau.github.io/tags/cancer/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/tags/cancer/</guid>
       <description></description>
     </item>
     
@@ -45,14 +93,6 @@
     </item>
     
     <item>
-      <title>cancer</title>
-      <link>https://cwcyau.github.io/tags/cancer/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/tags/cancer/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>genomics</title>
       <link>https://cwcyau.github.io/tags/genomics/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
@@ -61,34 +101,10 @@
     </item>
     
     <item>
-      <title>statistics</title>
-      <link>https://cwcyau.github.io/tags/statistics/</link>
-      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/tags/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine learning</title>
-      <link>https://cwcyau.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mental health</title>
       <link>https://cwcyau.github.io/tags/mental-health/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/tags/mental-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>digital health</title>
-      <link>https://cwcyau.github.io/tags/digital-health/</link>
-      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/tags/digital-health/</guid>
       <description></description>
     </item>
     
@@ -153,14 +169,6 @@
       <link>https://cwcyau.github.io/tags/multimorbidity/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/tags/multimorbidity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phd</title>
-      <link>https://cwcyau.github.io/tags/phd/</link>
-      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/tags/phd/</guid>
       <description></description>
     </item>
     

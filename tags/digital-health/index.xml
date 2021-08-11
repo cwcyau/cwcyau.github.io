@@ -5,12 +5,57 @@
     <link>https://cwcyau.github.io/tags/digital-health/</link>
       <atom:link href="https://cwcyau.github.io/tags/digital-health/index.xml" rel="self" type="application/rss+xml" />
     <description>digital health</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>digital health</title>
       <link>https://cwcyau.github.io/tags/digital-health/</link>
     </image>
+    
+    <item>
+      <title>MuM-Predict</title>
+      <link>https://cwcyau.github.io/project/mumpredict/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/mumpredict/</guid>
+      <description>&lt;p&gt;The MuM-PreDiCT project has been successful in the funding call from the Strategic Priorities Fund (SPF): Tackling multimorbidity at scale: Understanding disease clusters, determinants &amp;amp; biological pathways.&lt;/p&gt;
+&lt;p&gt;This Strategic Priorities Fund (SPF) initiative, is jointly funded by the UKRI – MRC and the Department of Health and Social Care (DHSC), through the National Institute for Health Research (NIHR).&lt;/p&gt;
+&lt;p&gt;The project will study and improve maternity care for women who are also managing two or more long-term health conditions. These can be both physical conditions, such as diabetes and raised blood pressure, and mental health conditions such as depression and anxiety.&lt;/p&gt;
+&lt;p&gt;Our research team will develop statistical machine learning methods to analyse electronic health records from across all four nations comprising the UK. We will find out how many women have two or more long-term health conditions that presented before pregnancy and what health conditions they have. We will try and identify if factors such as age, weight, cultural or social background, level of education and number of previous pregnancies influences this. We will also find out which health conditions group together (cluster) during pregnancy, which clusters are most common and whether some clusters affect some women more than others.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OPTIMAL</title>
+      <link>https://cwcyau.github.io/project/optimal/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/optimal/</guid>
+      <description>&lt;p&gt;The OPTIMAL study is three-year study funded by the 
+&lt;a href=&#34;https://www.nihr.ac.uk/documents/artificial-intelligence-for-multiple-long-term-conditions-aim-programme-research-collaboration-stage-2-minutes/27578s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIHR AI for Multimorbidity&lt;/a&gt; and is a collaboration with the Universities of Birmingham and St Andrews with CPRD and University Hospitals Birmingham.&lt;/p&gt;
+&lt;p&gt;In this study our group will develop novel artificial intelligence technologies to study electronic health records of individuals with two or more conditions known as &amp;ldquo;complex multimorbidity&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Our aim is to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Find the mix of diseases and drug treatments that interact over time to worsen or improve a patient’s health.&lt;/li&gt;
+&lt;li&gt;Predict the next disease that people might develop.&lt;/li&gt;
+&lt;li&gt;Find drugs that help more than one disease.&lt;/li&gt;
+&lt;li&gt;Work with patients, the public and health professionals to produce computer programs to help doctors improve the choice of drugs in patients with cMM.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Roche ML for Antibody Design</title>
+      <link>https://cwcyau.github.io/project/roche-antibody/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/roche-antibody/</guid>
+      <description>&lt;p&gt;In a new two-year collaboration with Roche, the group will be supporting a Roche Postdoctoral Fellowship in the development of antibodies. We will make use of Roche&#39;s existing antibody data to develop machine-learning models generating sequences of antibodies with desired biophysical properties. Our aims are to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Develop machine learning models that ingest in-house antibody engineering data on antibodies to generate novel sequences with increased likelihood of desired biophysical properties,&lt;/li&gt;
+&lt;li&gt;Iteratively apply methods to antibody datasets,&lt;/li&gt;
+&lt;li&gt;Collaborate with experimental teams to select and test model-generated candidate sequences in the wet lab,&lt;/li&gt;
+&lt;li&gt;Embed machine learning models in discovery processes.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
     
     <item>
       <title>Turing AI Acceleration Fellowship</title>

@@ -5,12 +5,35 @@
     <link>https://cwcyau.github.io/categories/phd/</link>
       <atom:link href="https://cwcyau.github.io/categories/phd/index.xml" rel="self" type="application/rss+xml" />
     <description>phd</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>phd</title>
       <link>https://cwcyau.github.io/categories/phd/</link>
     </image>
+    
+    <item>
+      <title>ICML 2021</title>
+      <link>https://cwcyau.github.io/post/2021-07-18_icml_2021/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-07-18_icml_2021/</guid>
+      <description>&lt;p&gt;Congratulations to PhD student 
+&lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper 
+&lt;a href=&#34;http://proceedings.mlr.press/v139/danks21a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders&lt;/a&gt;. has been accepted for presentation at the International Conference for Machine Learning 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ECOSTAT &amp; ISBA 2021</title>
+      <link>https://cwcyau.github.io/post/2021-06-26_isba_2021/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-06-26_isba_2021/</guid>
+      <description>&lt;p&gt;Congratulations to PhD student 
+&lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; whose will presenting his work on &amp;ldquo;Learning multimorbidity and its temporal dynamics with the Wright-Fisher Indian Buffet Processs&amp;rdquo; at the 
+&lt;a href=&#34;http://www.cmstatistics.org/EcoSta2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EcoStat 2021&lt;/a&gt; and the 
+&lt;a href=&#34;https://events.stat.uconn.edu/ISBA2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Society for Bayesian Analysis World Meeting 2021&lt;/a&gt; conferences.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PhD Opportunities 2021/22</title>

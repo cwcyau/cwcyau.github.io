@@ -4,41 +4,131 @@
   
   <url>
     <loc>https://cwcyau.github.io/</loc>
-    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/categories/</loc>
-    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/phd/</loc>
-    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+    <loc>https://cwcyau.github.io/tags/digital-health/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/post/2021-04-23_epsrc_dtp_2021/</loc>
-    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+    <loc>https://cwcyau.github.io/tags/machine-learning/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/machine-learning/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2021-08-01_postdocs/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/project/mumpredict/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/project/optimal/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/postdocs/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/postdocs/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/post/</loc>
-    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/student/</loc>
-    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/student/</loc>
-    <lastmod>2021-04-23T00:00:00+00:00</lastmod>
+    <loc>https://cwcyau.github.io/project/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/tags/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2021-07-18_icml_2021/</loc>
+    <lastmod>2021-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/phd/</loc>
+    <lastmod>2021-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/phd/</loc>
+    <lastmod>2021-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/student/</loc>
+    <lastmod>2021-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/student/</loc>
+    <lastmod>2021-07-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/project/roche-antibody/</loc>
+    <lastmod>2021-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2021-06-26_isba_2021/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/statistics/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/statistics/</loc>
+    <lastmod>2021-06-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/categories/cancer/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/cancer/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2021-05-04_ici_mara/</loc>
+    <lastmod>2021-05-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2021-04-23_epsrc_dtp_2021/</loc>
     <lastmod>2021-04-23T00:00:00+00:00</lastmod>
   </url>
   
@@ -58,27 +148,17 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/artificial-intelligence/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cwcyau.github.io/tags/artificial-intelligence/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://cwcyau.github.io/categories/artificial-intelligence/</loc>
+    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cwcyau.github.io/tags/bayesian/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/cancer/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/categories/cancer/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,32 +183,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/statistics/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/statistics/</loc>
-    <lastmod>2021-01-14T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/categories/machine-learning/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/machine-learning/</loc>
+    <loc>https://cwcyau.github.io/tags/mental-health/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/categories/mental-health/</loc>
-    <lastmod>2021-01-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/mental-health/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -358,17 +418,7 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/digital-health/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cwcyau.github.io/categories/digital-health/</loc>
-    <lastmod>2020-11-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/project/</loc>
     <lastmod>2020-11-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -483,12 +533,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/publication/</loc>
+    <loc>https://cwcyau.github.io/tags/publication/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/publication/</loc>
+    <loc>https://cwcyau.github.io/categories/publication/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
   </url>
   
@@ -589,11 +639,6 @@
   
   <url>
     <loc>https://cwcyau.github.io/post/2019-09-12_hdruk/</loc>
-    <lastmod>2019-09-12T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/phd/</loc>
     <lastmod>2019-09-12T00:00:00+00:00</lastmod>
   </url>
   

@@ -5,12 +5,116 @@
     <link>https://cwcyau.github.io/</link>
       <atom:link href="https://cwcyau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI4Health</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 23 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>AI4Health</title>
       <link>https://cwcyau.github.io/</link>
     </image>
+    
+    <item>
+      <title>Multiple postdoctoral research positions available.</title>
+      <link>https://cwcyau.github.io/post/2021-08-01_postdocs/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-08-01_postdocs/</guid>
+      <description>&lt;p&gt;Due to recent grant successes, we currently have multiple postdoctoral positions available linked to the following projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;../../project/turingai&#34;&gt;Turing AI Fellowship&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../../project/optimal&#34;&gt;OPTIMAL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../../project/mumpredict&#34;&gt;MuM-PreDICT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;../../project/roche-antibody&#34;&gt;Roche RPF&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Suitable applicants should either have experience in developing statistical and/or machine learning methods or a background in mathematics and computational science that would enable them to learn relevant research approaches.&lt;/p&gt;
+&lt;p&gt;Interested applicants are advised to examine recent group publications and projects to understand the research methods that have been adopted within the group.&lt;/p&gt;
+&lt;p&gt;There will be substantial opportunities to develop your individual research profile, leadership capabilities and link to a range of academic, clinical and industry partners.&lt;/p&gt;
+&lt;p&gt;All enquiries about vacancies should be addressed to the 
+&lt;a href=&#34;../../authors/admin&#34;&gt;Group Leader&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MuM-Predict</title>
+      <link>https://cwcyau.github.io/project/mumpredict/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/mumpredict/</guid>
+      <description>&lt;p&gt;The MuM-PreDiCT project has been successful in the funding call from the Strategic Priorities Fund (SPF): Tackling multimorbidity at scale: Understanding disease clusters, determinants &amp;amp; biological pathways.&lt;/p&gt;
+&lt;p&gt;This Strategic Priorities Fund (SPF) initiative, is jointly funded by the UKRI – MRC and the Department of Health and Social Care (DHSC), through the National Institute for Health Research (NIHR).&lt;/p&gt;
+&lt;p&gt;The project will study and improve maternity care for women who are also managing two or more long-term health conditions. These can be both physical conditions, such as diabetes and raised blood pressure, and mental health conditions such as depression and anxiety.&lt;/p&gt;
+&lt;p&gt;Our research team will develop statistical machine learning methods to analyse electronic health records from across all four nations comprising the UK. We will find out how many women have two or more long-term health conditions that presented before pregnancy and what health conditions they have. We will try and identify if factors such as age, weight, cultural or social background, level of education and number of previous pregnancies influences this. We will also find out which health conditions group together (cluster) during pregnancy, which clusters are most common and whether some clusters affect some women more than others.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OPTIMAL</title>
+      <link>https://cwcyau.github.io/project/optimal/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/optimal/</guid>
+      <description>&lt;p&gt;The OPTIMAL study is three-year study funded by the 
+&lt;a href=&#34;https://www.nihr.ac.uk/documents/artificial-intelligence-for-multiple-long-term-conditions-aim-programme-research-collaboration-stage-2-minutes/27578s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIHR AI for Multimorbidity&lt;/a&gt; and is a collaboration with the Universities of Birmingham and St Andrews with CPRD and University Hospitals Birmingham.&lt;/p&gt;
+&lt;p&gt;In this study our group will develop novel artificial intelligence technologies to study electronic health records of individuals with two or more conditions known as &amp;ldquo;complex multimorbidity&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Our aim is to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Find the mix of diseases and drug treatments that interact over time to worsen or improve a patient’s health.&lt;/li&gt;
+&lt;li&gt;Predict the next disease that people might develop.&lt;/li&gt;
+&lt;li&gt;Find drugs that help more than one disease.&lt;/li&gt;
+&lt;li&gt;Work with patients, the public and health professionals to produce computer programs to help doctors improve the choice of drugs in patients with cMM.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICML 2021</title>
+      <link>https://cwcyau.github.io/post/2021-07-18_icml_2021/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-07-18_icml_2021/</guid>
+      <description>&lt;p&gt;Congratulations to PhD student 
+&lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper 
+&lt;a href=&#34;http://proceedings.mlr.press/v139/danks21a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders&lt;/a&gt;. has been accepted for presentation at the International Conference for Machine Learning 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Roche ML for Antibody Design</title>
+      <link>https://cwcyau.github.io/project/roche-antibody/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/project/roche-antibody/</guid>
+      <description>&lt;p&gt;In a new two-year collaboration with Roche, the group will be supporting a Roche Postdoctoral Fellowship in the development of antibodies. We will make use of Roche&#39;s existing antibody data to develop machine-learning models generating sequences of antibodies with desired biophysical properties. Our aims are to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Develop machine learning models that ingest in-house antibody engineering data on antibodies to generate novel sequences with increased likelihood of desired biophysical properties,&lt;/li&gt;
+&lt;li&gt;Iteratively apply methods to antibody datasets,&lt;/li&gt;
+&lt;li&gt;Collaborate with experimental teams to select and test model-generated candidate sequences in the wet lab,&lt;/li&gt;
+&lt;li&gt;Embed machine learning models in discovery processes.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ECOSTAT &amp; ISBA 2021</title>
+      <link>https://cwcyau.github.io/post/2021-06-26_isba_2021/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-06-26_isba_2021/</guid>
+      <description>&lt;p&gt;Congratulations to PhD student 
+&lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; whose will presenting his work on &amp;ldquo;Learning multimorbidity and its temporal dynamics with the Wright-Fisher Indian Buffet Processs&amp;rdquo; at the 
+&lt;a href=&#34;http://www.cmstatistics.org/EcoSta2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EcoStat 2021&lt;/a&gt; and the 
+&lt;a href=&#34;https://events.stat.uconn.edu/ISBA2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Society for Bayesian Analysis World Meeting 2021&lt;/a&gt; conferences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New studdy in JCI Insights</title>
+      <link>https://cwcyau.github.io/post/2021-05-04_ici_mara/</link>
+      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-05-04_ici_mara/</guid>
+      <description>&lt;p&gt;Our paper 
+&lt;a href=&#34;https://insight.jci.org/articles/view/147929&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Adipocyte-like signature in ovarian cancer minimal residual disease identifies metabolic vulnerabilities of tumor-initiating cells&amp;rdquo;&lt;/a&gt; with the 
+&lt;a href=&#34;https://www.wrh.ox.ac.uk/research/ovarian-cancer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oxford Ovarian Cancer Cell Lab&lt;/a&gt; has been featured on the cover of JCI Insight. The work used methods developed by former group student 
+&lt;a href=&#34;../../authors/campbell&#34;&gt;Kieran Campbell&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>PhD Opportunities 2021/22</title>
