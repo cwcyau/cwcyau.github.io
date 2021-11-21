@@ -5,7 +5,7 @@
     <link>https://cwcyau.github.io/categories/</link>
       <atom:link href="https://cwcyau.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>cancer</title>
+      <link>https://cwcyau.github.io/categories/cancer/</link>
+      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/categories/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>machine learning</title>
       <link>https://cwcyau.github.io/categories/machine-learning/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/categories/machine-learning/</guid>
       <description></description>
     </item>
@@ -49,14 +57,6 @@
       <link>https://cwcyau.github.io/categories/statistics/</link>
       <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/categories/statistics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cancer</title>
-      <link>https://cwcyau.github.io/categories/cancer/</link>
-      <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/categories/cancer/</guid>
       <description></description>
     </item>
     
