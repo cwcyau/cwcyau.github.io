@@ -5,7 +5,7 @@
     <link>https://cwcyau.github.io/categories/</link>
       <atom:link href="https://cwcyau.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sat, 20 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
@@ -13,17 +13,41 @@
     </image>
     
     <item>
+      <title>phd</title>
+      <link>https://cwcyau.github.io/categories/phd/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/categories/phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>postdoc</title>
+      <link>https://cwcyau.github.io/categories/postdoc/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/categories/postdoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cancer</title>
       <link>https://cwcyau.github.io/categories/cancer/</link>
-      <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/categories/cancer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>omics</title>
+      <link>https://cwcyau.github.io/categories/omics/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/categories/omics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine learning</title>
       <link>https://cwcyau.github.io/categories/machine-learning/</link>
-      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/categories/machine-learning/</guid>
       <description></description>
     </item>
@@ -33,14 +57,6 @@
       <link>https://cwcyau.github.io/categories/postdocs/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/categories/postdocs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>phd</title>
-      <link>https://cwcyau.github.io/categories/phd/</link>
-      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/categories/phd/</guid>
       <description></description>
     </item>
     
@@ -97,22 +113,6 @@
       <link>https://cwcyau.github.io/categories/digital-health/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/categories/digital-health/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>omics</title>
-      <link>https://cwcyau.github.io/categories/omics/</link>
-      <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/categories/omics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>postdoc</title>
-      <link>https://cwcyau.github.io/categories/postdoc/</link>
-      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/categories/postdoc/</guid>
       <description></description>
     </item>
     

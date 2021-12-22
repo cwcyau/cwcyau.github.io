@@ -5,12 +5,23 @@
     <link>https://cwcyau.github.io/categories/machine-learning/</link>
       <atom:link href="https://cwcyau.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 10 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 07 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>machine learning</title>
       <link>https://cwcyau.github.io/categories/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>NeurIPS 2021 Success - Multi-Facet Clustering Variational Autoencoders</title>
+      <link>https://cwcyau.github.io/post/2021-12-07_mfcvae/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-12-07_mfcvae/</guid>
+      <description>&lt;p&gt;Christopher Yau has supported Health Data Research UK (HDRUK) PhD students Fabian Falck and Haoting Zhang in the development of work that has now been published as a paper at the NeurIPS 2021 conference. The work entitled 
+&lt;a href=&#34;https://proceedings.neurips.cc/paper/2021/hash/48cb136b65a69e8c2aa22913a0d91b2f-Abstract.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Facet Clustering Variational Autoencoders&lt;/a&gt; is a novel class of variational autoencoders with a hierarchy of latent variables, each with a Mixture-of-Gaussians prior, that learns multiple clusterings simultaneously, and is trained fully unsupervised and end-to-end. Chris, who directs the HDRUK PhD programme, writes about the work of the students in this 
+&lt;a href=&#34;https://www.hdruk.ac.uk/news/the-different-facets-of-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Artificial Intelligence Webinar - Ovarian Cancer Action UK</title>

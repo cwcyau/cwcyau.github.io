@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beck Taylor | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/beck-taylor/</link>
+      <atom:link href="https://cwcyau.github.io/authors/beck-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Beck Taylor</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Beck Taylor</title>
+      <link>https://cwcyau.github.io/authors/beck-taylor/</link>
+    </image>
+    
+    <item>
+      <title>Epidemiology of pre-existing multimorbidity in pregnant women in the UK in 2018: a cross-sectional study</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_lee2021epidemiology/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_lee2021epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol for the development of a core outcome set for studies of pregnant women with pre-existing multimorbidity</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_lee2021protocol/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_lee2021protocol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

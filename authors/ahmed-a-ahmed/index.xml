@@ -5,12 +5,20 @@
     <link>https://cwcyau.github.io/authors/ahmed-a-ahmed/</link>
       <atom:link href="https://cwcyau.github.io/authors/ahmed-a-ahmed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ahmed A Ahmed</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ahmed A Ahmed</title>
       <link>https://cwcyau.github.io/authors/ahmed-a-ahmed/</link>
     </image>
+    
+    <item>
+      <title>CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_hu2021cider/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_hu2021cider/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
