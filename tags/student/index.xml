@@ -5,12 +5,24 @@
     <link>https://cwcyau.github.io/tags/student/</link>
       <atom:link href="https://cwcyau.github.io/tags/student/index.xml" rel="self" type="application/rss+xml" />
     <description>student</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sun, 18 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>student</title>
       <link>https://cwcyau.github.io/tags/student/</link>
     </image>
+    
+    <item>
+      <title>AISTATS 2022</title>
+      <link>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</guid>
+      <description>&lt;p&gt;Congratulations to PhD student 
+&lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper 
+&lt;a href=&#34;http://aistats.org/aistats2022/accepted.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis&lt;/a&gt; has been accepted for presentation at 
+&lt;a href=&#34;http://aistats.org/aistats2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2022&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ICML 2021</title>
