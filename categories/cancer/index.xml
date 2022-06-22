@@ -5,12 +5,26 @@
     <link>https://cwcyau.github.io/categories/cancer/</link>
       <atom:link href="https://cwcyau.github.io/categories/cancer/index.xml" rel="self" type="application/rss+xml" />
     <description>cancer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>cancer</title>
       <link>https://cwcyau.github.io/categories/cancer/</link>
     </image>
+    
+    <item>
+      <title>New report: My Cancer &amp; AI</title>
+      <link>https://cwcyau.github.io/post/mycancerai/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/mycancerai/</guid>
+      <description>&lt;p&gt;A report on a patient engagement workshop series on what cancer patients think about artificial intelligence is now available.&lt;/p&gt;
+&lt;p&gt;The workshop series was developed in partnership with 
+&lt;a href=&#34;https://ovarian.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Action&lt;/a&gt; (OCA) as part of my Turing AI Fellowship.&lt;/p&gt;
+&lt;p&gt;I am grateful to patients and OCA for their support in developing this work and its impact on my future research plans.&lt;/p&gt;
+&lt;p&gt;The report is available to download from 
+&lt;a href=&#34;https://github.com/cwcyau/turingaifellowship/blob/67a4a29068b2ffd31b340a254c495086ab46696d/MyCancerAndAI.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation</title>

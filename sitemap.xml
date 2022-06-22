@@ -4,26 +4,51 @@
   
   <url>
     <loc>https://cwcyau.github.io/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <loc>https://cwcyau.github.io/categories/cancer/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/cancer/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/categories/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/tags/machine-learning/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://cwcyau.github.io/categories/machine-learning/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/mycancerai/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/tags/</loc>
+    <lastmod>2022-06-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -38,22 +63,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/post/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/student/</loc>
-    <lastmod>2022-03-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://cwcyau.github.io/categories/student/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/</loc>
+    <loc>https://cwcyau.github.io/tags/student/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -70,16 +85,6 @@
   <url>
     <loc>https://cwcyau.github.io/tags/postdoc/</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/tags/cancer/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://cwcyau.github.io/categories/cancer/</loc>
-    <lastmod>2021-12-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,12 +138,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/postdocs/</loc>
+    <loc>https://cwcyau.github.io/tags/postdocs/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/postdocs/</loc>
+    <loc>https://cwcyau.github.io/categories/postdocs/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -213,12 +218,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/genomics/</loc>
+    <loc>https://cwcyau.github.io/tags/genomics/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/genomics/</loc>
+    <loc>https://cwcyau.github.io/categories/genomics/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
   </url>
   
@@ -233,12 +238,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/mental-health/</loc>
+    <loc>https://cwcyau.github.io/categories/mental-health/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/mental-health/</loc>
+    <loc>https://cwcyau.github.io/tags/mental-health/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -703,12 +708,12 @@
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/categories/conference/</loc>
+    <loc>https://cwcyau.github.io/tags/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://cwcyau.github.io/tags/conference/</loc>
+    <loc>https://cwcyau.github.io/categories/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
   </url>
   
