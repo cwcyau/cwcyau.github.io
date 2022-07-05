@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
   
 
@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Artificial Intelligence and Data Science for Health Research Group at The University of Manchester led by Professor Christopher Yau.">
+  <meta name="description" content="Artificial Intelligence and Data Science for Health Research Group at The University of Oxford led by Professor Christopher Yau.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://cwcyau.github.io/categories/machine-learning/">
@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -79,13 +79,6 @@
     
 
     
-    
-      
-
-      
-      
-
-      
     
       
 
@@ -218,15 +211,13 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url, target) {
+  function trackOutboundLink(url) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
+           document.location = url;
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -236,7 +227,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+    trackOutboundLink(event.target);  
   }
 
   gtag('js', new Date());
@@ -255,12 +246,11 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://cwcyau.github.io/categories/machine-learning/">
 
-  
   
   
   
@@ -277,10 +267,10 @@
   <meta property="og:site_name" content="AI4Health">
   <meta property="og:url" content="https://cwcyau.github.io/categories/machine-learning/">
   <meta property="og:title" content="machine learning | AI4Health">
-  <meta property="og:description" content="Artificial Intelligence and Data Science for Health Research Group at The University of Manchester led by Professor Christopher Yau."><meta property="og:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Artificial Intelligence and Data Science for Health Research Group at The University of Oxford led by Professor Christopher Yau."><meta property="og:image" content="https://cwcyau.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://cwcyau.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-11-10T00:00:00&#43;00:00">
+    <meta property="og:updated_time" content="2022-07-05T00:00:00&#43;00:00">
   
 
   
@@ -336,12 +326,6 @@
 
 
   
-
-
-
-
-
-
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -667,126 +651,121 @@
 
   
   
-    
-    
-    
-    <div>
-      <h2><a href="/post/2021-11-10_oca_video/" >Artificial Intelligence Webinar - Ovarian Cancer Action UK</a></h2>
-      <div class="article-style">
-        
-          Recently Christopher Yau worked with Ovarian Cancer Action UK to put together a webinar on his research for patients and the public. You can find the video on Youtube: &ldquo;What is artificial intelligence and what does it mean for cancer research?&quot;.
-        
-      </div>
+  <div>
+    <h2><a href="/post/greatphdsurvey/">The Great UK PhD Data Science Survey</a></h2>
+    <div class="article-style">
+      
+      What am I doing?
+My name is Christopher Yau and I am Professor of Artificial Intelligence at the University of Oxford and Health Data Research UK.
+I am carrying out a survey of UK PhD students who are working in any area of data science and I need your help! We hope to get survey responses from over 300 PhD students so please help us by sparing 10-15 minutes of your time to answer some questions.
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/post/2021-08-01_postdocs/" >Multiple postdoctoral research positions available</a></h2>
-      <div class="article-style">
-        
-          We have 4-5 two/three-year postdoctoral positions available linked to the following projects:
-   Turing AI Fellowship
-   OPTIMAL
-   MuM-PreDICT
-   Roche RPF
-  Suitable applicants should either have experience in developing statistical and/or machine learning methods or a background in mathematics and computational science that would enable them to learn relevant research approaches.
+  <div>
+    <h2><a href="/post/mycancerai/">New report: My Cancer &amp; AI</a></h2>
+    <div class="article-style">
+      
+      A report on a patient engagement workshop series on what cancer patients think about artificial intelligence is now available.
+The workshop series was developed in partnership with Ovarian Cancer Action (OCA) as part of my Turing AI Fellowship.
+I am grateful to patients and OCA for their support in developing this work and its impact on my future research plans.
+The report is available to download from here.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/post/2022-03-13_aistats_2022/">AISTATS 2022</a></h2>
+    <div class="article-style">
+      
+      Congratulations to PhD student Dominic Danks whose paper Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis has been accepted for presentation at AISTATS 2022.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/post/2021-12-07_mfcvae/">NeurIPS 2021 Success - Multi-Facet Clustering Variational Autoencoders</a></h2>
+    <div class="article-style">
+      
+      Christopher Yau has supported Health Data Research UK (HDRUK) PhD students Fabian Falck and Haoting Zhang in the development of work that has now been published as a paper at the NeurIPS 2021 conference. The work entitled Multi-Facet Clustering Variational Autoencoders is a novel class of variational autoencoders with a hierarchy of latent variables, each with a Mixture-of-Gaussians prior, that learns multiple clusterings simultaneously, and is trained fully unsupervised and end-to-end.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/post/2021-11-10_oca_video/">Artificial Intelligence Webinar - Ovarian Cancer Action UK</a></h2>
+    <div class="article-style">
+      
+      Recently Christopher Yau worked with Ovarian Cancer Action UK to put together a webinar on his research for patients and the public. You can find the video on Youtube: &ldquo;What is artificial intelligence and what does it mean for cancer research?&rdquo;.
+      
+    </div>
+  </div>
+  
+  <div>
+    <h2><a href="/post/2021-08-01_postdocs/">Multiple postdoctoral research positions available</a></h2>
+    <div class="article-style">
+      
+      We have 4-5 two/three-year postdoctoral positions available linked to the following projects:
+Turing AI Fellowship
+OPTIMAL
+MuM-PreDICT
+Roche RPF
+Suitable applicants should either have experience in developing statistical and/or machine learning methods or a background in mathematics and computational science that would enable them to learn relevant research approaches.
 Interested applicants are advised to examine recent group publications and projects to understand the research methods that have been adopted within the group.
-        
-      </div>
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/post/2021-07-18_icml_2021/" >ICML 2021</a></h2>
-      <div class="article-style">
-        
-          Congratulations to PhD student Dominic Danks whose paper BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders. has been accepted for presentation at the International Conference for Machine Learning 2021.
-        
-      </div>
+  <div>
+    <h2><a href="/post/2021-07-18_icml_2021/">ICML 2021</a></h2>
+    <div class="article-style">
+      
+      Congratulations to PhD student Dominic Danks whose paper BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders. has been accepted for presentation at the International Conference for Machine Learning 2021.
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/post/2021-01-11_opioid/" >New study in American Journal of Drug Alcohol Abuse</a></h2>
-      <div class="article-style">
-        
-          Increasing rates of opioid-related overdose have been identified globally. Treatment for opioid use disorders (OUD) includes medications for opioid use disorder (MOUD) alongside behavioral support. In this study we use statistical analysis and machine learning to show that the Breaking Free Online program may reduce opioid use and improve biopsychosocial functioning in individuals with OUD.
-  Link to paper  
-        
-      </div>
+  <div>
+    <h2><a href="/post/2021-01-11_opioid/">New study in American Journal of Drug Alcohol Abuse</a></h2>
+    <div class="article-style">
+      
+      Increasing rates of opioid-related overdose have been identified globally. Treatment for opioid use disorders (OUD) includes medications for opioid use disorder (MOUD) alongside behavioral support. In this study we use statistical analysis and machine learning to show that the Breaking Free Online program may reduce opioid use and improve biopsychosocial functioning in individuals with OUD.
+Link to paper 
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/post/2020-11-27_turingai/" >Turing AI Acceleration Fellowship</a></h2>
-      <div class="article-style">
-        
-          Christopher Yau has been awarded a 5-year Turing AI Acceleration Fellowship.
+  <div>
+    <h2><a href="/post/2020-11-27_turingai/">Turing AI Acceleration Fellowship</a></h2>
+    <div class="article-style">
+      
+      Christopher Yau has been awarded a 5-year Turing AI Acceleration Fellowship.
 The Turing AI Acceleration Fellowships are part of the government’s AI sector deal investment in Turing AI fellowships, recommended by the independent 2017 UK AI Review, whose report ‘Growing the artificial intelligence industry in the UK,’ was co-authored by Reguis Professor of Computer Science at Southampton, Dame Wendy Hall, and Jérôme Pesenti, now Vice President of AI at Facebook.
-        
-      </div>
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/post/2020-09-09_consortai/" >Setting guidelines to report the use of AI in clinical trials </a></h2>
-      <div class="article-style">
-        
-          The CONSORT-AI and SPIRIT-AI Steering Groups (including Christopher Yau) have published their guidelines for conducting and reporting on clinical trials for AI interventions.
-  Setting guidelines to report the use of AI in clinical trials  
-        
-      </div>
+  <div>
+    <h2><a href="/post/2020-09-09_consortai/">Setting guidelines to report the use of AI in clinical trials </a></h2>
+    <div class="article-style">
+      
+      The CONSORT-AI and SPIRIT-AI Steering Groups (including Christopher Yau) have published their guidelines for conducting and reporting on clinical trials for AI interventions.
+Setting guidelines to report the use of AI in clinical trials 
+      
     </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/post/2020-07-02_hdruk_mo/" >Postdoc Opportunity with HDRUK</a></h2>
-      <div class="article-style">
-        
-          A new postdoc opportunity with myself and Dr Mike Inouye is available based in Cambridge:
-  Health Data Research UK (HDRUK) Multi-omics Consortium  
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/post/2020-01-17_kaspar/" >AISTATS 2020</a></h2>
-      <div class="article-style">
-        
-          Congratulations to Kaspar Martens who has had two papers accepted into AISTATS 2020. Papers to be published soon.
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/post/2019-07-01_icml/" >ICML 2019 SUCCESS!</a></h2>
-      <div class="article-style">
-        
-          A paper by Kaspar Martens and group alumni Kieran Campbell Covariate GPLVM has been accepted for presentation at the International Conference on Machine Learning.
-        
-      </div>
-    </div>
+  </div>
   
 
   
+<nav>
+  <ul class="pagination justify-content-center">
+    
+    
+    <li class="page-item"><a class="page-link" href="/categories/machine-learning/page/2/">&raquo;</a></li>
+    
+  </ul>
+</nav>
+
 
 </div>
 
@@ -820,11 +799,6 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
     
     
     <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -889,7 +863,7 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
     
     
     
-    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+    <script src="/js/academic.min.57a4f283427d81da9397b8c24f98011b.js"></script>
 
     
 

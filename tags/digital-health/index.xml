@@ -7,7 +7,7 @@
     <description>digital health</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sun, 01 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>digital health</title>
       <link>https://cwcyau.github.io/tags/digital-health/</link>
     </image>
@@ -29,8 +29,7 @@
       <link>https://cwcyau.github.io/project/optimal/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/project/optimal/</guid>
-      <description>&lt;p&gt;The OPTIMAL study is three-year study funded by the 
-&lt;a href=&#34;https://www.nihr.ac.uk/documents/artificial-intelligence-for-multiple-long-term-conditions-aim-programme-research-collaboration-stage-2-minutes/27578s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIHR AI for Multimorbidity&lt;/a&gt; and is a collaboration with the Universities of Birmingham and St Andrews with CPRD and University Hospitals Birmingham.&lt;/p&gt;
+      <description>&lt;p&gt;The OPTIMAL study is three-year study funded by the &lt;a href=&#34;https://www.nihr.ac.uk/documents/artificial-intelligence-for-multiple-long-term-conditions-aim-programme-research-collaboration-stage-2-minutes/27578s&#34;&gt;NIHR AI for Multimorbidity&lt;/a&gt; and is a collaboration with the Universities of Birmingham and St Andrews with CPRD and University Hospitals Birmingham.&lt;/p&gt;
 &lt;p&gt;In this study our group will develop novel artificial intelligence technologies to study electronic health records of individuals with two or more conditions known as &amp;ldquo;complex multimorbidity&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Our aim is to:&lt;/p&gt;
 &lt;ol&gt;
@@ -47,7 +46,7 @@
       <link>https://cwcyau.github.io/project/roche-antibody/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/project/roche-antibody/</guid>
-      <description>&lt;p&gt;In a new two-year collaboration with Roche, the group will be supporting a Roche Postdoctoral Fellowship in the development of antibodies. We will make use of Roche&#39;s existing antibody data to develop machine-learning models generating sequences of antibodies with desired biophysical properties. Our aims are to:&lt;/p&gt;
+      <description>&lt;p&gt;In a new two-year collaboration with Roche, the group will be supporting a Roche Postdoctoral Fellowship in the development of antibodies. We will make use of Roche&amp;rsquo;s existing antibody data to develop machine-learning models generating sequences of antibodies with desired biophysical properties. Our aims are to:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Develop machine learning models that ingest in-house antibody engineering data on antibodies to generate novel sequences with increased likelihood of desired biophysical properties,&lt;/li&gt;
 &lt;li&gt;Iteratively apply methods to antibody datasets,&lt;/li&gt;
@@ -66,16 +65,13 @@
 &lt;p&gt;The Turing AI Acceleration Fellowships are part of the government’s AI sector deal investment in Turing AI fellowships, recommended by the independent 2017 UK AI Review, whose report ‘Growing the artificial intelligence industry in the UK,’ was co-authored by Reguis Professor of Computer Science at Southampton, Dame Wendy Hall, and Jérôme Pesenti, now Vice President of AI at Facebook.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.gov.uk/government/news/20-million-boost-for-world-class-ai-research-could-transform-cancer-treatment-and-save-lives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK Government Press Release: &amp;ldquo;£20 million boost for world class AI research could transform cancer treatment and save lives&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.gov.uk/government/news/20-million-boost-for-world-class-ai-research-could-transform-cancer-treatment-and-save-lives&#34;&gt;UK Government Press Release: &amp;ldquo;£20 million boost for world class AI research could transform cancer treatment and save lives&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UKRI Press Release: &amp;ldquo;New Turing AI fellows to deliver world-class AI research&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/&#34;&gt;UKRI Press Release: &amp;ldquo;New Turing AI fellows to deliver world-class AI research&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;
-&lt;a href=&#34;https://www.bbc.co.uk/news/science-environment-55099620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBC: &amp;ldquo;AI &amp;lsquo;doctor&#39;s assistant&amp;rsquo; among projects given £20m&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bbc.co.uk/news/science-environment-55099620&#34;&gt;BBC: &amp;ldquo;AI &amp;lsquo;doctor&amp;rsquo;s assistant&amp;rsquo; among projects given £20m&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
@@ -88,8 +84,7 @@
       <guid>https://cwcyau.github.io/post/2020-09-09_consortai/</guid>
       <description>&lt;p&gt;The CONSORT-AI and SPIRIT-AI Steering Groups (including Christopher Yau) have published their guidelines for conducting and reporting on clinical trials for AI interventions.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://www.nature.com/articles/s41591-020-1069-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting guidelines to report the use of AI in clinical trials&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s41591-020-1069-z&#34;&gt;Setting guidelines to report the use of AI in clinical trials&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -100,8 +95,7 @@
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/project/birmcam/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;Christopher Yau is a co-investigator in the 
-&lt;a href=&#34;https://birmcam.github.io/birmcam/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIRM-CAM&lt;/a&gt; project that is led by Professors Tom Marshall (University of Birmingham) and Sylvia Richardson (MRC Biostatistics Unit, University of Cambridge).&lt;/p&gt;
+&lt;p&gt;Christopher Yau is a co-investigator in the &lt;a href=&#34;https://birmcam.github.io/birmcam/&#34;&gt;BIRM-CAM&lt;/a&gt; project that is led by Professors Tom Marshall (University of Birmingham) and Sylvia Richardson (MRC Biostatistics Unit, University of Cambridge).&lt;/p&gt;
 &lt;h1 id=&#34;multimorbidity&#34;&gt;Multimorbidity&lt;/h1&gt;
 &lt;p&gt;Multimorbidity is when people suffer from more than one long-term illness. It is increasingly common as people live longer. It is important because individual illnesses have knock-on effects on others, it is more complex managing multiple than single illnesses, and multimorbid patients are heavy users of medications and health services.&lt;/p&gt;
 &lt;p&gt;To understand multimorbidity we need to know which illnesses tend to occur together and which illness combinations most affect health. To adapt health services we need to know which types of people develop multimorbidity: their age, sex, ethnicity, socio-economic status and whether they tend to live in the same households. To learn how to prevent it we need to identify lifestyle factors (physical activity, diet, smoking, alcohol) linked to multimorbidity and the measurements (laboratory test results, weight, blood pressure) that might be early signs.&lt;/p&gt;
@@ -109,7 +103,7 @@
 &lt;p&gt;Electronic health records are a good source of information on multimorbidity because they include information on the same patient over many years. They include information on illnesses, medications, hospital admissions; measurements (laboratory tests, weight, blood pressure) and lifestyle (smoking, alcohol). Previous research has studied multimorbidity using a variety of statistical methods. It finds some illnesses, such as diabetes and heart disease tend to occur together. But different statistical methods often find different groups of illnesses. We need a single, consistent approach to this type of analysis to ensure we are researching the same groups of illnesses. Previous research generally has not made best use of all the available information. For example, patients are considered either to have or not have diabetes but research did not make use of laboratory measurements (such as blood glucose) identifying some people as likely to develop diabetes. Previous research grouped illnesses according to how commonly they occur together, without giving any special significance to combinations of illnesses linked to risk of death or hospital admission. Clearly such combinations of illness are of more importance. There are more advanced analysis methods which can address these and other shortcomings.&lt;/p&gt;
 &lt;h1 id=&#34;the-research&#34;&gt;The Research&lt;/h1&gt;
 &lt;p&gt;The first part of our research will develop methods of data analysis. We will review research on different statistical methods for grouping illnesses together. We will hold a workshop involving leading UK researchers in the field to try to agree on the best approach to this type of analysis. Informed by this we will analyse two large databases of electronic health records, each including several million patients. In each database we will identify the groups of illnesses that co-occur and check our findings in the other database. This is considered good practice in analysis. At the end of this step we will produce software to analyse and find groups of illnesses in electronic health records and make this freely available for other researchers to use.&lt;/p&gt;
-&lt;p&gt;The next part of our research will use additional information from two large surveys. Both surveys include details not always available in health records e.g. occupation, diet, lifestyle and measures of frailty. One includes 500,000 people the other has information on the same people over a period of 14 years. We will describe the consequences for patients of different combinations of illnesses: their levels of frailty because it is linked to need for social care; development of further illnesses; medications, use of health services and death. We will work with patient advisors to help guide analysis of patients journeys through health services. We will investigate possible causes of multimorbidity including people&#39;s social circumstances, the environment, lifestyle (smoking, alcohol, diet and exercise) and laboratory test results that might help indicate causes. This step will point to the areas of environment and lifestyle which should be investigated further as possible causes.&lt;/p&gt;
+&lt;p&gt;The next part of our research will use additional information from two large surveys. Both surveys include details not always available in health records e.g. occupation, diet, lifestyle and measures of frailty. One includes 500,000 people the other has information on the same people over a period of 14 years. We will describe the consequences for patients of different combinations of illnesses: their levels of frailty because it is linked to need for social care; development of further illnesses; medications, use of health services and death. We will work with patient advisors to help guide analysis of patients journeys through health services. We will investigate possible causes of multimorbidity including people&amp;rsquo;s social circumstances, the environment, lifestyle (smoking, alcohol, diet and exercise) and laboratory test results that might help indicate causes. This step will point to the areas of environment and lifestyle which should be investigated further as possible causes.&lt;/p&gt;
 </description>
     </item>
     
@@ -119,8 +113,7 @@
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/project/breaking-free/</guid>
       <description>&lt;p&gt;Using digital technology to improve health and care is now a priority focus for the UK National Health Service. New and maturing technological developments hold the potential to have a transformative effect on health service delivery. Digital health solutions can aid in the reduction of waiting times, more effective use of limited resources and improved treatment fidelity but, once such technologies are implemented, the dearth of data that can be acquired through their adoption itself presents a challenge. Data-driven insights, driven by machine learning and artificial intelligence techniques, can offer a glimpse of previously unknown patterns and identify opportunities for the development of new healthcare practices or policies. As digital health platforms become more sophisticated, the data that can be acquired often becomes more complex and heterogeneous, machine-based interpretation becomes a near-necessity.&lt;/p&gt;
-&lt;p&gt;The 
-&lt;a href=&#34;http://www.breakingfreegroup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breaking Free Group&lt;/a&gt; is a leading digital health and behaviour science company. Founded in 2010, it is formed from a team of psychologists, substance misuse experts and technology specialists. With an organisational philosophy built around the principles of state-of-the-art behaviour science and the UK Medical Research Council evaluation framework, they have developed a bespoke digital behavioural intervention platform that provides 24/7 access to a secure, GDPR-compliant, online digital cognitive behaviour therapy (CBT) platform with a particular focus on substance misuse. Users of the platform complete pre- and post-therapy questionnaires and interactive exercises designed to teach strategies to overcome addictive behaviours and improve wellbeing. Scoring on questionnaire responses can signpost users to personalised information sources. Real-time quantitative data from the platform can be anonymously fed to health service providers and commissioners for planning and policy development purposes.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;http://www.breakingfreegroup.com/&#34;&gt;Breaking Free Group&lt;/a&gt; is a leading digital health and behaviour science company. Founded in 2010, it is formed from a team of psychologists, substance misuse experts and technology specialists. With an organisational philosophy built around the principles of state-of-the-art behaviour science and the UK Medical Research Council evaluation framework, they have developed a bespoke digital behavioural intervention platform that provides 24/7 access to a secure, GDPR-compliant, online digital cognitive behaviour therapy (CBT) platform with a particular focus on substance misuse. Users of the platform complete pre- and post-therapy questionnaires and interactive exercises designed to teach strategies to overcome addictive behaviours and improve wellbeing. Scoring on questionnaire responses can signpost users to personalised information sources. Real-time quantitative data from the platform can be anonymously fed to health service providers and commissioners for planning and policy development purposes.&lt;/p&gt;
 &lt;p&gt;Breaking Free has seen its digital platform commissioned for use by the Ministry of Justice in UK prisons, Non-Government Charitable Organisations and NHS Trusts. Uniquely, Breaking Free operates under a research ethics protocol approved by the NHS Health Research Authority and endorsement by the National Institute of Clinical Excellence allowing the data they collect to be utilised for broader research applications. More recently, two new online platforms have been deployed more widely to the public targeting alcohol consumption reduction and smoking cessation. Breaking Free are based in both Birmingham and Manchester.&lt;/p&gt;
 &lt;p&gt;We have initiated a new multi-disciplinary collaboration with the Breaking Free Online team to develop novel data science methodologies to exploit real-time digital health monitoring and intervention data. Our working exemplars will be based on the unique behavioural insights captured by the Breaking Free Group but the research outputs would have generic applicability in other related settings including youth mental health conditions.&lt;/p&gt;
 </description>

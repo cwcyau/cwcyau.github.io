@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
   
 
@@ -29,8 +29,8 @@
     
   
   <meta name="description" content="Two new PhD projects are being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by 15 November 2020 for the MRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.
-   Breaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders. Deadline: 15 November 2020.
-   AI-scBio: Artificial Intelligence for Single Cell Biology.">
+Breaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders. Deadline: 15 November 2020.
+AI-scBio: Artificial Intelligence for Single Cell Biology.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://cwcyau.github.io/post/2020-10-22_mrc_dtp_2021/">
@@ -56,7 +56,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -81,13 +81,6 @@
     
 
     
-    
-      
-
-      
-      
-
-      
     
       
 
@@ -220,15 +213,13 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url, target) {
+  function trackOutboundLink(url) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
+           document.location = url;
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -238,7 +229,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+    trackOutboundLink(event.target);  
   }
 
   gtag('js', new Date());
@@ -255,12 +246,11 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://cwcyau.github.io/post/2020-10-22_mrc_dtp_2021/">
 
-  
   
   
   
@@ -278,9 +268,9 @@
   <meta property="og:url" content="https://cwcyau.github.io/post/2020-10-22_mrc_dtp_2021/">
   <meta property="og:title" content="PhD Opportunities 2021/22 | AI4Health">
   <meta property="og:description" content="Two new PhD projects are being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by 15 November 2020 for the MRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.
-   Breaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders. Deadline: 15 November 2020.
-   AI-scBio: Artificial Intelligence for Single Cell Biology."><meta property="og:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+Breaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders. Deadline: 15 November 2020.
+AI-scBio: Artificial Intelligence for Single Cell Biology."><meta property="og:image" content="https://cwcyau.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://cwcyau.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-11-08T00:00:00&#43;00:00">
@@ -299,6 +289,8 @@
 
 
   
+
+
 
 
 
@@ -326,10 +318,10 @@
     "name": "Artificial Intelligence and Data Science for Health",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://cwcyau.github.io/img/icon-512.png"
     }
   },
-  "description": "Two new PhD projects are being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by 15 November 2020 for the MRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.\n   Breaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders. Deadline: 15 November 2020.\n   AI-scBio: Artificial Intelligence for Single Cell Biology."
+  "description": "Two new PhD projects are being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by 15 November 2020 for the MRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.\nBreaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders. Deadline: 15 November 2020.\nAI-scBio: Artificial Intelligence for Single Cell Biology."
 }
 </script>
 
@@ -386,12 +378,6 @@
 
 
   
-
-
-
-
-
-
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -774,27 +760,22 @@
       <p>Two new PhD projects are being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by <strong>15 November 2020</strong> for the MRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.</p>
 <ul>
 <li>
-<p>
-<a href="https://www.findaphd.com/phds/project/mrc-case-breaking-free-with-artificial-intelligence-using-data-driven-insights-to-improve-digital-health-support-for-substance-use-disorders/?p125142" target="_blank" rel="noopener">Breaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders</a>. Deadline: 15 November 2020.</p>
+<p><a href="https://www.findaphd.com/phds/project/mrc-case-breaking-free-with-artificial-intelligence-using-data-driven-insights-to-improve-digital-health-support-for-substance-use-disorders/?p125142">Breaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders</a>. Deadline: 15 November 2020.</p>
 </li>
 <li>
-<p>
-<a href="https://www.findaphd.com/phds/project/mrc-dtp-ai-scbio-artificial-intelligence-for-single-cell-biology/?p122456" target="_blank" rel="noopener">AI-scBio: Artificial Intelligence for Single Cell Biology</a>. Deadline: 15 November 2020.</p>
+<p><a href="https://www.findaphd.com/phds/project/mrc-dtp-ai-scbio-artificial-intelligence-for-single-cell-biology/?p122456">AI-scBio: Artificial Intelligence for Single Cell Biology</a>. Deadline: 15 November 2020.</p>
 </li>
 </ul>
 <p>There are also opportunities in which I am co-supervisor:</p>
 <ul>
 <li>
-<p>
-<a href="https://www.findaphd.com/phds/project/mrc-dtp-genomic-drivers-and-mechanisms-of-colorectal-peritoneal-metastasis-formation/?p125088" target="_blank" rel="noopener">Genomic drivers and mechanisms of colorectal peritoneal metastasis formation</a>. Deadline: 15 November 2020.</p>
+<p><a href="https://www.findaphd.com/phds/project/mrc-dtp-genomic-drivers-and-mechanisms-of-colorectal-peritoneal-metastasis-formation/?p125088">Genomic drivers and mechanisms of colorectal peritoneal metastasis formation</a>. Deadline: 15 November 2020.</p>
 </li>
 <li>
-<p>
-<a href="https://www.kcl.ac.uk/health/study/studentships/div-studentships/cancer/cruk-khp-phd-studentships-21" target="_blank" rel="noopener">CRUK KHP PhD studentships (based at Kings College London)</a>. Deadline: 1 December 2020.</p>
+<p><a href="https://www.kcl.ac.uk/health/study/studentships/div-studentships/cancer/cruk-khp-phd-studentships-21">CRUK KHP PhD studentships (based at Kings College London)</a>. Deadline: 1 December 2020.</p>
 </li>
 <li>
-<p>
-<a href="https://www.hdruk.ac.uk/become-a-health-data-scientist/phd-programme/" target="_blank" rel="noopener">HDRUK Wellcome PhD Programme in Health Data Science</a>. Deadline: 1 December 2020.</p>
+<p><a href="https://www.hdruk.ac.uk/become-a-health-data-scientist/phd-programme/">HDRUK Wellcome PhD Programme in Health Data Science</a>. Deadline: 1 December 2020.</p>
 </li>
 </ul>
 
@@ -922,11 +903,10 @@
     
   
   
-  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1069,11 +1049,6 @@
 
     
     
-    <script>const isSiteThemeDark = false;</script>
-    
-
-    
-    
     
     
     
@@ -1134,7 +1109,7 @@
     
     
     
-    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+    <script src="/js/academic.min.57a4f283427d81da9397b8c24f98011b.js"></script>
 
     
 

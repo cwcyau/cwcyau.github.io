@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
   
 
@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Artificial Intelligence and Data Science for Health Research Group at The University of Manchester led by Professor Christopher Yau.">
+  <meta name="description" content="Artificial Intelligence and Data Science for Health Research Group at The University of Oxford led by Professor Christopher Yau.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://cwcyau.github.io/publication_types/2/">
@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -79,13 +79,6 @@
     
 
     
-    
-      
-
-      
-      
-
-      
     
       
 
@@ -218,15 +211,13 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url, target) {
+  function trackOutboundLink(url) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
+           document.location = url;
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -236,7 +227,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+    trackOutboundLink(event.target);  
   }
 
   gtag('js', new Date());
@@ -255,12 +246,11 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://cwcyau.github.io/publication_types/2/">
 
-  
   
   
   
@@ -277,8 +267,8 @@
   <meta property="og:site_name" content="AI4Health">
   <meta property="og:url" content="https://cwcyau.github.io/publication_types/2/">
   <meta property="og:title" content="2 | AI4Health">
-  <meta property="og:description" content="Artificial Intelligence and Data Science for Health Research Group at The University of Manchester led by Professor Christopher Yau."><meta property="og:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Artificial Intelligence and Data Science for Health Research Group at The University of Oxford led by Professor Christopher Yau."><meta property="og:image" content="https://cwcyau.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://cwcyau.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2021-01-01T00:00:00&#43;00:00">
   
@@ -336,12 +326,6 @@
 
 
   
-
-
-
-
-
-
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -667,105 +651,75 @@
 
   
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2013-01-01_yau2013oncosnp/" >OncoSNP-SEQ: a statistical approach for the identification of somatic copy number alterations from next-generation sequencing of cancer genomes</a></h2>
-      <div class="article-style">
-        
-      </div>
+  <div>
+    <h2><a href="/publication/2014-01-01_cazier2014whole/">Whole-genome sequencing of bladder cancers reveals somatic CDKN1A mutations and clinicopathological associations with mutation burden</a></h2>
+    <div class="article-style">
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2013-01-01_mouradov2013survival/" >Survival in stage II/III colorectal cancer is independently predicted by chromosomal and microsatellite instability, but not by specific driver mutations</a></h2>
-      <div class="article-style">
-        
-      </div>
+  <div>
+    <h2><a href="/publication/2013-01-01_yau2013decision/">A decision-theoretic approach for segmental classification</a></h2>
+    <div class="article-style">
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2012-01-01_knight2012quantification/" >Quantification of subclonal distributions of recurrent genomic aberrations in paired pre-treatment and relapse samples from patients with B-cell chronic lymphocytic leukemia</a></h2>
-      <div class="article-style">
-        
-      </div>
+  <div>
+    <h2><a href="/publication/2013-01-01_sengupta2013analysis/">Analysis of colorectal cancers in British Bangladeshi identifies early onset, frequent mucinous histotype and a high prevalence of RBFOX1 deletion</a></h2>
+    <div class="article-style">
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2011-01-01_yau2011bayesian/" >Bayesian non-parametric hidden Markov models with applications in genomics</a></h2>
-      <div class="article-style">
-        
-      </div>
+  <div>
+    <h2><a href="/publication/2013-01-01_becker2013nucleofinder/">NucleoFinder: a statistical approach for the detection of nucleosome positions</a></h2>
+    <div class="article-style">
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2011-01-01_yau2011hierarchical/" >Hierarchical Bayesian nonparametric mixture models for clustering with variable relevance determination</a></h2>
-      <div class="article-style">
-        
-      </div>
+  <div>
+    <h2><a href="/publication/2013-01-01_yau2013oncosnp/">OncoSNP-SEQ: a statistical approach for the identification of somatic copy number alterations from next-generation sequencing of cancer genomes</a></h2>
+    <div class="article-style">
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2011-01-01_sengupta2011somatic/" >Somatic copy number alterations in a defined ethnic cohort with a high frequency of early-onset colorectal cancer</a></h2>
-      <div class="article-style">
-        
-      </div>
+  <div>
+    <h2><a href="/publication/2013-01-01_mouradov2013survival/">Survival in stage II/III colorectal cancer is independently predicted by chromosomal and microsatellite instability, but not by specific driver mutations</a></h2>
+    <div class="article-style">
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2010-01-01_yau2010statistical/" >A statistical approach for detecting genomic aberrations in heterogeneous tumor samples from single nucleotide polymorphism genotyping data</a></h2>
-      <div class="article-style">
-        
-      </div>
+  <div>
+    <h2><a href="/publication/2012-01-01_knight2012quantification/">Quantification of subclonal distributions of recurrent genomic aberrations in paired pre-treatment and relapse samples from patients with B-cell chronic lymphocytic leukemia</a></h2>
+    <div class="article-style">
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2010-01-01_craddock2010genome/" >Genome-wide association study of CNVs in 16,000 cases of eight common diseases and 3,000 shared controls</a></h2>
-      <div class="article-style">
-        
-      </div>
+  <div>
+    <h2><a href="/publication/2011-01-01_yau2011bayesian/">Bayesian non-parametric hidden Markov models with applications in genomics</a></h2>
+    <div class="article-style">
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2010-01-01_lathrop2010genome/" >Genome-wide association study of CNVs in 16,000 cases of eight common diseases and 3,000 shared controls</a></h2>
-      <div class="article-style">
-        
-      </div>
+  <div>
+    <h2><a href="/publication/2011-01-01_yau2011hierarchical/">Hierarchical Bayesian nonparametric mixture models for clustering with variable relevance determination</a></h2>
+    <div class="article-style">
+      
     </div>
+  </div>
   
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2010-01-01_lee2010utility/" >On the utility of graphics cards to perform massively parallel simulation of advanced Monte Carlo methods</a></h2>
-      <div class="article-style">
-        
-      </div>
+  <div>
+    <h2><a href="/publication/2011-01-01_sengupta2011somatic/">Somatic copy number alterations in a defined ethnic cohort with a high frequency of early-onset colorectal cancer</a></h2>
+    <div class="article-style">
+      
     </div>
+  </div>
   
 
   
@@ -813,11 +767,6 @@
     
     
     <script>const code_highlighting = true;</script>
-    
-
-    
-    
-    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -882,7 +831,7 @@
     
     
     
-    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+    <script src="/js/academic.min.57a4f283427d81da9397b8c24f98011b.js"></script>
 
     
 

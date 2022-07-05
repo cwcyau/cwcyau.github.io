@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
   
 
@@ -56,7 +56,7 @@ Research Contributions. In Statistics and Machine Learning, my major contributio
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -81,13 +81,6 @@ Research Contributions. In Statistics and Machine Learning, my major contributio
     
 
     
-    
-      
-
-      
-      
-
-      
     
       
 
@@ -220,15 +213,13 @@ Research Contributions. In Statistics and Machine Learning, my major contributio
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url, target) {
+  function trackOutboundLink(url) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
+           document.location = url;
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -238,7 +229,7 @@ Research Contributions. In Statistics and Machine Learning, my major contributio
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+    trackOutboundLink(event.target);  
   }
 
   gtag('js', new Date());
@@ -255,12 +246,11 @@ Research Contributions. In Statistics and Machine Learning, my major contributio
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://cwcyau.github.io/post/2020-06-20_case-for-support-final/">
 
-  
   
   
   
@@ -279,8 +269,8 @@ Research Contributions. In Statistics and Machine Learning, my major contributio
   <meta property="og:title" content="Proposal | AI4Health">
   <meta property="og:description" content="Project Title: clinAIcan - developing clinical applications of artificial intelligence for cancer
 Track Record [max 2 pages] I am an Artificial Intelligence (AI) researcher with a focus on developing computational and statistical methodologies for problems within the biomedical and health sciences.
-Research Contributions. In Statistics and Machine Learning, my major contributions have included i) expanding the statistical toolkit for Markov models, ii) Bayesian nonparametric latent variable modelling for high-dimensional data and iii) novel methodology for bioinformatics."><meta property="og:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+Research Contributions. In Statistics and Machine Learning, my major contributions have included i) expanding the statistical toolkit for Markov models, ii) Bayesian nonparametric latent variable modelling for high-dimensional data and iii) novel methodology for bioinformatics."><meta property="og:image" content="https://cwcyau.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://cwcyau.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
     
@@ -297,6 +287,8 @@ Research Contributions. In Statistics and Machine Learning, my major contributio
 
 
   
+
+
 
 
 
@@ -324,7 +316,7 @@ Research Contributions. In Statistics and Machine Learning, my major contributio
     "name": "Artificial Intelligence and Data Science for Health",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://cwcyau.github.io/img/icon-512.png"
     }
   },
   "description": "Project Title: clinAIcan - developing clinical applications of artificial intelligence for cancer\nTrack Record [max 2 pages] I am an Artificial Intelligence (AI) researcher with a focus on developing computational and statistical methodologies for problems within the biomedical and health sciences.\nResearch Contributions. In Statistics and Machine Learning, my major contributions have included i) expanding the statistical toolkit for Markov models, ii) Bayesian nonparametric latent variable modelling for high-dimensional data and iii) novel methodology for bioinformatics."
@@ -384,12 +376,6 @@ Research Contributions. In Statistics and Machine Learning, my major contributio
 
 
   
-
-
-
-
-
-
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -813,7 +799,7 @@ Learning and AI with GSK (due to held in July 2020).</p>
 Professor Peter Diggle) a successful application on behalf of the Health
 Data Research UK (HDRUK) and The Alan Turing Institute (Turing) for a
 Wellcome PhD Programme in Health Data Science. This is a unique
-multi-institutional PhD programme<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> that is founded on HDRUK's One
+multi-institutional PhD programme<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> that is founded on HDRUK&rsquo;s One
 Institute vision of collective and collaborative working in health data
 science. I am work package co-lead for artificial intelligence and
 multimodal data integration in the HDRUK Multi-omics Consortium with Dr
@@ -837,7 +823,7 @@ randomised control trials [@liu2019reporting]. I am applying knowledge
 from this initiative as part of my contribution to the Phase 4 review
 panel for the AI in Health and Care Award run by the AAC in partnership
 with NHSX and NIHR. I also sit on the MRC Methodology Research Panel
-where I have contributed to the development of MRC's data science
+where I have contributed to the development of MRC&rsquo;s data science
 strategy for its next funding cycle.</p>
 <p><em>Researcher Development.</em> I have been fortunate to have trained and
 mentored a fantastic group of students and postdoctoral fellows in the
@@ -891,7 +877,7 @@ reaffirmed their institutional support for this fellowship proposal (1x
 <p>[<em>&ldquo;In the spring of 2012, I received the devastating diagnosis of
 ovarian cancer - the &lsquo;silent killer&rsquo; Why me? Why anyone? Like
 thousands of women before me, I searched for reasons WHY whilst trying
-to come to terms with the illness.&quot;</em>]{.roman} &mdash; <strong>Patient 11152</strong></p>
+to come to terms with the illness.&rdquo;</em>]{.roman} &mdash; <strong>Patient 11152</strong></p>
 </blockquote>
 <p>\vspace{4pt}
 \vspace{0.2cm}
@@ -909,15 +895,14 @@ multi-region whole genome sequencing (WGS) to extensively characterise
 the genetic heterogeneity <em>within</em> a single OvCa patient (Patient 11152)
 and showing that an individual can harbour both chemotherapy-sensitive
 and resistant cell populations (Figure
-
-<a href="#fig:patient_11152">[fig:patient_11152]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:patient_11152&rdquo;}(a)). We also identified an early
+<a href="#fig:patient_11152">[fig:patient_11152]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:patient_11152&rdquo;}(a)). We also identified an early
 premalignant mutation in the <em>SOX2</em> gene, which was found to be
 frequently overexpressed in the fallopian tubes (FT) of OvCa patients
 [@hellner2016premalignant]. We have used single cell RNA sequencing to
 survey the cellular FT landscape of OvCa and showed that gene expression
 patterns in the tumours can be traced back to those of certain FT cell
-types [@hu2020repertoire]. This has allowed us to postulate that OvCa's
+types [@hu2020repertoire]. This has allowed us to postulate that OvCa&rsquo;s
 can derive from different cell types within the FT and that the
 cell-of-origin can drive significant differences in survival outcomes.
 More recently, we have developed novel sequencing technologies to
@@ -929,17 +914,16 @@ sample from Patient 11152 that had previously been uncharacterised by
 standard sequencing. This provided evidence of the ongoing disease
 evolution of the disease within the patient.</p>
 <p>\centering
-<img src="figs/patient11152.png" alt="Telling the Story of Patient 11152. (a) Comprehensive multiregionand longitudinal tumour sampling and disease pathogenesischaracterisation for a single cancer patient was used to (b) determine apotential sequence of molecular events that occurred in the pathogenesisof her disease. ">{width=&quot;85%&quot;}</p>
-<p>[[fig:patient_11152]]{#fig:patient_11152 label=&quot;fig:patient_11152&rdquo;}</p>
+<img src="figs/patient11152.png" alt="Telling the Story of Patient 11152. (a) Comprehensive multiregionand longitudinal tumour sampling and disease pathogenesischaracterisation for a single cancer patient was used to (b) determine apotential sequence of molecular events that occurred in the pathogenesisof her disease. ">{width=&ldquo;85%&rdquo;}</p>
+<p>[[fig:patient_11152]]{#fig:patient_11152 label=&ldquo;fig:patient_11152&rdquo;}</p>
 <p><strong>Vision.</strong> Throughout this work, I have been struck by the many layers
 of molecular complexity underlying OvCa that have been revealed by
 advanced &lsquo;omics technologies (multi-omics). Complexity that we have
 begun to painstakingly unravel and enable clinicians and patients, like
 11185, to better understand <em>why</em> their disease happened and <em>how</em> it
 could be treated (Figure
-
-<a href="#fig:patient_11152">[fig:patient_11152]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:patient_11152&rdquo;}(b)). If this could be routinely
+<a href="#fig:patient_11152">[fig:patient_11152]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:patient_11152&rdquo;}(b)). If this could be routinely
 undertaken, not just for one patient, but <em>every</em> patient, we would
 begin to realise the ambitions of cancer precision medicine: <em>to treat
 patients at the right time in the right way</em>. In this fellowship
@@ -949,7 +933,7 @@ would enable the realisation of this ambition.</p>
 <blockquote>
 <p><em>&ldquo;An understanding of the dynamics of cancer evolution might lead to
 improvement in clinical outcomes, as it enables prognoses to be
-accurately determined and &lsquo;evolution-aware&rsquo; patient management to be
+accurately determined and &rsquo;evolution-aware&rsquo; patient management to be
 applied.&quot;</em> &mdash; Turajlic <em>et. al.</em> (2019), <em>Nature Reviews Genetics</em>.</p>
 </blockquote>
 <p>\vspace{0.5cm}
@@ -959,9 +943,8 @@ assembled through this fellowship, given patient data, we would like to
 be able to reconstruct the series of molecular events that have led to
 their current state of disease and to use this model to predict the
 future course of their disease under different treatment regimes (Figure
-
-<a href="#fig:overview">[fig:overview]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:overview&rdquo;}). My intention is not to study cancer
+<a href="#fig:overview">[fig:overview]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:overview&rdquo;}). My intention is not to study cancer
 evolution in itself but to leverage the extensive pool of existing
 knowledge derived over the last decade of cancer &lsquo;omics research to
 build computable models that could enable us to apply this knowledge in
@@ -970,8 +953,8 @@ ovarian cancer but the methodologies will be applicable to all cancers
 and potentially other diseases that will be explored with a broad body
 of project partners that I have assembled for this proposal.</p>
 <p>\centering
-<img src="figs/project-overview.png" alt="ProjectOverview.[]{label="fig:overview&rdquo;}">{#fig:overview
-width=&quot;60%&quot;}</p>
+<img src="figs/project-overview.png" alt="ProjectOverview.[]{label=&amp;ldquo;fig:overview&amp;rdquo;}">{#fig:overview
+width=&ldquo;60%&rdquo;}</p>
 <p><strong>Existing work.</strong> Longitudinal sampling represents the gold standard
 for acquiring data to measure disease progression through repeated
 sampling over time. However, in cancer this is rarely possible since
@@ -984,22 +967,20 @@ patients within cross-sectional cohorts to recover <em>pseudotemporal</em>
 information about the dynamics of cancer evolution
 [@campbell2018uncovering].</p>
 <p>\centering
-<img src="figs/pseudotime.png" alt="Latent variable models for cancer disease progression. Using (a)high-dimensional &lsquo;omics data from cross-sectional cohorts, we canidentify (b) low-dimensional manifolds which correspond to moleculardisease trajectories through the use of LVMs. (c) Our feature-leveldecomposition models [@martens2020nd] explicitly define a relationshipbetween the observed and latent space allowing us to interpret thesetrajectories in terms of the variation in the original measurablequantities. This is critical for precision medicine applications whichaim to target molecular mechanisms at the right stage of cancerprogression.[]{label="fig:pst&rdquo;}">{#fig:pst
-width=&quot;90%&quot;}</p>
+<img src="figs/pseudotime.png" alt="Latent variable models for cancer disease progression. Using (a)high-dimensional &amp;lsquo;omics data from cross-sectional cohorts, we canidentify (b) low-dimensional manifolds which correspond to moleculardisease trajectories through the use of LVMs. (c) Our feature-leveldecomposition models [@martens2020nd] explicitly define a relationshipbetween the observed and latent space allowing us to interpret thesetrajectories in terms of the variation in the original measurablequantities. This is critical for precision medicine applications whichaim to target molecular mechanisms at the right stage of cancerprogression.[]{label=&amp;ldquo;fig:pst&amp;rdquo;}">{#fig:pst
+width=&ldquo;90%&rdquo;}</p>
 <p><em>Latent Variable Models.</em> In terms of modelling, given a collection of
 high-dimensional observation vectors ${ {\bf y}_1, \dots, {\bf y}_N }$
-for $N$ individuals (Figure 
-<a href="#fig:pst">[fig:pst]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:pst&rdquo;}(a)), we assume that the data are noisy observations
+for $N$ individuals (Figure <a href="#fig:pst">[fig:pst]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:pst&rdquo;}(a)), we assume that the data are noisy observations
 that sit on embedded non-linear manifolds within the high-dimensional
 observational space. These manifolds each correspond to a different
 disease trajectory and distance along a manifold relates to the degree
 of molecular progression (Figure
-
-<a href="#fig:pst">[fig:pst]</a>{reference-type=&quot;ref&rdquo; reference=&quot;fig:pst&rdquo;}(b)).
+<a href="#fig:pst">[fig:pst]</a>{reference-type=&ldquo;ref&rdquo; reference=&ldquo;fig:pst&rdquo;}(b)).
 This can be captured by a hierarchical latent variable model:
 $$\begin{aligned}
-{\bf y}_n &amp;= {\bf x}_n + {\bm \epsilon}_n, ~ n=1,\dots,N, \<br>
+{\bf y}_n &amp;= {\bf x}_n + {\bm \epsilon}_n, ~ n=1,\dots,N, \
 {\bf x}_n &amp;= {\bf f}({\bf z}_n(\tau_n), {\bf c}_n),\end{aligned}$$
 where ${\bf x}_n$ corresponds to the noise-free observation, ${\bf z}_n$
 are the coordinates in a low-dimensional latent space which is mapped to
@@ -1009,9 +990,8 @@ the manifold which we utilise as a measure of disease progression. Our
 work has shown that such measures highlight molecular heterogeneity
 amongst cancer patients that would be considered to be identical under
 standard clinicopathlogical variables (Figure
-
-<a href="#fig:existing">[fig:existing]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:existing&rdquo;}(c)) Additional covariates of relevance are
+<a href="#fig:existing">[fig:existing]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:existing&rdquo;}(c)) Additional covariates of relevance are
 captured by ${\bf c}_n$.</p>
 <p><em>Decomposable nonlinear dimensionality reduction.</em> In statistical
 machine learning, where ${\bf f}$ is treated as an unknown function,
@@ -1020,37 +1000,33 @@ deep neural networks particularly in the form of Variational
 Autoencoders (VAEs) [@kingma2014stochastic]. We have recently extended
 both frameworks [@martens2019decomposing; @martens2020nd] to include
 explicit additive structures on the mappings: $$\begin{aligned}
-x_{pn} = f_{c}^p({\bf c}_n) + f_{z}^p({\bf z}_n(\tau_n))  + f_{cz}^p({\bf z}_n(\tau_n), {\bf c}_n), ~ p=1,\dots,P,\end{aligned}$$
+x_{pn} = f_{c}^p({\bf c}<em>n) + f</em>{z}^p({\bf z}<em>n(\tau_n))  + f</em>{cz}^p({\bf z}_n(\tau_n), {\bf c}_n), ~ p=1,\dots,P,\end{aligned}$$
 which allow us to more precisely define the relationships between each
 feature, the latent quantities and the covariates providing
 interpretable structure which means ${\bf f}$ is not simply a black-box
-(Figure 
-<a href="#fig:pst">[fig:pst]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:pst&rdquo;}(c)). This *feature-level interpretability* means we
+(Figure <a href="#fig:pst">[fig:pst]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:pst&rdquo;}(c)). This <em>feature-level interpretability</em> means we
 can understand the model in terms of how original features vary along
 trajectories allowing experimental validation and the possibility of
 biomarker tests to be developed to measure and confirm patient disease
 progression (Figure
-
-<a href="#fig:existing">[fig:existing]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:existing&rdquo;}(a)). We have also extended these models to
+<a href="#fig:existing">[fig:existing]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:existing&rdquo;}(a)). We have also extended these models to
 incorporate scale- and translation-invariance allowing us to group
 features exhibiting similar functional behaviour [@martens2020trans]
-(Figure 
-<a href="#fig:existing">[fig:existing]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:existing&rdquo;}(b)). This enables the identification of
+(Figure <a href="#fig:existing">[fig:existing]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:existing&rdquo;}(b)). This enables the identification of
 &ldquo;pathways&quot; or coordinated biological behaviour across many different
 genes or proteins. These constraints have the benefit of promoting
 adherence to biological reality whilst vastly reducing the feasible
 model space meaning it is possible to learn effectively from the
 relatively small data sets common in cancer studies such as the OXO-PCR
 clinical trial (Figure
-
-<a href="#fig:existing">[fig:existing]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:existing&rdquo;}(c)).<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
+<a href="#fig:existing">[fig:existing]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:existing&rdquo;}(c)).<sup id="fnref:2"><a href="#fn:2" class="footnote-ref" role="doc-noteref">2</a></sup></p>
 <p>\centering
-<img src="figs/existing.png" alt="Existing work. (a) Neural decomposition VAE [@martens2020nd]usesneural networks to provide a scalable Functional ANOVA type model withlatent variables. (b) BasisVAE [@martens2020trans] uses translation- andscale-invariant clustering of features to allow us to group samples andfeatures simultaneously (biclustering). (c) Application of our currentdisease progression models to the OXO-PCR OvCa trial cohort(unpublished).[]{label="fig:existing&rdquo;}">{#fig:existing
-width=&quot;85%&quot;}</p>
+<img src="figs/existing.png" alt="Existing work. (a) Neural decomposition VAE [@martens2020nd]usesneural networks to provide a scalable Functional ANOVA type model withlatent variables. (b) BasisVAE [@martens2020trans] uses translation- andscale-invariant clustering of features to allow us to group samples andfeatures simultaneously (biclustering). (c) Application of our currentdisease progression models to the OXO-PCR OvCa trial cohort(unpublished).[]{label=&amp;ldquo;fig:existing&amp;rdquo;}">{#fig:existing
+width=&ldquo;85%&rdquo;}</p>
 <p><strong>Work Packages.</strong> Building upon this existing work, I propose two
 AI-focused work packages to undertake detailed and novel research into
 models to account for (i) treatment intervention and (ii) genetic
@@ -1068,9 +1044,8 @@ provides evidence of my capability to address these issues.</p>
 &ldquo;natural evolution&quot; of untreated cancers but are not directly amenable
 to data collected from post-treatment samples where the treatment may
 have perturbed the progression of the disease (Figure
-
-<a href="#fig:treatment">[fig:treatment]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:treatment&rdquo;}(a)). Our goal is to <strong>construct models to
+<a href="#fig:treatment">[fig:treatment]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:treatment&rdquo;}(a)). Our goal is to <strong>construct models to
 allow quantification of interventional effects at the molecular level</strong>.
 However, the <em>a priori</em> knowledge of the <em>absolute</em> molecular effects of
 the intervention is often poorly characterised and may only be defined
@@ -1082,18 +1057,17 @@ x_{pn}(\tau_n) &amp;= \int_{-\infty}^{\tau_n} g^p({\bf x}_n(t), {\bf z}_n(t), t)
 where each observed feature is governed by a system of ordinary (or
 potentially stochastic) differential equations (ODEs) $g$ whose
 integration limits depend on an unobserved molecular time $\tau_n$. I am
-therefore seeking to develop a novel class of **mechanistically-driven
-dimensionality reduction methods** (Figure
-
-<a href="#fig:treatment">[fig:treatment]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:treatment&rdquo;}(c)) where we wish to identify a
+therefore seeking to develop a novel class of <strong>mechanistically-driven
+dimensionality reduction methods</strong> (Figure
+<a href="#fig:treatment">[fig:treatment]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:treatment&rdquo;}(c)) where we wish to identify a
 low-dimensional latent embedding for the data where the mapping from the
 latent to observable space is governed by a dynamic model whose form is
 not necessarily known but can be parameterised through deep neural
 networks [@chen2018neural].</p>
 <p>\centering
-<img src="figs/treatment.png" alt="Mechanistic-driven models for quantifying treatment effects. (a)Treatments can act to push molecular states along the natural trajectoryof the disease or to perturb the disease on to a new trajectory. (b)Treatment effects need to be quantified on the feature-level in order tobe biologically and clinically interpretable. (c) A possible mechanisticapproach for modelling disease trajectories uses decoders within VAEsthat are constrained to behave like ODEs by matching derivatives throughthe decoder neural network to the ODE $g$. We have recently utilisedsuch ideas to develop neural network-based emulator for ODE solvers[@danks2020].[]{label="fig:treatment&rdquo;}">{#fig:treatment
-width=&quot;85%&quot;}</p>
+<img src="figs/treatment.png" alt="Mechanistic-driven models for quantifying treatment effects. (a)Treatments can act to push molecular states along the natural trajectoryof the disease or to perturb the disease on to a new trajectory. (b)Treatment effects need to be quantified on the feature-level in order tobe biologically and clinically interpretable. (c) A possible mechanisticapproach for modelling disease trajectories uses decoders within VAEsthat are constrained to behave like ODEs by matching derivatives throughthe decoder neural network to the ODE $g$. We have recently utilisedsuch ideas to develop neural network-based emulator for ODE solvers[@danks2020].[]{label=&amp;ldquo;fig:treatment&amp;rdquo;}">{#fig:treatment
+width=&ldquo;85%&rdquo;}</p>
 <p>We will initially focus on ODEs that take the form: $$\begin{aligned}
 \frac{ \partial x_p }{ \partial \tau }
 &amp;= g_p^p(x_p(\tau), {\bf z}(\tau)) + \sum_{q \neq p} g_q^p(x_q(\tau), {\bf z}(\tau)) + \sum_{q} g_{pq}^p(x_p(\tau), x_q(\tau), {\bf z}(\tau)) + \underbrace{I_p(x_p(\tau), z(\tau))}_{\mbox{\scriptsize Treatment}},\end{aligned}$$
@@ -1103,9 +1077,9 @@ intervention term to account for treatment effects. The latter is of
 interest since current cancer treatments are administered ignorant of
 high-resolution molecular factors and therefore characterising the
 molecular effects of current treatments is of interest. This setup will
-allow the proposed work to build upon and **integrate with hybrid
+allow the proposed work to build upon and <strong>integrate with hybrid
 mechanistic-machine learning models for characterising drug
-perturbations** on cancer cell lines that have established network
+perturbations</strong> on cancer cell lines that have established network
 models of molecular interactions. These can be used as prior information
 to regularise our models
 [@oates2014causal; @korkut2015perturbation; @stewart2017integrating; @frohlich2018efficient; @yuan2019interpretable].
@@ -1129,9 +1103,8 @@ which is said to be &ldquo;copy number driven&quot;
 [@macintyre2018copy; @berger2018comprehensive; @the2020pan]. Loss of
 genomic integrity in cancer cells leads to the accumulation of
 chromosomal abnormalities - segments of DNA which are lost or duplicated
-(Figure 
-<a href="#fig:rl">[fig:rl]</a>{reference-type=&quot;ref&rdquo;
-reference=&quot;fig:rl&rdquo;}(a)). Remarkably, whilst copy number evolution has
+(Figure <a href="#fig:rl">[fig:rl]</a>{reference-type=&ldquo;ref&rdquo;
+reference=&ldquo;fig:rl&rdquo;}(a)). Remarkably, whilst copy number evolution has
 been extensively studied
 [@de2014spatial; @wang2014clonal; @gao2016punctuated] and genomic
 instability is strongly linked to cancer outcomes
@@ -1156,16 +1129,14 @@ learning</em> (Deep RL) approaches for learning probabilistic models of
 genomic evolution [@feng2020]. The principle is that we can capture
 evolutionary pressures through a <em>policy</em> governing the Markov
 transitions between genomic states (Figure
-
-<a href="#fig:rl">[fig:rl]</a>{reference-type=&quot;ref&rdquo; reference=&quot;fig:rl&rdquo;}(b)).
+<a href="#fig:rl">[fig:rl]</a>{reference-type=&ldquo;ref&rdquo; reference=&ldquo;fig:rl&rdquo;}(b)).
 Evolution is treated as an <em>agent</em> which takes <em>actions</em> against the
 genome causing it to mutate. The genome returns <em>rewards</em> which are
 related to the compatibility of that action with real world tumour copy
 number profiles. Using RL we learn policies that allow us to generate
 evolutionary event sequences which can give rise to biologically
 realistic genomic copy number profiles (Figure
-
-<a href="#fig:rl">[fig:rl]</a>{reference-type=&quot;ref&rdquo; reference=&quot;fig:rl&rdquo;}(c)).
+<a href="#fig:rl">[fig:rl]</a>{reference-type=&ldquo;ref&rdquo; reference=&ldquo;fig:rl&rdquo;}(c)).
 These trained models can then be used to retrospective infer
 evolutionary histories given a tumour profile or to forward project the
 evolution of the genome for predictive purposes. Importantly, in order
@@ -1181,8 +1152,8 @@ dataset), we have adopted notions of <em>self-play</em> made prominent by
 recent high-profile applications, such as <em>AlphaGo</em>, to train our models
 [@silver2017mastering].</p>
 <p>\centering
-<img src="figs/rl.png" alt="Reinforcement Learning for genomic copy number evolution. (a) Theobserved tumour genome is formed from a series of unseen copy numberalteration events which must be inferred. (b) The transitions betweeneach genomic state can be assumed to be Markovian and given by atransition probability distribution. (c) Inference can be framed as areinforcement learning problem to learn policies that describe thetransition probabilities.[]{label="fig:rl&rdquo;}">{#fig:rl
-width=&quot;90%&quot;}</p>
+<img src="figs/rl.png" alt="Reinforcement Learning for genomic copy number evolution. (a) Theobserved tumour genome is formed from a series of unseen copy numberalteration events which must be inferred. (b) The transitions betweeneach genomic state can be assumed to be Markovian and given by atransition probability distribution. (c) Inference can be framed as areinforcement learning problem to learn policies that describe thetransition probabilities.[]{label=&amp;ldquo;fig:rl&amp;rdquo;}">{#fig:rl
+width=&ldquo;90%&rdquo;}</p>
 <p>The goal of this work package is to further <strong>develop a reinforcement
 learning approach for genomic evolution</strong> that has the scope and
 scalability for later clinical applications. Since the number of
@@ -1220,7 +1191,7 @@ intended to be realised over a 3-6 month period. Each phase will end
 with an evaluation period where next steps are agreed. A final series of
 prototype evaluations will occur at the end of the Fellowship period.
 This approach is specifically designed to leverage the opportunity
-afforded by this fellowship scheme's for flexible resource utilisation
+afforded by this fellowship scheme&rsquo;s for flexible resource utilisation
 in Years 3-5 and utilises the project partners to help define the most
 impactful applications of our technologies and actively engage in
 steering the project in Years 4-5.</p>
@@ -1312,7 +1283,7 @@ AI in the interpretation of complex &lsquo;omics data and its role within an
 emerging new paradigm for how cancer is diagnosed and treated. I will
 also work with OCA to engage patient groups to understand the patient
 perspective of our work. Does the ability to provide vastly more
-detailed information about an individual's disease lead to mental
+detailed information about an individual&rsquo;s disease lead to mental
 overload? Does it help to remove the mystique about a diagnosis? How can
 we better support clinician-patient interactions? This will underlie one
 of the themed stakeholder events described above and leverage my
@@ -1418,33 +1389,33 @@ care responsibilities during these challenging and unprecedented times.</p>
 <p>\printbibliography
 0.75</p>
 <p>\endgroup</p>
-<section class="footnotes" role="doc-endnotes">
+<div class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
-<li id="fn:1" role="doc-endnote">
-<p>Consisting of Queen's Belfast, Birmingham, Cambridge, Edinburgh,
-Manchester, Oxford and University College London <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:1">
+<p>Consisting of Queen&rsquo;s Belfast, Birmingham, Cambridge, Edinburgh,
+Manchester, Oxford and University College London&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:2" role="doc-endnote">
+<li id="fn:2">
 <p>URL:
-<a href="https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/a-study-help-doctors-predict-who-will-respond-well-paclitaxel-chemotherapy-cancer-ovary-oxo-pcr-01">https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/a-study-help-doctors-predict-who-will-respond-well-paclitaxel-chemotherapy-cancer-ovary-oxo-pcr-01</a> <a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<a href="https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/a-study-help-doctors-predict-who-will-respond-well-paclitaxel-chemotherapy-cancer-ovary-oxo-pcr-01">https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/a-study-help-doctors-predict-who-will-respond-well-paclitaxel-chemotherapy-cancer-ovary-oxo-pcr-01</a>&#160;<a href="#fnref:2" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:3" role="doc-endnote">
-<p>URL: <a href="https://digitalecmt.org/">https://digitalecmt.org/</a> <a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:3">
+<p>URL: <a href="https://digitalecmt.org/">https://digitalecmt.org/</a>&#160;<a href="#fnref:3" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:4" role="doc-endnote">
+<li id="fn:4">
 <p>ACED:
-<a href="https://www.cancerresearchuk.org/funding-for-researchers/research-opportunities-in-early-detection-and-diagnosis/international-alliance-for-cancer-early-detection">https://www.cancerresearchuk.org/funding-for-researchers/research-opportunities-in-early-detection-and-diagnosis/international-alliance-for-cancer-early-detection</a> <a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<a href="https://www.cancerresearchuk.org/funding-for-researchers/research-opportunities-in-early-detection-and-diagnosis/international-alliance-for-cancer-early-detection">https://www.cancerresearchuk.org/funding-for-researchers/research-opportunities-in-early-detection-and-diagnosis/international-alliance-for-cancer-early-detection</a>&#160;<a href="#fnref:4" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:5" role="doc-endnote">
-<p>Anticipated agreement date: Q4 2020 <a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+<li id="fn:5">
+<p>Anticipated agreement date: Q4 2020&#160;<a href="#fnref:5" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
-<li id="fn:6" role="doc-endnote">
+<li id="fn:6">
 <p>Men can carry heritable genetic mutations that lead to increased
-risk of ovarian cancer. <a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+risk of ovarian cancer.&#160;<a href="#fnref:6" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
 </li>
 </ol>
-</section>
+</div>
 
     </div>
 
@@ -1564,11 +1535,10 @@ risk of ovarian cancer. <a href="#fnref:6" class="footnote-backref" role="doc-ba
     
   
   
-  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1696,11 +1666,6 @@ risk of ovarian cancer. <a href="#fnref:6" class="footnote-backref" role="doc-ba
 
     
     
-    <script>const isSiteThemeDark = false;</script>
-    
-
-    
-    
     
     
     
@@ -1761,7 +1726,7 @@ risk of ovarian cancer. <a href="#fnref:6" class="footnote-backref" role="doc-ba
     
     
     
-    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+    <script src="/js/academic.min.57a4f283427d81da9397b8c24f98011b.js"></script>
 
     
 

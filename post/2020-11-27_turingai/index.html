@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
   
 
@@ -55,7 +55,7 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -80,13 +80,6 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
     
 
     
-    
-      
-
-      
-      
-
-      
     
       
 
@@ -219,15 +212,13 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url, target) {
+  function trackOutboundLink(url) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
+           document.location = url;
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -237,7 +228,7 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+    trackOutboundLink(event.target);  
   }
 
   gtag('js', new Date());
@@ -254,12 +245,11 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://cwcyau.github.io/post/2020-11-27_turingai/">
 
-  
   
   
   
@@ -277,8 +267,8 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
   <meta property="og:url" content="https://cwcyau.github.io/post/2020-11-27_turingai/">
   <meta property="og:title" content="Turing AI Acceleration Fellowship | AI4Health">
   <meta property="og:description" content="Christopher Yau has been awarded a 5-year Turing AI Acceleration Fellowship.
-The Turing AI Acceleration Fellowships are part of the government’s AI sector deal investment in Turing AI fellowships, recommended by the independent 2017 UK AI Review, whose report ‘Growing the artificial intelligence industry in the UK,’ was co-authored by Reguis Professor of Computer Science at Southampton, Dame Wendy Hall, and Jérôme Pesenti, now Vice President of AI at Facebook."><meta property="og:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+The Turing AI Acceleration Fellowships are part of the government’s AI sector deal investment in Turing AI fellowships, recommended by the independent 2017 UK AI Review, whose report ‘Growing the artificial intelligence industry in the UK,’ was co-authored by Reguis Professor of Computer Science at Southampton, Dame Wendy Hall, and Jérôme Pesenti, now Vice President of AI at Facebook."><meta property="og:image" content="https://cwcyau.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://cwcyau.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-11-27T00:00:00&#43;00:00">
@@ -297,6 +287,8 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
 
 
   
+
+
 
 
 
@@ -324,7 +316,7 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
     "name": "Artificial Intelligence and Data Science for Health",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://cwcyau.github.io/img/icon-512.png"
     }
   },
   "description": "Christopher Yau has been awarded a 5-year Turing AI Acceleration Fellowship.\nThe Turing AI Acceleration Fellowships are part of the government’s AI sector deal investment in Turing AI fellowships, recommended by the independent 2017 UK AI Review, whose report ‘Growing the artificial intelligence industry in the UK,’ was co-authored by Reguis Professor of Computer Science at Southampton, Dame Wendy Hall, and Jérôme Pesenti, now Vice President of AI at Facebook."
@@ -384,12 +376,6 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
 
 
   
-
-
-
-
-
-
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -773,16 +759,13 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
 <p>The Turing AI Acceleration Fellowships are part of the government’s AI sector deal investment in Turing AI fellowships, recommended by the independent 2017 UK AI Review, whose report ‘Growing the artificial intelligence industry in the UK,’ was co-authored by Reguis Professor of Computer Science at Southampton, Dame Wendy Hall, and Jérôme Pesenti, now Vice President of AI at Facebook.</p>
 <ul>
 <li>
-<p>
-<a href="https://www.gov.uk/government/news/20-million-boost-for-world-class-ai-research-could-transform-cancer-treatment-and-save-lives" target="_blank" rel="noopener">UK Government Press Release: &ldquo;£20 million boost for world class AI research could transform cancer treatment and save lives&rdquo;</a></p>
+<p><a href="https://www.gov.uk/government/news/20-million-boost-for-world-class-ai-research-could-transform-cancer-treatment-and-save-lives">UK Government Press Release: &ldquo;£20 million boost for world class AI research could transform cancer treatment and save lives&rdquo;</a></p>
 </li>
 <li>
-<p>
-<a href="https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/" target="_blank" rel="noopener">UKRI Press Release: &ldquo;New Turing AI fellows to deliver world-class AI research&rdquo;</a></p>
+<p><a href="https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/">UKRI Press Release: &ldquo;New Turing AI fellows to deliver world-class AI research&rdquo;</a></p>
 </li>
 <li>
-<p>
-<a href="https://www.bbc.co.uk/news/science-environment-55099620" target="_blank" rel="noopener">BBC: &ldquo;AI &lsquo;doctor's assistant&rsquo; among projects given £20m&rdquo;</a></p>
+<p><a href="https://www.bbc.co.uk/news/science-environment-55099620">BBC: &ldquo;AI &lsquo;doctor&rsquo;s assistant&rsquo; among projects given £20m&rdquo;</a></p>
 </li>
 </ul>
 
@@ -916,11 +899,10 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
     
   
   
-  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1065,11 +1047,6 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
 
     
     
-    <script>const isSiteThemeDark = false;</script>
-    
-
-    
-    
     
     
     
@@ -1130,7 +1107,7 @@ The Turing AI Acceleration Fellowships are part of the government’s AI sector 
     
     
     
-    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+    <script src="/js/academic.min.57a4f283427d81da9397b8c24f98011b.js"></script>
 
     
 

@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
   
 
@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -79,13 +79,6 @@
     
 
     
-    
-      
-
-      
-      
-
-      
     
       
 
@@ -218,15 +211,13 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url, target) {
+  function trackOutboundLink(url) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
+           document.location = url;
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -236,7 +227,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+    trackOutboundLink(event.target);  
   }
 
   gtag('js', new Date());
@@ -253,12 +244,11 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://cwcyau.github.io/project/breaking-free/">
 
-  
   
   
   
@@ -296,6 +286,8 @@
 
 
 
+
+
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -323,7 +315,7 @@
     "name": "Artificial Intelligence and Data Science for Health",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://cwcyau.github.io/img/icon-512.png"
     }
   },
   "description": "The Data Science of Digital Behaviour Intervention"
@@ -383,12 +375,6 @@
 
 
   
-
-
-
-
-
-
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -775,8 +761,7 @@
 
     <div class="article-style">
       <p>Using digital technology to improve health and care is now a priority focus for the UK National Health Service. New and maturing technological developments hold the potential to have a transformative effect on health service delivery. Digital health solutions can aid in the reduction of waiting times, more effective use of limited resources and improved treatment fidelity but, once such technologies are implemented, the dearth of data that can be acquired through their adoption itself presents a challenge. Data-driven insights, driven by machine learning and artificial intelligence techniques, can offer a glimpse of previously unknown patterns and identify opportunities for the development of new healthcare practices or policies. As digital health platforms become more sophisticated, the data that can be acquired often becomes more complex and heterogeneous, machine-based interpretation becomes a near-necessity.</p>
-<p>The 
-<a href="http://www.breakingfreegroup.com/" target="_blank" rel="noopener">Breaking Free Group</a> is a leading digital health and behaviour science company. Founded in 2010, it is formed from a team of psychologists, substance misuse experts and technology specialists. With an organisational philosophy built around the principles of state-of-the-art behaviour science and the UK Medical Research Council evaluation framework, they have developed a bespoke digital behavioural intervention platform that provides 24/7 access to a secure, GDPR-compliant, online digital cognitive behaviour therapy (CBT) platform with a particular focus on substance misuse. Users of the platform complete pre- and post-therapy questionnaires and interactive exercises designed to teach strategies to overcome addictive behaviours and improve wellbeing. Scoring on questionnaire responses can signpost users to personalised information sources. Real-time quantitative data from the platform can be anonymously fed to health service providers and commissioners for planning and policy development purposes.</p>
+<p>The <a href="http://www.breakingfreegroup.com/">Breaking Free Group</a> is a leading digital health and behaviour science company. Founded in 2010, it is formed from a team of psychologists, substance misuse experts and technology specialists. With an organisational philosophy built around the principles of state-of-the-art behaviour science and the UK Medical Research Council evaluation framework, they have developed a bespoke digital behavioural intervention platform that provides 24/7 access to a secure, GDPR-compliant, online digital cognitive behaviour therapy (CBT) platform with a particular focus on substance misuse. Users of the platform complete pre- and post-therapy questionnaires and interactive exercises designed to teach strategies to overcome addictive behaviours and improve wellbeing. Scoring on questionnaire responses can signpost users to personalised information sources. Real-time quantitative data from the platform can be anonymously fed to health service providers and commissioners for planning and policy development purposes.</p>
 <p>Breaking Free has seen its digital platform commissioned for use by the Ministry of Justice in UK prisons, Non-Government Charitable Organisations and NHS Trusts. Uniquely, Breaking Free operates under a research ethics protocol approved by the NHS Health Research Authority and endorsement by the National Institute of Clinical Excellence allowing the data they collect to be utilised for broader research applications. More recently, two new online platforms have been deployed more widely to the public targeting alcohol consumption reduction and smoking cessation. Breaking Free are based in both Birmingham and Manchester.</p>
 <p>We have initiated a new multi-disciplinary collaboration with the Breaking Free Online team to develop novel data science methodologies to exploit real-time digital health monitoring and intervention data. Our working exemplars will be based on the unique behavioural insights captured by the Breaking Free Group but the research outputs would have generic applicability in other related settings including youth mental health conditions.</p>
 
@@ -908,11 +893,10 @@
     
   
   
-  
   <div class="media author-card content-widget-hr">
     
       
-      <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_270x270_fill_q90_lanczos_center.jpg" alt="Avatar">
+      <img class="portrait mr-3" src="/authors/admin/avatar_hue4a2448e4fa574533e225001e2c7ed89_44753_250x250_fill_q90_lanczos_center.jpg" alt="Avatar">
     
 
     <div class="media-body">
@@ -1056,11 +1040,6 @@
 
     
     
-    <script>const isSiteThemeDark = false;</script>
-    
-
-    
-    
     
     
     
@@ -1121,7 +1100,7 @@
     
     
     
-    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+    <script src="/js/academic.min.57a4f283427d81da9397b8c24f98011b.js"></script>
 
     
 

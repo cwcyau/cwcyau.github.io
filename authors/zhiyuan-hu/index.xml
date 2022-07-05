@@ -7,16 +7,16 @@
     <description>Zhiyuan Hu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>Zhiyuan Hu</title>
       <link>https://cwcyau.github.io/authors/zhiyuan-hu/</link>
     </image>
     
     <item>
-      <title>The Oxford Classic Links Epithelial-to-Mesenchymal Transition to Immunosuppression in Poor Prognosis Ovarian Cancers</title>
-      <link>https://cwcyau.github.io/publication/2021-01-01_hu2021oxford/</link>
+      <title>CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_hu2021cider/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2021-01-01_hu2021oxford/</guid>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_hu2021cider/</guid>
       <description></description>
     </item>
     
@@ -41,6 +41,14 @@
       <link>https://cwcyau.github.io/publication/2017-01-01_hu2017pan/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2017-01-01_hu2017pan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Oxford Classic Links Epithelial-to-Mesenchymal Transition to Immunosuppression in Poor Prognosis Ovarian Cancers</title>
+      <link>https://cwcyau.github.io/publication/2021-14-12_hu2021oxford/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-14-12_hu2021oxford/</guid>
       <description></description>
     </item>
     

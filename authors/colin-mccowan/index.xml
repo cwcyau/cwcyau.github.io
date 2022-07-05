@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colin McCowan | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/colin-mccowan/</link>
+      <atom:link href="https://cwcyau.github.io/authors/colin-mccowan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Colin McCowan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Colin McCowan</title>
+      <link>https://cwcyau.github.io/authors/colin-mccowan/</link>
+    </image>
+    
+    <item>
+      <title>Protocol for the development of a core outcome set for studies of pregnant women with pre-existing multimorbidity</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_lee2021protocol/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_lee2021protocol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

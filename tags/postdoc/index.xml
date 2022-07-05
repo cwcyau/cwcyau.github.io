@@ -5,12 +5,40 @@
     <link>https://cwcyau.github.io/tags/postdoc/</link>
       <atom:link href="https://cwcyau.github.io/tags/postdoc/index.xml" rel="self" type="application/rss+xml" />
     <description>postdoc</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 28 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 22 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>postdoc</title>
       <link>https://cwcyau.github.io/tags/postdoc/</link>
     </image>
+    
+    <item>
+      <title>Group relocation to Oxford.</title>
+      <link>https://cwcyau.github.io/post/2021-12-22_oxford/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-12-22_oxford/</guid>
+      <description>&lt;p&gt;Christopher Yau will be relocating to the &lt;a href=&#34;https://www.bdi.ox.ac.uk/&#34;&gt;Big Data Institute&lt;/a&gt; at the University of Oxford in February 2022 to take up a position as Senior Research Fellow between the &lt;a href=&#34;https://www.wrh.ox.ac.uk/&#34;&gt;Department of Women&amp;rsquo;s and Reproductive Health&lt;/a&gt; and the &lt;a href=&#34;https://www.ndph.ox.ac.uk/&#34;&gt;Nuffield Department of Population Health&lt;/a&gt;. Future recruitment to the group for postdocs and students will be via the University of Oxford.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation</title>
+      <link>https://cwcyau.github.io/post/2021-12-20_gbio/</link>
+      <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-12-20_gbio/</guid>
+      <description>&lt;p&gt;Our latest paper, based on the thesis work of former DPhil student Zhiyuan, has been published in Genome Biology. &lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02561-2&#34;&gt;CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation&lt;/a&gt; describes a meta-clustering workflow based on inter-group similarity measures. We demonstrate that CIDER outperforms other scRNA-Seq clustering methods and integration approaches in both simulated and real datasets. Moreover, we show that CIDER can be used to assess the biological correctness of integration in real datasets, while it does not require the existence of prior cellular annotations.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rarity: Discovering rare cell populations from single-cell imaging data</title>
+      <link>https://cwcyau.github.io/post/2021-12-14_rarity/</link>
+      <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-12-14_rarity/</guid>
+      <description>&lt;p&gt;Kaspar Martens will present his latest work at the NeurIPS Workshop &amp;ldquo;Learning Meaningful Representations of Life&amp;rdquo;
+&lt;a href=&#34;https://drive.google.com/file/d/1r9TINxfXgB_cs4bOcT7ZYZjF5IMcb4X6/view&#34;&gt;Rarity: Discovering rare cell populations from single-cell imaging data&lt;/a&gt;. The work arises from his Turing-Crick Biomedical Award which supports a collaboration between the Alan Turing Institute and the Ciccarelli Group at Kings College London and the Francis Crick Institute.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Scientists closer to finding the cell of origin for ovarian cancer</title>
@@ -19,8 +47,7 @@
       <guid>https://cwcyau.github.io/post/2020-09-28_zh/</guid>
       <description>&lt;p&gt;Former DPhil student Zhiyuan with the Ovarian Cancer Lab have created a new public engagement video showcasing our work on single cell sequencing of ovarian cancer.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://twitter.com/oxfordahmedlab/status/1310686724402622464?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientists closer to finding the cell of origin for ovarian cancer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://twitter.com/oxfordahmedlab/status/1310686724402622464?s=20&#34;&gt;Scientists closer to finding the cell of origin for ovarian cancer&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
@@ -32,8 +59,7 @@
       <guid>https://cwcyau.github.io/post/2020-07-02_hdruk_mo/</guid>
       <description>&lt;p&gt;A new postdoc opportunity with myself and Dr Mike Inouye is available based in Cambridge:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;http://www.jobs.cam.ac.uk/job/26181/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Research UK (HDRUK) Multi-omics Consortium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jobs.cam.ac.uk/job/26181/&#34;&gt;Health Data Research UK (HDRUK) Multi-omics Consortium&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

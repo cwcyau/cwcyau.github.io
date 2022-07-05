@@ -6,7 +6,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="generator" content="Source Themes Academic 4.7.0">
+  <meta name="generator" content="Source Themes Academic 4.6.3">
 
   
 
@@ -54,7 +54,7 @@
   
     
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.0-1/css/all.min.css" integrity="sha256-4w9DunooKSr3MFXHXWyFER38WmPdm361bQS/2KUWZbU=" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css" integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css" integrity="sha256-Vzbj7sDDS/woiFS3uNKo8eIuni59rjyNGtXfstRzStA=" crossorigin="anonymous">
 
     
@@ -71,13 +71,6 @@
     
 
     
-    
-      
-
-      
-      
-
-      
     
       
 
@@ -210,15 +203,13 @@
       dataLayer.push(arguments);
   }
 
-  function trackOutboundLink(url, target) {
+  function trackOutboundLink(url) {
     gtag('event', 'click', {
          'event_category': 'outbound',
          'event_label': url,
          'transport_type': 'beacon',
          'event_callback': function () {
-           if (target !== '_blank') {
-             document.location = url;
-           }
+           document.location = url;
          }
     });
     console.debug("Outbound link clicked: " + url);
@@ -228,7 +219,7 @@
     if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
       return;
     }
-    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+    trackOutboundLink(event.target);  
   }
 
   gtag('js', new Date());
@@ -245,12 +236,11 @@
   
 
   <link rel="manifest" href="/index.webmanifest">
-  <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
-  <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
+  <link rel="icon" type="image/png" href="/img/icon-32.png">
+  <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
   <link rel="canonical" href="https://cwcyau.github.io/publication/2020-21-10_martens2020nd/">
 
-  
   
   
   
@@ -267,8 +257,8 @@
   <meta property="og:site_name" content="AI4Health">
   <meta property="og:url" content="https://cwcyau.github.io/publication/2020-21-10_martens2020nd/">
   <meta property="og:title" content="Neural Decomposition: Functional ANOVA with Variational Autoencoders | AI4Health">
-  <meta property="og:description" content="Variational Autoencoders (VAEs) have become a popular approach for dimensionality reduction. However, despite their ability to identify latent low-dimensional structures embedded within high-dimensional data, these latent representations are typically hard to interpret on their own. Due to the black-box nature of VAEs, their utility for healthcare and genomics applications has been limited. In this paper, we focus on characterising the sources of variation in Conditional VAEs. Our goal is to provide a feature-level variance decomposition, i.e. to decompose variation in the data by separating out the marginal additive effects of latent variables z and fixed inputs c from their non-linear interactions. We propose to achieve this through what we call Neural Decomposition – an adaptation of the well-known concept of functional ANOVA variance decomposition from classical statistics to deep learning models. We show how identifiability can be achieved by training models subject to constraints on the marginal properties of the decoder networks. We demonstrate the utility of our Neural Decomposition on a series of synthetic examples as well as high-dimensional genomics data."><meta property="og:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Variational Autoencoders (VAEs) have become a popular approach for dimensionality reduction. However, despite their ability to identify latent low-dimensional structures embedded within high-dimensional data, these latent representations are typically hard to interpret on their own. Due to the black-box nature of VAEs, their utility for healthcare and genomics applications has been limited. In this paper, we focus on characterising the sources of variation in Conditional VAEs. Our goal is to provide a feature-level variance decomposition, i.e. to decompose variation in the data by separating out the marginal additive effects of latent variables z and fixed inputs c from their non-linear interactions. We propose to achieve this through what we call Neural Decomposition – an adaptation of the well-known concept of functional ANOVA variance decomposition from classical statistics to deep learning models. We show how identifiability can be achieved by training models subject to constraints on the marginal properties of the decoder networks. We demonstrate the utility of our Neural Decomposition on a series of synthetic examples as well as high-dimensional genomics data."><meta property="og:image" content="https://cwcyau.github.io/img/icon-192.png">
+  <meta property="twitter:image" content="https://cwcyau.github.io/img/icon-192.png"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-10-21T00:00:00&#43;00:00">
@@ -280,6 +270,8 @@
 
 
     
+
+
 
 
 
@@ -312,7 +304,7 @@
     "name": "Artificial Intelligence and Data Science for Health",
     "logo": {
       "@type": "ImageObject",
-      "url": "https://cwcyau.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png"
+      "url": "https://cwcyau.github.io/img/icon-512.png"
     }
   },
   "description": "Variational Autoencoders (VAEs) have become a popular approach for dimensionality reduction. However, despite their ability to identify latent low-dimensional structures embedded within high-dimensional data, these latent representations are typically hard to interpret on their own. Due to the black-box nature of VAEs, their utility for healthcare and genomics applications has been limited. In this paper, we focus on characterising the sources of variation in Conditional VAEs. Our goal is to provide a feature-level variance decomposition, i.e. to decompose variation in the data by separating out the marginal additive effects of latent variables z and fixed inputs c from their non-linear interactions. We propose to achieve this through what we call Neural Decomposition – an adaptation of the well-known concept of functional ANOVA variance decomposition from classical statistics to deep learning models. We show how identifiability can be achieved by training models subject to constraints on the marginal properties of the decoder networks. We demonstrate the utility of our Neural Decomposition on a series of synthetic examples as well as high-dimensional genomics data."
@@ -372,12 +364,6 @@
 
 
   
-
-
-
-
-
-
 
 <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
   <div class="container">
@@ -969,7 +955,6 @@
   
   
   
-  
   <div class="media author-card content-widget-hr">
     
 
@@ -1024,11 +1009,6 @@
     
     
     <script>const code_highlighting = false;</script>
-    
-
-    
-    
-    <script>const isSiteThemeDark = false;</script>
     
 
     
@@ -1093,7 +1073,7 @@
     
     
     
-    <script src="/js/academic.min.a8d7005002cb4a052fd6d721e83df9ba.js"></script>
+    <script src="/js/academic.min.57a4f283427d81da9397b8c24f98011b.js"></script>
 
     
 
