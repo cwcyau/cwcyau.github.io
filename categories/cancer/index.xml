@@ -18,17 +18,9 @@
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/mycancerai/</guid>
       <description>&lt;p&gt;A report on a patient engagement workshop series on what cancer patients think about artificial intelligence is now available.&lt;/p&gt;
-<<<<<<< HEAD
 &lt;p&gt;The workshop series was developed in partnership with &lt;a href=&#34;https://ovarian.org.uk/&#34;&gt;Ovarian Cancer Action&lt;/a&gt; (OCA) as part of my Turing AI Fellowship.&lt;/p&gt;
 &lt;p&gt;I am grateful to patients and OCA for their support in developing this work and its impact on my future research plans.&lt;/p&gt;
 &lt;p&gt;The report is available to download from &lt;a href=&#34;https://github.com/cwcyau/turingaifellowship/blob/c38556ef96768a3b83744ea7c9eabe3290ffc623/mycancerai.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-=======
-&lt;p&gt;The workshop series was developed in partnership with 
-&lt;a href=&#34;https://ovarian.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Action&lt;/a&gt; (OCA) as part of my Turing AI Fellowship.&lt;/p&gt;
-&lt;p&gt;I am grateful to patients and OCA for their support in developing this work and its impact on my future research plans.&lt;/p&gt;
-&lt;p&gt;The report is available to download from 
-&lt;a href=&#34;https://github.com/cwcyau/turingaifellowship/blob/c38556ef96768a3b83744ea7c9eabe3290ffc623/mycancerai.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
->>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
 </description>
     </item>
     
@@ -37,12 +29,7 @@
       <link>https://cwcyau.github.io/post/2021-12-20_gbio/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2021-12-20_gbio/</guid>
-<<<<<<< HEAD
       <description>&lt;p&gt;Our latest paper, based on the thesis work of former DPhil student Zhiyuan, has been published in Genome Biology. &lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02561-2&#34;&gt;CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation&lt;/a&gt; describes a meta-clustering workflow based on inter-group similarity measures. We demonstrate that CIDER outperforms other scRNA-Seq clustering methods and integration approaches in both simulated and real datasets. Moreover, we show that CIDER can be used to assess the biological correctness of integration in real datasets, while it does not require the existence of prior cellular annotations.&lt;/p&gt;
-=======
-      <description>&lt;p&gt;Our latest paper, based on the thesis work of former DPhil student Zhiyuan, has been published in Genome Biology. 
-&lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02561-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation&lt;/a&gt; describes a meta-clustering workflow based on inter-group similarity measures. We demonstrate that CIDER outperforms other scRNA-Seq clustering methods and integration approaches in both simulated and real datasets. Moreover, we show that CIDER can be used to assess the biological correctness of integration in real datasets, while it does not require the existence of prior cellular annotations.&lt;/p&gt;
->>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
 </description>
     </item>
     
@@ -52,12 +39,7 @@
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2021-12-14_rarity/</guid>
       <description>&lt;p&gt;Kaspar Martens will present his latest work at the NeurIPS Workshop &amp;ldquo;Learning Meaningful Representations of Life&amp;rdquo;
-<<<<<<< HEAD
 &lt;a href=&#34;https://drive.google.com/file/d/1r9TINxfXgB_cs4bOcT7ZYZjF5IMcb4X6/view&#34;&gt;Rarity: Discovering rare cell populations from single-cell imaging data&lt;/a&gt;. The work arises from his Turing-Crick Biomedical Award which supports a collaboration between the Alan Turing Institute and the Ciccarelli Group at Kings College London and the Francis Crick Institute.&lt;/p&gt;
-=======
-
-&lt;a href=&#34;https://drive.google.com/file/d/1r9TINxfXgB_cs4bOcT7ZYZjF5IMcb4X6/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rarity: Discovering rare cell populations from single-cell imaging data&lt;/a&gt;. The work arises from his Turing-Crick Biomedical Award which supports a collaboration between the Alan Turing Institute and the Ciccarelli Group at Kings College London and the Francis Crick Institute.&lt;/p&gt;
->>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
 </description>
     </item>
     
