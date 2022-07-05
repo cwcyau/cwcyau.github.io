@@ -5,7 +5,11 @@
     <link>https://cwcyau.github.io/</link>
       <atom:link href="https://cwcyau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>AI4Health</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>AI4Health</title>
@@ -13,6 +17,7 @@
     </image>
     
     <item>
+<<<<<<< HEAD
       <title>The Great UK PhD Data Science Survey</title>
       <link>https://cwcyau.github.io/post/greatphdsurvey/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
@@ -41,14 +46,24 @@
     </item>
     
     <item>
+=======
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
       <title>New report: My Cancer &amp; AI</title>
       <link>https://cwcyau.github.io/post/mycancerai/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/mycancerai/</guid>
       <description>&lt;p&gt;A report on a patient engagement workshop series on what cancer patients think about artificial intelligence is now available.&lt;/p&gt;
+<<<<<<< HEAD
 &lt;p&gt;The workshop series was developed in partnership with &lt;a href=&#34;https://ovarian.org.uk/&#34;&gt;Ovarian Cancer Action&lt;/a&gt; (OCA) as part of my Turing AI Fellowship.&lt;/p&gt;
 &lt;p&gt;I am grateful to patients and OCA for their support in developing this work and its impact on my future research plans.&lt;/p&gt;
 &lt;p&gt;The report is available to download from &lt;a href=&#34;https://github.com/cwcyau/turingaifellowship/blob/c38556ef96768a3b83744ea7c9eabe3290ffc623/mycancerai.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+=======
+&lt;p&gt;The workshop series was developed in partnership with 
+&lt;a href=&#34;https://ovarian.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Action&lt;/a&gt; (OCA) as part of my Turing AI Fellowship.&lt;/p&gt;
+&lt;p&gt;I am grateful to patients and OCA for their support in developing this work and its impact on my future research plans.&lt;/p&gt;
+&lt;p&gt;The report is available to download from 
+&lt;a href=&#34;https://github.com/cwcyau/turingaifellowship/blob/c38556ef96768a3b83744ea7c9eabe3290ffc623/mycancerai.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
 </description>
     </item>
     
@@ -57,7 +72,14 @@
       <link>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</link>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper &lt;a href=&#34;http://aistats.org/aistats2022/accepted.html&#34;&gt;Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis&lt;/a&gt; has been accepted for presentation at &lt;a href=&#34;http://aistats.org/aistats2022&#34;&gt;AISTATS 2022&lt;/a&gt;.&lt;/p&gt;
+=======
+      <description>&lt;p&gt;Congratulations to PhD student 
+&lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper 
+&lt;a href=&#34;http://aistats.org/aistats2022/accepted.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis&lt;/a&gt; has been accepted for presentation at 
+&lt;a href=&#34;http://aistats.org/aistats2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2022&lt;/a&gt;.&lt;/p&gt;
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
 </description>
     </item>
     
@@ -66,7 +88,14 @@
       <link>https://cwcyau.github.io/post/2021-12-22_oxford/</link>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2021-12-22_oxford/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;Christopher Yau will be relocating to the &lt;a href=&#34;https://www.bdi.ox.ac.uk/&#34;&gt;Big Data Institute&lt;/a&gt; at the University of Oxford in February 2022 to take up a position as Senior Research Fellow between the &lt;a href=&#34;https://www.wrh.ox.ac.uk/&#34;&gt;Department of Women&amp;rsquo;s and Reproductive Health&lt;/a&gt; and the &lt;a href=&#34;https://www.ndph.ox.ac.uk/&#34;&gt;Nuffield Department of Population Health&lt;/a&gt;. Future recruitment to the group for postdocs and students will be via the University of Oxford.&lt;/p&gt;
+=======
+      <description>&lt;p&gt;Christopher Yau will be relocating to the 
+&lt;a href=&#34;https://www.bdi.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Big Data Institute&lt;/a&gt; at the University of Oxford in February 2022 to take up a position as Senior Research Fellow between the 
+&lt;a href=&#34;https://www.wrh.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Women&#39;s and Reproductive Health&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.ndph.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuffield Department of Population Health&lt;/a&gt;. Future recruitment to the group for postdocs and students will be via the University of Oxford.&lt;/p&gt;
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
 </description>
     </item>
     
@@ -75,7 +104,12 @@
       <link>https://cwcyau.github.io/post/2021-12-20_gbio/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2021-12-20_gbio/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;Our latest paper, based on the thesis work of former DPhil student Zhiyuan, has been published in Genome Biology. &lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02561-2&#34;&gt;CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation&lt;/a&gt; describes a meta-clustering workflow based on inter-group similarity measures. We demonstrate that CIDER outperforms other scRNA-Seq clustering methods and integration approaches in both simulated and real datasets. Moreover, we show that CIDER can be used to assess the biological correctness of integration in real datasets, while it does not require the existence of prior cellular annotations.&lt;/p&gt;
+=======
+      <description>&lt;p&gt;Our latest paper, based on the thesis work of former DPhil student Zhiyuan, has been published in Genome Biology. 
+&lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02561-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation&lt;/a&gt; describes a meta-clustering workflow based on inter-group similarity measures. We demonstrate that CIDER outperforms other scRNA-Seq clustering methods and integration approaches in both simulated and real datasets. Moreover, we show that CIDER can be used to assess the biological correctness of integration in real datasets, while it does not require the existence of prior cellular annotations.&lt;/p&gt;
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
 </description>
     </item>
     
@@ -85,7 +119,12 @@
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2021-12-14_rarity/</guid>
       <description>&lt;p&gt;Kaspar Martens will present his latest work at the NeurIPS Workshop &amp;ldquo;Learning Meaningful Representations of Life&amp;rdquo;
+<<<<<<< HEAD
 &lt;a href=&#34;https://drive.google.com/file/d/1r9TINxfXgB_cs4bOcT7ZYZjF5IMcb4X6/view&#34;&gt;Rarity: Discovering rare cell populations from single-cell imaging data&lt;/a&gt;. The work arises from his Turing-Crick Biomedical Award which supports a collaboration between the Alan Turing Institute and the Ciccarelli Group at Kings College London and the Francis Crick Institute.&lt;/p&gt;
+=======
+
+&lt;a href=&#34;https://drive.google.com/file/d/1r9TINxfXgB_cs4bOcT7ZYZjF5IMcb4X6/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rarity: Discovering rare cell populations from single-cell imaging data&lt;/a&gt;. The work arises from his Turing-Crick Biomedical Award which supports a collaboration between the Alan Turing Institute and the Ciccarelli Group at Kings College London and the Francis Crick Institute.&lt;/p&gt;
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
 </description>
     </item>
     
@@ -94,7 +133,13 @@
       <link>https://cwcyau.github.io/post/2021-12-07_mfcvae/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2021-12-07_mfcvae/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;Christopher Yau has supported Health Data Research UK (HDRUK) PhD students Fabian Falck and Haoting Zhang in the development of work that has now been published as a paper at the NeurIPS 2021 conference. The work entitled &lt;a href=&#34;https://proceedings.neurips.cc/paper/2021/hash/48cb136b65a69e8c2aa22913a0d91b2f-Abstract.html&#34;&gt;Multi-Facet Clustering Variational Autoencoders&lt;/a&gt; is a novel class of variational autoencoders with a hierarchy of latent variables, each with a Mixture-of-Gaussians prior, that learns multiple clusterings simultaneously, and is trained fully unsupervised and end-to-end. Chris, who directs the HDRUK PhD programme, writes about the work of the students in this &lt;a href=&#34;https://www.hdruk.ac.uk/news/the-different-facets-of-data/&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+=======
+      <description>&lt;p&gt;Christopher Yau has supported Health Data Research UK (HDRUK) PhD students Fabian Falck and Haoting Zhang in the development of work that has now been published as a paper at the NeurIPS 2021 conference. The work entitled 
+&lt;a href=&#34;https://proceedings.neurips.cc/paper/2021/hash/48cb136b65a69e8c2aa22913a0d91b2f-Abstract.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Facet Clustering Variational Autoencoders&lt;/a&gt; is a novel class of variational autoencoders with a hierarchy of latent variables, each with a Mixture-of-Gaussians prior, that learns multiple clusterings simultaneously, and is trained fully unsupervised and end-to-end. Chris, who directs the HDRUK PhD programme, writes about the work of the students in this 
+&lt;a href=&#34;https://www.hdruk.ac.uk/news/the-different-facets-of-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
 </description>
     </item>
     

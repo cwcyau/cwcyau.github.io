@@ -5,7 +5,11 @@
     <link>https://cwcyau.github.io/categories/phd/</link>
       <atom:link href="https://cwcyau.github.io/categories/phd/index.xml" rel="self" type="application/rss+xml" />
     <description>phd</description>
+<<<<<<< HEAD
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+=======
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate>
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>phd</title>
@@ -13,6 +17,7 @@
     </image>
     
     <item>
+<<<<<<< HEAD
       <title>The Great UK PhD Data Science Survey</title>
       <link>https://cwcyau.github.io/post/greatphdsurvey/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
@@ -41,11 +46,20 @@
     </item>
     
     <item>
+=======
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
       <title>AISTATS 2022</title>
       <link>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</link>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper &lt;a href=&#34;http://aistats.org/aistats2022/accepted.html&#34;&gt;Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis&lt;/a&gt; has been accepted for presentation at &lt;a href=&#34;http://aistats.org/aistats2022&#34;&gt;AISTATS 2022&lt;/a&gt;.&lt;/p&gt;
+=======
+      <description>&lt;p&gt;Congratulations to PhD student 
+&lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper 
+&lt;a href=&#34;http://aistats.org/aistats2022/accepted.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis&lt;/a&gt; has been accepted for presentation at 
+&lt;a href=&#34;http://aistats.org/aistats2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2022&lt;/a&gt;.&lt;/p&gt;
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
 </description>
     </item>
     
@@ -54,7 +68,14 @@
       <link>https://cwcyau.github.io/post/2021-12-22_oxford/</link>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2021-12-22_oxford/</guid>
+<<<<<<< HEAD
       <description>&lt;p&gt;Christopher Yau will be relocating to the &lt;a href=&#34;https://www.bdi.ox.ac.uk/&#34;&gt;Big Data Institute&lt;/a&gt; at the University of Oxford in February 2022 to take up a position as Senior Research Fellow between the &lt;a href=&#34;https://www.wrh.ox.ac.uk/&#34;&gt;Department of Women&amp;rsquo;s and Reproductive Health&lt;/a&gt; and the &lt;a href=&#34;https://www.ndph.ox.ac.uk/&#34;&gt;Nuffield Department of Population Health&lt;/a&gt;. Future recruitment to the group for postdocs and students will be via the University of Oxford.&lt;/p&gt;
+=======
+      <description>&lt;p&gt;Christopher Yau will be relocating to the 
+&lt;a href=&#34;https://www.bdi.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Big Data Institute&lt;/a&gt; at the University of Oxford in February 2022 to take up a position as Senior Research Fellow between the 
+&lt;a href=&#34;https://www.wrh.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Women&#39;s and Reproductive Health&lt;/a&gt; and the 
+&lt;a href=&#34;https://www.ndph.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuffield Department of Population Health&lt;/a&gt;. Future recruitment to the group for postdocs and students will be via the University of Oxford.&lt;/p&gt;
+>>>>>>> 7ae8a344849d035c5dbd762dadfe2f8a5c54163e
 </description>
     </item>
     
