@@ -5,7 +5,7 @@
     <link>https://cwcyau.github.io/authors/christopher-c-holmes/</link>
       <atom:link href="https://cwcyau.github.io/authors/christopher-c-holmes/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher C Holmes</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>Christopher C Holmes</title>
@@ -13,15 +13,7 @@
     </image>
     
     <item>
-      <title>Multi-Facet Clustering Variational Autoencoders</title>
-      <link>https://cwcyau.github.io/publication/2021-01-01_falck2021multi/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2021-01-01_falck2021multi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Statistical inference in hidden markov models using k-segment constraints</title>
+      <title>Statistical inference in hidden Markov models using k-segment constraints</title>
       <link>https://cwcyau.github.io/publication/2016-01-01_titsias2016statistical/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2016-01-01_titsias2016statistical/</guid>

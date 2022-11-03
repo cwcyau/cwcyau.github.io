@@ -5,7 +5,7 @@
     <link>https://cwcyau.github.io/authors/others/</link>
       <atom:link href="https://cwcyau.github.io/authors/others/index.xml" rel="self" type="application/rss+xml" />
     <description>{others}</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>{others}</title>
@@ -13,10 +13,130 @@
     </image>
     
     <item>
+      <title>An atlas of genetic scores to predict multi-omic traits</title>
+      <link>https://cwcyau.github.io/publication/2022-01-01_xu2022atlas/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2022-01-01_xu2022atlas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiology of pre-existing multimorbidity in pregnant women in the UK in 2018: a population-based cross-sectional study</title>
+      <link>https://cwcyau.github.io/publication/2022-01-01_lee2022epidemiology/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2022-01-01_lee2022epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genetically personalised organ-specific metabolic models in health and disease</title>
+      <link>https://cwcyau.github.io/publication/2022-01-01_foguet2022genetically/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2022-01-01_foguet2022genetically/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In simulated data and health records, latent class analysis was the optimum multimorbidity clustering algorithm</title>
+      <link>https://cwcyau.github.io/publication/2022-01-01_nichols2022simulated/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2022-01-01_nichols2022simulated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maternal and children&#39;s outcomes for pregnant women with pre-existing multiple long-term conditions: a study protocol of an observational study in the United Kingdom</title>
+      <link>https://cwcyau.github.io/publication/2022-01-01_lee2022maternal/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2022-01-01_lee2022maternal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patient Derived Organoids Confirm That PI3K/AKT Signalling Is an Escape Pathway for Radioresistance and a Target for Therapy in Rectal Cancer</title>
+      <link>https://cwcyau.github.io/publication/2022-01-01_wanigasooriya2022patient/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2022-01-01_wanigasooriya2022patient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adipocyte-like signature in ovarian cancer minimal residual disease identifies metabolic vulnerabilities of tumor initiating cells</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_artibani2021adipocyte/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_artibani2021adipocyte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian statistics and modelling</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_van2021bayesian/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_van2021bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epidemiology of pre-existing multimorbidity in pregnant women in the UK in 2018: a cross-sectional study</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_lee2021epidemiology/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_lee2021epidemiology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patient derived organoids reveal that PI3K/AKT signalling is an escape pathway for radioresistance and a target for therapy in rectal cancer</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_wanigasooriya2021patient/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_wanigasooriya2021patient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promises and challenges of adoptive T-cell therapies for solid tumours</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_morotti2021promises/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_morotti2021promises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol for the development of a core outcome set for studies of pregnant women with pre-existing multimorbidity</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_lee2021protocol/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_lee2021protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Oxford Classic Links Epithelial-to-Mesenchymal Transition to Immunosuppression in Poor Prognosis Ovarian CancersOxC Accurately Identified Poor Prognosis in Ovarian Cancer</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_hu2021oxford/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_hu2021oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic profiling in pancreatic cancer reveals spatial genetic heterogeneity but spatial transcriptomic homogeneity</title>
+      <link>https://cwcyau.github.io/publication/2020-01-01_sivakumar2020genomic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_sivakumar2020genomic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension</title>
+      <link>https://cwcyau.github.io/publication/2020-01-01_rivera2020guidelines/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_rivera2020guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells</title>
-      <link>https://cwcyau.github.io/publication/2019-01-01_hu2019repertoire/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2019-01-01_hu2019repertoire/</guid>
+      <link>https://cwcyau.github.io/publication/2020-01-01_hu2020repertoire/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_hu2020repertoire/</guid>
       <description></description>
     </item>
     
@@ -37,10 +157,18 @@
     </item>
     
     <item>
-      <title>Reporting guidelines for clinical trials evaluating artificial intelligence interventions are needed</title>
-      <link>https://cwcyau.github.io/publication/2019-01-01_liu2019reporting/</link>
+      <title>Uncovering the long tail of oesophageal cancer driver genes for patient stratification</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_benedetti2019uncovering/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2019-01-01_liu2019reporting/</guid>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_benedetti2019uncovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identification of Subtypes of Barrett&#39;s Esophagus and Esophageal Adenocarcinoma Based on DNA Methylation Profiles and Integration of Transcriptome and Genome Data Oesophageal Cancer Clinical and Molecular Stratification (OCCAMS) Consortium, May 2020, In: Gastroenterology. 158, 6, p. 1682-1697. e1 Research output: Contribution to journal&gt; Article</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_temelkovski2018identification/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_temelkovski2018identification/</guid>
       <description></description>
     </item>
     
@@ -53,10 +181,26 @@
     </item>
     
     <item>
+      <title>Separation of dual oxidase 2 and lactoperoxidase expression in intestinal crypts and species differences may limit hydrogen peroxide scavenging during mucosal healing in mice and humans</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_rigoni2018separation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_rigoni2018separation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Tuning microtubule dynamics to enhance cancer therapy by modulating FER-mediated CRMP2 phosphorylation</title>
       <link>https://cwcyau.github.io/publication/2018-01-01_zheng2018tuning/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2018-01-01_zheng2018tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract LB-158: Germline mutations in PALB2, BRCA1 and RAD51C observed in gastric cancer cases</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_sahasrabudhe2017abstract/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_sahasrabudhe2017abstract/</guid>
       <description></description>
     </item>
     
@@ -77,10 +221,10 @@
     </item>
     
     <item>
-      <title>Separation of dual oxidase 2 and lactoperoxidase expression in intestinal crypts and species differences may limit hydrogen peroxide scavenging during mucosal healing in mice and humans</title>
-      <link>https://cwcyau.github.io/publication/2017-01-01_rigoni2017separation/</link>
+      <title>Latin American Gastric Cancer Genetics Collaborative Group. Germline mutations in PALB2, BRCA1, and RAD51C, which regulate DNA recombination repair, in patients with gastric cancer</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_sahasrabudhe2017latin/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2017-01-01_rigoni2017separation/</guid>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_sahasrabudhe2017latin/</guid>
       <description></description>
     </item>
     
@@ -113,6 +257,30 @@
       <link>https://cwcyau.github.io/publication/2014-01-01_petousi2014erythrocytosis/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2014-01-01_petousi2014erythrocytosis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hamming ball auxiliary sampling for factorial hidden Markov models</title>
+      <link>https://cwcyau.github.io/publication/2014-01-01_aueb2014hamming/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2014-01-01_aueb2014hamming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Identification of Further Minimal Regions of Overlap in Chronic Lymphocytic Leukemia Using High-Resolution SNP Arrays</title>
+      <link>https://cwcyau.github.io/publication/2014-01-01_knight2014identification/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2014-01-01_knight2014identification/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Response Prediction Using Integrated Genomics in Chronic Lymphocytic Leukaemia: Results on 250 First-Line FCR Treated Patients from UK Clinical Trials</title>
+      <link>https://cwcyau.github.io/publication/2014-01-01_clifford2014towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2014-01-01_clifford2014towards/</guid>
       <description></description>
     </item>
     
@@ -165,18 +333,26 @@
     </item>
     
     <item>
-      <title>Genome-wide association study of CNVs in 16,000 cases of eight common diseases and 3,000 shared controls</title>
-      <link>https://cwcyau.github.io/publication/2010-01-01_craddock2010genome/</link>
+      <title>Quantitative Whole Genome Analysis of Sequential Samples From Patients with B-CLL Identifies Novel Recurrent Copy Number Alterations Involving Critical B-Cell Transcription Factors</title>
+      <link>https://cwcyau.github.io/publication/2010-01-01_timbs2010quantitative/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2010-01-01_craddock2010genome/</guid>
+      <guid>https://cwcyau.github.io/publication/2010-01-01_timbs2010quantitative/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>The Oxford Classic Links Epithelial-to-Mesenchymal Transition to Immunosuppression in Poor Prognosis Ovarian Cancers</title>
-      <link>https://cwcyau.github.io/publication/2021-14-12_hu2021oxford/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2021-14-12_hu2021oxford/</guid>
+      <title>Author Index Vol. 123, 2008</title>
+      <link>https://cwcyau.github.io/publication/2008-01-01_lionel2008author/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2008-01-01_lionel2008author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contents Vol. 123, 2008</title>
+      <link>https://cwcyau.github.io/publication/2008-01-01_lionel2008contents/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2008-01-01_lionel2008contents/</guid>
       <description></description>
     </item>
     

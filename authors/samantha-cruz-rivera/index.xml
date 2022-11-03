@@ -5,7 +5,7 @@
     <link>https://cwcyau.github.io/authors/samantha-cruz-rivera/</link>
       <atom:link href="https://cwcyau.github.io/authors/samantha-cruz-rivera/index.xml" rel="self" type="application/rss+xml" />
     <description>Samantha Cruz Rivera</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>Samantha Cruz Rivera</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
-      <title>Reporting guidelines for clinical trials evaluating artificial intelligence interventions are needed</title>
-      <link>https://cwcyau.github.io/publication/2019-01-01_liu2019reporting/</link>
+      <title>Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension</title>
+      <link>https://cwcyau.github.io/publication/2020-01-01_rivera2020guidelines/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_rivera2020guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author Correction: Reporting guidelines for clinical trials evaluating artificial intelligence interventions are needed</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_liu2019author/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2019-01-01_liu2019reporting/</guid>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_liu2019author/</guid>
       <description></description>
     </item>
     

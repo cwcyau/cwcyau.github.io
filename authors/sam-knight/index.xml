@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sam Knight | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/sam-knight/</link>
+      <atom:link href="https://cwcyau.github.io/authors/sam-knight/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sam Knight</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Sam Knight</title>
+      <link>https://cwcyau.github.io/authors/sam-knight/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative Whole Genome Analysis of Sequential Samples From Patients with B-CLL Identifies Novel Recurrent Copy Number Alterations Involving Critical B-Cell Transcription Factors</title>
+      <link>https://cwcyau.github.io/publication/2010-01-01_timbs2010quantitative/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2010-01-01_timbs2010quantitative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

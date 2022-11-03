@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Celina Whalley | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/celina-whalley/</link>
+      <atom:link href="https://cwcyau.github.io/authors/celina-whalley/index.xml" rel="self" type="application/rss+xml" />
+    <description>Celina Whalley</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Celina Whalley</title>
+      <link>https://cwcyau.github.io/authors/celina-whalley/</link>
+    </image>
+    
+    <item>
+      <title>Patient derived organoids reveal that PI3K/AKT signalling is an escape pathway for radioresistance and a target for therapy in rectal cancer</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_wanigasooriya2021patient/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_wanigasooriya2021patient/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

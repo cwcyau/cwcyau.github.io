@@ -5,7 +5,7 @@
     <link>https://cwcyau.github.io/authors/nina-wietek/</link>
       <atom:link href="https://cwcyau.github.io/authors/nina-wietek/index.xml" rel="self" type="application/rss+xml" />
     <description>Nina Wietek</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>Nina Wietek</title>
@@ -13,10 +13,18 @@
     </image>
     
     <item>
+      <title>Adipocyte-like signature in ovarian cancer minimal residual disease identifies metabolic vulnerabilities of tumor initiating cells</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_artibani2021adipocyte/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_artibani2021adipocyte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells</title>
-      <link>https://cwcyau.github.io/publication/2019-01-01_hu2019repertoire/</link>
-      <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2019-01-01_hu2019repertoire/</guid>
+      <link>https://cwcyau.github.io/publication/2020-01-01_hu2020repertoire/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_hu2020repertoire/</guid>
       <description></description>
     </item>
     

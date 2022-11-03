@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed Ahmed | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/ahmed-ahmed/</link>
+      <atom:link href="https://cwcyau.github.io/authors/ahmed-ahmed/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ahmed Ahmed</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Ahmed Ahmed</title>
+      <link>https://cwcyau.github.io/authors/ahmed-ahmed/</link>
+    </image>
+    
+    <item>
+      <title>DigiPico: A whole-genome sequencing approach to investigate microscopic residual chemotherapy resistance disease in ovarian cancer</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_karaminejadranjbar2018digipico/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_karaminejadranjbar2018digipico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract LB-340: A novel method for estimating somatic mutations cellular prevalence in cancer using whole genome haplotype phasing</title>
+      <link>https://cwcyau.github.io/publication/2016-01-01_chedom2016abstract/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2016-01-01_chedom2016abstract/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

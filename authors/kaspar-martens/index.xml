@@ -30,22 +30,30 @@
     
     <item>
       <title>BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders</title>
-      <link>https://cwcyau.github.io/publication/2020-22-10_martens2020basis/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2020-22-10_martens2020basis/</guid>
+      <link>https://cwcyau.github.io/publication/2020-01-01_martens2020basisvae/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_martens2020basisvae/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Neural Decomposition: Functional ANOVA with Variational Autoencoders</title>
-      <link>https://cwcyau.github.io/publication/2020-21-10_martens2020nd/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2020-21-10_martens2020nd/</guid>
+      <title>Neural decomposition: Functional anova with variational autoencoders</title>
+      <link>https://cwcyau.github.io/publication/2020-01-01_martens2020neural/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_martens2020neural/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Decomposing feature-level variation with Covariate Gaussian Process Latent Variable Models</title>
+      <title>Augmented ensemble mcmc sampling in factorial hidden markov models</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_martens2019augmented/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_martens2019augmented/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposing feature-level variation with covariate Gaussian process latent variable models</title>
       <link>https://cwcyau.github.io/publication/2019-01-01_martens2019decomposing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2019-01-01_martens2019decomposing/</guid>

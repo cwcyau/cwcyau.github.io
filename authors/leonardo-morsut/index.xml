@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leonardo Morsut | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/leonardo-morsut/</link>
+      <atom:link href="https://cwcyau.github.io/authors/leonardo-morsut/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leonardo Morsut</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Leonardo Morsut</title>
+      <link>https://cwcyau.github.io/authors/leonardo-morsut/</link>
+    </image>
+    
+    <item>
+      <title>How Has the COVID-19 Pandemic Changed How You Will Approach Research and Lab Work in the Future?</title>
+      <link>https://cwcyau.github.io/publication/2020-01-01_haynes2020has/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_haynes2020has/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

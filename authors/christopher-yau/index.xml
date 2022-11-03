@@ -5,7 +5,7 @@
     <link>https://cwcyau.github.io/authors/christopher-yau/</link>
       <atom:link href="https://cwcyau.github.io/authors/christopher-yau/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Yau</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>Christopher Yau</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis</title>
+      <link>https://cwcyau.github.io/publication/2022-01-01_danks2022derivative/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2022-01-01_danks2022derivative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EP-653 Diagnosing Acute Appendicitis using Machine Learning: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/2022-01-01_chan2022ep/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2022-01-01_chan2022ep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In simulated data and health records, latent class analysis was the optimum multimorbidity clustering algorithm</title>
+      <link>https://cwcyau.github.io/publication/2022-01-01_nichols2022simulated/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2022-01-01_nichols2022simulated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rarity: Discovering rare cell populations from single-cell imaging data</title>
+      <link>https://cwcyau.github.io/publication/2022-01-01_marten2022rarity/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2022-01-01_marten2022rarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An interpretable meta-clustering framework for single-cell RNA-Seq data integration and evaluation</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_hu2021interpretable/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_hu2021interpretable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Associations between baseline opioid use disorder severity, mental health and biopsychosocial functioning, with clinical responses to computer-assisted therapy treatment</title>
       <link>https://cwcyau.github.io/publication/2021-01-01_elison2021associations/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2021-01-01_elison2021associations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders</title>
+      <link>https://cwcyau.github.io/publication/2021-01-01_danks2021basisdevae/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2021-01-01_danks2021basisdevae/</guid>
       <description></description>
     </item>
     
@@ -29,7 +77,7 @@
     </item>
     
     <item>
-      <title>Multi-Facet Clustering Variational Autoencoders</title>
+      <title>Multi-facet clustering variational autoencoders</title>
       <link>https://cwcyau.github.io/publication/2021-01-01_falck2021multi/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2021-01-01_falck2021multi/</guid>
@@ -53,26 +101,58 @@
     </item>
     
     <item>
-      <title>BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders</title>
-      <link>https://cwcyau.github.io/publication/2020-22-10_martens2020basis/</link>
-      <pubDate>Thu, 22 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2020-22-10_martens2020basis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Decomposition: Functional ANOVA with Variational Autoencoders</title>
-      <link>https://cwcyau.github.io/publication/2020-21-10_martens2020nd/</link>
-      <pubDate>Wed, 21 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2020-21-10_martens2020nd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
       <link>https://cwcyau.github.io/publication/2020-01-01_karaminejadranjbar2020highly/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2020-01-01_karaminejadranjbar2020highly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders</title>
+      <link>https://cwcyau.github.io/publication/2020-01-01_martens2020basisvae/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_martens2020basisvae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Has the COVID-19 Pandemic Changed How You Will Approach Research and Lab Work in the Future?</title>
+      <link>https://cwcyau.github.io/publication/2020-01-01_haynes2020has/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_haynes2020has/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural decomposition: Functional anova with variational autoencoders</title>
+      <link>https://cwcyau.github.io/publication/2020-01-01_martens2020neural/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_martens2020neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A descriptive marker gene approach to single-cell pseudotime inference</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_campbell2019descriptive/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_campbell2019descriptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented ensemble mcmc sampling in factorial hidden markov models</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_martens2019augmented/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_martens2019augmented/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Author Correction: Reporting guidelines for clinical trials evaluating artificial intelligence interventions are needed</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_liu2019author/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_liu2019author/</guid>
       <description></description>
     </item>
     
@@ -85,7 +165,7 @@
     </item>
     
     <item>
-      <title>Decomposing feature-level variation with Covariate Gaussian Process Latent Variable Models</title>
+      <title>Decomposing feature-level variation with covariate Gaussian process latent variable models</title>
       <link>https://cwcyau.github.io/publication/2019-01-01_martens2019decomposing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2019-01-01_martens2019decomposing/</guid>
@@ -117,23 +197,23 @@
     </item>
     
     <item>
-      <title>Reporting guidelines for clinical trials evaluating artificial intelligence interventions are needed</title>
-      <link>https://cwcyau.github.io/publication/2019-01-01_liu2019reporting/</link>
+      <title>Uncovering the long tail of oesophageal cancer driver genes for patient stratification</title>
+      <link>https://cwcyau.github.io/publication/2019-01-01_benedetti2019uncovering/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2019-01-01_liu2019reporting/</guid>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_benedetti2019uncovering/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A descriptive marker gene approach to single-cell pseudotime inference</title>
-      <link>https://cwcyau.github.io/publication/2018-01-01_campbell2018descriptive/</link>
+      <title>DigiPico: A whole-genome sequencing approach to investigate microscopic residual chemotherapy resistance disease in ovarian cancer</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_karaminejadranjbar2018digipico/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2018-01-01_campbell2018descriptive/</guid>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_karaminejadranjbar2018digipico/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Integrated single cell analysis reveals cell cycle and ontogeny related transcriptional heterogeneity in hscs</title>
+      <title>Integrated single cell analysis reveals cell cycle and ontogeny related transcriptional heterogeneity in HSCs</title>
       <link>https://cwcyau.github.io/publication/2018-01-01_povinelli2018integrated/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2018-01-01_povinelli2018integrated/</guid>
@@ -141,7 +221,7 @@
     </item>
     
     <item>
-      <title>MixDir: Scalable Bayesian Clustering for High-Dimensional Categorical Data</title>
+      <title>MixDir: scalable Bayesian clustering for high-dimensional categorical data</title>
       <link>https://cwcyau.github.io/publication/2018-01-01_ahlmann2018mixdir/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2018-01-01_ahlmann2018mixdir/</guid>
@@ -153,6 +233,14 @@
       <link>https://cwcyau.github.io/publication/2018-01-01_rukat2018probabilistic/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2018-01-01_rukat2018probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Separation of dual oxidase 2 and lactoperoxidase expression in intestinal crypts and species differences may limit hydrogen peroxide scavenging during mucosal healing in mice and humans</title>
+      <link>https://cwcyau.github.io/publication/2018-01-01_rigoni2018separation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2018-01-01_rigoni2018separation/</guid>
       <description></description>
     </item>
     
@@ -181,14 +269,6 @@
     </item>
     
     <item>
-      <title>From single cells to populations: Modelling the dynamics of disease progression from cross-sectional studies using phenotypically-driven pseudotime ordering</title>
-      <link>https://cwcyau.github.io/publication/2017-01-01_campbell2017single/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2017-01-01_campbell2017single/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Probabilistic modeling of bifurcations in single-cell gene expression data using a Bayesian mixture of factor analyzers</title>
       <link>https://cwcyau.github.io/publication/2017-01-01_campbell2017probabilistic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -197,10 +277,10 @@
     </item>
     
     <item>
-      <title>Separation of dual oxidase 2 and lactoperoxidase expression in intestinal crypts and species differences may limit hydrogen peroxide scavenging during mucosal healing in mice and humans</title>
-      <link>https://cwcyau.github.io/publication/2017-01-01_rigoni2017separation/</link>
+      <title>switchde: inference of switch-like differential expression along single-cell trajectories</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_campbell2017switchde/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2017-01-01_rigoni2017separation/</guid>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_campbell2017switchde/</guid>
       <description></description>
     </item>
     
@@ -221,10 +301,18 @@
     </item>
     
     <item>
-      <title>Order Under Uncertainty</title>
-      <link>https://cwcyau.github.io/publication/2016-01-01_campbell2016order1/</link>
+      <title>Unravelling cell cycle and ontogeny transcriptional heterogeneity in hematopoietic stem cells through integrated single cell RNA-seq</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_povinelli2017unravelling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_povinelli2017unravelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract LB-340: A novel method for estimating somatic mutations cellular prevalence in cancer using whole genome haplotype phasing</title>
+      <link>https://cwcyau.github.io/publication/2016-01-01_chedom2016abstract/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2016-01-01_campbell2016order1/</guid>
+      <guid>https://cwcyau.github.io/publication/2016-01-01_chedom2016abstract/</guid>
       <description></description>
     </item>
     
@@ -245,18 +333,10 @@
     </item>
     
     <item>
-      <title>Statistical inference in hidden markov models using k-segment constraints</title>
+      <title>Statistical inference in hidden Markov models using k-segment constraints</title>
       <link>https://cwcyau.github.io/publication/2016-01-01_titsias2016statistical/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2016-01-01_titsias2016statistical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>switchde: inference of switch-like differential expression along single-cell trajectories</title>
-      <link>https://cwcyau.github.io/publication/2016-01-01_campbell2016switchde/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2016-01-01_campbell2016switchde/</guid>
       <description></description>
     </item>
     
@@ -289,6 +369,14 @@
       <link>https://cwcyau.github.io/publication/2014-01-01_aueb2014hamming/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2014-01-01_aueb2014hamming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Response Prediction Using Integrated Genomics in Chronic Lymphocytic Leukaemia: Results on 250 First-Line FCR Treated Patients from UK Clinical Trials</title>
+      <link>https://cwcyau.github.io/publication/2014-01-01_clifford2014towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2014-01-01_clifford2014towards/</guid>
       <description></description>
     </item>
     

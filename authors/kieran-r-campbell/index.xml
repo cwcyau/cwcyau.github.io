@@ -5,7 +5,7 @@
     <link>https://cwcyau.github.io/authors/kieran-r-campbell/</link>
       <atom:link href="https://cwcyau.github.io/authors/kieran-r-campbell/index.xml" rel="self" type="application/rss+xml" />
     <description>Kieran R Campbell</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>Kieran R Campbell</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>A descriptive marker gene approach to single-cell pseudotime inference</title>
-      <link>https://cwcyau.github.io/publication/2018-01-01_campbell2018descriptive/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2018-01-01_campbell2018descriptive/</guid>
+      <link>https://cwcyau.github.io/publication/2019-01-01_campbell2019descriptive/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2019-01-01_campbell2019descriptive/</guid>
       <description></description>
     </item>
     
@@ -29,14 +29,6 @@
     </item>
     
     <item>
-      <title>From single cells to populations: Modelling the dynamics of disease progression from cross-sectional studies using phenotypically-driven pseudotime ordering</title>
-      <link>https://cwcyau.github.io/publication/2017-01-01_campbell2017single/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2017-01-01_campbell2017single/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Probabilistic modeling of bifurcations in single-cell gene expression data using a Bayesian mixture of factor analyzers</title>
       <link>https://cwcyau.github.io/publication/2017-01-01_campbell2017probabilistic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -45,10 +37,10 @@
     </item>
     
     <item>
-      <title>Order Under Uncertainty</title>
-      <link>https://cwcyau.github.io/publication/2016-01-01_campbell2016order1/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2016-01-01_campbell2016order1/</guid>
+      <title>switchde: inference of switch-like differential expression along single-cell trajectories</title>
+      <link>https://cwcyau.github.io/publication/2017-01-01_campbell2017switchde/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2017-01-01_campbell2017switchde/</guid>
       <description></description>
     </item>
     
@@ -57,14 +49,6 @@
       <link>https://cwcyau.github.io/publication/2016-01-01_campbell2016order/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/2016-01-01_campbell2016order/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>switchde: inference of switch-like differential expression along single-cell trajectories</title>
-      <link>https://cwcyau.github.io/publication/2016-01-01_campbell2016switchde/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/2016-01-01_campbell2016switchde/</guid>
       <description></description>
     </item>
     

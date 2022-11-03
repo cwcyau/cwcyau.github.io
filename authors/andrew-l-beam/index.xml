@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew L Beam | AI4Health</title>
+    <link>https://cwcyau.github.io/authors/andrew-l-beam/</link>
+      <atom:link href="https://cwcyau.github.io/authors/andrew-l-beam/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andrew L Beam</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>Andrew L Beam</title>
+      <link>https://cwcyau.github.io/authors/andrew-l-beam/</link>
+    </image>
+    
+    <item>
+      <title>Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension</title>
+      <link>https://cwcyau.github.io/publication/2020-01-01_rivera2020guidelines/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/2020-01-01_rivera2020guidelines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
