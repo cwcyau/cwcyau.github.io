@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>women&#39;s health | AI4Health</title>
+    <link>https://cwcyau.github.io/categories/womens-health/</link>
+      <atom:link href="https://cwcyau.github.io/categories/womens-health/index.xml" rel="self" type="application/rss+xml" />
+    <description>women&#39;s health</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/img/icon-192.png</url>
+      <title>women&#39;s health</title>
+      <link>https://cwcyau.github.io/categories/womens-health/</link>
+    </image>
+    
+    <item>
+      <title>MUM-PREDICT: HDRUK Team of the Year</title>
+      <link>https://cwcyau.github.io/post/2022-12-31_mumpredict/</link>
+      <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2022-12-31_mumpredict/</guid>
+      <description>&lt;p&gt;We are proud to have been part of a glittering array of publications arising from our contribution to the &lt;a href=&#34;https://mumpredict.org/&#34;&gt;MUM-PREDICT&lt;/a&gt; projects over the last 12 months. The team also won the &lt;a href=&#34;https://www.hdruk.ac.uk/news/winners-announced-for-hdr-uks-annual-awards/&#34;&gt;Health Data Research UK Team of the Year 2022 award&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1186/s41512-022-00137-7&#34;&gt;Protocol for development and validation of postpartum cardiovascular disease (CVD) risk prediction model incorporating reproductive and pregnancy-related candidate predictors&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;[Polypharmacy during pregnancy and associated risk factors: a retrospective analysis of 577 medication exposures among 1.5 million pregnancies in the UK, 2000-2019](&lt;a href=&#34;https://link.springer.com/article/10.1186/s12916-022-02722-5%5D&#34;&gt;https://link.springer.com/article/10.1186/s12916-022-02722-5]&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://proceedings.mlr.press/v193/gadd22a.html&#34;&gt;mmVAE: multimorbidity clustering using Relaxed Bernoulli β-Variational Autoencoders&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://bmjopen.bmj.com/content/13/2/e068718.abstract&#34;&gt;Maternal and child outcomes for pregnant women with pre-existing multiple long-term conditions: protocol for an observational study in the UK &lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

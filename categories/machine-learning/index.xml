@@ -5,12 +5,33 @@
     <link>https://cwcyau.github.io/categories/machine-learning/</link>
       <atom:link href="https://cwcyau.github.io/categories/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>machine learning</title>
       <link>https://cwcyau.github.io/categories/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>ML4H 2022</title>
+      <link>https://cwcyau.github.io/post/2022-12-01_ml4h_2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2022-12-01_ml4h_2022/</guid>
+      <description>&lt;p&gt;Congratulations to group members &lt;a href=&#34;../../authors/gadd&#34;&gt;Charles Gadd&lt;/a&gt;, &lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; and &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; on the following papers accepted at &lt;a href=&#34;https://ml4health.github.io/online_proceedings.html&#34;&gt;ML4H&lt;/a&gt; and &lt;a href=&#34;https://neurips.cc/Conferences/2022&#34;&gt;NeurIPS&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://proceedings.mlr.press/v193/gadd22a.html&#34;&gt;mmVAE: multimorbidity clustering using Relaxed Bernoulli β-Variational Autoencoders&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://proceedings.mlr.press/v193/kim22a.html&#34;&gt;Feature Allocation Approach for Multimorbidity Trajectory Modelling&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2301.08187&#34;&gt;A Multi-Resolution Framework for U-Nets with Applications to Hierarchical VAEs
+&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>The Great UK PhD Data Science Survey</title>

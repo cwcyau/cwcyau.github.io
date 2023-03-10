@@ -5,12 +5,21 @@
     <link>https://cwcyau.github.io/categories/omics/</link>
       <atom:link href="https://cwcyau.github.io/categories/omics/index.xml" rel="self" type="application/rss+xml" />
     <description>omics</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Mon, 20 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>omics</title>
       <link>https://cwcyau.github.io/categories/omics/</link>
     </image>
+    
+    <item>
+      <title>Nature Communications Paper on personalised metabolic models</title>
+      <link>https://cwcyau.github.io/post/2022-11-29_naturecomms/</link>
+      <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2022-11-29_naturecomms/</guid>
+      <description>&lt;p&gt;In a collaboration led by Carles Foguet and &lt;a href=&#34;https://www.inouyelab.org/&#34;&gt;Mike Inouye&lt;/a&gt;, &lt;a href=&#34;../../author/yau&#34;&gt;Christopher Yau&lt;/a&gt; contributed to &lt;a href=&#34;https://www.nature.com/articles/s41467-022-35017-7&#34;&gt;Genetically personalised organ-specific metabolic models in health and disease&lt;/a&gt; which has been published in Nature Communications.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation</title>
