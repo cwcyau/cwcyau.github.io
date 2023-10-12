@@ -5,12 +5,58 @@
     <link>https://cwcyau.github.io/tags/electronic-health-records/</link>
       <atom:link href="https://cwcyau.github.io/tags/electronic-health-records/index.xml" rel="self" type="application/rss+xml" />
     <description>electronic health records</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Sat, 31 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2019 by Christopher Yau. All Rights Reserved.</copyright><lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/img/icon-192.png</url>
       <title>electronic health records</title>
       <link>https://cwcyau.github.io/tags/electronic-health-records/</link>
     </image>
+    
+    <item>
+      <title>MLTC Update</title>
+      <link>https://cwcyau.github.io/post/2023-10-12_mltc/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2023-10-12_mltc/</guid>
+      <description>&lt;p&gt;We continue to contribute to the &lt;a href=&#34;https://mumpredict.org/&#34;&gt;MUM-PREDICT&lt;/a&gt; and &lt;a href=&#34;https://www.birmingham.ac.uk/research/applied-health/research/optimal/index.aspx&#34;&gt;OPTIMAL&lt;/a&gt; project over the last six months including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://openresearch.nihr.ac.uk/documents/3-21&#34;&gt;Artificial Intelligence for Multiple Long-term conditions (AIM): A consensus statement from the NIHR AIM consortia&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://bmjopen.bmj.com/content/13/2/e068718.abstract&#34;&gt;Maternal and child outcomes for pregnant women with pre-existing multiple long-term conditions: protocol for an observational study in the UK&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://link.springer.com/article/10.1186/s12916-022-02722-5&#34;&gt;Polypharmacy during pregnancy and associated risk factors: a retrospective analysis of 577 medication exposures among 1.5 million pregnancies in the UK, 2000-2019&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-023-03013-3&#34;&gt;The development of a core outcome set for studies of pregnant women with multimorbidity&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://bmjopen.bmj.com/content/13/10/e073162.abstract&#34;&gt;Detection and evaluation of signals associated with exposure to individual and combination of medications in pregnancy: a signal detection study protocol&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper with Breaking Free Online on substance abuse</title>
+      <link>https://cwcyau.github.io/post/2023-10-01_jamiaopen/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2023-10-01_jamiaopen/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/gunther&#34;&gt;Franziska Gunther&lt;/a&gt; on her collaborative work with &lt;a href=&#34;https://www.breakingfreeonline.com/&#34;&gt;Breaking Free Online&lt;/a&gt; on
+&lt;em&gt;&lt;a href=&#34;https://academic.oup.com/jamiaopen/article/6/3/ooad072/7259137&#34;&gt;Identifying factors associated with user retention and outcomes of a digital intervention for substance use disorder: a retrospective analysis of real-world data&lt;/a&gt;&lt;/em&gt; which has been published in JAMIA Open.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MIE 2023 success</title>
+      <link>https://cwcyau.github.io/post/2023-05-25_mie2023/</link>
+      <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2023-05-25_mie2023/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/gunther&#34;&gt;Franziska Gunther&lt;/a&gt; on her collaborative work with &lt;a href=&#34;https://www.breakingfreeonline.com/&#34;&gt;Breaking Free Online&lt;/a&gt; which was presented at &lt;a href=&#34;https://www.mie2023.org/&#34;&gt;MIE 2023&lt;/a&gt;
+&lt;em&gt;&lt;a href=&#34;https://eprints.whiterose.ac.uk/198537/&#34;&gt;On the difficulty of predicting engagement with digital interventions for substance use disorders&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MUM-PREDICT: HDRUK Team of the Year</title>
