@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CG Mathew | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/cg-mathew/</link>
+      <atom:link href="https://cwcyau.github.io/author/cg-mathew/index.xml" rel="self" type="application/rss+xml" />
+    <description>CG Mathew</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>CG Mathew</title>
+      <link>https://cwcyau.github.io/author/cg-mathew/</link>
+    </image>
+    
+    <item>
+      <title>NOX1 loss-of-function genetic variants in patients with inflammatory bowel disease</title>
+      <link>https://cwcyau.github.io/publication/schwerd-2018-nox-1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/schwerd-2018-nox-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

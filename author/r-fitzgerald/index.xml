@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R Fitzgerald | Yau Research Group</title>
+    <link>http://localhost:1313/author/r-fitzgerald/</link>
+      <atom:link href="http://localhost:1313/author/r-fitzgerald/index.xml" rel="self" type="application/rss+xml" />
+    <description>R Fitzgerald</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Aug 2024 17:10:55 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <title>R Fitzgerald</title>
+      <link>http://localhost:1313/author/r-fitzgerald/</link>
+    </image>
+    
+    <item>
+      <title>King’s Research Portal</title>
+      <link>http://localhost:1313/publication/foxallking/</link>
+      <pubDate>Thu, 08 Aug 2024 17:10:55 +0000</pubDate>
+      <guid>http://localhost:1313/publication/foxallking/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

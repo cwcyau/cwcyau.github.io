@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Titsias RC AUEB | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/titsias-rc-aueb/</link>
+      <atom:link href="https://cwcyau.github.io/author/titsias-rc-aueb/index.xml" rel="self" type="application/rss+xml" />
+    <description>Titsias RC AUEB</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Titsias RC AUEB</title>
+      <link>https://cwcyau.github.io/author/titsias-rc-aueb/</link>
+    </image>
+    
+    <item>
+      <title>Hamming ball auxiliary sampling for factorial hidden Markov models</title>
+      <link>https://cwcyau.github.io/publication/aueb-2014-hamming/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/aueb-2014-hamming/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

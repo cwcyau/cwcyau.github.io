@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christine Damase-Michel | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/christine-damase-michel/</link>
+      <atom:link href="https://cwcyau.github.io/author/christine-damase-michel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christine Damase-Michel</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Christine Damase-Michel</title>
+      <link>https://cwcyau.github.io/author/christine-damase-michel/</link>
+    </image>
+    
+    <item>
+      <title>Polypharmacy during pregnancy and associated risk factors: a retrospective analysis of 577 medication exposures among 1.5 million pregnancies in the UK, 2000-2019</title>
+      <link>https://cwcyau.github.io/publication/subramanian-2023-polypharmacy/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/subramanian-2023-polypharmacy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

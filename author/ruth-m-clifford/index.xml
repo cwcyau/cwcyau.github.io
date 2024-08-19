@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruth M Clifford | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/ruth-m-clifford/</link>
+      <atom:link href="https://cwcyau.github.io/author/ruth-m-clifford/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ruth M Clifford</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Ruth M Clifford</title>
+      <link>https://cwcyau.github.io/author/ruth-m-clifford/</link>
+    </image>
+    
+    <item>
+      <title>Towards Response Prediction Using Integrated Genomics in Chronic Lymphocytic Leukaemia: Results on 250 First-Line FCR Treated Patients from UK Clinical Trials</title>
+      <link>https://cwcyau.github.io/publication/clifford-2014-towards/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/clifford-2014-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

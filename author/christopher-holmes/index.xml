@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Holmes | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/christopher-holmes/</link>
+      <atom:link href="https://cwcyau.github.io/author/christopher-holmes/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Holmes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Christopher Holmes</title>
+      <link>https://cwcyau.github.io/author/christopher-holmes/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian nonparametric hidden Markov models with application to the analysis of copy-number-variation in mammalian genomes</title>
+      <link>https://cwcyau.github.io/publication/yau-2009-bayesian/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/yau-2009-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

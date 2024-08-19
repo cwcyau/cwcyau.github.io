@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanwen Xing | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/hanwen-xing/</link>
+      <atom:link href="https://cwcyau.github.io/author/hanwen-xing/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hanwen Xing</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cwcyau.github.io/author/hanwen-xing/avatar_hu13442930594333740191.jpeg</url>
+      <title>Hanwen Xing</title>
+      <link>https://cwcyau.github.io/author/hanwen-xing/</link>
+    </image>
+    
+    <item>
+      <title>Hanwen Xing</title>
+      <link>https://cwcyau.github.io/author/hanwen-xing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/author/hanwen-xing/</guid>
+      <description>&lt;p&gt;Hanwen was a graduate student at the University of Oxford supervised by Dr Geoff Nichols. He completed his DPhil in 2022. He is now a postdoctoral researcher working on statistical machine learning methods for cancer.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

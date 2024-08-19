@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heike I Grabsch | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/heike-i-grabsch/</link>
+      <atom:link href="https://cwcyau.github.io/author/heike-i-grabsch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Heike I Grabsch</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Heike I Grabsch</title>
+      <link>https://cwcyau.github.io/author/heike-i-grabsch/</link>
+    </image>
+    
+    <item>
+      <title>Immunophenotypes of pancreatic ductal adenocarcinoma: Meta-analysis of transcriptional subtypes</title>
+      <link>https://cwcyau.github.io/publication/de-2019-immunophenotypes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/de-2019-immunophenotypes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

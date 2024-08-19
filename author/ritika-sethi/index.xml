@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ritika Sethi | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/ritika-sethi/</link>
+      <atom:link href="https://cwcyau.github.io/author/ritika-sethi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ritika Sethi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Ritika Sethi</title>
+      <link>https://cwcyau.github.io/author/ritika-sethi/</link>
+    </image>
+    
+    <item>
+      <title>Author Correction: Tuning microtubule dynamics to enhance cancer therapy by modulating FER-mediated CRMP2 phosphorylation</title>
+      <link>https://cwcyau.github.io/publication/zheng-2022-author/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/zheng-2022-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning microtubule dynamics to enhance cancer therapy by modulating FER-mediated CRMP2 phosphorylation (vol 9, 476, 2018)</title>
+      <link>https://cwcyau.github.io/publication/zheng-2022-tuning/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/zheng-2022-tuning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tuning microtubule dynamics to enhance cancer therapy by modulating FER-mediated CRMP2 phosphorylation</title>
+      <link>https://cwcyau.github.io/publication/zheng-2018-tuning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/zheng-2018-tuning/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

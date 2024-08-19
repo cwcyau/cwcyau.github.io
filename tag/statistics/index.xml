@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistics | Yau Research Group</title>
+    <link>https://cwcyau.github.io/tag/statistics/</link>
+      <atom:link href="https://cwcyau.github.io/tag/statistics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Statistics</title>
+      <link>https://cwcyau.github.io/tag/statistics/</link>
+    </image>
+    
+    <item>
+      <title>ECOSTAT &amp; ISBA 2021</title>
+      <link>https://cwcyau.github.io/post/2021-06-26_isba_2021/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-06-26_isba_2021/</guid>
+      <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; whose will presenting his work on &amp;ldquo;Learning multimorbidity and its temporal dynamics with the Wright-Fisher Indian Buffet Processs&amp;rdquo; at the &lt;a href=&#34;http://www.cmstatistics.org/EcoSta2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EcoStat 2021&lt;/a&gt; and the &lt;a href=&#34;https://events.stat.uconn.edu/ISBA2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Society for Bayesian Analysis World Meeting 2021&lt;/a&gt; conferences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Nature Reviews Methods Primer</title>
+      <link>https://cwcyau.github.io/post/2021-01-14_bayesprimer/</link>
+      <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-01-14_bayesprimer/</guid>
+      <description>&lt;p&gt;Christopher Yau and Kaspar Martens have contributed to an article &lt;em&gt;Bayesian statistics and modelling&lt;/em&gt; for the new Nature Reviews Methods Primer journal.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s43586-020-00001-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

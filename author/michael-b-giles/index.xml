@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael B Giles | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/michael-b-giles/</link>
+      <atom:link href="https://cwcyau.github.io/author/michael-b-giles/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael B Giles</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Michael B Giles</title>
+      <link>https://cwcyau.github.io/author/michael-b-giles/</link>
+    </image>
+    
+    <item>
+      <title>On the utility of graphics cards to perform massively parallel simulation of advanced Monte Carlo methods</title>
+      <link>https://cwcyau.github.io/publication/lee-2010-utility/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/lee-2010-utility/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linda Nichols | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/linda-nichols/</link>
+      <atom:link href="https://cwcyau.github.io/author/linda-nichols/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linda Nichols</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Linda Nichols</title>
+      <link>https://cwcyau.github.io/author/linda-nichols/</link>
+    </image>
+    
+    <item>
+      <title>In simulated data and health records, latent class analysis was the optimum multimorbidity clustering algorithm</title>
+      <link>https://cwcyau.github.io/publication/nichols-2022-simulated/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/nichols-2022-simulated/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

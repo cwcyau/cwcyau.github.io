@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tammo Rukat | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/tammo-rukat/</link>
+      <atom:link href="https://cwcyau.github.io/author/tammo-rukat/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tammo Rukat</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Tammo Rukat</title>
+      <link>https://cwcyau.github.io/author/tammo-rukat/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian Nonparametric Boolean Factor Models</title>
+      <link>https://cwcyau.github.io/publication/rukat-2019-bayesian/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rukat-2019-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Boolean Tensor Decomposition</title>
+      <link>https://cwcyau.github.io/publication/rukat-2018-probabilistic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rukat-2018-probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian boolean matrix factorisation</title>
+      <link>https://cwcyau.github.io/publication/rukat-2017-bayesian/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rukat-2017-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

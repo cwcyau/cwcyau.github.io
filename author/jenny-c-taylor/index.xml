@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jenny C Taylor | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/jenny-c-taylor/</link>
+      <atom:link href="https://cwcyau.github.io/author/jenny-c-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jenny C Taylor</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Jenny C Taylor</title>
+      <link>https://cwcyau.github.io/author/jenny-c-taylor/</link>
+    </image>
+    
+    <item>
+      <title>Factors influencing success of clinical genome sequencing across a broad spectrum of disorders</title>
+      <link>https://cwcyau.github.io/publication/taylor-2015-factors/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/taylor-2015-factors/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

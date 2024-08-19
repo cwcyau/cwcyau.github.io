@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glyn Davies | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/glyn-davies/</link>
+      <atom:link href="https://cwcyau.github.io/author/glyn-davies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Glyn Davies</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Glyn Davies</title>
+      <link>https://cwcyau.github.io/author/glyn-davies/</link>
+    </image>
+    
+    <item>
+      <title>Associations between baseline opioid use disorder severity, mental health and biopsychosocial functioning, with clinical responses to computer-assisted therapy treatment</title>
+      <link>https://cwcyau.github.io/publication/elison-2021-associations/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/elison-2021-associations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

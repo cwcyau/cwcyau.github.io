@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leticia Campo | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/leticia-campo/</link>
+      <atom:link href="https://cwcyau.github.io/author/leticia-campo/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leticia Campo</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Leticia Campo</title>
+      <link>https://cwcyau.github.io/author/leticia-campo/</link>
+    </image>
+    
+    <item>
+      <title>The Oxford Classic can identify HGSOC patients who may benefit from EMT-targeting therapies</title>
+      <link>https://cwcyau.github.io/publication/rai-2024-oxford/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rai-2024-oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Oxford classic links epithelial-to-mesenchymal transition to immunosuppression in poor prognosis ovarian cancers</title>
+      <link>https://cwcyau.github.io/publication/hu-2021-oxford/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/hu-2021-oxford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

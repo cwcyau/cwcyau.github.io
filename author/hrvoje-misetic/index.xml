@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hrvoje Misetic | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/hrvoje-misetic/</link>
+      <atom:link href="https://cwcyau.github.io/author/hrvoje-misetic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hrvoje Misetic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cwcyau.github.io/author/hrvoje-misetic/avatar_hu14055053867856208004.jpg</url>
+      <title>Hrvoje Misetic</title>
+      <link>https://cwcyau.github.io/author/hrvoje-misetic/</link>
+    </image>
+    
+  </channel>
+</rss>

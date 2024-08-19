@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kaspar Maertens | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/kaspar-maertens/</link>
+      <atom:link href="https://cwcyau.github.io/author/kaspar-maertens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kaspar Maertens</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cwcyau.github.io/author/kaspar-maertens/avatar_hu17049979164231992567.jpg</url>
+      <title>Kaspar Maertens</title>
+      <link>https://cwcyau.github.io/author/kaspar-maertens/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francesca Ciccarelli | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/francesca-ciccarelli/</link>
+      <atom:link href="https://cwcyau.github.io/author/francesca-ciccarelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francesca Ciccarelli</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Francesca Ciccarelli</title>
+      <link>https://cwcyau.github.io/author/francesca-ciccarelli/</link>
+    </image>
+    
+    <item>
+      <title>Rarity: discovering rare cell populations from single-cell imaging data</title>
+      <link>https://cwcyau.github.io/publication/martens-2023-rarity/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/martens-2023-rarity/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

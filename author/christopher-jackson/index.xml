@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher Jackson | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/christopher-jackson/</link>
+      <atom:link href="https://cwcyau.github.io/author/christopher-jackson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher Jackson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Christopher Jackson</title>
+      <link>https://cwcyau.github.io/author/christopher-jackson/</link>
+    </image>
+    
+    <item>
+      <title>Sociodemographic characteristics and longitudinal progression of multimorbidity: A multistate modelling analysis of a large primary care records dataset in England</title>
+      <link>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Melanie J Percy | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/melanie-j-percy/</link>
+      <atom:link href="https://cwcyau.github.io/author/melanie-j-percy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Melanie J Percy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Melanie J Percy</title>
+      <link>https://cwcyau.github.io/author/melanie-j-percy/</link>
+    </image>
+    
+    <item>
+      <title>Erythrocytosis associated with a novel missense mutation in the BPGM gene</title>
+      <link>https://cwcyau.github.io/publication/petousi-2014-erythrocytosis/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/petousi-2014-erythrocytosis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

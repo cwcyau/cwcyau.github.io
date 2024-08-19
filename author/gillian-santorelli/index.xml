@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gillian Santorelli | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/gillian-santorelli/</link>
+      <atom:link href="https://cwcyau.github.io/author/gillian-santorelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gillian Santorelli</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Gillian Santorelli</title>
+      <link>https://cwcyau.github.io/author/gillian-santorelli/</link>
+    </image>
+    
+    <item>
+      <title>Maternal and child outcomes for pregnant women with pre-existing multiple long-term conditions: protocol for an observational study in the UK</title>
+      <link>https://cwcyau.github.io/publication/lee-2023-maternal/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/lee-2023-maternal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

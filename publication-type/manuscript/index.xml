@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manuscript | Yau Research Group</title>
+    <link>http://localhost:1313/publication-type/manuscript/</link>
+      <atom:link href="http://localhost:1313/publication-type/manuscript/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manuscript</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <title>Manuscript</title>
+      <link>http://localhost:1313/publication-type/manuscript/</link>
+    </image>
+    
+    <item>
+      <title>Method for identifying neo-antigens</title>
+      <link>http://localhost:1313/publication/ahmed-2023-method/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahmed-2023-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-grade serous ovarian carcinoma (hgsoc)</title>
+      <link>http://localhost:1313/publication/ahmed-2022-high/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahmed-2022-high/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

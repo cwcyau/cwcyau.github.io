@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omiros Papaspiliopoulos | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/omiros-papaspiliopoulos/</link>
+      <atom:link href="https://cwcyau.github.io/author/omiros-papaspiliopoulos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Omiros Papaspiliopoulos</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Omiros Papaspiliopoulos</title>
+      <link>https://cwcyau.github.io/author/omiros-papaspiliopoulos/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian non-parametric hidden Markov models with applications in genomics</title>
+      <link>https://cwcyau.github.io/publication/yau-2011-bayesian/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/yau-2011-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian nonparametric hidden Markov models with application to the analysis of copy-number-variation in mammalian genomes</title>
+      <link>https://cwcyau.github.io/publication/yau-2009-bayesian/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/yau-2009-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

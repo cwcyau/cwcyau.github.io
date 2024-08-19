@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laura Winchester | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/laura-winchester/</link>
+      <atom:link href="https://cwcyau.github.io/author/laura-winchester/index.xml" rel="self" type="application/rss+xml" />
+    <description>Laura Winchester</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Laura Winchester</title>
+      <link>https://cwcyau.github.io/author/laura-winchester/</link>
+    </image>
+    
+    <item>
+      <title>Comparing CNV detection methods for SNP arrays</title>
+      <link>https://cwcyau.github.io/publication/winchester-2009-comparing/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/winchester-2009-comparing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

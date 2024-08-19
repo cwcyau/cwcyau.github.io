@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lavinia Ferrante Di Ruffano | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/lavinia-ferrante-di-ruffano/</link>
+      <atom:link href="https://cwcyau.github.io/author/lavinia-ferrante-di-ruffano/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lavinia Ferrante Di Ruffano</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Lavinia Ferrante Di Ruffano</title>
+      <link>https://cwcyau.github.io/author/lavinia-ferrante-di-ruffano/</link>
+    </image>
+    
+    <item>
+      <title>Author Correction: Concordance of randomised controlled trials for artificial intelligence interventions with the CONSORT-AI reporting guidelines</title>
+      <link>https://cwcyau.github.io/publication/martindale-2024-author/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/martindale-2024-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Concordance of randomised controlled trials for artificial intelligence interventions with the CONSORT-AI reporting guidelines</title>
+      <link>https://cwcyau.github.io/publication/martindale-2024-concordance/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/martindale-2024-concordance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

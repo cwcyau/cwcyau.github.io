@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Colin McCowan | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/colin-mccowan/</link>
+      <atom:link href="https://cwcyau.github.io/author/colin-mccowan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Colin McCowan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Colin McCowan</title>
+      <link>https://cwcyau.github.io/author/colin-mccowan/</link>
+    </image>
+    
+    <item>
+      <title>Key outcomes for reporting in studies of pregnant women with multiple long-term conditions: a qualitative study</title>
+      <link>https://cwcyau.github.io/publication/lee-2023-key/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/lee-2023-key/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Polypharmacy during pregnancy and associated risk factors: a retrospective analysis of 577 medication exposures among 1.5 million pregnancies in the UK, 2000-2019</title>
+      <link>https://cwcyau.github.io/publication/subramanian-2023-polypharmacy/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/subramanian-2023-polypharmacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol for development and validation of postpartum cardiovascular disease (CVD) risk prediction model incorporating reproductive and pregnancy-related candidate predictors</title>
+      <link>https://cwcyau.github.io/publication/wambua-2022-protocol/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wambua-2022-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Protocol for the development of a core outcome set for studies of pregnant women with pre-existing multimorbidity</title>
+      <link>https://cwcyau.github.io/publication/lee-2021-protocol/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/lee-2021-protocol/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

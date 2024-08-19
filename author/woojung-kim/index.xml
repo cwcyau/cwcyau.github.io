@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Woojung Kim | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/woojung-kim/</link>
+      <atom:link href="https://cwcyau.github.io/author/woojung-kim/index.xml" rel="self" type="application/rss+xml" />
+    <description>Woojung Kim</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Woojung Kim</title>
+      <link>https://cwcyau.github.io/author/woojung-kim/</link>
+    </image>
+    
+    <item>
+      <title>Feature allocation approach for multimorbidity trajectory modelling</title>
+      <link>https://cwcyau.github.io/publication/kim-2022-feature/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/kim-2022-feature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

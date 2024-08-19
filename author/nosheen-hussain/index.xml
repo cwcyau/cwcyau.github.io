@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nosheen Hussain | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/nosheen-hussain/</link>
+      <atom:link href="https://cwcyau.github.io/author/nosheen-hussain/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nosheen Hussain</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Nosheen Hussain</title>
+      <link>https://cwcyau.github.io/author/nosheen-hussain/</link>
+    </image>
+    
+    <item>
+      <title>Correction: Completing a genomic characterisation of microscopic tumour samples with copy number</title>
+      <link>https://cwcyau.github.io/publication/nulsen-2024-correction/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/nulsen-2024-correction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Completing a genomic characterisation of microscopic tumour samples with copy number</title>
+      <link>https://cwcyau.github.io/publication/nulsen-2023-completing/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/nulsen-2023-completing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

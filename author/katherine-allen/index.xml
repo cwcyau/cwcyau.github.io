@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Katherine Allen | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/katherine-allen/</link>
+      <atom:link href="https://cwcyau.github.io/author/katherine-allen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Katherine Allen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Katherine Allen</title>
+      <link>https://cwcyau.github.io/author/katherine-allen/</link>
+    </image>
+    
+    <item>
+      <title>A recursive, stochastic vessel segmentation framework that robustly handles bifurcations</title>
+      <link>https://cwcyau.github.io/publication/allen-2008-recursive/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/allen-2008-recursive/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

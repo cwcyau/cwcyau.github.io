@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paper-Conference | Yau Research Group</title>
+    <link>https://cwcyau.github.io/publication-type/paper-conference/</link>
+      <atom:link href="https://cwcyau.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Paper-Conference</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Paper-Conference</title>
+      <link>https://cwcyau.github.io/publication-type/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>Disentangling shared and private latent factors in multimodal Variational Autoencoders</title>
+      <link>https://cwcyau.github.io/publication/martens-2024-disentangling/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/martens-2024-disentangling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Derivative-based neural modelling of cumulative distribution functions for survival analysis</title>
+      <link>https://cwcyau.github.io/publication/danks-2022-derivative/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/danks-2022-derivative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature allocation approach for multimorbidity trajectory modelling</title>
+      <link>https://cwcyau.github.io/publication/kim-2022-feature/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/kim-2022-feature/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mmVAE: multimorbidity clustering using Relaxed Bernoulli $ $β$ $-Variational Autoencoders</title>
+      <link>https://cwcyau.github.io/publication/gadd-2022-mmvae/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/gadd-2022-mmvae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basisdevae: Interpretable simultaneous dimensionality reduction and feature-level clustering with derivative-based variational autoencoders</title>
+      <link>https://cwcyau.github.io/publication/danks-2021-basisdevae/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/danks-2021-basisdevae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders</title>
+      <link>https://cwcyau.github.io/publication/martens-2020-basisvae/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/martens-2020-basisvae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploiting VDJ recombination of T cells to dissect the anti-cancer immune interactions in T cell lymphoma</title>
+      <link>https://cwcyau.github.io/publication/murray-2020-exploiting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/murray-2020-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural decomposition: Functional anova with variational autoencoders</title>
+      <link>https://cwcyau.github.io/publication/martens-2020-neural/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/martens-2020-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Augmented ensemble mcmc sampling in factorial hidden markov models</title>
+      <link>https://cwcyau.github.io/publication/martens-2019-augmented/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/martens-2019-augmented/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decomposing feature-level variation with covariate Gaussian process latent variable models</title>
+      <link>https://cwcyau.github.io/publication/martens-2019-decomposing/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/martens-2019-decomposing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering the long tail of oesophageal cancer driver genes for patient stratification</title>
+      <link>https://cwcyau.github.io/publication/benedetti-2019-uncovering/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/benedetti-2019-uncovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MixDir: scalable Bayesian clustering for high-dimensional categorical data</title>
+      <link>https://cwcyau.github.io/publication/ahlmann-2018-mixdir/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/ahlmann-2018-mixdir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic Boolean Tensor Decomposition</title>
+      <link>https://cwcyau.github.io/publication/rukat-2018-probabilistic/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rukat-2018-probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian boolean matrix factorisation</title>
+      <link>https://cwcyau.github.io/publication/rukat-2017-bayesian/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rukat-2017-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comprehensive genome-wide analysis of CLL samples from UK 1st line and relapsed/refractory clinical trials</title>
+      <link>https://cwcyau.github.io/publication/robbe-2013-comprehensive/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/robbe-2013-comprehensive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A recursive, stochastic vessel segmentation framework that robustly handles bifurcations</title>
+      <link>https://cwcyau.github.io/publication/allen-2008-recursive/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/allen-2008-recursive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative image analysis of chromosome dynamics in early Drosophila embryos</title>
+      <link>https://cwcyau.github.io/publication/yau-2007-quantitative/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/yau-2007-quantitative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hidden Markov Models for Detecting Regions of Deletion and Duplication in the Human Genome using Illumina BeadChip Arrays</title>
+      <link>https://cwcyau.github.io/publication/holmes-2006-bayesian/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/holmes-2006-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Clarke | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/c-clarke/</link>
+      <atom:link href="https://cwcyau.github.io/author/c-clarke/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Clarke</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>C Clarke</title>
+      <link>https://cwcyau.github.io/author/c-clarke/</link>
+    </image>
+    
+    <item>
+      <title>Provision of data analysis and Economic Evaluation of the Incentivisation Scheme in support of Sign up To Safety on behalf of the NHS Litigation Authority</title>
+      <link>https://cwcyau.github.io/publication/pizzo-2017-provision/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/pizzo-2017-provision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

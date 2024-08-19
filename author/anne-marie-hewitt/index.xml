@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anne-Marie Hewitt | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/anne-marie-hewitt/</link>
+      <atom:link href="https://cwcyau.github.io/author/anne-marie-hewitt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anne-Marie Hewitt</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Anne-Marie Hewitt</title>
+      <link>https://cwcyau.github.io/author/anne-marie-hewitt/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative Whole Genome Analysis of Sequential Samples From Patients with B-CLL Identifies Novel Recurrent Copy Number Alterations Involving Critical B-Cell Transcription Factors</title>
+      <link>https://cwcyau.github.io/publication/timbs-2010-quantitative/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/timbs-2010-quantitative/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

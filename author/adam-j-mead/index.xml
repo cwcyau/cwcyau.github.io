@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adam J Mead | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/adam-j-mead/</link>
+      <atom:link href="https://cwcyau.github.io/author/adam-j-mead/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adam J Mead</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Adam J Mead</title>
+      <link>https://cwcyau.github.io/author/adam-j-mead/</link>
+    </image>
+    
+    <item>
+      <title>Unravelling cell cycle and ontogeny transcriptional heterogeneity in hematopoietic stem cells through integrated single cell RNA-seq</title>
+      <link>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

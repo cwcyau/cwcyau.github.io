@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>P Kirk | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/p-kirk/</link>
+      <atom:link href="https://cwcyau.github.io/author/p-kirk/index.xml" rel="self" type="application/rss+xml" />
+    <description>P Kirk</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>P Kirk</title>
+      <link>https://cwcyau.github.io/author/p-kirk/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the stability of multimorbidity clusters within and between clustering algorithms, in simulated and health record data</title>
+      <link>https://cwcyau.github.io/publication/nichols-2022-investigating/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/nichols-2022-investigating/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

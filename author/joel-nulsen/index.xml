@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Joel Nulsen | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/joel-nulsen/</link>
+      <atom:link href="https://cwcyau.github.io/author/joel-nulsen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Joel Nulsen</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cwcyau.github.io/author/joel-nulsen/avatar_hu9906020189279302678.jpg</url>
+      <title>Joel Nulsen</title>
+      <link>https://cwcyau.github.io/author/joel-nulsen/</link>
+    </image>
+    
+  </channel>
+</rss>

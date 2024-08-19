@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GO Roberts | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/go-roberts/</link>
+      <atom:link href="https://cwcyau.github.io/author/go-roberts/index.xml" rel="self" type="application/rss+xml" />
+    <description>GO Roberts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>GO Roberts</title>
+      <link>https://cwcyau.github.io/author/go-roberts/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian non-parametric hidden Markov models with applications in genomics</title>
+      <link>https://cwcyau.github.io/publication/yau-2011-bayesian/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/yau-2011-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

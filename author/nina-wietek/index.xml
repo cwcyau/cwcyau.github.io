@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nina Wietek | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/nina-wietek/</link>
+      <atom:link href="https://cwcyau.github.io/author/nina-wietek/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nina Wietek</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Nina Wietek</title>
+      <link>https://cwcyau.github.io/author/nina-wietek/</link>
+    </image>
+    
+    <item>
+      <title>Adipocyte-like signature in ovarian cancer minimal residual disease identifies metabolic vulnerabilities of tumor initiating cells</title>
+      <link>https://cwcyau.github.io/publication/artibani-2021-adipocyte/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/artibani-2021-adipocyte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells</title>
+      <link>https://cwcyau.github.io/publication/hu-2020-repertoire/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/hu-2020-repertoire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep single-cell RNA-seq of the putative cell of origin revealed a novel molecular subtype of high-grade serous ovarian cancer with poor prognosis</title>
+      <link>https://cwcyau.github.io/publication/hu-2019-deep/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/hu-2019-deep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

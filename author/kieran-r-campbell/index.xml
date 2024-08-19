@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kieran R Campbell | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/kieran-r-campbell/</link>
+      <atom:link href="https://cwcyau.github.io/author/kieran-r-campbell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kieran R Campbell</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Kieran R Campbell</title>
+      <link>https://cwcyau.github.io/author/kieran-r-campbell/</link>
+    </image>
+    
+    <item>
+      <title>A descriptive marker gene approach to single-cell pseudotime inference</title>
+      <link>https://cwcyau.github.io/publication/campbell-2019-descriptive/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/campbell-2019-descriptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uncovering pseudotemporal trajectories with covariates from single cell and bulk expression data</title>
+      <link>https://cwcyau.github.io/publication/campbell-2018-uncovering/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/campbell-2018-uncovering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A descriptive marker gene approach to single-cell pseudotime</title>
+      <link>https://cwcyau.github.io/publication/campbell-2017-descriptive/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/campbell-2017-descriptive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Probabilistic modeling of bifurcations in single-cell gene expression data using a Bayesian mixture of factor analyzers</title>
+      <link>https://cwcyau.github.io/publication/campbell-2017-probabilistic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/campbell-2017-probabilistic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>switchde: inference of switch-like differential expression along single-cell trajectories</title>
+      <link>https://cwcyau.github.io/publication/campbell-2017-switchde/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/campbell-2017-switchde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Order under uncertainty: robust differential expression analysis using probabilistic models for pseudotime inference</title>
+      <link>https://cwcyau.github.io/publication/campbell-2016-order/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/campbell-2016-order/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

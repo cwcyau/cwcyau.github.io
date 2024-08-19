@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Holmes | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/c-holmes/</link>
+      <atom:link href="https://cwcyau.github.io/author/c-holmes/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Holmes</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>C Holmes</title>
+      <link>https://cwcyau.github.io/author/c-holmes/</link>
+    </image>
+    
+    <item>
+      <title>Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension</title>
+      <link>https://cwcyau.github.io/publication/liu-2024-reporting/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/liu-2024-reporting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian non-parametric hidden Markov models with applications in genomics</title>
+      <link>https://cwcyau.github.io/publication/yau-2011-bayesian/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/yau-2011-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bayesian Hidden Markov Models for Detecting Regions of Deletion and Duplication in the Human Genome using Illumina BeadChip Arrays</title>
+      <link>https://cwcyau.github.io/publication/holmes-2006-bayesian/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/holmes-2006-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

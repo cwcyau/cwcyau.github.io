@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leon Law | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/leon-law/</link>
+      <atom:link href="https://cwcyau.github.io/author/leon-law/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leon Law</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cwcyau.github.io/author/leon-law/avatar_hu2686843758243569423.jpg</url>
+      <title>Leon Law</title>
+      <link>https://cwcyau.github.io/author/leon-law/</link>
+    </image>
+    
+  </channel>
+</rss>

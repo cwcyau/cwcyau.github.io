@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Yau Research Group</title>
+    <link>https://cwcyau.github.io/tag/machine-learning/</link>
+      <atom:link href="https://cwcyau.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Machine Learning</title>
+      <link>https://cwcyau.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>ML4H 2024</title>
+      <link>https://cwcyau.github.io/post/2024-08-16_ml4h_2024/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2024-08-16_ml4h_2024/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; on having his paper accepted at &lt;a href=&#34;https://www.mlforhc.org/2024-abstracts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ML4H 2024&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This paper introduces the Mixed Type Multimorbidity Variational Autoencoder (M3VAE), a deep probabilistic generative model developed for supervised dimensionality reduction in the context of multimorbidity analysis. The model is designed to overcome the limitations of purely supervised or unsupervised approaches in this field. M3VAE focuses on identifying latent representations of mixed-type health-related attributes essential for predicting patient survival outcomes. It integrates datasets with multiple modalities (by which we mean data of multiple types), encompassing health measurements, demographic details, and (potentially censored) survival outcomes. A key feature of M3VAE is its ability to reconstruct latent representations that exhibit clustering patterns, thereby revealing important patterns in disease co-occurrence. This functionality provides insights for understanding and predicting health outcomes. The efficacy of M3VAE has been demonstrated through experiments with both synthetic and real-world electronic health record data, showing its capability in identifying interpretable morbidity groupings related to future survival outcomes. The paper is available on &lt;a href=&#34;https://openreview.net/pdf/07ab0f2b2f529cdf9ca9d18dcad51c405ded4732.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenReview&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MLCB 2024</title>
+      <link>https://cwcyau.github.io/post/2024-08-16_mlcb_2024/</link>
+      <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2024-08-16_mlcb_2024/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/gadd&#34;&gt;Charles Gadd&lt;/a&gt; on having his paper accepted at &lt;a href=&#34;https://sites.google.com/cs.washington.edu/mlcb2024/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLCB 2024&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Changes in the number of copies of certain parts of the genome, known as copy number alterations (CNAs), due to somatic mutation processes are a hallmark of many cancers. This genomic complexity is known to be associated with poorer outcomes for patients but describing its contribution in detail has been difficult. Copy number alterations can affect large regions spanning whole chromosomes or the entire genome itself but can also be localised to only small segments of the genome and no methods exist that allow this multi-scale nature to be quantified. In this paper, we address this using Wave-LSTM, a signal decomposition approach designed to capture the multi-scale structure of complex whole genome copy number profiles. Using wavelet-based source separation in combination with deep learning-based attention mechanisms. We show that Wave-LSTM can be used to derive multi-scale representations from copy number profiles which can be used to decipher sub-clonal structures from single-cell copy number data and to improve survival prediction performance from patient tumour profiles.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New paper in Bioinformatics</title>
+      <link>https://cwcyau.github.io/post/2023-12-13_rarity_2023/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2023-12-13_rarity_2023/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/martens&#34;&gt;Kaspar Martens&lt;/a&gt; on having his paper accepted in &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/39/12/btad750/7471872?login=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioinformatics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Cell type identification plays an important role in the analysis and interpretation of single-cell data and can be carried out via supervised or unsupervised clustering approaches. Supervised methods are best suited where we can list all cell types and their respective marker genes a priori, while unsupervised clustering algorithms look for groups of cells with similar expression properties. This property permits the identification of both known and unknown cell populations, making unsupervised methods suitable for discovery. Success is dependent on the relative strength of the expression signature of each group as well as the number of cells. Rare cell types therefore present a particular challenge that is magnified when they are defined by differentially expressing a small number of genes.&lt;/p&gt;
+&lt;p&gt;Typical unsupervised approaches fail to identify such rare subpopulations, and these cells tend to be absorbed into more prevalent cell types. In order to balance these competing demands, we have developed a novel statistical framework for unsupervised clustering, named Rarity, that enables the discovery process for rare cell types to be more robust, consistent, and interpretable. We achieve this by devising a novel clustering method based on a Bayesian latent variable model in which we assign cells to inferred latent binary on/off expression profiles. This lets us achieve increased sensitivity to rare cell populations while also allowing us to control and interpret potential false positive discoveries. We systematically study the challenges associated with rare cell type identification and demonstrate the utility of Rarity on various IMC datasets.&lt;/p&gt;
+&lt;p&gt;Implementation of Rarity together with examples is available from the Github repository (&lt;a href=&#34;https://github.com/kasparmartens/rarity%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/kasparmartens/rarity)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New publication in BMC Bioinformatics</title>
+      <link>https://cwcyau.github.io/post/2023-11-30_picocnv_2023/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2023-11-30_picocnv_2023/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/nulsen&#34;&gt;Joel Nulsen&lt;/a&gt; on having his paper accepted in &lt;a href=&#34;https://link.springer.com/article/10.1186/s12859-023-05576-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BMC Bioinformatics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Genomic insights in settings where tumour sample sizes are limited to just hundreds or even tens of cells hold great clinical potential, but also present significant technical challenges. We previously developed the DigiPico sequencing platform to accurately identify somatic mutations from such samples.&lt;/p&gt;
+&lt;p&gt;Here, we complete this genomic characterisation with copy number. We present a novel protocol, PicoCNV, to call allele-specific somatic copy number alterations from picogram quantities of tumour DNA. We find that PicoCNV provides exactly accurate copy number in 84% of the genome for even the smallest samples, and demonstrate its clinical potential in maintenance therapy.&lt;/p&gt;
+&lt;p&gt;PicoCNV complements our existing platform, allowing for accurate and comprehensive genomic characterisations of cancers in settings where only microscopic samples are available.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MLCB 2023</title>
+      <link>https://cwcyau.github.io/post/2023-08-16_mlcb_2023/</link>
+      <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2023-08-16_mlcb_2023/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/martens&#34;&gt;Kaspar Martens&lt;/a&gt; on having his paper accepted at &lt;a href=&#34;https://sites.google.com/cs.washington.edu/mlcb2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLCB 2023&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Generative models for multimodal data permit the identification of latent factors that may be associated with important determinants of observed data heterogeneity. Common or shared factors could be important for explaining variation across modalities whereas other factors may be private and important only for the explanation of a single modality. Multimodal Variational Autoencoders, such as MVAE and MMVAE, are a natural choice for inferring those underlying latent factors and separating shared variation from private. In this work, we investigate their capability to reliably perform this disentanglement. In particular, wehighlight a challenging problem setting where modality-specific variation dominates the shared signal. Taking a cross-modal prediction perspective, we demonstrate limitations of existing models, and propose a modification how to make them more robust to modalityspecific variation. Our findings are supported by experiments on synthetic as well as various real-world multi-omics data sets. The paper is available on &lt;a href=&#34;https://proceedings.mlr.press/v240/martens24a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PMLR&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ML4H 2022</title>
+      <link>https://cwcyau.github.io/post/2022-12-01_ml4h_2022/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2022-12-01_ml4h_2022/</guid>
+      <description>&lt;p&gt;Congratulations to group members &lt;a href=&#34;../../authors/gadd&#34;&gt;Charles Gadd&lt;/a&gt;, &lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; and &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; on the following papers accepted at &lt;a href=&#34;https://ml4health.github.io/online_proceedings.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ML4H&lt;/a&gt; and &lt;a href=&#34;https://neurips.cc/Conferences/2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeurIPS&lt;/a&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://proceedings.mlr.press/v193/gadd22a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;mmVAE: multimorbidity clustering using Relaxed Bernoulli β-Variational Autoencoders&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://proceedings.mlr.press/v193/kim22a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Feature Allocation Approach for Multimorbidity Trajectory Modelling&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://arxiv.org/abs/2301.08187&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;A Multi-Resolution Framework for U-Nets with Applications to Hierarchical VAEs
+&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Great UK PhD Data Science Survey</title>
+      <link>https://cwcyau.github.io/post/greatphdsurvey/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/greatphdsurvey/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What am I doing?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My name is &lt;a href=&#34;https://www.wrh.ox.ac.uk/team/christoper-yau&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christopher Yau&lt;/a&gt; and I am Professor of Artificial Intelligence at the &lt;a href=&#34;http://www.ox.ac.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Oxford&lt;/a&gt; and &lt;a href=&#34;https://www.hdruk.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Research UK&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am carrying out a &lt;a href=&#34;https://forms.gle/u55swJNChHbaKMMS6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey&lt;/a&gt; of UK PhD students who are working in any area of data science and I need your help! We hope to get survey responses from over 300 PhD students so please help us by sparing 10-15 minutes of your time to answer some questions.&lt;/p&gt;
+&lt;p&gt;Responses received before &lt;strong&gt;15 July 2022&lt;/strong&gt; will be entered into a prize draw for a selection of £30 Amazon eGift cards.&lt;/p&gt;
+&lt;p&gt;After 30 July 2022, data gathered through the survey will be analysed and a written report produced for distribution in September 2022.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why another survey?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The purpose of this survey is to improve our understanding of your motivations for doing a PhD, what you want to and are getting out of it, and where you want to go next. We know the world looks very different for data scientists than when I was doing my PhD so, with many exciting and lucrative opportunities coming from different parts of the ecosystem, what is the purpose of the PhD? What makes it an attractive qualification to have still?&lt;/p&gt;
+&lt;p&gt;We know that the experience of PhD students varies due to several factors but – as data scientists - we need more detailed data to better understand and quantitatively characterise those variations. The survey information that will be collected will help us inform discussions with universities and funders to develop new strategies and approaches for doctoral training in the UK and to cater for changing needs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is the definition of data science being used? Who should take part?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you spend a large part of your research analysing real-world data, building computational models, or developing novel computer algorithms for analysing data then you should complete this survey. It does not matter if you are working on proteins, geology, or plasma physics, if it involves data then please complete this survey. If you largely work on theory and/or simulations relevant to data science but not much with data itself, we are keen to hear from you too.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Are there questions you’ve forgotten?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We tried to include as many questions as possible without making the survey too laborious. There are many issues and topics we could have addressed but we made tough choices to focus on these key areas of interest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why is the last section only on health?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This survey is being conducted in partnership with Health Data Research UK – the national institute for health data research. They have a particular focus on health data science and consequently we have added a few questions on this area of work. However, though the findings will be directly linked to health data science, the responses should reveal insights into how inter-/multi-disciplinary research and career transitions are being supported.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What about stipends and the cost-of-living crisis?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are deeply aware that UK PhD students are struggling with the current cost-of-living crisis and the impact of the real terms reduction in spending power offered by typical studentship stipends. We are not able to affect the decisions that must be taken by funders to address these issues but we hope that the survey information could shed light on some of the wider challenges faced by students in addition to financial support.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why only UK?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We would love to conduct a global survey but academic systems across the globe work quite differently and, as UK-based researchers working in the UK, it seems fitting that we would explore the nation in which we live.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What will you do with the data?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We will use the survey data to generate a report detailing our survey findings by September 2022. This will be disseminated publicly. All surveys are collected anonymously except where individuals choose to provide their name and e-mail address to be entered for the prize draw. Names and e-mail addresses submitted will only be used for this purpose and will not be shared for the analysis of the main survey data or for distribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New report: My Cancer &amp; AI</title>
+      <link>https://cwcyau.github.io/post/mycancerai/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/mycancerai/</guid>
+      <description>&lt;p&gt;A report on a patient engagement workshop series on what cancer patients think about artificial intelligence is now available.&lt;/p&gt;
+&lt;p&gt;The workshop series was developed in partnership with &lt;a href=&#34;https://ovarian.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Action&lt;/a&gt; (OCA) as part of my Turing AI Fellowship.&lt;/p&gt;
+&lt;p&gt;I am grateful to patients and OCA for their support in developing this work and its impact on my future research plans.&lt;/p&gt;
+&lt;p&gt;The report is available to download from &lt;a href=&#34;https://github.com/cwcyau/turingaifellowship/blob/c38556ef96768a3b83744ea7c9eabe3290ffc623/mycancerai.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AISTATS 2022</title>
+      <link>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</guid>
+      <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper &lt;a href=&#34;http://aistats.org/aistats2022/accepted.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis&lt;/a&gt; has been accepted for presentation at &lt;a href=&#34;http://aistats.org/aistats2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2022&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NeurIPS 2021 Success - Multi-Facet Clustering Variational Autoencoders</title>
+      <link>https://cwcyau.github.io/post/2021-12-07_mfcvae/</link>
+      <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-12-07_mfcvae/</guid>
+      <description>&lt;p&gt;Christopher Yau has supported Health Data Research UK (HDRUK) PhD students Fabian Falck and Haoting Zhang in the development of work that has now been published as a paper at the NeurIPS 2021 conference. The work entitled &lt;a href=&#34;https://proceedings.neurips.cc/paper/2021/hash/48cb136b65a69e8c2aa22913a0d91b2f-Abstract.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Facet Clustering Variational Autoencoders&lt;/a&gt; is a novel class of variational autoencoders with a hierarchy of latent variables, each with a Mixture-of-Gaussians prior, that learns multiple clusterings simultaneously, and is trained fully unsupervised and end-to-end. Chris, who directs the HDRUK PhD programme, writes about the work of the students in this &lt;a href=&#34;https://www.hdruk.ac.uk/news/the-different-facets-of-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Artificial Intelligence Webinar - Ovarian Cancer Action UK</title>
+      <link>https://cwcyau.github.io/post/2021-11-10_oca_video/</link>
+      <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-11-10_oca_video/</guid>
+      <description>&lt;p&gt;Recently &lt;a href=&#34;../../authors/admin&#34;&gt;Christopher Yau&lt;/a&gt; worked with &lt;a href=&#34;https://ovarian.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Action UK&lt;/a&gt; to put together a webinar on his research for patients and the public. You can find the video on Youtube: &lt;a href=&#34;https://www.youtube.com/watch?v=kQ8m4L15GYM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;What is artificial intelligence and what does it mean for cancer research?&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multiple postdoctoral research positions available</title>
+      <link>https://cwcyau.github.io/post/2021-08-01_postdocs/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-08-01_postdocs/</guid>
+      <description>&lt;p&gt;We have 4-5 two/three-year postdoctoral positions available linked to the following projects:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../../project/turingai&#34;&gt;Turing AI Fellowship&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../../project/optimal&#34;&gt;OPTIMAL&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../../project/mumpredict&#34;&gt;MuM-PreDICT&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;../../project/roche-antibody&#34;&gt;Roche RPF&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Suitable applicants should either have experience in developing statistical and/or machine learning methods or a background in mathematics and computational science that would enable them to learn relevant research approaches.&lt;/p&gt;
+&lt;p&gt;Interested applicants are advised to examine recent group publications and projects to understand the research methods that have been adopted within the group.&lt;/p&gt;
+&lt;p&gt;There will be substantial opportunities to develop your individual research profile, leadership capabilities and link to a range of academic, clinical and industry partners.&lt;/p&gt;
+&lt;p&gt;All enquiries about vacancies should be addressed to the &lt;a href=&#34;../../authors/admin&#34;&gt;Group Leader&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MuM-Predict</title>
+      <link>https://cwcyau.github.io/event/mumpredict/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/event/mumpredict/</guid>
+      <description>&lt;p&gt;The MuM-PreDiCT project has been successful in the funding call from the Strategic Priorities Fund (SPF): Tackling multimorbidity at scale: Understanding disease clusters, determinants &amp;amp; biological pathways.&lt;/p&gt;
+&lt;p&gt;This Strategic Priorities Fund (SPF) initiative, is jointly funded by the UKRI – MRC and the Department of Health and Social Care (DHSC), through the National Institute for Health Research (NIHR).&lt;/p&gt;
+&lt;p&gt;The project will study and improve maternity care for women who are also managing two or more long-term health conditions. These can be both physical conditions, such as diabetes and raised blood pressure, and mental health conditions such as depression and anxiety.&lt;/p&gt;
+&lt;p&gt;Our research team will develop statistical machine learning methods to analyse electronic health records from across all four nations comprising the UK. We will find out how many women have two or more long-term health conditions that presented before pregnancy and what health conditions they have. We will try and identify if factors such as age, weight, cultural or social background, level of education and number of previous pregnancies influences this. We will also find out which health conditions group together (cluster) during pregnancy, which clusters are most common and whether some clusters affect some women more than others.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OPTIMAL</title>
+      <link>https://cwcyau.github.io/event/optimal/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/event/optimal/</guid>
+      <description>&lt;p&gt;The OPTIMAL study is three-year study funded by the &lt;a href=&#34;https://www.nihr.ac.uk/documents/artificial-intelligence-for-multiple-long-term-conditions-aim-programme-research-collaboration-stage-2-minutes/27578s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIHR AI for Multimorbidity&lt;/a&gt; and is a collaboration with the Universities of Birmingham and St Andrews with CPRD and University Hospitals Birmingham.&lt;/p&gt;
+&lt;p&gt;In this study our group will develop novel artificial intelligence technologies to study electronic health records of individuals with two or more conditions known as &amp;ldquo;complex multimorbidity&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;Our aim is to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Find the mix of diseases and drug treatments that interact over time to worsen or improve a patient’s health.&lt;/li&gt;
+&lt;li&gt;Predict the next disease that people might develop.&lt;/li&gt;
+&lt;li&gt;Find drugs that help more than one disease.&lt;/li&gt;
+&lt;li&gt;Work with patients, the public and health professionals to produce computer programs to help doctors improve the choice of drugs in patients with cMM.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICML 2021</title>
+      <link>https://cwcyau.github.io/post/2021-07-18_icml_2021/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-07-18_icml_2021/</guid>
+      <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper &lt;a href=&#34;http://proceedings.mlr.press/v139/danks21a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders&lt;/a&gt;. has been accepted for presentation at the International Conference for Machine Learning 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Roche ML for Antibody Design</title>
+      <link>https://cwcyau.github.io/event/roche-antibody/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/event/roche-antibody/</guid>
+      <description>&lt;p&gt;In a new two-year collaboration with Roche, the group will be supporting a Roche Postdoctoral Fellowship in the development of antibodies. We will make use of Roche&amp;rsquo;s existing antibody data to develop machine-learning models generating sequences of antibodies with desired biophysical properties. Our aims are to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Develop machine learning models that ingest in-house antibody engineering data on antibodies to generate novel sequences with increased likelihood of desired biophysical properties,&lt;/li&gt;
+&lt;li&gt;Iteratively apply methods to antibody datasets,&lt;/li&gt;
+&lt;li&gt;Collaborate with experimental teams to select and test model-generated candidate sequences in the wet lab,&lt;/li&gt;
+&lt;li&gt;Embed machine learning models in discovery processes.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New study in American Journal of Drug Alcohol Abuse</title>
+      <link>https://cwcyau.github.io/post/2021-01-11_opioid/</link>
+      <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-01-11_opioid/</guid>
+      <description>&lt;p&gt;Increasing rates of opioid-related overdose have been identified globally. Treatment for opioid use disorders (OUD) includes medications for opioid use disorder (MOUD) alongside behavioral support. In this study we use statistical analysis and machine learning to show that the Breaking Free Online program may reduce opioid use and improve biopsychosocial functioning in individuals with OUD.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33428458/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to paper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turing AI Acceleration Fellowship</title>
+      <link>https://cwcyau.github.io/event/turingai/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/event/turingai/</guid>
+      <description>&lt;p&gt;We aim to develop novel AI-driven predictive models that will allow us to describe how cancers evolve at the molecular level.&lt;/p&gt;
+&lt;p&gt;We aim to exploit the fact that cancers, whilst never exactly identical, often share similar development trajectories which we can learn about by collating information from across deep high-resolution molecular profiles of many cancers.&lt;/p&gt;
+&lt;p&gt;By embedding our extensive biological knowledge of cancer within AI models, we will develop intelligent systems that will produce predictions that are more realistic, interpretable and better explain the progression of cancers.&lt;/p&gt;
+&lt;p&gt;This will help to improve the efficiency of drug development, decisions on treatment and to provide patients with more information about their illness.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Lead Investigator:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/admin/&#34;&gt;Christopher Yau&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turing AI Acceleration Fellowship</title>
+      <link>https://cwcyau.github.io/post/2020-11-27_turingai/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-11-27_turingai/</guid>
+      <description>&lt;p&gt;Christopher Yau has been awarded a 5-year Turing AI Acceleration Fellowship.&lt;/p&gt;
+&lt;p&gt;The Turing AI Acceleration Fellowships are part of the government’s AI sector deal investment in Turing AI fellowships, recommended by the independent 2017 UK AI Review, whose report ‘Growing the artificial intelligence industry in the UK,’ was co-authored by Reguis Professor of Computer Science at Southampton, Dame Wendy Hall, and Jérôme Pesenti, now Vice President of AI at Facebook.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.gov.uk/government/news/20-million-boost-for-world-class-ai-research-could-transform-cancer-treatment-and-save-lives&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UK Government Press Release: &amp;ldquo;£20 million boost for world class AI research could transform cancer treatment and save lives&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.ukri.org/news/new-turing-ai-fellows-to-deliver-world-class-ai-research/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UKRI Press Release: &amp;ldquo;New Turing AI fellows to deliver world-class AI research&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.bbc.co.uk/news/science-environment-55099620&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BBC: &amp;ldquo;AI &amp;lsquo;doctor&amp;rsquo;s assistant&amp;rsquo; among projects given £20m&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Setting guidelines to report the use of AI in clinical trials </title>
+      <link>https://cwcyau.github.io/post/2020-09-09_consortai/</link>
+      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-09-09_consortai/</guid>
+      <description>&lt;p&gt;The CONSORT-AI and SPIRIT-AI Steering Groups (including Christopher Yau) have published their guidelines for conducting and reporting on clinical trials for AI interventions.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s41591-020-1069-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting guidelines to report the use of AI in clinical trials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Postdoc Opportunity with HDRUK</title>
+      <link>https://cwcyau.github.io/post/2020-07-02_hdruk_mo/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-07-02_hdruk_mo/</guid>
+      <description>&lt;p&gt;A new postdoc opportunity with myself and Dr Mike Inouye is available based in Cambridge:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.jobs.cam.ac.uk/job/26181/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Research UK (HDRUK) Multi-omics Consortium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AISTATS 2020</title>
+      <link>https://cwcyau.github.io/post/2020-01-17_kaspar/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-01-17_kaspar/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/kaspar&#34;&gt;Kaspar Martens&lt;/a&gt; who has had two papers accepted into &lt;a href=&#34;https://www.aistats.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2020&lt;/a&gt;. Papers to be published soon.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICML 2019 SUCCESS!</title>
+      <link>https://cwcyau.github.io/post/2019-07-01_icml/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2019-07-01_icml/</guid>
+      <description>&lt;p&gt;A paper by Kaspar Martens and group alumni Kieran Campbell Covariate GPLVM has been accepted for presentation at the International Conference on Machine Learning.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Convolutional filtering for mutation signatures</title>
+      <link>https://cwcyau.github.io/event/convsig/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/event/convsig/</guid>
+      <description>&lt;p&gt;Mutation signatures are the hallmarks of mutagenic processes in cancer that can provide clues about the biochemical mechanisms by which DNA is altered in cancer. The extraction of such signatures from next generation sequencing data has traditionally been formulated as an unsupervised learning problem and solved using non-negative matrix factorization. We present an entirely novel approach based on convolutional filtering, inspired by technologies used in computer vision and image processing for genomic data analysis. We show that our approach has state-of-the-art performance compared to standard methods but also generalizes to allow consideration of larger sequence contexts using deep layering of convolutional networks providing a tool that could potentially reveal the impact of high-level genome structure on mutational density.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/feng/&#34;&gt;Yun Feng&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multi-Omics Network inference</title>
+      <link>https://cwcyau.github.io/event/monet/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/event/monet/</guid>
+      <description>&lt;p&gt;Dynamic alterations in gene expression programs during cell differentiation are regulated by the interplay of ubiquitous and tissue-specific transcription factors, and the epigenetic regulatory machinery. A mechanistic understanding can be postulated based on time-course multi-omics genome-wide measurements.&lt;/p&gt;
+&lt;p&gt;We developed a novel Bayesian nonparametric regression approach called &lt;strong&gt;M&lt;/strong&gt;ulti-&lt;strong&gt;O&lt;/strong&gt;mics &lt;strong&gt;NET&lt;/strong&gt;work inference (MONET) for high-dimensionality multi-modal data integration to quantify the temporally dependent forces driving development and investigate by perturbation effects. Sparsity-inducing priors regularise the TF-gene interaction network and a Dirichlet process prior to regulate the number of participating TFs. This gives rise to a Bayesian nonparametric model where the number of TFs are learnt from data and not specified a priori. Statistical inference is performed in a Bayesian setting using an implementation of Hamiltonian Monte Carlo (HMC)-derived No-U Turn Sampler (NUTS) in STAN.&lt;/p&gt;
+&lt;p&gt;We show that MONET is able to extract accurate time-dependent TF-gene interaction networks and assess the importance of each TF for the different stages in haematopoietic development. Our model allows us to make predictions on the importance of specific TF over time and under different perturbation settings. Based on this we can create hypotheses for intervention to improve efficiency or halt development.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/rana/&#34;&gt;Anas Rana&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neural Decomposition</title>
+      <link>https://cwcyau.github.io/event/neural-decomp/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/event/neural-decomp/</guid>
+      <description>&lt;p&gt;Neural network models for dimensionality reduction, such as Variational AutoEncoders (VAEs), can identify latent low-dimensional structures embedded within high-dimensional data. These low-dimensional representations can provide some insight into patterns within datasets but their interpretation relies on how these map back on the original feature set. However the latter requires interpreting what the decoder network has learnt which makes it challenging.&lt;/p&gt;
+&lt;p&gt;In this project, we have focused on understanding the sources of variation in Conditional VAEs. Our goal is to &lt;em&gt;decompose&lt;/em&gt; the feature-level variation in high-dimensional data through disentanglement of additive and interactions effects of latent variables and fixed inputs. We propose to achieve this through the &lt;em&gt;Neural Decomposition&lt;/em&gt; - an adaptation of the well-known concept of variance decomposition from classical statistics to deep learning models. We show that &lt;em&gt;identifiable&lt;/em&gt; Neural Decomposition relies on training models subject to constraints on the marginal properties of the neural networks whilst naive implementations will lead to non-identifiable models.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/kaspar/&#34;&gt;Kaspar Maertens&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RLevolution</title>
+      <link>https://cwcyau.github.io/event/rlevolution/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/event/rlevolution/</guid>
+      <description>&lt;p&gt;Genomic copy number evolution in cancer refers to the acquisition or loss of genome segments over time due to mutational processes in cancer that result in the loss of biological mechanisms for the maintenance of genome integrity in cells. Genome sequencing can allow us to detect these copy number alterations in cancer cells but do not directly inform us what the sequence of evolutionary events was that led to the present state of the cancer. We have developed a novel, first-of-its-kind reinforcement learning based approach for inferring evolutionary trajectories from genomic copy number profiles which we call \RLEvolution. We show that \RLEvolution is able to deconvolve the sequence of complex events that may occur during cancer evolution using a combination of simulated and real-world cancer datasets.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/feng/&#34;&gt;Yun Feng&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Automatic BioData Scientist</title>
+      <link>https://cwcyau.github.io/event/neural-odes/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/event/neural-odes/</guid>
+      <description>&lt;p&gt;Mathematical models of disease evolution seek to specify the complex mechanistic relationships between many measurable quantities over space and time. However, as our capability to generate experimental data improves, our ability to conceive of appropriate mathematical descriptions to describe biological phenomena has become a bottleneck.&lt;/p&gt;
+&lt;p&gt;The goal of machine learning is to “learn” complex dependencies automatically within data sets.  Neural networks (NNs) have been at the forefront of recent advances by offering a means of parametrising complex functional mapping between data and its representations.&lt;/p&gt;
+&lt;p&gt;Novel computational machinery have enabled NN approaches to scale to the analysis of unprecedently large datasets and provide versatility over standard modelling approaches. However, despite their successes in a range of applications, in biomedical research, NNs are often derided for their “black box” discoveries, lack of interpretability and the need for unrealistic quantities of training data. Such criticisms often overlook the fact that default NN structures express no explicit assumptions about the problems on which they are applied and they are often used as generic data mining devices for discovery purposes.&lt;/p&gt;
+&lt;p&gt;Nonetheless, there is a clear opportunity for the development of novel NN approaches that combine scalability and versatility with the capability of learning the physically realistic constraints that are embedded in hand-crafted mathematical models.&lt;/p&gt;
+&lt;p&gt;This project seeks to investigate the methodological foundations for what could form an &lt;em&gt;Automated BioData Scientist&lt;/em&gt; (AutoBioDataSci) platform. We would like to develop learning algorithms that can capture biological laws and encapsulate them in such a way that such knowledge can be transfer to new problems. This major project involves inter-linking representation learning theory with transfer and meta-learning as well as having its roots embedded in the biological scientific discovery process.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Researchers:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/danks/&#34;&gt;Dominic Danks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/kaspar/&#34;&gt;Kaspar Maertens&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

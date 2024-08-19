@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>An-Wen Chan | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/an-wen-chan/</link>
+      <atom:link href="https://cwcyau.github.io/author/an-wen-chan/index.xml" rel="self" type="application/rss+xml" />
+    <description>An-Wen Chan</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>An-Wen Chan</title>
+      <link>https://cwcyau.github.io/author/an-wen-chan/</link>
+    </image>
+    
+    <item>
+      <title>Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension</title>
+      <link>https://cwcyau.github.io/publication/rivera-2020-guidelines/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rivera-2020-guidelines/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension</title>
+      <link>https://cwcyau.github.io/publication/liu-2020-reporting/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/liu-2020-reporting/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

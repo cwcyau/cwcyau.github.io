@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ara Darzi | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/ara-darzi/</link>
+      <atom:link href="https://cwcyau.github.io/author/ara-darzi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ara Darzi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Ara Darzi</title>
+      <link>https://cwcyau.github.io/author/ara-darzi/</link>
+    </image>
+    
+    <item>
+      <title>Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension</title>
+      <link>https://cwcyau.github.io/publication/rivera-2020-guidelines/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rivera-2020-guidelines/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phd | Yau Research Group</title>
+    <link>https://cwcyau.github.io/category/phd/</link>
+      <atom:link href="https://cwcyau.github.io/category/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>Phd</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Phd</title>
+      <link>https://cwcyau.github.io/category/phd/</link>
+    </image>
+    
+    <item>
+      <title>The Great UK PhD Data Science Survey</title>
+      <link>https://cwcyau.github.io/post/greatphdsurvey/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/greatphdsurvey/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;What am I doing?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My name is &lt;a href=&#34;https://www.wrh.ox.ac.uk/team/christoper-yau&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christopher Yau&lt;/a&gt; and I am Professor of Artificial Intelligence at the &lt;a href=&#34;http://www.ox.ac.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Oxford&lt;/a&gt; and &lt;a href=&#34;https://www.hdruk.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Research UK&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am carrying out a &lt;a href=&#34;https://forms.gle/u55swJNChHbaKMMS6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey&lt;/a&gt; of UK PhD students who are working in any area of data science and I need your help! We hope to get survey responses from over 300 PhD students so please help us by sparing 10-15 minutes of your time to answer some questions.&lt;/p&gt;
+&lt;p&gt;Responses received before &lt;strong&gt;15 July 2022&lt;/strong&gt; will be entered into a prize draw for a selection of £30 Amazon eGift cards.&lt;/p&gt;
+&lt;p&gt;After 30 July 2022, data gathered through the survey will be analysed and a written report produced for distribution in September 2022.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why another survey?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The purpose of this survey is to improve our understanding of your motivations for doing a PhD, what you want to and are getting out of it, and where you want to go next. We know the world looks very different for data scientists than when I was doing my PhD so, with many exciting and lucrative opportunities coming from different parts of the ecosystem, what is the purpose of the PhD? What makes it an attractive qualification to have still?&lt;/p&gt;
+&lt;p&gt;We know that the experience of PhD students varies due to several factors but – as data scientists - we need more detailed data to better understand and quantitatively characterise those variations. The survey information that will be collected will help us inform discussions with universities and funders to develop new strategies and approaches for doctoral training in the UK and to cater for changing needs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is the definition of data science being used? Who should take part?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;If you spend a large part of your research analysing real-world data, building computational models, or developing novel computer algorithms for analysing data then you should complete this survey. It does not matter if you are working on proteins, geology, or plasma physics, if it involves data then please complete this survey. If you largely work on theory and/or simulations relevant to data science but not much with data itself, we are keen to hear from you too.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Are there questions you’ve forgotten?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We tried to include as many questions as possible without making the survey too laborious. There are many issues and topics we could have addressed but we made tough choices to focus on these key areas of interest.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why is the last section only on health?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;This survey is being conducted in partnership with Health Data Research UK – the national institute for health data research. They have a particular focus on health data science and consequently we have added a few questions on this area of work. However, though the findings will be directly linked to health data science, the responses should reveal insights into how inter-/multi-disciplinary research and career transitions are being supported.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What about stipends and the cost-of-living crisis?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are deeply aware that UK PhD students are struggling with the current cost-of-living crisis and the impact of the real terms reduction in spending power offered by typical studentship stipends. We are not able to affect the decisions that must be taken by funders to address these issues but we hope that the survey information could shed light on some of the wider challenges faced by students in addition to financial support.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why only UK?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We would love to conduct a global survey but academic systems across the globe work quite differently and, as UK-based researchers working in the UK, it seems fitting that we would explore the nation in which we live.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What will you do with the data?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We will use the survey data to generate a report detailing our survey findings by September 2022. This will be disseminated publicly. All surveys are collected anonymously except where individuals choose to provide their name and e-mail address to be entered for the prize draw. Names and e-mail addresses submitted will only be used for this purpose and will not be shared for the analysis of the main survey data or for distribution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AISTATS 2022</title>
+      <link>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</guid>
+      <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper &lt;a href=&#34;http://aistats.org/aistats2022/accepted.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis&lt;/a&gt; has been accepted for presentation at &lt;a href=&#34;http://aistats.org/aistats2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2022&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Group relocation to Oxford.</title>
+      <link>https://cwcyau.github.io/post/2021-12-22_oxford/</link>
+      <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-12-22_oxford/</guid>
+      <description>&lt;p&gt;Christopher Yau will be relocating to the &lt;a href=&#34;https://www.bdi.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Big Data Institute&lt;/a&gt; at the University of Oxford in February 2022 to take up a position as Senior Research Fellow between the &lt;a href=&#34;https://www.wrh.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Women&amp;rsquo;s and Reproductive Health&lt;/a&gt; and the &lt;a href=&#34;https://www.ndph.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuffield Department of Population Health&lt;/a&gt;. Future recruitment to the group for postdocs and students will be via the University of Oxford.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ICML 2021</title>
+      <link>https://cwcyau.github.io/post/2021-07-18_icml_2021/</link>
+      <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-07-18_icml_2021/</guid>
+      <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper &lt;a href=&#34;http://proceedings.mlr.press/v139/danks21a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders&lt;/a&gt;. has been accepted for presentation at the International Conference for Machine Learning 2021.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ECOSTAT &amp; ISBA 2021</title>
+      <link>https://cwcyau.github.io/post/2021-06-26_isba_2021/</link>
+      <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-06-26_isba_2021/</guid>
+      <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; whose will presenting his work on &amp;ldquo;Learning multimorbidity and its temporal dynamics with the Wright-Fisher Indian Buffet Processs&amp;rdquo; at the &lt;a href=&#34;http://www.cmstatistics.org/EcoSta2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EcoStat 2021&lt;/a&gt; and the &lt;a href=&#34;https://events.stat.uconn.edu/ISBA2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Society for Bayesian Analysis World Meeting 2021&lt;/a&gt; conferences.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Opportunities 2021/22</title>
+      <link>https://cwcyau.github.io/post/2021-04-23_epsrc_dtp_2021/</link>
+      <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-04-23_epsrc_dtp_2021/</guid>
+      <description>&lt;p&gt;A new PhD projects is being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by &lt;strong&gt;21 May 2021&lt;/strong&gt; for the EPSRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[Explainable AI for Multimodal Data Integration in Biomedical Applications](&lt;a href=&#34;https://www.findaphd.com/phds/project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.findaphd.com/phds/project/&lt;/a&gt;
+&lt;a href=&#34;https://www.findaphd.com/phds/project/epsrc-dtp-explainable-ai-for-multimodal-data-integration-in-biomedical-applications/?p122456%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.findaphd.com/phds/project/epsrc-dtp-explainable-ai-for-multimodal-data-integration-in-biomedical-applications/?p122456)&lt;/a&gt;. Deadline: 21 May 2021.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HDRUK PhD Director</title>
+      <link>https://cwcyau.github.io/post/2021-04-01_hdruk_director/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2021-04-01_hdruk_director/</guid>
+      <description>&lt;p&gt;Health Data Research UK is pleased to announce the appointment of Professor Christopher Yau as Director of its HDRUK-Turing Wellcome PhD Programme in Health Data Science, starting 1 April 2021. (&lt;a href=&#34;https://www.hdruk.ac.uk/news/christopher-yau-appointed-director-of-health-data-research-uk-turing-wellcome-phd-programme/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.hdruk.ac.uk/news/christopher-yau-appointed-director-of-health-data-research-uk-turing-wellcome-phd-programme/)&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Opportunities 2021/22</title>
+      <link>https://cwcyau.github.io/post/2020-10-22_mrc_dtp_2021/</link>
+      <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-10-22_mrc_dtp_2021/</guid>
+      <description>&lt;p&gt;Two new PhD projects are being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by &lt;strong&gt;15 November 2020&lt;/strong&gt; for the MRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.findaphd.com/phds/project/mrc-case-breaking-free-with-artificial-intelligence-using-data-driven-insights-to-improve-digital-health-support-for-substance-use-disorders/?p125142&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders&lt;/a&gt;. Deadline: 15 November 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.findaphd.com/phds/project/mrc-dtp-ai-scbio-artificial-intelligence-for-single-cell-biology/?p122456&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AI-scBio: Artificial Intelligence for Single Cell Biology&lt;/a&gt;. Deadline: 15 November 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are also opportunities in which I am co-supervisor:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.findaphd.com/phds/project/mrc-dtp-genomic-drivers-and-mechanisms-of-colorectal-peritoneal-metastasis-formation/?p125088&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genomic drivers and mechanisms of colorectal peritoneal metastasis formation&lt;/a&gt;. Deadline: 15 November 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.kcl.ac.uk/health/study/studentships/div-studentships/cancer/cruk-khp-phd-studentships-21&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CRUK KHP PhD studentships (based at Kings College London)&lt;/a&gt;. Deadline: 1 December 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.hdruk.ac.uk/become-a-health-data-scientist/phd-programme/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;HDRUK Wellcome PhD Programme in Health Data Science&lt;/a&gt;. Deadline: 1 December 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Opportunities 2020/21</title>
+      <link>https://cwcyau.github.io/post/2020-06-24_mrc_case_2020/</link>
+      <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-06-24_mrc_case_2020/</guid>
+      <description>&lt;p&gt;A new funded PhD opportunity for UK/EU students is available to join my group for the academic year 2020/21:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.findaphd.com/phds/project/mrc-case-breaking-free-with-artificial-intelligence-using-data-driven-insights-to-improve-digital-health-support-for-substance-use-disorders/?p122456&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PhD Opportunities 2020/21</title>
+      <link>https://cwcyau.github.io/post/2020-03-26_phd/</link>
+      <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2020-03-26_phd/</guid>
+      <description>&lt;p&gt;There are two new funded PhD opportunities for UK/EU students available to join my group for the academic year 2020/21:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.findaphd.com/phds/project/epsrc-dtp-explainable-ai-for-multimodal-data-integration-in-biomedical-applications/?p120593&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explainable AI for Multimodal Data Integration in Biomedical Applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This project will seek to develop explainable probabilistic machine learning methods for multimodal data integration for biomedical applications. We will consider a number of theoretical and practical issues with data integration and explainable AI and develop robust statistically sound solutions to these research problems.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://drive-health.org/apply/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-omics data integration for patient stratification in cancer clinical trials&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This project aims to integrate these different types of data to derive correlative maps of the dynamic interplay in space and time between immune and tumour heterogeneity. The resulting molecular maps will then be associated with patient clinical data and response to treatment allowing to (1) identify key molecular players of resistance, reveal mechanistic insights and develop biomarkers of response and (2) inform strategies based on these biomarkers to prevent the onset of resistance and convert cold tumours into hot tumours responsive to immunotherapy.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HDRUK-Turing PhD programme</title>
+      <link>https://cwcyau.github.io/post/2019-09-12_hdruk/</link>
+      <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2019-09-12_hdruk/</guid>
+      <description>&lt;p&gt;The Wellcome Trust have funded a new HDRUK-Turing Wellcome PhD programme in Health Data Science which will be jointly directed by Christopher Yau. Applications for entry October 2020 coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

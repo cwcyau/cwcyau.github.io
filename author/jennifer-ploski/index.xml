@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jennifer Ploski | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/jennifer-ploski/</link>
+      <atom:link href="https://cwcyau.github.io/author/jennifer-ploski/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jennifer Ploski</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Jennifer Ploski</title>
+      <link>https://cwcyau.github.io/author/jennifer-ploski/</link>
+    </image>
+    
+    <item>
+      <title>The Oxford classic links epithelial-to-mesenchymal transition to immunosuppression in poor prognosis ovarian cancers</title>
+      <link>https://cwcyau.github.io/publication/hu-2021-oxford/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/hu-2021-oxford/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

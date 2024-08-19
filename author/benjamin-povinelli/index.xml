@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Benjamin Povinelli | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/benjamin-povinelli/</link>
+      <atom:link href="https://cwcyau.github.io/author/benjamin-povinelli/index.xml" rel="self" type="application/rss+xml" />
+    <description>Benjamin Povinelli</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Benjamin Povinelli</title>
+      <link>https://cwcyau.github.io/author/benjamin-povinelli/</link>
+    </image>
+    
+    <item>
+      <title>Integrated single cell analysis reveals cell cycle and ontogeny related transcriptional heterogeneity in HSCs</title>
+      <link>https://cwcyau.github.io/publication/povinelli-2018-integrated/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/povinelli-2018-integrated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unravelling cell cycle and ontogeny transcriptional heterogeneity in hematopoietic stem cells through integrated single cell RNA-seq</title>
+      <link>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

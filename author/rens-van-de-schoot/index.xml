@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rens Van De Schoot | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/rens-van-de-schoot/</link>
+      <atom:link href="https://cwcyau.github.io/author/rens-van-de-schoot/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rens Van De Schoot</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Rens Van De Schoot</title>
+      <link>https://cwcyau.github.io/author/rens-van-de-schoot/</link>
+    </image>
+    
+    <item>
+      <title>Bayesian statistics and modelling</title>
+      <link>https://cwcyau.github.io/publication/van-2021-bayesian/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/van-2021-bayesian/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

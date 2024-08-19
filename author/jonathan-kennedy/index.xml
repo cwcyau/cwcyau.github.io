@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Kennedy | Yau Research Group</title>
+    <link>http://localhost:1313/author/jonathan-kennedy/</link>
+      <atom:link href="http://localhost:1313/author/jonathan-kennedy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Kennedy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Aug 2024 17:10:55 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <title>Jonathan Kennedy</title>
+      <link>http://localhost:1313/author/jonathan-kennedy/</link>
+    </image>
+    
+    <item>
+      <title>Multiple Long-Term Conditions, Clusters and Miscarriage Outcome in Pregnancy: A Population-Based Cross-Sectional Study in the UK</title>
+      <link>http://localhost:1313/publication/gaddmultiple/</link>
+      <pubDate>Thu, 08 Aug 2024 17:10:55 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gaddmultiple/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yun Feng | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/yun-feng/</link>
+      <atom:link href="https://cwcyau.github.io/author/yun-feng/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yun Feng</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cwcyau.github.io/author/yun-feng/avatar_hu8643674868941444127.jpg</url>
+      <title>Yun Feng</title>
+      <link>https://cwcyau.github.io/author/yun-feng/</link>
+    </image>
+    
+  </channel>
+</rss>

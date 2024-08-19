@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Charu Deshpande | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/charu-deshpande/</link>
+      <atom:link href="https://cwcyau.github.io/author/charu-deshpande/index.xml" rel="self" type="application/rss+xml" />
+    <description>Charu Deshpande</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <title>Charu Deshpande</title>
+      <link>https://cwcyau.github.io/author/charu-deshpande/</link>
+    </image>
+    
+    <item>
+      <title>Defective tubulin detyrosination causes structural brain abnormalities with cognitive deficiency in humans and mice</title>
+      <link>https://cwcyau.github.io/publication/pagnamenta-2019-defective/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/pagnamenta-2019-defective/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
