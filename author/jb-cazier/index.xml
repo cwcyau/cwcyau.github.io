@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JB Cazier | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/jb-cazier/</link>
+      <atom:link href="https://cwcyau.github.io/author/jb-cazier/index.xml" rel="self" type="application/rss+xml" />
+    <description>JB Cazier</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>JB Cazier</title>
+      <link>https://cwcyau.github.io/author/jb-cazier/</link>
+    </image>
+    
+    <item>
+      <title>Somatic copy number alterations in a defined ethnic cohort with a high frequency of early-onset colorectal cancer: 463</title>
+      <link>https://cwcyau.github.io/publication/sengupta-2011-somatic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/sengupta-2011-somatic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Gareth O Roberts | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/gareth-o-roberts/</link>
-      <atom:link href="https://cwcyau.github.io/author/gareth-o-roberts/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/gareth-o-roberts/</link>
+      <atom:link href="http://localhost:1313/author/gareth-o-roberts/index.xml" rel="self" type="application/rss+xml" />
     <description>Gareth O Roberts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Gareth O Roberts</title>
-      <link>https://cwcyau.github.io/author/gareth-o-roberts/</link>
+      <link>http://localhost:1313/author/gareth-o-roberts/</link>
     </image>
     
     <item>
       <title>Bayesian nonparametric hidden Markov models with application to the analysis of copy-number-variation in mammalian genomes</title>
-      <link>https://cwcyau.github.io/publication/yau-2009-bayesian/</link>
+      <link>http://localhost:1313/publication/yau-2009-bayesian/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/yau-2009-bayesian/</guid>
+      <guid>http://localhost:1313/publication/yau-2009-bayesian/</guid>
       <description></description>
     </item>
     

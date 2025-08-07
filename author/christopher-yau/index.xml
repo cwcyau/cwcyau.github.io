@@ -5,12 +5,76 @@
     <link>https://cwcyau.github.io/author/christopher-yau/</link>
       <atom:link href="https://cwcyau.github.io/author/christopher-yau/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Yau</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Christopher Yau</title>
       <link>https://cwcyau.github.io/author/christopher-yau/</link>
     </image>
+    
+    <item>
+      <title>A Transformer-based survival model for prediction of all-cause mortality in heart failure patients: a multi-cohort study</title>
+      <link>https://cwcyau.github.io/publication/rao-2025-transformer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2025-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>araCNA: Somatic copy number profiling using long-range sequence models</title>
+      <link>https://cwcyau.github.io/publication/visscher-2025-aracna/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/visscher-2025-aracna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual learning via probabilistic exchangeable sequence modelling</title>
+      <link>https://cwcyau.github.io/publication/xing-2025-continual/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/xing-2025-continual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eP117 The Accuracy of Clinical Coding in Electronic Patient Records Systems in Emergency General Surgery</title>
+      <link>https://cwcyau.github.io/publication/yasmin-2025-ep-117/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/yasmin-2025-ep-117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPerturb: Gaussian process modelling of single-cell perturbation data</title>
+      <link>https://cwcyau.github.io/publication/xing-2025-gperturb/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/xing-2025-gperturb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O1 Using Machine Learning to predict the Severity of Acute Pancreatitis: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/nadeem-2025-o-1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/nadeem-2025-o-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
+      <link>https://cwcyau.github.io/publication/rao-2025-refined/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2025-refined/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STATE-SPACE-LIKE MODELS TO CALL COPY NUMBERS</title>
+      <link>https://cwcyau.github.io/publication/visscher-2025-state/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/visscher-2025-state/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Association between pregnancy-related complications and development of type 2 diabetes and hypertension in women: an umbrella review</title>
@@ -29,10 +93,42 @@
     </item>
     
     <item>
+      <title>Completing a genomic characterisation of microscopic tumour samples with copy number (vol 24, 453, 2023)</title>
+      <link>https://cwcyau.github.io/publication/nulsen-2024-completing/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/nulsen-2024-completing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Correction: Completing a genomic characterisation of microscopic tumour samples with copy number</title>
       <link>https://cwcyau.github.io/publication/nulsen-2024-correction/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/nulsen-2024-correction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and validation of a postpartum cardiovascular disease (CVD) risk prediction model in women with a history of pregnancy incorporating reproductive and pregnancy-related candidate predictors</title>
+      <link>https://cwcyau.github.io/publication/wambua-2024-development/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wambua-2024-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directrices para los protocolos de ensayos clı́nicos de intervenciones con inteligencia artificial: la extensión SPIRIT-AI</title>
+      <link>https://cwcyau.github.io/publication/cruz-2024-directrices/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/cruz-2024-directrices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directrices para presentación de informes de ensayos clı́nicos sobre intervenciones con inteligencia artificial: extensión CONSORT-AI</title>
+      <link>https://cwcyau.github.io/publication/liu-2024-directrices/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/liu-2024-directrices/</guid>
       <description></description>
     </item>
     
@@ -45,10 +141,34 @@
     </item>
     
     <item>
+      <title>Mixed Type Multimorbidity Variational Autoencoder: A Deep Generative Model for Multimorbidity Analysis</title>
+      <link>https://cwcyau.github.io/publication/kim-2024-mixed/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/kim-2024-mixed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
+      <link>https://cwcyau.github.io/publication/rao-2024-refined/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2024-refined/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>TransfoRNA: Navigating the Uncertainties of Small RNA Annotation with an Adaptive Machine Learning Strategy</title>
       <link>https://cwcyau.github.io/publication/taha-2024-transforna/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/taha-2024-transforna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave-LSTM: Multi-scale analysis of somatic whole genome copy number profiles</title>
+      <link>https://cwcyau.github.io/publication/gadd-2024-wave/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/gadd-2024-wave/</guid>
       <description></description>
     </item>
     
@@ -77,7 +197,7 @@
     </item>
     
     <item>
-      <title>On the Difficulty of Predicting Engagement with Digital Health for Substance Use</title>
+      <title>On the difficulty of predicting engagement with digital health for substance use</title>
       <link>https://cwcyau.github.io/publication/gunther-2023-difficulty/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/gunther-2023-difficulty/</guid>
@@ -89,6 +209,14 @@
       <link>https://cwcyau.github.io/publication/subramanian-2023-polypharmacy/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/subramanian-2023-polypharmacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pregnancy-related factors in risk prediction modelling for post-partum cardiovascular disease</title>
+      <link>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</guid>
       <description></description>
     </item>
     
@@ -113,6 +241,22 @@
       <link>https://cwcyau.github.io/publication/danks-2022-derivative/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/danks-2022-derivative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing Acute Appendicitis using Machine Learning: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/chan-2022-diagnosing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/chan-2022-diagnosing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EP-653 Diagnosing Acute Appendicitis using Machine Learning: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/chan-2022-ep/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/chan-2022-ep/</guid>
       <description></description>
     </item>
     
@@ -397,7 +541,7 @@
     </item>
     
     <item>
-      <title>switchde: inference of switch-like differential expression along single-cell trajectories</title>
+      <title>Switchde: inference of switch-like differential expression along single-cell trajectories</title>
       <link>https://cwcyau.github.io/publication/campbell-2017-switchde/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/campbell-2017-switchde/</guid>
@@ -425,6 +569,14 @@
       <link>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract LB-340: A novel method for estimating somatic mutations cellular prevalence in cancer using whole genome haplotype phasing</title>
+      <link>https://cwcyau.github.io/publication/chedom-2016-abstract/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/chedom-2016-abstract/</guid>
       <description></description>
     </item>
     
@@ -553,14 +705,6 @@
       <link>https://cwcyau.github.io/publication/mcguinness-2010-presynaptic/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/mcguinness-2010-presynaptic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bayesian nonparametric hidden Markov models with application to the analysis of copy-number-variation in mammalian genomes</title>
-      <link>https://cwcyau.github.io/publication/yau-2009-bayesian/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/yau-2009-bayesian/</guid>
       <description></description>
     </item>
     

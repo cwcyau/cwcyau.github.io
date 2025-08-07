@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rod Jackson | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/rod-jackson/</link>
+      <atom:link href="https://cwcyau.github.io/author/rod-jackson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rod Jackson</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>Rod Jackson</title>
+      <link>https://cwcyau.github.io/author/rod-jackson/</link>
+    </image>
+    
+    <item>
+      <title>A Transformer-based survival model for prediction of all-cause mortality in heart failure patients: a multi-cohort study</title>
+      <link>https://cwcyau.github.io/publication/rao-2025-transformer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2025-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
+      <link>https://cwcyau.github.io/publication/rao-2025-refined/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2025-refined/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
+      <link>https://cwcyau.github.io/publication/rao-2024-refined/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2024-refined/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

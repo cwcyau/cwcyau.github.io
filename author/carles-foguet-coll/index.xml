@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carles Foguet Coll | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/carles-foguet-coll/</link>
-      <atom:link href="https://cwcyau.github.io/author/carles-foguet-coll/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/carles-foguet-coll/</link>
+      <atom:link href="http://localhost:1313/author/carles-foguet-coll/index.xml" rel="self" type="application/rss+xml" />
     <description>Carles Foguet Coll</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Carles Foguet Coll</title>
-      <link>https://cwcyau.github.io/author/carles-foguet-coll/</link>
+      <link>http://localhost:1313/author/carles-foguet-coll/</link>
     </image>
     
     <item>
       <title>Genetically personalised organ-specific metabolic models in health and disease</title>
-      <link>https://cwcyau.github.io/publication/foguet-2022-genetically/</link>
+      <link>http://localhost:1313/publication/foguet-2022-genetically/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/foguet-2022-genetically/</guid>
+      <guid>http://localhost:1313/publication/foguet-2022-genetically/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Suzie Cro | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/suzie-cro/</link>
+      <atom:link href="https://cwcyau.github.io/author/suzie-cro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Suzie Cro</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>Suzie Cro</title>
+      <link>https://cwcyau.github.io/author/suzie-cro/</link>
+    </image>
+    
+    <item>
+      <title>Incorporation of Patient and Public Involvement in Statistical Methodology Research: Summary of Workshop Proceedings</title>
+      <link>https://cwcyau.github.io/publication/smith-2025-incorporation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/smith-2025-incorporation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

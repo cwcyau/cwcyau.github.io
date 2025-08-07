@@ -7,7 +7,7 @@
     <description>Kaspar Märtens</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Kaspar Märtens</title>
       <link>https://cwcyau.github.io/author/kaspar-martens/</link>
     </image>
@@ -41,6 +41,14 @@
       <link>https://cwcyau.github.io/publication/van-2021-bayesian/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/van-2021-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publisher Correction: Bayesian statistics and modelling</title>
+      <link>https://cwcyau.github.io/publication/van-2021-publisher/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/van-2021-publisher/</guid>
       <description></description>
     </item>
     

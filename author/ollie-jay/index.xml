@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ollie Jay | Yau Research Group</title>
+    <link>http://localhost:1313/author/ollie-jay/</link>
+      <atom:link href="http://localhost:1313/author/ollie-jay/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ollie Jay</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Aug 2025 20:43:14 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>Ollie Jay</title>
+      <link>http://localhost:1313/author/ollie-jay/</link>
+    </image>
+    
+    <item>
+      <title>Physiology News Magazine</title>
+      <link>http://localhost:1313/publication/jay-16-physiology/</link>
+      <pubDate>Thu, 07 Aug 2025 20:43:14 +0000</pubDate>
+      <guid>http://localhost:1313/publication/jay-16-physiology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

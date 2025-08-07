@@ -2,35 +2,335 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cwcyau.github.io/tag/cancer/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <loc>https://cwcyau.github.io/categories/</loc>
+    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/category/electronic-health-records/</loc>
+    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/tag/electronic-health-records/</loc>
+    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/post/</loc>
+    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/category/machine-learning/</loc>
+    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/tag/machine-learning/</loc>
+    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/post/2025-08-07_survivehr_medrxiv/</loc>
+    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/tags/</loc>
+    <lastmod>2025-08-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/category/cancer/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/categories/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <loc>https://cwcyau.github.io/tag/cancer/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/digital-health/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
+    <loc>https://cwcyau.github.io/post/2025-07-01_gperturb/</loc>
+    <lastmod>2025-07-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/</loc>
+    <lastmod>2025-07-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/post/2025-07-01_phg_synthetic/</loc>
+    <lastmod>2025-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/post/2025-03-17_eitcdt_director/</loc>
+    <lastmod>2025-03-17T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/others/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/rao-2025-transformer/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/ahwan-pandey/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/aiden-smith/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/amina-yasmin/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/amro-ahmed-ebbiary/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/andrew-vickers/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/aneesh-aggarwal/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/ania-henley/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/anthony-chan/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/antonella-ravaggi/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/visscher-2025-aracna/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication-type/article-journal/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/authors/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/aws-al-deka/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/breeshey-roskams-hieter/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/christopher-yau/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/xing-2025-continual/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/dale-w-garsed/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/derrick-bennett/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/eliana-bignotti/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/ellen-visscher/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/yasmin-2025-ep-117/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/faheemah-patel/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/folkert-w-asselbergs/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/gary-s-collins/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/gholamreza-salimi-khorshidi/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/xing-2025-gperturb/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/hannah-worboys/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/hanwen-xing/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/huimin-su/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/smith-2025-incorporation/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/joel-nulsen/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/john-gf-cleland/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/jonathan-broomfield/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/justin-greenwood/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/kyriaki-barbara-papalois/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/laura-evans-hill/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/lena-rai/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/leticia-campo/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/lili-wang/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/luyao-wang/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/malgorzata-wamil/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/mark-woodward/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/mary-mancini/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/may-sallam/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/milad-nazarzadeh/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/mohammad-mamouei/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/nathalie-conrad/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/nosheen-hussain/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/nouman-ahmed/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/nadeem-2025-o-1/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/rai-2025-oxford/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication-type/paper-conference/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication_types/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/rao-2025-refined/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/robert-l-hollis/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/rod-jackson/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/samina-begum/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/shishir-rao/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/wang-2025-single/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/visscher-2025-state/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/suzie-cro/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/yasmin-kamel/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/yikuan-li/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/zain-nadeem/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/category/digital-health/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/post/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/tag/machine-learning/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/category/machine-learning/</loc>
+    <loc>https://cwcyau.github.io/tag/digital-health/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -40,18 +340,6 @@
   </url><url>
     <loc>https://cwcyau.github.io/post/2024-08-16_mlcb_2024/</loc>
     <lastmod>2024-08-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/tags/</loc>
-    <lastmod>2024-08-16T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/</loc>
-    <lastmod>2024-08-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/others/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/a-darzi/</loc>
@@ -78,11 +366,11 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/antonella-ravaggi/</loc>
+    <loc>https://cwcyau.github.io/author/an-wen-chan/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/publication-type/article-journal/</loc>
+    <loc>https://cwcyau.github.io/author/ara-darzi/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -94,15 +382,7 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/authors/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/author/aw-chan/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/aws-al-deka/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -130,7 +410,19 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/christopher-yau/</loc>
+    <loc>https://cwcyau.github.io/author/charles-gadd/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/christopher-holmes/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/colin-mccowan/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/nulsen-2024-completing/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -146,11 +438,19 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/publication/martens-2024-disentangling/</loc>
+    <loc>https://cwcyau.github.io/publication/wambua-2024-development/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/eliana-bignotti/</loc>
+    <loc>https://cwcyau.github.io/publication/cruz-2024-directrices/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/liu-2024-directrices/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/martens-2024-disentangling/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -158,11 +458,11 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/francesca-l-crowe/</loc>
+    <loc>https://cwcyau.github.io/author/francesca-crowe/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/gary-s-collins/</loc>
+    <loc>https://cwcyau.github.io/author/francesca-l-crowe/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -170,15 +470,11 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/hanwen-xing/</loc>
+    <loc>https://cwcyau.github.io/author/hutan-ashrafian/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/jason-yap/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/joel-nulsen/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -206,19 +502,7 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/lauren-oakden-rayner/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/author/lavinia-ferrante-di-ruffano/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/lena-rai/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/leticia-campo/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -242,11 +526,11 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/melissa-d-mccradden/</loc>
+    <loc>https://cwcyau.github.io/author/mike-churchman/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/mike-churchman/</loc>
+    <loc>https://cwcyau.github.io/publication/kim-2024-mixed/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -258,23 +542,15 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/nosheen-hussain/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/publication-type/paper-conference/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/publication_types/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/publication/</loc>
+    <loc>https://cwcyau.github.io/author/paul-a-jenkins/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/rastislav-horos/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/rao-2024-refined/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -306,6 +582,10 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/author/sinead-brophy/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/steven-wambua/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -326,6 +606,14 @@
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/publication/gadd-2024-wave/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/woojung-kim/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/xiaoxuan-liu/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -342,19 +630,11 @@
     <lastmod>2023-11-30T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/electronic-health-records/</loc>
-    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/category/electronic-health-records/</loc>
+    <loc>https://cwcyau.github.io/category/multimorbidity/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/tag/multimorbidity/</loc>
-    <lastmod>2023-10-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/category/multimorbidity/</loc>
     <lastmod>2023-10-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -366,11 +646,11 @@
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/substance-abuse/</loc>
+    <loc>https://cwcyau.github.io/category/substance-abuse/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/substance-abuse/</loc>
+    <loc>https://cwcyau.github.io/tag/substance-abuse/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -382,15 +662,11 @@
     <lastmod>2023-05-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/early-detection/</loc>
-    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/category/early-detection/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/health/</loc>
+    <loc>https://cwcyau.github.io/tag/early-detection/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -398,8 +674,36 @@
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/tag/health/</loc>
+    <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/post/earlydetection/</loc>
     <lastmod>2023-05-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/donatien-chedom-fotso/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/gennaro-prota/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication-type/manuscript/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/ahmed-2023-method/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/uzi-gileadi/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/vincenzo-cerundolo/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/adeniyi-fagbamigbe/</loc>
@@ -466,10 +770,6 @@
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/colin-mccowan/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/publication/nulsen-2023-completing/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -491,10 +791,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/francesca-ciccarelli/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/francesca-crowe/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -606,11 +902,19 @@
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/rachel-plachcinski/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/publication/martens-2023-rarity/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/richard-riley/</loc>
     <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -690,11 +994,11 @@
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/womens-health/</loc>
+    <loc>https://cwcyau.github.io/category/womens-health/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/womens-health/</loc>
+    <loc>https://cwcyau.github.io/tag/womens-health/</loc>
     <lastmod>2022-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -702,11 +1006,11 @@
     <lastmod>2022-12-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/genetics/</loc>
+    <loc>https://cwcyau.github.io/category/genetics/</loc>
     <lastmod>2022-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/genetics/</loc>
+    <loc>https://cwcyau.github.io/tag/genetics/</loc>
     <lastmod>2022-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -714,11 +1018,11 @@
     <lastmod>2022-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/omics/</loc>
+    <loc>https://cwcyau.github.io/category/omics/</loc>
     <lastmod>2022-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/omics/</loc>
+    <loc>https://cwcyau.github.io/tag/omics/</loc>
     <lastmod>2022-11-29T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -726,23 +1030,15 @@
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/event/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/people/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tour/</loc>
-    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/tag/phd/</loc>
+    <loc>https://cwcyau.github.io/category/phd/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/phd/</loc>
+    <loc>https://cwcyau.github.io/tag/phd/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -754,15 +1050,23 @@
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/publication/ahmed-2022-high/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/zhiyuan-hu/</loc>
+    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/student/</loc>
+    <loc>https://cwcyau.github.io/category/student/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/student/</loc>
+    <loc>https://cwcyau.github.io/tag/student/</loc>
     <lastmod>2022-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -778,7 +1082,7 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/artika-nath/</loc>
+    <loc>https://cwcyau.github.io/author/artika-p-nath/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -786,15 +1090,7 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/carles-foguet-coll/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/author/celina-m-whalley/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/charles-gadd/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -826,11 +1122,19 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/publication/chan-2022-diagnosing/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/dirk-s-paul/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/dominic-danks/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/azcoaga-2022-effect/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -850,11 +1154,11 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/publication/lee-2022-epidemiology/</loc>
+    <loc>https://cwcyau.github.io/publication/chan-2022-ep/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/f-crowe/</loc>
+    <loc>https://cwcyau.github.io/publication/lee-2022-epidemiology/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -882,14 +1186,6 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/publication/nichols-2022-investigating/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/j-barrett/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/author/jessica-barrett/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -906,11 +1202,11 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/juliet-goldsmith/</loc>
+    <loc>https://cwcyau.github.io/author/jonathan-kennedy/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/k-nirantharakumar/</loc>
+    <loc>https://cwcyau.github.io/author/juliet-goldsmith/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -919,10 +1215,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/kenta-masuda/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/l-nichols/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -935,6 +1227,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/louise-tee/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/mairead-black/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -954,19 +1250,15 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</loc>
+    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/oliver-j-pickles/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/p-kirk/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/publication/wanigasooriya-2022-patient/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/paul-a-jenkins/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -978,27 +1270,7 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/richard-riley/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/author/ritika-sethi/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/s-kiddle/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/s-richardson/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/samuel-lambert/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/scott-ritchie/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1006,15 +1278,7 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/sinead-brophy/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/author/steven-kiddle/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/t-taverner/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1030,10 +1294,6 @@
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/woojung-kim/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/author/yiyan-zheng/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1042,11 +1302,11 @@
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/postdoc/</loc>
+    <loc>https://cwcyau.github.io/category/postdoc/</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/postdoc/</loc>
+    <loc>https://cwcyau.github.io/tag/postdoc/</loc>
     <lastmod>2021-12-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1082,11 +1342,15 @@
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/category/postdocs/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/tag/postdocs/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/postdocs/</loc>
+    <loc>https://cwcyau.github.io/event/</loc>
     <lastmod>2021-08-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1102,11 +1366,11 @@
     <lastmod>2021-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/statistics/</loc>
+    <loc>https://cwcyau.github.io/category/statistics/</loc>
     <lastmod>2021-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/statistics/</loc>
+    <loc>https://cwcyau.github.io/tag/statistics/</loc>
     <lastmod>2021-06-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1130,11 +1394,11 @@
     <lastmod>2021-04-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/artificial-intelligence/</loc>
+    <loc>https://cwcyau.github.io/category/artificial-intelligence/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/artificial-intelligence/</loc>
+    <loc>https://cwcyau.github.io/tag/artificial-intelligence/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1142,11 +1406,11 @@
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/genomics/</loc>
+    <loc>https://cwcyau.github.io/category/genomics/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/genomics/</loc>
+    <loc>https://cwcyau.github.io/tag/genomics/</loc>
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1158,16 +1422,28 @@
     <lastmod>2021-01-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/mental-health/</loc>
+    <loc>https://cwcyau.github.io/category/mental-health/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/mental-health/</loc>
+    <loc>https://cwcyau.github.io/tag/mental-health/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/post/2021-01-11_opioid/</loc>
     <lastmod>2021-01-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/a-anand/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/a-azcoaga-lorenzo/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/a-subramanian/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/abdulkhaliq-alsaadi/</loc>
@@ -1198,6 +1474,10 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/author/b-taylor/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/publication/danks-2021-basisdevae/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1207,6 +1487,14 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/bianca-kramer/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/c-mccowan/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/c-nelson-piercy/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1274,6 +1562,10 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/author/ka-eastwood/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/katherine-nixon/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1314,6 +1606,10 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/author/n-moss/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/nicholas-mcgranahan/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1323,6 +1619,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/oloruntoba-i-osagie/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/lee-2021-orcid/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1350,6 +1650,10 @@
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/publication/van-2021-publisher/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/rens-van-de-schoot/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -1359,6 +1663,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/sarah-depaoli/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/si-lee/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1375,10 +1683,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/zhe-zhong/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/zhiyuan-hu/</loc>
     <lastmod>2021-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1430,11 +1734,11 @@
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/publication/</loc>
+    <loc>https://cwcyau.github.io/category/publication/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/publication/</loc>
+    <loc>https://cwcyau.github.io/tag/publication/</loc>
     <lastmod>2020-02-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1446,11 +1750,11 @@
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/tag/conference/</loc>
+    <loc>https://cwcyau.github.io/category/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/category/conference/</loc>
+    <loc>https://cwcyau.github.io/tag/conference/</loc>
     <lastmod>2020-01-17T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1459,10 +1763,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/publication/karaminejadranjbar-2020-highly/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/an-wen-chan/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1479,10 +1779,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/aniko-rendek/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/ara-darzi/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1523,10 +1819,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/publication/haynes-2020-has/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/author/hutan-ashrafian/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -1962,10 +2254,6 @@
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/donatien-chedom-fotso/</loc>
-    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/author/eleni-giannoulatou/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2122,6 +2410,10 @@
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/publication/sahasrabudhe-2017-abstract/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/adam-j-mead/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2130,7 +2422,19 @@
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/author/alicia-mar%5Ca-cock-rada/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/ana-estrada/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/ana-p-estrada/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/ana-patricia-estrada-florez/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2186,6 +2490,10 @@
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/publication/gonzalez-2017-germline/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/ho-chung-law/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2218,6 +2526,18 @@
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/author/john-jairo-suarez-olaya/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/john-suarez/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/jose-cameselle-teijeiro/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/jose-cameselle-teijeiro/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2238,6 +2558,10 @@
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/author/luz-mar%C4%B1a-gonzalez-castrillon/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/m-bohorquez/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2251,6 +2575,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/mabel-bohorquez/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/mabel-elena-bohorquez-lozano/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2334,6 +2662,10 @@
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/author/ted-toa/</loc>
+    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/ted-toal/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2352,6 +2684,10 @@
   </url><url>
     <loc>https://cwcyau.github.io/author/xiaojing-wang/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/chedom-2016-abstract/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/christopher-c-holmes/</loc>
@@ -2514,6 +2850,14 @@
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/author/c-camps/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/c-kartsonaki/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/carme-camps/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -2527,6 +2871,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/cm-mclean/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/cazier-2014-correction/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2842,7 +3190,15 @@
     <lastmod>2012-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/author/ar-silver/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/publication/yau-2011-bayesian/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/c-lai/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2854,7 +3210,19 @@
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://cwcyau.github.io/author/jb-cazier/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://cwcyau.github.io/author/omiros-papaspiliopoulos/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/s-dorudi/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/sengupta-2011-somatic/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -2974,19 +3342,15 @@
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/christopher-holmes/</loc>
-    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/publication/winchester-2009-comparing/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/gareth-o-roberts/</loc>
+    <loc>https://cwcyau.github.io/author/laura-winchester/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/author/laura-winchester/</loc>
+    <loc>https://cwcyau.github.io/author/o-papaspiliopoulos/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -3090,7 +3454,47 @@
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://cwcyau.github.io/admin/</loc>
+    <loc>https://cwcyau.github.io/author/a-tan/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/kesuma-2004-application/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/cc-yau/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/d-kesuma/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/h-jikuya/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/j-liu/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/kl-ou/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/p-tan/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/sy-soon/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/publication/ou-2004-systematic/</loc>
+    <lastmod>2004-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/alex-stihi/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/anas-rana/</loc>
@@ -3148,6 +3552,9 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/leon-law/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/author/moritz-gogl/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/natalia-hong/</loc>

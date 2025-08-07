@@ -5,12 +5,100 @@
     <link>https://cwcyau.github.io/publication/</link>
       <atom:link href="https://cwcyau.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Publications</title>
       <link>https://cwcyau.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>A Transformer-based survival model for prediction of all-cause mortality in heart failure patients: a multi-cohort study</title>
+      <link>https://cwcyau.github.io/publication/rao-2025-transformer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2025-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>araCNA: Somatic copy number profiling using long-range sequence models</title>
+      <link>https://cwcyau.github.io/publication/visscher-2025-aracna/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/visscher-2025-aracna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual learning via probabilistic exchangeable sequence modelling</title>
+      <link>https://cwcyau.github.io/publication/xing-2025-continual/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/xing-2025-continual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eP117 The Accuracy of Clinical Coding in Electronic Patient Records Systems in Emergency General Surgery</title>
+      <link>https://cwcyau.github.io/publication/yasmin-2025-ep-117/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/yasmin-2025-ep-117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPerturb: Gaussian process modelling of single-cell perturbation data</title>
+      <link>https://cwcyau.github.io/publication/xing-2025-gperturb/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/xing-2025-gperturb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporation of Patient and Public Involvement in Statistical Methodology Research: Summary of Workshop Proceedings</title>
+      <link>https://cwcyau.github.io/publication/smith-2025-incorporation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/smith-2025-incorporation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O1 Using Machine Learning to predict the Severity of Acute Pancreatitis: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/nadeem-2025-o-1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/nadeem-2025-o-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxford Classic-defined EMT risk stratification of High Grade Serous Ovarian cancer for guiding treatment decisions</title>
+      <link>https://cwcyau.github.io/publication/rai-2025-oxford/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rai-2025-oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
+      <link>https://cwcyau.github.io/publication/rao-2025-refined/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2025-refined/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single cell functional immunogenomics of the fallopian tube reveals a precursor immune surveillance network for ovarian cancer prevention</title>
+      <link>https://cwcyau.github.io/publication/wang-2025-single/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wang-2025-single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STATE-SPACE-LIKE MODELS TO CALL COPY NUMBERS</title>
+      <link>https://cwcyau.github.io/publication/visscher-2025-state/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/visscher-2025-state/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Association between pregnancy-related complications and development of type 2 diabetes and hypertension in women: an umbrella review</title>
@@ -37,6 +125,14 @@
     </item>
     
     <item>
+      <title>Completing a genomic characterisation of microscopic tumour samples with copy number (vol 24, 453, 2023)</title>
+      <link>https://cwcyau.github.io/publication/nulsen-2024-completing/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/nulsen-2024-completing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Concordance of randomised controlled trials for artificial intelligence interventions with the CONSORT-AI reporting guidelines</title>
       <link>https://cwcyau.github.io/publication/martindale-2024-concordance/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -53,10 +149,50 @@
     </item>
     
     <item>
+      <title>Development and validation of a postpartum cardiovascular disease (CVD) risk prediction model in women with a history of pregnancy incorporating reproductive and pregnancy-related candidate predictors</title>
+      <link>https://cwcyau.github.io/publication/wambua-2024-development/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wambua-2024-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directrices para los protocolos de ensayos clı́nicos de intervenciones con inteligencia artificial: la extensión SPIRIT-AI</title>
+      <link>https://cwcyau.github.io/publication/cruz-2024-directrices/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/cruz-2024-directrices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directrices para presentación de informes de ensayos clı́nicos sobre intervenciones con inteligencia artificial: extensión CONSORT-AI</title>
+      <link>https://cwcyau.github.io/publication/liu-2024-directrices/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/liu-2024-directrices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disentangling shared and private latent factors in multimodal Variational Autoencoders</title>
       <link>https://cwcyau.github.io/publication/martens-2024-disentangling/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/martens-2024-disentangling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed Type Multimorbidity Variational Autoencoder: A Deep Generative Model for Multimorbidity Analysis</title>
+      <link>https://cwcyau.github.io/publication/kim-2024-mixed/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/kim-2024-mixed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
+      <link>https://cwcyau.github.io/publication/rao-2024-refined/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2024-refined/</guid>
       <description></description>
     </item>
     
@@ -81,6 +217,22 @@
       <link>https://cwcyau.github.io/publication/taha-2024-transforna/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/taha-2024-transforna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave-LSTM: Multi-scale analysis of somatic whole genome copy number profiles</title>
+      <link>https://cwcyau.github.io/publication/gadd-2024-wave/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/gadd-2024-wave/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for identifying neo-antigens</title>
+      <link>https://cwcyau.github.io/publication/ahmed-2023-method/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/ahmed-2023-method/</guid>
       <description></description>
     </item>
     
@@ -141,7 +293,7 @@
     </item>
     
     <item>
-      <title>On the Difficulty of Predicting Engagement with Digital Health for Substance Use</title>
+      <title>On the difficulty of predicting engagement with digital health for substance use</title>
       <link>https://cwcyau.github.io/publication/gunther-2023-difficulty/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/gunther-2023-difficulty/</guid>
@@ -157,6 +309,14 @@
     </item>
     
     <item>
+      <title>Pregnancy-related factors in risk prediction modelling for post-partum cardiovascular disease</title>
+      <link>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rarity: discovering rare cell populations from single-cell imaging data</title>
       <link>https://cwcyau.github.io/publication/martens-2023-rarity/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -165,7 +325,7 @@
     </item>
     
     <item>
-      <title>Sociodemographic characteristics and longitudinal progression of multimorbidity: A multistate modelling analysis of a large primary care records dataset in England</title>
+      <title>Sociodemographic characteristics and longitudinal progression of multimorbidity</title>
       <link>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</guid>
@@ -177,6 +337,14 @@
       <link>https://cwcyau.github.io/publication/lee-2023-development/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/lee-2023-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-grade serous ovarian carcinoma (hgsoc)</title>
+      <link>https://cwcyau.github.io/publication/ahmed-2022-high/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/ahmed-2022-high/</guid>
       <description></description>
     </item>
     
@@ -201,6 +369,30 @@
       <link>https://cwcyau.github.io/publication/danks-2022-derivative/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/danks-2022-derivative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing Acute Appendicitis using Machine Learning: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/chan-2022-diagnosing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/chan-2022-diagnosing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of maternal multimorbidity on the risk of preterm birth: Record-linkage study</title>
+      <link>https://cwcyau.github.io/publication/azcoaga-2022-effect/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/azcoaga-2022-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EP-653 Diagnosing Acute Appendicitis using Machine Learning: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/chan-2022-ep/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/chan-2022-ep/</guid>
       <description></description>
     </item>
     
@@ -237,18 +429,18 @@
     </item>
     
     <item>
-      <title>Investigating the stability of multimorbidity clusters within and between clustering algorithms, in simulated and health record data</title>
-      <link>https://cwcyau.github.io/publication/nichols-2022-investigating/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/nichols-2022-investigating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mmVAE: multimorbidity clustering using Relaxed Bernoulli $ $β$ $-Variational Autoencoders</title>
       <link>https://cwcyau.github.io/publication/gadd-2022-mmvae/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/gadd-2022-mmvae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimorbidity in pregnant women with health conditions that cause maternal death</title>
+      <link>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</guid>
       <description></description>
     </item>
     
@@ -341,6 +533,14 @@
     </item>
     
     <item>
+      <title>ORCID: 0000-0001-9908-0773</title>
+      <link>https://cwcyau.github.io/publication/lee-2021-orcid/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/lee-2021-orcid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pan-cancer detection of driver genes at the single-patient resolution</title>
       <link>https://cwcyau.github.io/publication/nulsen-2021-pan/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -369,6 +569,14 @@
       <link>https://cwcyau.github.io/publication/lee-2021-protocol/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/lee-2021-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publisher Correction: Bayesian statistics and modelling</title>
+      <link>https://cwcyau.github.io/publication/van-2021-publisher/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/van-2021-publisher/</guid>
       <description></description>
     </item>
     
@@ -637,6 +845,14 @@
     </item>
     
     <item>
+      <title>Abstract LB-158: Germline mutations in PALB2, BRCA1 and RAD51C observed in gastric cancer cases</title>
+      <link>https://cwcyau.github.io/publication/sahasrabudhe-2017-abstract/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/sahasrabudhe-2017-abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian boolean matrix factorisation</title>
       <link>https://cwcyau.github.io/publication/rukat-2017-bayesian/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -657,6 +873,14 @@
       <link>https://cwcyau.github.io/publication/sahasrabudhe-2017-germline/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/sahasrabudhe-2017-germline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germline Mutations in PALB2, BRCA1, and RAD51C, wich Regulate DNA Recombination Repair, in Patients with Gastric Cancer</title>
+      <link>https://cwcyau.github.io/publication/gonzalez-2017-germline/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/gonzalez-2017-germline/</guid>
       <description></description>
     </item>
     
@@ -693,7 +917,7 @@
     </item>
     
     <item>
-      <title>Provision of data analysis and Economic Evaluation of the Incentivisation Scheme in support of Sign up To Safety on behalf of the NHS Litigation Authority</title>
+      <title>Provision of Data Analysis and Economic Evaluation of the Incentivisation Scheme in support of Sign up to Safety on behalf of the NHS Litigation Authority</title>
       <link>https://cwcyau.github.io/publication/pizzo-2017-provision/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/pizzo-2017-provision/</guid>
@@ -701,7 +925,7 @@
     </item>
     
     <item>
-      <title>switchde: inference of switch-like differential expression along single-cell trajectories</title>
+      <title>Switchde: inference of switch-like differential expression along single-cell trajectories</title>
       <link>https://cwcyau.github.io/publication/campbell-2017-switchde/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/campbell-2017-switchde/</guid>
@@ -729,6 +953,14 @@
       <link>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract LB-340: A novel method for estimating somatic mutations cellular prevalence in cancer using whole genome haplotype phasing</title>
+      <link>https://cwcyau.github.io/publication/chedom-2016-abstract/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/chedom-2016-abstract/</guid>
       <description></description>
     </item>
     
@@ -801,6 +1033,14 @@
       <link>https://cwcyau.github.io/publication/nott-2014-sequential/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/nott-2014-sequential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction: Corrigendum: Whole-genome sequencing of bladder cancers reveals somatic CDKN1A mutations and clinicopathological associations with mutation burden</title>
+      <link>https://cwcyau.github.io/publication/cazier-2014-correction/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/cazier-2014-correction/</guid>
       <description></description>
     </item>
     
@@ -925,6 +1165,14 @@
     </item>
     
     <item>
+      <title>Somatic copy number alterations in a defined ethnic cohort with a high frequency of early-onset colorectal cancer: 463</title>
+      <link>https://cwcyau.github.io/publication/sengupta-2011-somatic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/sengupta-2011-somatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A statistical approach for detecting genomic aberrations in heterogeneous tumor samples from single nucleotide polymorphism genotyping data</title>
       <link>https://cwcyau.github.io/publication/yau-2010-statistical/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
@@ -965,7 +1213,7 @@
     </item>
     
     <item>
-      <title>Bayesian nonparametric hidden Markov models with application to the analysis of copy-number-variation in mammalian genomes</title>
+      <title>Bayesian nonparametric hidden Markov models with</title>
       <link>https://cwcyau.github.io/publication/yau-2009-bayesian/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/yau-2009-bayesian/</guid>
@@ -1049,6 +1297,22 @@
       <link>https://cwcyau.github.io/publication/holmes-2006-bayesian/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/holmes-2006-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of NBS Labeling technology on cellular protein quantitation and identification</title>
+      <link>https://cwcyau.github.io/publication/kesuma-2004-application/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/kesuma-2004-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Proteome analysis of breast cancer cell lines</title>
+      <link>https://cwcyau.github.io/publication/ou-2004-systematic/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/ou-2004-systematic/</guid>
       <description></description>
     </item>
     

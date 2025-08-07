@@ -5,12 +5,52 @@
     <link>https://cwcyau.github.io/author/others/</link>
       <atom:link href="https://cwcyau.github.io/author/others/index.xml" rel="self" type="application/rss+xml" />
     <description> Others</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title> Others</title>
       <link>https://cwcyau.github.io/author/others/</link>
     </image>
+    
+    <item>
+      <title>A Transformer-based survival model for prediction of all-cause mortality in heart failure patients: a multi-cohort study</title>
+      <link>https://cwcyau.github.io/publication/rao-2025-transformer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2025-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporation of Patient and Public Involvement in Statistical Methodology Research: Summary of Workshop Proceedings</title>
+      <link>https://cwcyau.github.io/publication/smith-2025-incorporation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/smith-2025-incorporation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxford Classic-defined EMT risk stratification of High Grade Serous Ovarian cancer for guiding treatment decisions</title>
+      <link>https://cwcyau.github.io/publication/rai-2025-oxford/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rai-2025-oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
+      <link>https://cwcyau.github.io/publication/rao-2025-refined/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2025-refined/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single cell functional immunogenomics of the fallopian tube reveals a precursor immune surveillance network for ovarian cancer prevention</title>
+      <link>https://cwcyau.github.io/publication/wang-2025-single/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wang-2025-single/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Author Correction: Concordance of randomised controlled trials for artificial intelligence interventions with the CONSORT-AI reporting guidelines</title>
@@ -29,6 +69,30 @@
     </item>
     
     <item>
+      <title>Directrices para los protocolos de ensayos clı́nicos de intervenciones con inteligencia artificial: la extensión SPIRIT-AI</title>
+      <link>https://cwcyau.github.io/publication/cruz-2024-directrices/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/cruz-2024-directrices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directrices para presentación de informes de ensayos clı́nicos sobre intervenciones con inteligencia artificial: extensión CONSORT-AI</title>
+      <link>https://cwcyau.github.io/publication/liu-2024-directrices/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/liu-2024-directrices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
+      <link>https://cwcyau.github.io/publication/rao-2024-refined/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2024-refined/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension</title>
       <link>https://cwcyau.github.io/publication/liu-2024-reporting/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -41,6 +105,14 @@
       <link>https://cwcyau.github.io/publication/rai-2024-oxford/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/rai-2024-oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Method for identifying neo-antigens</title>
+      <link>https://cwcyau.github.io/publication/ahmed-2023-method/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/ahmed-2023-method/</guid>
       <description></description>
     </item>
     
@@ -93,7 +165,7 @@
     </item>
     
     <item>
-      <title>Sociodemographic characteristics and longitudinal progression of multimorbidity: A multistate modelling analysis of a large primary care records dataset in England</title>
+      <title>Sociodemographic characteristics and longitudinal progression of multimorbidity</title>
       <link>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</guid>
@@ -109,10 +181,26 @@
     </item>
     
     <item>
+      <title>High-grade serous ovarian carcinoma (hgsoc)</title>
+      <link>https://cwcyau.github.io/publication/ahmed-2022-high/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/ahmed-2022-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Author Correction: Tuning microtubule dynamics to enhance cancer therapy by modulating FER-mediated CRMP2 phosphorylation</title>
       <link>https://cwcyau.github.io/publication/zheng-2022-author/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/zheng-2022-author/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of maternal multimorbidity on the risk of preterm birth: Record-linkage study</title>
+      <link>https://cwcyau.github.io/publication/azcoaga-2022-effect/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/azcoaga-2022-effect/</guid>
       <description></description>
     </item>
     
@@ -141,10 +229,10 @@
     </item>
     
     <item>
-      <title>Investigating the stability of multimorbidity clusters within and between clustering algorithms, in simulated and health record data</title>
-      <link>https://cwcyau.github.io/publication/nichols-2022-investigating/</link>
+      <title>Multimorbidity in pregnant women with health conditions that cause maternal death</title>
+      <link>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/nichols-2022-investigating/</guid>
+      <guid>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</guid>
       <description></description>
     </item>
     
@@ -189,6 +277,14 @@
     </item>
     
     <item>
+      <title>ORCID: 0000-0001-9908-0773</title>
+      <link>https://cwcyau.github.io/publication/lee-2021-orcid/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/lee-2021-orcid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Patient derived organoids reveal that PI3K/AKT signalling is an escape pathway for radioresistance and a target for therapy in rectal cancer</title>
       <link>https://cwcyau.github.io/publication/wanigasooriya-2021-patient/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -209,6 +305,14 @@
       <link>https://cwcyau.github.io/publication/lee-2021-protocol/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/lee-2021-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publisher Correction: Bayesian statistics and modelling</title>
+      <link>https://cwcyau.github.io/publication/van-2021-publisher/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/van-2021-publisher/</guid>
       <description></description>
     </item>
     
@@ -309,6 +413,14 @@
     </item>
     
     <item>
+      <title>Abstract LB-158: Germline mutations in PALB2, BRCA1 and RAD51C observed in gastric cancer cases</title>
+      <link>https://cwcyau.github.io/publication/sahasrabudhe-2017-abstract/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/sahasrabudhe-2017-abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Colorectal cancer cell line proteomes are representative of primary tumors and predict drug sensitivity</title>
       <link>https://cwcyau.github.io/publication/wang-2017-colorectal/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -321,6 +433,14 @@
       <link>https://cwcyau.github.io/publication/sahasrabudhe-2017-germline/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/sahasrabudhe-2017-germline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germline Mutations in PALB2, BRCA1, and RAD51C, wich Regulate DNA Recombination Repair, in Patients with Gastric Cancer</title>
+      <link>https://cwcyau.github.io/publication/gonzalez-2017-germline/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/gonzalez-2017-germline/</guid>
       <description></description>
     </item>
     
@@ -353,6 +473,14 @@
       <link>https://cwcyau.github.io/publication/taylor-2015-factors/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/taylor-2015-factors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction: Corrigendum: Whole-genome sequencing of bladder cancers reveals somatic CDKN1A mutations and clinicopathological associations with mutation burden</title>
+      <link>https://cwcyau.github.io/publication/cazier-2014-correction/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/cazier-2014-correction/</guid>
       <description></description>
     </item>
     

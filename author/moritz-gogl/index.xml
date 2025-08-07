@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moritz Gogl | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/moritz-gogl/</link>
+      <atom:link href="https://cwcyau.github.io/author/moritz-gogl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Moritz Gogl</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cwcyau.github.io/author/moritz-gogl/avatar_hu_1a6a9ff1901d17c0.jpeg</url>
+      <title>Moritz Gogl</title>
+      <link>https://cwcyau.github.io/author/moritz-gogl/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -5,12 +5,140 @@
     <link>https://cwcyau.github.io/</link>
       <atom:link href="https://cwcyau.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Yau Research Group</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Yau Research Group</title>
       <link>https://cwcyau.github.io/</link>
     </image>
+    
+    <item>
+      <title>SurvivEHR preprint now available</title>
+      <link>https://cwcyau.github.io/post/2025-08-07_survivehr_medrxiv/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2025-08-07_survivehr_medrxiv/</guid>
+      <description>&lt;p&gt;A preprint of work by &lt;a href=&#34;../../authors/gadd&#34;&gt;Charles Gadd&lt;/a&gt; describing &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2025.08.04.25332916v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records&amp;rdquo;&lt;/a&gt; is now available on medRxiv.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Multiple long-term conditions (MLTCs) or multimorbidity &amp;ndash; the co-occurrence of multiple chronic conditions &amp;ndash;presents a growing challenge for primary care. Current predictive models often target single outcomes and overlook the complexities of time-to-event risk in real-world, longitudinal health data. Here, we present SurvivEHR, a generative transformer-based foundation model trained on over 7.6 billion coded events from 23 million patients in UK primary care. SurvivEHR introduces a competing risk time-to-event pretraining objective that enables accurate forecasting of future diagnoses, investigations, medications, and mortality. We demonstrate that SurvivEHR achieves strong risk stratification performance, captures clinically meaningful trajectories, and outperforms benchmark survival models across multiple tasks. The model also transfers effectively to fine-tuned prognostic tasks, particularly in low-resource settings. By learning patient trajectories directly from routine health records, SurvivEHR offers a scalable and privacy-preserving approach for building generalisable clinical risk tools that address the complexity of MLTCs in primary care..&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GPerturb in Nature Communications</title>
+      <link>https://cwcyau.github.io/post/2025-07-01_gperturb/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2025-07-01_gperturb/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/xing&#34;&gt;Hanwen Xing&lt;/a&gt; on having his paper &lt;a href=&#34;https://www.nature.com/articles/s41467-025-61165-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;GPerturb: Gaussian process modelling of single-cell perturbation data&amp;rdquo;&lt;/a&gt; accepted in Nature Communications:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Single-cell RNA sequencing and CRISPR screening enable high-throughput analysis of genetic perturbations at single-cell resolution. Understanding combinatorial perturbation effects is essential but challenging due to data sparsity and complex biological mechanisms. We present GPerturb, a Gaussian process-based sparse perturbation regression model designed to estimate gene-level perturbation effects. GPerturb employs an additive structure to separate signal from noise and captures sparse, interpretable effects from both discrete and continuous responses. It also provides uncertainty estimates for the presence and strength of perturbation effects on individual genes. We demonstrate the use GPerturb on both simulated and real-world datasets, characterising its competitive performance with current state-of-the-art methods. Furthermore, the model reveals meaningful gene-perturbation interactions and identifies effects consistent with known biology. GPerturb offers a novel approach for uncovering complex dependencies between gene expression and perturbations and advancing our understanding of gene regulation at the single-cell level.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New report on Synthetic Data for Development of AI</title>
+      <link>https://cwcyau.github.io/post/2025-07-01_phg_synthetic/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2025-07-01_phg_synthetic/</guid>
+      <description>&lt;p&gt;Christopher Yau has contributed as a member of the expert working group to a new report &lt;a href=&#34;2025-08-07_SurvivEHR_medrxiv.md&#34;&gt;&amp;ldquo;The Synthetic Data for Development of AI as a Medical Device&amp;rdquo;&lt;/a&gt; now available via PHG Foundation:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Synthetic data is artificially generated data that reflects the properties and relationships found in real data. While synthetic data can play an important role in AIaMD development, its use in regulatory submissions introduces specific considerations, especially when it constitutes a substantial part of the evidence package.&lt;/p&gt;
+&lt;p&gt;The Synthetic Data for Development of AI as a Medical Device (AIaMDs) report, produced by the Medicines and Healthcare products Regulatory Agency (MHRA) and the PHG Foundation, outlines these considerations, building on and complementing existing regulatory guidance. This marks an important and exciting first step for manufacturers and notified bodies collectively navigating this evolving landscape. The report provides crucial groundwork, though more work is required to move past these preliminary ideas.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Christopher Yau becomes Co-Director for the new CDT in Fundamentals of AI</title>
+      <link>https://cwcyau.github.io/post/2025-03-17_eitcdt_director/</link>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2025-03-17_eitcdt_director/</guid>
+      <description>&lt;p&gt;Professor Chris Yau will become Co-Director for the new &lt;a href=&#34;https://foaicdt.web.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre for Doctoral Training in Fundamentals of AI&lt;/a&gt;, an exciting new initiative in partnership with &lt;a href=&#34;https://www.eit.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EIT Oxford&lt;/a&gt; (The Ellison Institute of Technology).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Transformer-based survival model for prediction of all-cause mortality in heart failure patients: a multi-cohort study</title>
+      <link>https://cwcyau.github.io/publication/rao-2025-transformer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2025-transformer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>araCNA: Somatic copy number profiling using long-range sequence models</title>
+      <link>https://cwcyau.github.io/publication/visscher-2025-aracna/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/visscher-2025-aracna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Continual learning via probabilistic exchangeable sequence modelling</title>
+      <link>https://cwcyau.github.io/publication/xing-2025-continual/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/xing-2025-continual/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eP117 The Accuracy of Clinical Coding in Electronic Patient Records Systems in Emergency General Surgery</title>
+      <link>https://cwcyau.github.io/publication/yasmin-2025-ep-117/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/yasmin-2025-ep-117/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPerturb: Gaussian process modelling of single-cell perturbation data</title>
+      <link>https://cwcyau.github.io/publication/xing-2025-gperturb/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/xing-2025-gperturb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incorporation of Patient and Public Involvement in Statistical Methodology Research: Summary of Workshop Proceedings</title>
+      <link>https://cwcyau.github.io/publication/smith-2025-incorporation/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/smith-2025-incorporation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>O1 Using Machine Learning to predict the Severity of Acute Pancreatitis: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/nadeem-2025-o-1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/nadeem-2025-o-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oxford Classic-defined EMT risk stratification of High Grade Serous Ovarian cancer for guiding treatment decisions</title>
+      <link>https://cwcyau.github.io/publication/rai-2025-oxford/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rai-2025-oxford/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
+      <link>https://cwcyau.github.io/publication/rao-2025-refined/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2025-refined/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single cell functional immunogenomics of the fallopian tube reveals a precursor immune surveillance network for ovarian cancer prevention</title>
+      <link>https://cwcyau.github.io/publication/wang-2025-single/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wang-2025-single/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STATE-SPACE-LIKE MODELS TO CALL COPY NUMBERS</title>
+      <link>https://cwcyau.github.io/publication/visscher-2025-state/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/visscher-2025-state/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ML4H 2024</title>
@@ -57,6 +185,14 @@
     </item>
     
     <item>
+      <title>Completing a genomic characterisation of microscopic tumour samples with copy number (vol 24, 453, 2023)</title>
+      <link>https://cwcyau.github.io/publication/nulsen-2024-completing/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/nulsen-2024-completing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Concordance of randomised controlled trials for artificial intelligence interventions with the CONSORT-AI reporting guidelines</title>
       <link>https://cwcyau.github.io/publication/martindale-2024-concordance/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -73,10 +209,50 @@
     </item>
     
     <item>
+      <title>Development and validation of a postpartum cardiovascular disease (CVD) risk prediction model in women with a history of pregnancy incorporating reproductive and pregnancy-related candidate predictors</title>
+      <link>https://cwcyau.github.io/publication/wambua-2024-development/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wambua-2024-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directrices para los protocolos de ensayos clı́nicos de intervenciones con inteligencia artificial: la extensión SPIRIT-AI</title>
+      <link>https://cwcyau.github.io/publication/cruz-2024-directrices/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/cruz-2024-directrices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Directrices para presentación de informes de ensayos clı́nicos sobre intervenciones con inteligencia artificial: extensión CONSORT-AI</title>
+      <link>https://cwcyau.github.io/publication/liu-2024-directrices/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/liu-2024-directrices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Disentangling shared and private latent factors in multimodal Variational Autoencoders</title>
       <link>https://cwcyau.github.io/publication/martens-2024-disentangling/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/martens-2024-disentangling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mixed Type Multimorbidity Variational Autoencoder: A Deep Generative Model for Multimorbidity Analysis</title>
+      <link>https://cwcyau.github.io/publication/kim-2024-mixed/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/kim-2024-mixed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
+      <link>https://cwcyau.github.io/publication/rao-2024-refined/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/rao-2024-refined/</guid>
       <description></description>
     </item>
     
@@ -101,6 +277,14 @@
       <link>https://cwcyau.github.io/publication/taha-2024-transforna/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/taha-2024-transforna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wave-LSTM: Multi-scale analysis of somatic whole genome copy number profiles</title>
+      <link>https://cwcyau.github.io/publication/gadd-2024-wave/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/gadd-2024-wave/</guid>
       <description></description>
     </item>
     
@@ -267,6 +451,14 @@
     </item>
     
     <item>
+      <title>Method for identifying neo-antigens</title>
+      <link>https://cwcyau.github.io/publication/ahmed-2023-method/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/ahmed-2023-method/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>An atlas of genetic scores to predict multi-omic traits</title>
       <link>https://cwcyau.github.io/publication/xu-2023-atlas/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -323,7 +515,7 @@
     </item>
     
     <item>
-      <title>On the Difficulty of Predicting Engagement with Digital Health for Substance Use</title>
+      <title>On the difficulty of predicting engagement with digital health for substance use</title>
       <link>https://cwcyau.github.io/publication/gunther-2023-difficulty/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/gunther-2023-difficulty/</guid>
@@ -339,6 +531,14 @@
     </item>
     
     <item>
+      <title>Pregnancy-related factors in risk prediction modelling for post-partum cardiovascular disease</title>
+      <link>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rarity: discovering rare cell populations from single-cell imaging data</title>
       <link>https://cwcyau.github.io/publication/martens-2023-rarity/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
@@ -347,7 +547,7 @@
     </item>
     
     <item>
-      <title>Sociodemographic characteristics and longitudinal progression of multimorbidity: A multistate modelling analysis of a large primary care records dataset in England</title>
+      <title>Sociodemographic characteristics and longitudinal progression of multimorbidity</title>
       <link>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</guid>
@@ -432,14 +632,6 @@
     </item>
     
     <item>
-      <title>Tour</title>
-      <link>https://cwcyau.github.io/tour/</link>
-      <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/tour/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Great UK PhD Data Science Survey</title>
       <link>https://cwcyau.github.io/post/greatphdsurvey/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
@@ -480,6 +672,14 @@
     </item>
     
     <item>
+      <title>High-grade serous ovarian carcinoma (hgsoc)</title>
+      <link>https://cwcyau.github.io/publication/ahmed-2022-high/</link>
+      <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/ahmed-2022-high/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AISTATS 2022</title>
       <link>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</link>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
@@ -509,6 +709,30 @@
       <link>https://cwcyau.github.io/publication/danks-2022-derivative/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/danks-2022-derivative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing Acute Appendicitis using Machine Learning: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/chan-2022-diagnosing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/chan-2022-diagnosing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of maternal multimorbidity on the risk of preterm birth: Record-linkage study</title>
+      <link>https://cwcyau.github.io/publication/azcoaga-2022-effect/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/azcoaga-2022-effect/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>EP-653 Diagnosing Acute Appendicitis using Machine Learning: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/chan-2022-ep/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/chan-2022-ep/</guid>
       <description></description>
     </item>
     
@@ -545,18 +769,18 @@
     </item>
     
     <item>
-      <title>Investigating the stability of multimorbidity clusters within and between clustering algorithms, in simulated and health record data</title>
-      <link>https://cwcyau.github.io/publication/nichols-2022-investigating/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/nichols-2022-investigating/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>mmVAE: multimorbidity clustering using Relaxed Bernoulli $ $β$ $-Variational Autoencoders</title>
       <link>https://cwcyau.github.io/publication/gadd-2022-mmvae/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/gadd-2022-mmvae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimorbidity in pregnant women with health conditions that cause maternal death</title>
+      <link>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</guid>
       <description></description>
     </item>
     
@@ -861,6 +1085,14 @@
     </item>
     
     <item>
+      <title>ORCID: 0000-0001-9908-0773</title>
+      <link>https://cwcyau.github.io/publication/lee-2021-orcid/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/lee-2021-orcid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pan-cancer detection of driver genes at the single-patient resolution</title>
       <link>https://cwcyau.github.io/publication/nulsen-2021-pan/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
@@ -889,6 +1121,14 @@
       <link>https://cwcyau.github.io/publication/lee-2021-protocol/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/lee-2021-protocol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publisher Correction: Bayesian statistics and modelling</title>
+      <link>https://cwcyau.github.io/publication/van-2021-publisher/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/van-2021-publisher/</guid>
       <description></description>
     </item>
     
@@ -1496,6 +1736,14 @@
     </item>
     
     <item>
+      <title>Abstract LB-158: Germline mutations in PALB2, BRCA1 and RAD51C observed in gastric cancer cases</title>
+      <link>https://cwcyau.github.io/publication/sahasrabudhe-2017-abstract/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/sahasrabudhe-2017-abstract/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Bayesian boolean matrix factorisation</title>
       <link>https://cwcyau.github.io/publication/rukat-2017-bayesian/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -1516,6 +1764,14 @@
       <link>https://cwcyau.github.io/publication/sahasrabudhe-2017-germline/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/sahasrabudhe-2017-germline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germline Mutations in PALB2, BRCA1, and RAD51C, wich Regulate DNA Recombination Repair, in Patients with Gastric Cancer</title>
+      <link>https://cwcyau.github.io/publication/gonzalez-2017-germline/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/gonzalez-2017-germline/</guid>
       <description></description>
     </item>
     
@@ -1552,7 +1808,7 @@
     </item>
     
     <item>
-      <title>Provision of data analysis and Economic Evaluation of the Incentivisation Scheme in support of Sign up To Safety on behalf of the NHS Litigation Authority</title>
+      <title>Provision of Data Analysis and Economic Evaluation of the Incentivisation Scheme in support of Sign up to Safety on behalf of the NHS Litigation Authority</title>
       <link>https://cwcyau.github.io/publication/pizzo-2017-provision/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/pizzo-2017-provision/</guid>
@@ -1560,7 +1816,7 @@
     </item>
     
     <item>
-      <title>switchde: inference of switch-like differential expression along single-cell trajectories</title>
+      <title>Switchde: inference of switch-like differential expression along single-cell trajectories</title>
       <link>https://cwcyau.github.io/publication/campbell-2017-switchde/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/campbell-2017-switchde/</guid>
@@ -1588,6 +1844,14 @@
       <link>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract LB-340: A novel method for estimating somatic mutations cellular prevalence in cancer using whole genome haplotype phasing</title>
+      <link>https://cwcyau.github.io/publication/chedom-2016-abstract/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/chedom-2016-abstract/</guid>
       <description></description>
     </item>
     
@@ -1677,6 +1941,14 @@
       <link>https://cwcyau.github.io/publication/nott-2014-sequential/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/nott-2014-sequential/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correction: Corrigendum: Whole-genome sequencing of bladder cancers reveals somatic CDKN1A mutations and clinicopathological associations with mutation burden</title>
+      <link>https://cwcyau.github.io/publication/cazier-2014-correction/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/cazier-2014-correction/</guid>
       <description></description>
     </item>
     
@@ -1801,6 +2073,14 @@
     </item>
     
     <item>
+      <title>Somatic copy number alterations in a defined ethnic cohort with a high frequency of early-onset colorectal cancer: 463</title>
+      <link>https://cwcyau.github.io/publication/sengupta-2011-somatic/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/sengupta-2011-somatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A statistical approach for detecting genomic aberrations in heterogeneous tumor samples from single nucleotide polymorphism genotyping data</title>
       <link>https://cwcyau.github.io/publication/yau-2010-statistical/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
@@ -1841,7 +2121,7 @@
     </item>
     
     <item>
-      <title>Bayesian nonparametric hidden Markov models with application to the analysis of copy-number-variation in mammalian genomes</title>
+      <title>Bayesian nonparametric hidden Markov models with</title>
       <link>https://cwcyau.github.io/publication/yau-2009-bayesian/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/yau-2009-bayesian/</guid>
@@ -1929,10 +2209,18 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://cwcyau.github.io/admin/config.yml</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/admin/config.yml</guid>
+      <title>Application of NBS Labeling technology on cellular protein quantitation and identification</title>
+      <link>https://cwcyau.github.io/publication/kesuma-2004-application/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/kesuma-2004-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Proteome analysis of breast cancer cell lines</title>
+      <link>https://cwcyau.github.io/publication/ou-2004-systematic/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/ou-2004-systematic/</guid>
       <description></description>
     </item>
     
@@ -2067,8 +2355,7 @@ reaffirmed their institutional support for this fellowship proposal (1x
 &lt;p&gt;[&lt;em&gt;&amp;ldquo;In the spring of 2012, I received the devastating diagnosis of
 ovarian cancer - the &amp;lsquo;silent killer&amp;rsquo; Why me? Why anyone? Like
 thousands of women before me, I searched for reasons WHY whilst trying
-to come to terms with the illness.&amp;rdquo;&lt;/em&gt;]{.roman} &amp;mdash; &lt;strong&gt;Patient 11152&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+to come to terms with the illness.&amp;rdquo;&lt;/em&gt;]{.roman} &amp;mdash; &lt;strong&gt;Patient 11152&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;\vspace{4pt}
 \vspace{0.2cm}
 &lt;strong&gt;Ovarian Cancer.&lt;/strong&gt; Ovarian cancer (OvCa) affects approximately 7,000
@@ -2122,7 +2409,7 @@ evolution of the disease within the patient.&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/patient11152.png&#34; alt=&#34;&amp;lt;strong&amp;gt;Telling the Story of Patient 11152.&amp;lt;/strong&amp;gt; (a) Comprehensive multiregion
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/patient11152.png&#34; alt=&#34;Telling the Story of Patient 11152. (a) Comprehensive multiregion
 and longitudinal tumour sampling and disease pathogenesis
 characterisation for a single cancer patient was used to (b) determine a
 potential sequence of molecular events that occurred in the pathogenesis
@@ -2148,8 +2435,7 @@ would enable the realisation of this ambition.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&amp;ldquo;An understanding of the dynamics of cancer evolution might lead to
 improvement in clinical outcomes, as it enables prognoses to be
 accurately determined and &amp;rsquo;evolution-aware&amp;rsquo; patient management to be
-applied.&amp;quot;&lt;/em&gt; &amp;mdash; Turajlic &lt;em&gt;et. al.&lt;/em&gt; (2019), &lt;em&gt;Nature Reviews Genetics&lt;/em&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+applied.&amp;quot;&lt;/em&gt; &amp;mdash; Turajlic &lt;em&gt;et. al.&lt;/em&gt; (2019), &lt;em&gt;Nature Reviews Genetics&lt;/em&gt;.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;\vspace{0.5cm}
 &lt;strong&gt;Overview.&lt;/strong&gt; Central to the realisation of this vision is the need for
 a model of &lt;em&gt;molecular cancer progression&lt;/em&gt;. With a research team
@@ -2185,8 +2471,8 @@ of project partners that I have assembled for this proposal.&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/project-overview.png&#34; alt=&#34;&amp;lt;strong&amp;gt;Project
-Overview.&amp;lt;/strong&amp;gt;[]{label=&amp;amp;ldquo;fig:overview&amp;amp;rdquo;}&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/project-overview.png&#34; alt=&#34;Project
+Overview.[]{label=&amp;ldquo;fig:overview&amp;rdquo;}&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:overview
 width=&amp;ldquo;60%&amp;rdquo;}&lt;/p&gt;
@@ -2220,8 +2506,8 @@ information about the dynamics of cancer evolution
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/pseudotime.png&#34; alt=&#34;&amp;lt;strong&amp;gt;Latent variable models for cancer disease progression.&amp;lt;/strong&amp;gt; Using (a)
-high-dimensional &amp;amp;lsquo;omics data from cross-sectional cohorts, we can
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/pseudotime.png&#34; alt=&#34;Latent variable models for cancer disease progression. Using (a)
+high-dimensional &amp;lsquo;omics data from cross-sectional cohorts, we can
 identify (b) low-dimensional manifolds which correspond to molecular
 disease trajectories through the use of LVMs. (c) Our feature-level
 decomposition models [@martens2020nd] explicitly define a relationship
@@ -2229,7 +2515,7 @@ between the observed and latent space allowing us to interpret these
 trajectories in terms of the variation in the original measurable
 quantities. This is critical for precision medicine applications which
 aim to target molecular mechanisms at the right stage of cancer
-progression.[]{label=&amp;amp;ldquo;fig:pst&amp;amp;rdquo;}&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+progression.[]{label=&amp;ldquo;fig:pst&amp;rdquo;}&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:pst
 width=&amp;ldquo;90%&amp;rdquo;}&lt;/p&gt;
@@ -2307,13 +2593,13 @@ reference=&amp;ldquo;fig:existing&amp;rdquo;}(c)).&lt;sup id=&#34;fnref:2&#34;&g
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/existing.png&#34; alt=&#34;&amp;lt;strong&amp;gt;Existing work.&amp;lt;/strong&amp;gt; (a) Neural decomposition VAE [@martens2020nd]uses
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/existing.png&#34; alt=&#34;Existing work. (a) Neural decomposition VAE [@martens2020nd]uses
 neural networks to provide a scalable Functional ANOVA type model with
 latent variables. (b) BasisVAE [@martens2020trans] uses translation- and
 scale-invariant clustering of features to allow us to group samples and
 features simultaneously (biclustering). (c) Application of our current
 disease progression models to the OXO-PCR OvCa trial cohort
-(unpublished).[]{label=&amp;amp;ldquo;fig:existing&amp;amp;rdquo;}&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+(unpublished).[]{label=&amp;ldquo;fig:existing&amp;rdquo;}&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:existing
 width=&amp;ldquo;85%&amp;rdquo;}&lt;/p&gt;
@@ -2374,7 +2660,7 @@ networks [@chen2018neural].&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/treatment.png&#34; alt=&#34;&amp;lt;strong&amp;gt;Mechanistic-driven models for quantifying treatment effects.&amp;lt;/strong&amp;gt; (a)
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/treatment.png&#34; alt=&#34;Mechanistic-driven models for quantifying treatment effects. (a)
 Treatments can act to push molecular states along the natural trajectory
 of the disease or to perturb the disease on to a new trajectory. (b)
 Treatment effects need to be quantified on the feature-level in order to
@@ -2383,7 +2669,7 @@ approach for modelling disease trajectories uses decoders within VAEs
 that are constrained to behave like ODEs by matching derivatives through
 the decoder neural network to the ODE $g$. We have recently utilised
 such ideas to develop neural network-based emulator for ODE solvers
-[@danks2020].[]{label=&amp;amp;ldquo;fig:treatment&amp;amp;rdquo;}&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+[@danks2020].[]{label=&amp;ldquo;fig:treatment&amp;rdquo;}&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:treatment
 width=&amp;ldquo;85%&amp;rdquo;}&lt;/p&gt;
@@ -2489,13 +2775,13 @@ recent high-profile applications, such as &lt;em&gt;AlphaGo&lt;/em&gt;, to train
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/rl.png&#34; alt=&#34;&amp;lt;strong&amp;gt;Reinforcement Learning for genomic copy number evolution.&amp;lt;/strong&amp;gt; (a) The
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;figs/rl.png&#34; alt=&#34;Reinforcement Learning for genomic copy number evolution. (a) The
 observed tumour genome is formed from a series of unseen copy number
 alteration events which must be inferred. (b) The transitions between
 each genomic state can be assumed to be Markovian and given by a
 transition probability distribution. (c) Inference can be framed as a
 reinforcement learning problem to learn policies that describe the
-transition probabilities.[]{label=&amp;amp;ldquo;fig:rl&amp;amp;rdquo;}&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+transition probabilities.[]{label=&amp;ldquo;fig:rl&amp;rdquo;}&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:rl
 width=&amp;ldquo;90%&amp;rdquo;}&lt;/p&gt;

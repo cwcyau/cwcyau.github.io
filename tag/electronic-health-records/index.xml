@@ -5,12 +5,33 @@
     <link>https://cwcyau.github.io/tag/electronic-health-records/</link>
       <atom:link href="https://cwcyau.github.io/tag/electronic-health-records/index.xml" rel="self" type="application/rss+xml" />
     <description>Electronic Health Records</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 12 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Electronic Health Records</title>
       <link>https://cwcyau.github.io/tag/electronic-health-records/</link>
     </image>
+    
+    <item>
+      <title>SurvivEHR preprint now available</title>
+      <link>https://cwcyau.github.io/post/2025-08-07_survivehr_medrxiv/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2025-08-07_survivehr_medrxiv/</guid>
+      <description>&lt;p&gt;A preprint of work by &lt;a href=&#34;../../authors/gadd&#34;&gt;Charles Gadd&lt;/a&gt; describing &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2025.08.04.25332916v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records&amp;rdquo;&lt;/a&gt; is now available on medRxiv.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Multiple long-term conditions (MLTCs) or multimorbidity &amp;ndash; the co-occurrence of multiple chronic conditions &amp;ndash;presents a growing challenge for primary care. Current predictive models often target single outcomes and overlook the complexities of time-to-event risk in real-world, longitudinal health data. Here, we present SurvivEHR, a generative transformer-based foundation model trained on over 7.6 billion coded events from 23 million patients in UK primary care. SurvivEHR introduces a competing risk time-to-event pretraining objective that enables accurate forecasting of future diagnoses, investigations, medications, and mortality. We demonstrate that SurvivEHR achieves strong risk stratification performance, captures clinically meaningful trajectories, and outperforms benchmark survival models across multiple tasks. The model also transfers effectively to fine-tuned prognostic tasks, particularly in low-resource settings. By learning patient trajectories directly from routine health records, SurvivEHR offers a scalable and privacy-preserving approach for building generalisable clinical risk tools that address the complexity of MLTCs in primary care..&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New report on Synthetic Data for Development of AI</title>
+      <link>https://cwcyau.github.io/post/2025-07-01_phg_synthetic/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2025-07-01_phg_synthetic/</guid>
+      <description>&lt;p&gt;Christopher Yau has contributed as a member of the expert working group to a new report &lt;a href=&#34;2025-08-07_SurvivEHR_medrxiv.md&#34;&gt;&amp;ldquo;The Synthetic Data for Development of AI as a Medical Device&amp;rdquo;&lt;/a&gt; now available via PHG Foundation:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Synthetic data is artificially generated data that reflects the properties and relationships found in real data. While synthetic data can play an important role in AIaMD development, its use in regulatory submissions introduces specific considerations, especially when it constitutes a substantial part of the evidence package.&lt;/p&gt;
+&lt;p&gt;The Synthetic Data for Development of AI as a Medical Device (AIaMDs) report, produced by the Medicines and Healthcare products Regulatory Agency (MHRA) and the PHG Foundation, outlines these considerations, building on and complementing existing regulatory guidance. This marks an important and exciting first step for manufacturers and notified bodies collectively navigating this evolving landscape. The report provides crucial groundwork, though more work is required to move past these preliminary ideas.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Multiple Long-Term Conditions Research Update</title>

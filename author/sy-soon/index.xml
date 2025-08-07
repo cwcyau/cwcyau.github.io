@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SY Soon | Yau Research Group</title>
-    <link>http://localhost:1313/author/sy-soon/</link>
-      <atom:link href="http://localhost:1313/author/sy-soon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/sy-soon/</link>
+      <atom:link href="https://cwcyau.github.io/author/sy-soon/index.xml" rel="self" type="application/rss+xml" />
     <description>SY Soon</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu11734318148517933569.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>SY Soon</title>
-      <link>http://localhost:1313/author/sy-soon/</link>
+      <link>https://cwcyau.github.io/author/sy-soon/</link>
     </image>
     
     <item>
       <title>Application of NBS Labeling technology on cellular protein quantitation and identification</title>
-      <link>http://localhost:1313/publication/kesuma-2004-application/</link>
+      <link>https://cwcyau.github.io/publication/kesuma-2004-application/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kesuma-2004-application/</guid>
+      <guid>https://cwcyau.github.io/publication/kesuma-2004-application/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic Proteome analysis of breast cancer cell lines</title>
-      <link>http://localhost:1313/publication/ou-2004-systematic/</link>
+      <link>https://cwcyau.github.io/publication/ou-2004-systematic/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ou-2004-systematic/</guid>
+      <guid>https://cwcyau.github.io/publication/ou-2004-systematic/</guid>
       <description></description>
     </item>
     

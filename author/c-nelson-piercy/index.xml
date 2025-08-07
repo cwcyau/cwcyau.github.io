@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C Nelson-Piercy | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/c-nelson-piercy/</link>
+      <atom:link href="https://cwcyau.github.io/author/c-nelson-piercy/index.xml" rel="self" type="application/rss+xml" />
+    <description>C Nelson-Piercy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>C Nelson-Piercy</title>
+      <link>https://cwcyau.github.io/author/c-nelson-piercy/</link>
+    </image>
+    
+    <item>
+      <title>ORCID: 0000-0001-9908-0773</title>
+      <link>https://cwcyau.github.io/publication/lee-2021-orcid/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/lee-2021-orcid/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

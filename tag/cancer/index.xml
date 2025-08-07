@@ -5,12 +5,22 @@
     <link>https://cwcyau.github.io/tag/cancer/</link>
       <atom:link href="https://cwcyau.github.io/tag/cancer/index.xml" rel="self" type="application/rss+xml" />
     <description>Cancer</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Cancer</title>
       <link>https://cwcyau.github.io/tag/cancer/</link>
     </image>
+    
+    <item>
+      <title>GPerturb in Nature Communications</title>
+      <link>https://cwcyau.github.io/post/2025-07-01_gperturb/</link>
+      <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2025-07-01_gperturb/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/xing&#34;&gt;Hanwen Xing&lt;/a&gt; on having his paper &lt;a href=&#34;https://www.nature.com/articles/s41467-025-61165-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;GPerturb: Gaussian process modelling of single-cell perturbation data&amp;rdquo;&lt;/a&gt; accepted in Nature Communications:&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Single-cell RNA sequencing and CRISPR screening enable high-throughput analysis of genetic perturbations at single-cell resolution. Understanding combinatorial perturbation effects is essential but challenging due to data sparsity and complex biological mechanisms. We present GPerturb, a Gaussian process-based sparse perturbation regression model designed to estimate gene-level perturbation effects. GPerturb employs an additive structure to separate signal from noise and captures sparse, interpretable effects from both discrete and continuous responses. It also provides uncertainty estimates for the presence and strength of perturbation effects on individual genes. We demonstrate the use GPerturb on both simulated and real-world datasets, characterising its competitive performance with current state-of-the-art methods. Furthermore, the model reveals meaningful gene-perturbation interactions and identifies effects consistent with known biology. GPerturb offers a novel approach for uncovering complex dependencies between gene expression and perturbations and advancing our understanding of gene regulation at the single-cell level.&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>MLCB 2024</title>

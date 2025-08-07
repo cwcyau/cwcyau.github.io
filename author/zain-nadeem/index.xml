@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zain Nadeem | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/zain-nadeem/</link>
+      <atom:link href="https://cwcyau.github.io/author/zain-nadeem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zain Nadeem</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>Zain Nadeem</title>
+      <link>https://cwcyau.github.io/author/zain-nadeem/</link>
+    </image>
+    
+    <item>
+      <title>O1 Using Machine Learning to predict the Severity of Acute Pancreatitis: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/nadeem-2025-o-1/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/nadeem-2025-o-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,12 +5,28 @@
     <link>https://cwcyau.github.io/publication-type/paper-conference/</link>
       <atom:link href="https://cwcyau.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu11734318148517933569.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Paper-Conference</title>
       <link>https://cwcyau.github.io/publication-type/paper-conference/</link>
     </image>
+    
+    <item>
+      <title>STATE-SPACE-LIKE MODELS TO CALL COPY NUMBERS</title>
+      <link>https://cwcyau.github.io/publication/visscher-2025-state/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/visscher-2025-state/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development and validation of a postpartum cardiovascular disease (CVD) risk prediction model in women with a history of pregnancy incorporating reproductive and pregnancy-related candidate predictors</title>
+      <link>https://cwcyau.github.io/publication/wambua-2024-development/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wambua-2024-development/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Disentangling shared and private latent factors in multimodal Variational Autoencoders</title>
@@ -21,10 +37,34 @@
     </item>
     
     <item>
+      <title>Mixed Type Multimorbidity Variational Autoencoder: A Deep Generative Model for Multimorbidity Analysis</title>
+      <link>https://cwcyau.github.io/publication/kim-2024-mixed/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/kim-2024-mixed/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pregnancy-related factors in risk prediction modelling for post-partum cardiovascular disease</title>
+      <link>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Derivative-based neural modelling of cumulative distribution functions for survival analysis</title>
       <link>https://cwcyau.github.io/publication/danks-2022-derivative/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/danks-2022-derivative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diagnosing Acute Appendicitis using Machine Learning: A Systematic Review</title>
+      <link>https://cwcyau.github.io/publication/chan-2022-diagnosing/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/chan-2022-diagnosing/</guid>
       <description></description>
     </item>
     
@@ -41,6 +81,14 @@
       <link>https://cwcyau.github.io/publication/gadd-2022-mmvae/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/gadd-2022-mmvae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimorbidity in pregnant women with health conditions that cause maternal death</title>
+      <link>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</guid>
       <description></description>
     </item>
     
@@ -89,14 +137,6 @@
       <link>https://cwcyau.github.io/publication/martens-2019-decomposing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/martens-2019-decomposing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Uncovering the long tail of oesophageal cancer driver genes for patient stratification</title>
-      <link>https://cwcyau.github.io/publication/benedetti-2019-uncovering/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/benedetti-2019-uncovering/</guid>
       <description></description>
     </item>
     
@@ -153,6 +193,22 @@
       <link>https://cwcyau.github.io/publication/holmes-2006-bayesian/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/publication/holmes-2006-bayesian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of NBS Labeling technology on cellular protein quantitation and identification</title>
+      <link>https://cwcyau.github.io/publication/kesuma-2004-application/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/kesuma-2004-application/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic Proteome analysis of breast cancer cell lines</title>
+      <link>https://cwcyau.github.io/publication/ou-2004-systematic/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/publication/ou-2004-systematic/</guid>
       <description></description>
     </item>
     
