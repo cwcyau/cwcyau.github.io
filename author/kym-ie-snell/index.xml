@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kym IE Snell | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/kym-ie-snell/</link>
-      <atom:link href="https://cwcyau.github.io/author/kym-ie-snell/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/kym-ie-snell/</link>
+      <atom:link href="http://localhost:1313/author/kym-ie-snell/index.xml" rel="self" type="application/rss+xml" />
     <description>Kym IE Snell</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Kym IE Snell</title>
-      <link>https://cwcyau.github.io/author/kym-ie-snell/</link>
+      <link>http://localhost:1313/author/kym-ie-snell/</link>
     </image>
     
     <item>
       <title>Association between pregnancy-related complications and development of type 2 diabetes and hypertension in women: an umbrella review</title>
-      <link>https://cwcyau.github.io/publication/wambua-2024-association/</link>
+      <link>http://localhost:1313/publication/wambua-2024-association/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/wambua-2024-association/</guid>
+      <guid>http://localhost:1313/publication/wambua-2024-association/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and validation of a postpartum cardiovascular disease (CVD) risk prediction model in women with a history of pregnancy incorporating reproductive and pregnancy-related candidate predictors</title>
-      <link>https://cwcyau.github.io/publication/wambua-2024-development/</link>
+      <link>http://localhost:1313/publication/wambua-2024-development/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/wambua-2024-development/</guid>
+      <guid>http://localhost:1313/publication/wambua-2024-development/</guid>
       <description></description>
     </item>
     

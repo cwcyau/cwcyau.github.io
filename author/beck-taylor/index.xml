@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Beck Taylor | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/beck-taylor/</link>
-      <atom:link href="https://cwcyau.github.io/author/beck-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/beck-taylor/</link>
+      <atom:link href="http://localhost:1313/author/beck-taylor/index.xml" rel="self" type="application/rss+xml" />
     <description>Beck Taylor</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Beck Taylor</title>
-      <link>https://cwcyau.github.io/author/beck-taylor/</link>
+      <link>http://localhost:1313/author/beck-taylor/</link>
     </image>
     
     <item>
       <title>Key outcomes for reporting in studies of pregnant women with multiple long-term conditions: a qualitative study</title>
-      <link>https://cwcyau.github.io/publication/lee-2023-key/</link>
+      <link>http://localhost:1313/publication/lee-2023-key/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/lee-2023-key/</guid>
+      <guid>http://localhost:1313/publication/lee-2023-key/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of maternal multimorbidity on the risk of preterm birth: Record-linkage study</title>
-      <link>https://cwcyau.github.io/publication/azcoaga-2022-effect/</link>
+      <link>http://localhost:1313/publication/azcoaga-2022-effect/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/azcoaga-2022-effect/</guid>
+      <guid>http://localhost:1313/publication/azcoaga-2022-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epidemiology of pre-existing multimorbidity in pregnant women in the UK in 2018: a population-based cross-sectional study</title>
-      <link>https://cwcyau.github.io/publication/lee-2022-epidemiology/</link>
+      <link>http://localhost:1313/publication/lee-2022-epidemiology/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/lee-2022-epidemiology/</guid>
+      <guid>http://localhost:1313/publication/lee-2022-epidemiology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimorbidity in pregnant women with health conditions that cause maternal death</title>
-      <link>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</link>
+      <link>http://localhost:1313/publication/lee-2022-multimorbidity/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</guid>
+      <guid>http://localhost:1313/publication/lee-2022-multimorbidity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Epidemiology of pre-existing multimorbidity in pregnant women in the UK in 2018: a cross-sectional study</title>
-      <link>https://cwcyau.github.io/publication/lee-2021-epidemiology/</link>
+      <link>http://localhost:1313/publication/lee-2021-epidemiology/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/lee-2021-epidemiology/</guid>
+      <guid>http://localhost:1313/publication/lee-2021-epidemiology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protocol for the development of a core outcome set for studies of pregnant women with pre-existing multimorbidity</title>
-      <link>https://cwcyau.github.io/publication/lee-2021-protocol/</link>
+      <link>http://localhost:1313/publication/lee-2021-protocol/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/lee-2021-protocol/</guid>
+      <guid>http://localhost:1313/publication/lee-2021-protocol/</guid>
       <description></description>
     </item>
     

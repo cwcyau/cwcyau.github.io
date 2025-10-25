@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bayesian | Yau Research Group</title>
-    <link>https://cwcyau.github.io/tag/bayesian/</link>
-      <atom:link href="https://cwcyau.github.io/tag/bayesian/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/bayesian/</link>
+      <atom:link href="http://localhost:1313/tag/bayesian/index.xml" rel="self" type="application/rss+xml" />
     <description>Bayesian</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Bayesian</title>
-      <link>https://cwcyau.github.io/tag/bayesian/</link>
+      <link>http://localhost:1313/tag/bayesian/</link>
     </image>
     
     <item>
       <title>New Nature Reviews Methods Primer</title>
-      <link>https://cwcyau.github.io/post/2021-01-14_bayesprimer/</link>
+      <link>http://localhost:1313/post/2021-01-14_bayesprimer/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-01-14_bayesprimer/</guid>
+      <guid>http://localhost:1313/post/2021-01-14_bayesprimer/</guid>
       <description>&lt;p&gt;Christopher Yau and Kaspar Martens have contributed to an article &lt;em&gt;Bayesian statistics and modelling&lt;/em&gt; for the new Nature Reviews Methods Primer journal.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s43586-020-00001-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to paper&lt;/a&gt;&lt;/li&gt;

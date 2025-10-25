@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Franziska Gunther | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/franziska-gunther/</link>
-      <atom:link href="https://cwcyau.github.io/author/franziska-gunther/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/franziska-gunther/</link>
+      <atom:link href="http://localhost:1313/author/franziska-gunther/index.xml" rel="self" type="application/rss+xml" />
     <description>Franziska Gunther</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://cwcyau.github.io/author/franziska-gunther/avatar_hu_a438973500ada1ff.jpeg</url>
+      <url>http://localhost:1313/author/franziska-gunther/avatar_hu_a438973500ada1ff.jpeg</url>
       <title>Franziska Gunther</title>
-      <link>https://cwcyau.github.io/author/franziska-gunther/</link>
+      <link>http://localhost:1313/author/franziska-gunther/</link>
     </image>
+    
+    <item>
+      <title>Franziska Gunther</title>
+      <link>http://localhost:1313/author/franziska-gunther/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/franziska-gunther/</guid>
+      <description>&lt;p&gt;Franziska was a joint PhD student with &lt;a href=&#34;https://www.research.manchester.ac.uk/portal/caroline.jay.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Caroline Jay&lt;/a&gt; in Computer Science and &lt;a href=&#34;http://www.breakingfreegroup.com/research&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sarah Elison-Davies&lt;/a&gt;, Research Director at Breaking Free Online. Franziska will be developing and applying data science methods to self-reported outcomes and digital behaviour intervention data as part of the collaboration with Breaking Free Online. She is now a postdoc in Germany.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

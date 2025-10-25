@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Robert N Jorissen | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/robert-n-jorissen/</link>
-      <atom:link href="https://cwcyau.github.io/author/robert-n-jorissen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/robert-n-jorissen/</link>
+      <atom:link href="http://localhost:1313/author/robert-n-jorissen/index.xml" rel="self" type="application/rss+xml" />
     <description>Robert N Jorissen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Robert N Jorissen</title>
-      <link>https://cwcyau.github.io/author/robert-n-jorissen/</link>
+      <link>http://localhost:1313/author/robert-n-jorissen/</link>
     </image>
     
     <item>
       <title>Colorectal cancer cell line proteomes are representative of primary tumors and predict drug sensitivity</title>
-      <link>https://cwcyau.github.io/publication/wang-2017-colorectal/</link>
+      <link>http://localhost:1313/publication/wang-2017-colorectal/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/wang-2017-colorectal/</guid>
+      <guid>http://localhost:1313/publication/wang-2017-colorectal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Survival in stage II/III colorectal cancer is independently predicted by chromosomal and microsatellite instability, but not by specific driver mutations</title>
-      <link>https://cwcyau.github.io/publication/mouradov-2013-survival/</link>
+      <link>http://localhost:1313/publication/mouradov-2013-survival/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/mouradov-2013-survival/</guid>
+      <guid>http://localhost:1313/publication/mouradov-2013-survival/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A statistical approach for detecting genomic aberrations in heterogeneous tumor samples from single nucleotide polymorphism genotyping data</title>
-      <link>https://cwcyau.github.io/publication/yau-2010-statistical/</link>
+      <link>http://localhost:1313/publication/yau-2010-statistical/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/yau-2010-statistical/</guid>
+      <guid>http://localhost:1313/publication/yau-2010-statistical/</guid>
       <description></description>
     </item>
     

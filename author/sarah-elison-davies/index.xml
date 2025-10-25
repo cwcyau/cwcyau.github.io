@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sarah Elison-Davies | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/sarah-elison-davies/</link>
-      <atom:link href="https://cwcyau.github.io/author/sarah-elison-davies/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/sarah-elison-davies/</link>
+      <atom:link href="http://localhost:1313/author/sarah-elison-davies/index.xml" rel="self" type="application/rss+xml" />
     <description>Sarah Elison-Davies</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Sarah Elison-Davies</title>
-      <link>https://cwcyau.github.io/author/sarah-elison-davies/</link>
+      <link>http://localhost:1313/author/sarah-elison-davies/</link>
     </image>
     
     <item>
       <title>Identifying factors associated with user retention and outcomes of a digital intervention for substance use disorder: a retrospective analysis of real-world data</title>
-      <link>https://cwcyau.github.io/publication/gunther-2023-identifying/</link>
+      <link>http://localhost:1313/publication/gunther-2023-identifying/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/gunther-2023-identifying/</guid>
+      <guid>http://localhost:1313/publication/gunther-2023-identifying/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the difficulty of predicting engagement with digital health for substance use</title>
-      <link>https://cwcyau.github.io/publication/gunther-2023-difficulty/</link>
+      <link>http://localhost:1313/publication/gunther-2023-difficulty/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/gunther-2023-difficulty/</guid>
+      <guid>http://localhost:1313/publication/gunther-2023-difficulty/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Associations between baseline opioid use disorder severity, mental health and biopsychosocial functioning, with clinical responses to computer-assisted therapy treatment</title>
-      <link>https://cwcyau.github.io/publication/elison-2021-associations/</link>
+      <link>http://localhost:1313/publication/elison-2021-associations/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/elison-2021-associations/</guid>
+      <guid>http://localhost:1313/publication/elison-2021-associations/</guid>
       <description></description>
     </item>
     

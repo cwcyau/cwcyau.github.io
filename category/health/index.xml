@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health | Yau Research Group</title>
-    <link>https://cwcyau.github.io/category/health/</link>
-      <atom:link href="https://cwcyau.github.io/category/health/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/category/health/</link>
+      <atom:link href="http://localhost:1313/category/health/index.xml" rel="self" type="application/rss+xml" />
     <description>Health</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Health</title>
-      <link>https://cwcyau.github.io/category/health/</link>
+      <link>http://localhost:1313/category/health/</link>
     </image>
     
     <item>
       <title>On the problem of early disease detection</title>
-      <link>https://cwcyau.github.io/post/earlydetection/</link>
+      <link>http://localhost:1313/post/earlydetection/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/earlydetection/</guid>
+      <guid>http://localhost:1313/post/earlydetection/</guid>
       <description>&lt;p&gt;The early detection of diseases is a highly desirable approach for addressing conditions where late stage disease cannot be easily treated or managed. Through early  detection, it may be possible to take actions to minimise future disease severity or even prevent disease occurrence altogether. However, while the general concept is readily accepted, putting early detection into practice is often far from straightforward.&lt;/p&gt;
 &lt;p&gt;In this post, I will outline some ideas that can underpin a conceptual framework for developing early detection markers and point out some common mistakes. This is intended to provide a non-technical guide to some principles that might stimulate suitable study designs in the future.&lt;/p&gt;
 &lt;h2 id=&#34;disease-progression&#34;&gt;Disease progression&lt;/h2&gt;

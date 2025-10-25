@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher Booth | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/christopher-booth/</link>
-      <atom:link href="https://cwcyau.github.io/author/christopher-booth/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/christopher-booth/</link>
+      <atom:link href="http://localhost:1313/author/christopher-booth/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Booth</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Christopher Booth</title>
-      <link>https://cwcyau.github.io/author/christopher-booth/</link>
+      <link>http://localhost:1313/author/christopher-booth/</link>
     </image>
     
     <item>
       <title>Integrated single cell analysis reveals cell cycle and ontogeny related transcriptional heterogeneity in HSCs</title>
-      <link>https://cwcyau.github.io/publication/povinelli-2018-integrated/</link>
+      <link>http://localhost:1313/publication/povinelli-2018-integrated/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/povinelli-2018-integrated/</guid>
+      <guid>http://localhost:1313/publication/povinelli-2018-integrated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unravelling cell cycle and ontogeny transcriptional heterogeneity in hematopoietic stem cells through integrated single cell RNA-seq</title>
-      <link>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</link>
+      <link>http://localhost:1313/publication/povinelli-2017-unravelling/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</guid>
+      <guid>http://localhost:1313/publication/povinelli-2017-unravelling/</guid>
       <description></description>
     </item>
     

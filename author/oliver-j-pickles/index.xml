@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oliver J Pickles | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/oliver-j-pickles/</link>
-      <atom:link href="https://cwcyau.github.io/author/oliver-j-pickles/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/oliver-j-pickles/</link>
+      <atom:link href="http://localhost:1313/author/oliver-j-pickles/index.xml" rel="self" type="application/rss+xml" />
     <description>Oliver J Pickles</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Oliver J Pickles</title>
-      <link>https://cwcyau.github.io/author/oliver-j-pickles/</link>
+      <link>http://localhost:1313/author/oliver-j-pickles/</link>
     </image>
     
     <item>
       <title>Patient derived organoids confirm that PI3K/AKT signalling is an escape pathway for radioresistance and a target for therapy in rectal cancer</title>
-      <link>https://cwcyau.github.io/publication/wanigasooriya-2022-patient/</link>
+      <link>http://localhost:1313/publication/wanigasooriya-2022-patient/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/wanigasooriya-2022-patient/</guid>
+      <guid>http://localhost:1313/publication/wanigasooriya-2022-patient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patient derived organoids reveal that PI3K/AKT signalling is an escape pathway for radioresistance and a target for therapy in rectal cancer</title>
-      <link>https://cwcyau.github.io/publication/wanigasooriya-2021-patient/</link>
+      <link>http://localhost:1313/publication/wanigasooriya-2021-patient/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/wanigasooriya-2021-patient/</guid>
+      <guid>http://localhost:1313/publication/wanigasooriya-2021-patient/</guid>
       <description></description>
     </item>
     

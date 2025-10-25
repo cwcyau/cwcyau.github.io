@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sylvie Gory-Fauré | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/sylvie-gory-faure/</link>
-      <atom:link href="https://cwcyau.github.io/author/sylvie-gory-faure/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/sylvie-gory-faure/</link>
+      <atom:link href="http://localhost:1313/author/sylvie-gory-faure/index.xml" rel="self" type="application/rss+xml" />
     <description>Sylvie Gory-Fauré</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Sylvie Gory-Fauré</title>
-      <link>https://cwcyau.github.io/author/sylvie-gory-faure/</link>
+      <link>http://localhost:1313/author/sylvie-gory-faure/</link>
     </image>
     
     <item>
       <title>Defective tubulin detyrosination causes structural brain abnormalities with cognitive deficiency in humans and mice</title>
-      <link>https://cwcyau.github.io/publication/pagnamenta-2019-defective/</link>
+      <link>http://localhost:1313/publication/pagnamenta-2019-defective/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/pagnamenta-2019-defective/</guid>
+      <guid>http://localhost:1313/publication/pagnamenta-2019-defective/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paul Kirk | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/paul-kirk/</link>
-      <atom:link href="https://cwcyau.github.io/author/paul-kirk/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/paul-kirk/</link>
+      <atom:link href="http://localhost:1313/author/paul-kirk/index.xml" rel="self" type="application/rss+xml" />
     <description>Paul Kirk</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Paul Kirk</title>
-      <link>https://cwcyau.github.io/author/paul-kirk/</link>
+      <link>http://localhost:1313/author/paul-kirk/</link>
     </image>
     
     <item>
       <title>Sociodemographic characteristics and longitudinal progression of multimorbidity</title>
-      <link>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</link>
+      <link>http://localhost:1313/publication/chen-2023-sociodemographic/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</guid>
+      <guid>http://localhost:1313/publication/chen-2023-sociodemographic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In simulated data and health records, latent class analysis was the optimum multimorbidity clustering algorithm</title>
-      <link>https://cwcyau.github.io/publication/nichols-2022-simulated/</link>
+      <link>http://localhost:1313/publication/nichols-2022-simulated/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/nichols-2022-simulated/</guid>
+      <guid>http://localhost:1313/publication/nichols-2022-simulated/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AK Walker | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/ak-walker/</link>
-      <atom:link href="https://cwcyau.github.io/author/ak-walker/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ak-walker/</link>
+      <atom:link href="http://localhost:1313/author/ak-walker/index.xml" rel="self" type="application/rss+xml" />
     <description>AK Walker</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>AK Walker</title>
-      <link>https://cwcyau.github.io/author/ak-walker/</link>
+      <link>http://localhost:1313/author/ak-walker/</link>
     </image>
     
     <item>
       <title>Correction: Corrigendum: Whole-genome sequencing of bladder cancers reveals somatic CDKN1A mutations and clinicopathological associations with mutation burden</title>
-      <link>https://cwcyau.github.io/publication/cazier-2014-correction/</link>
+      <link>http://localhost:1313/publication/cazier-2014-correction/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/cazier-2014-correction/</guid>
+      <guid>http://localhost:1313/publication/cazier-2014-correction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whole-genome sequencing of bladder cancers reveals somatic CDKN1A mutations and clinicopathological associations with mutation burden</title>
-      <link>https://cwcyau.github.io/publication/cazier-2014-whole/</link>
+      <link>http://localhost:1313/publication/cazier-2014-whole/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/cazier-2014-whole/</guid>
+      <guid>http://localhost:1313/publication/cazier-2014-whole/</guid>
       <description></description>
     </item>
     

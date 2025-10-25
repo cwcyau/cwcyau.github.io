@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alexander PL Martindale | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/alexander-pl-martindale/</link>
-      <atom:link href="https://cwcyau.github.io/author/alexander-pl-martindale/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/alexander-pl-martindale/</link>
+      <atom:link href="http://localhost:1313/author/alexander-pl-martindale/index.xml" rel="self" type="application/rss+xml" />
     <description>Alexander PL Martindale</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Alexander PL Martindale</title>
-      <link>https://cwcyau.github.io/author/alexander-pl-martindale/</link>
+      <link>http://localhost:1313/author/alexander-pl-martindale/</link>
     </image>
     
     <item>
       <title>Author Correction: Concordance of randomised controlled trials for artificial intelligence interventions with the CONSORT-AI reporting guidelines</title>
-      <link>https://cwcyau.github.io/publication/martindale-2024-author/</link>
+      <link>http://localhost:1313/publication/martindale-2024-author/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/martindale-2024-author/</guid>
+      <guid>http://localhost:1313/publication/martindale-2024-author/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Concordance of randomised controlled trials for artificial intelligence interventions with the CONSORT-AI reporting guidelines</title>
-      <link>https://cwcyau.github.io/publication/martindale-2024-concordance/</link>
+      <link>http://localhost:1313/publication/martindale-2024-concordance/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/martindale-2024-concordance/</guid>
+      <guid>http://localhost:1313/publication/martindale-2024-concordance/</guid>
       <description></description>
     </item>
     

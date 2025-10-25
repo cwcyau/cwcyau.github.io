@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Omics | Yau Research Group</title>
-    <link>https://cwcyau.github.io/tag/omics/</link>
-      <atom:link href="https://cwcyau.github.io/tag/omics/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/omics/</link>
+      <atom:link href="http://localhost:1313/tag/omics/index.xml" rel="self" type="application/rss+xml" />
     <description>Omics</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Omics</title>
-      <link>https://cwcyau.github.io/tag/omics/</link>
+      <link>http://localhost:1313/tag/omics/</link>
     </image>
     
     <item>
       <title>Nature Communications Paper on personalised metabolic models</title>
-      <link>https://cwcyau.github.io/post/2022-11-29_naturecomms/</link>
+      <link>http://localhost:1313/post/2022-11-29_naturecomms/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2022-11-29_naturecomms/</guid>
+      <guid>http://localhost:1313/post/2022-11-29_naturecomms/</guid>
       <description>&lt;p&gt;In a collaboration led by Carles Foguet and &lt;a href=&#34;https://www.inouyelab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mike Inouye&lt;/a&gt;, &lt;a href=&#34;../../author/yau&#34;&gt;Christopher Yau&lt;/a&gt; contributed to &lt;a href=&#34;https://www.nature.com/articles/s41467-022-35017-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genetically personalised organ-specific metabolic models in health and disease&lt;/a&gt; which has been published in Nature Communications.&lt;/p&gt;
 </description>
     </item>

@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>David Mannion | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/david-mannion/</link>
-      <atom:link href="https://cwcyau.github.io/author/david-mannion/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/david-mannion/</link>
+      <atom:link href="http://localhost:1313/author/david-mannion/index.xml" rel="self" type="application/rss+xml" />
     <description>David Mannion</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>David Mannion</title>
-      <link>https://cwcyau.github.io/author/david-mannion/</link>
+      <link>http://localhost:1313/author/david-mannion/</link>
     </image>
     
     <item>
       <title>Author Correction: Tuning microtubule dynamics to enhance cancer therapy by modulating FER-mediated CRMP2 phosphorylation</title>
-      <link>https://cwcyau.github.io/publication/zheng-2022-author/</link>
+      <link>http://localhost:1313/publication/zheng-2022-author/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/zheng-2022-author/</guid>
+      <guid>http://localhost:1313/publication/zheng-2022-author/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tuning microtubule dynamics to enhance cancer therapy by modulating FER-mediated CRMP2 phosphorylation (vol 9, 476, 2018)</title>
-      <link>https://cwcyau.github.io/publication/zheng-2022-tuning/</link>
+      <link>http://localhost:1313/publication/zheng-2022-tuning/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/zheng-2022-tuning/</guid>
+      <guid>http://localhost:1313/publication/zheng-2022-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tuning microtubule dynamics to enhance cancer therapy by modulating FER-mediated CRMP2 phosphorylation</title>
-      <link>https://cwcyau.github.io/publication/zheng-2018-tuning/</link>
+      <link>http://localhost:1313/publication/zheng-2018-tuning/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/zheng-2018-tuning/</guid>
+      <guid>http://localhost:1313/publication/zheng-2018-tuning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Salt-inducible kinase 2 couples ovarian cancer cell metabolism with survival at the adipocyte-rich metastatic niche</title>
-      <link>https://cwcyau.github.io/publication/miranda-2016-salt/</link>
+      <link>http://localhost:1313/publication/miranda-2016-salt/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/miranda-2016-salt/</guid>
+      <guid>http://localhost:1313/publication/miranda-2016-salt/</guid>
       <description></description>
     </item>
     

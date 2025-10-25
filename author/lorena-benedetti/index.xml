@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lorena Benedetti | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/lorena-benedetti/</link>
-      <atom:link href="https://cwcyau.github.io/author/lorena-benedetti/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lorena-benedetti/</link>
+      <atom:link href="http://localhost:1313/author/lorena-benedetti/index.xml" rel="self" type="application/rss+xml" />
     <description>Lorena Benedetti</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Lorena Benedetti</title>
-      <link>https://cwcyau.github.io/author/lorena-benedetti/</link>
+      <link>http://localhost:1313/author/lorena-benedetti/</link>
     </image>
     
     <item>
       <title>Patient-specific cancer genes contribute to recurrently perturbed pathways and establish therapeutic vulnerabilities in esophageal adenocarcinoma</title>
-      <link>https://cwcyau.github.io/publication/mourikis-2019-patient/</link>
+      <link>http://localhost:1313/publication/mourikis-2019-patient/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/mourikis-2019-patient/</guid>
+      <guid>http://localhost:1313/publication/mourikis-2019-patient/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uncovering the long tail of oesophageal cancer driver genes for patient stratification</title>
-      <link>https://cwcyau.github.io/publication/benedetti-2019-uncovering/</link>
+      <link>http://localhost:1313/publication/benedetti-2019-uncovering/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/benedetti-2019-uncovering/</guid>
+      <guid>http://localhost:1313/publication/benedetti-2019-uncovering/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Artificial Intelligence | Yau Research Group</title>
-    <link>https://cwcyau.github.io/category/artificial-intelligence/</link>
-      <atom:link href="https://cwcyau.github.io/category/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/category/artificial-intelligence/</link>
+      <atom:link href="http://localhost:1313/category/artificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>Artificial Intelligence</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 14 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Artificial Intelligence</title>
-      <link>https://cwcyau.github.io/category/artificial-intelligence/</link>
+      <link>http://localhost:1313/category/artificial-intelligence/</link>
     </image>
     
     <item>
       <title>New Nature Reviews Methods Primer</title>
-      <link>https://cwcyau.github.io/post/2021-01-14_bayesprimer/</link>
+      <link>http://localhost:1313/post/2021-01-14_bayesprimer/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-01-14_bayesprimer/</guid>
+      <guid>http://localhost:1313/post/2021-01-14_bayesprimer/</guid>
       <description>&lt;p&gt;Christopher Yau and Kaspar Martens have contributed to an article &lt;em&gt;Bayesian statistics and modelling&lt;/em&gt; for the new Nature Reviews Methods Primer journal.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s43586-020-00001-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to paper&lt;/a&gt;&lt;/li&gt;
@@ -26,9 +26,9 @@
     
     <item>
       <title>Times Radio</title>
-      <link>https://cwcyau.github.io/post/2020-12-05_timesradio/</link>
+      <link>http://localhost:1313/post/2020-12-05_timesradio/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-12-05_timesradio/</guid>
+      <guid>http://localhost:1313/post/2020-12-05_timesradio/</guid>
       <description>&lt;p&gt;Christopher Yau appeared on the Hugo Rifkind on Times.Radio with Dame Janet Thornton and Tech Journalist Tom Chivers to discuss artificial intelligence and the recent AlphaFold2 development by Google Deepmind.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thetimes.co.uk/radio/show/20201205-3541/2020-12-05&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Rifkind, Times.Radio&lt;/a&gt;&lt;/li&gt;
@@ -38,9 +38,9 @@
     
     <item>
       <title>New eLife publication: A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
-      <link>https://cwcyau.github.io/post/2020-05-21_digipico/</link>
+      <link>http://localhost:1313/post/2020-05-21_digipico/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-05-21_digipico/</guid>
+      <guid>http://localhost:1313/post/2020-05-21_digipico/</guid>
       <description>&lt;p&gt;Bulk whole genome sequencing (WGS) enables the analysis of tumor evolution but, because of depth limitations, can only identify old mutational events. The discovery of current mutational processes for predicting the tumor&amp;rsquo;s evolutionary trajectory requires dense sequencing of individual clones or single cells. Such studies, however, are inherently problematic because of the discovery of excessive false positive mutations when sequencing picogram quantities of DNA. Data pooling to increase the confidence in the discovered mutations, moves the discovery back in the past to a common ancestor. Here we report a robust whole genome sequencing and analysis pipeline (DigiPico/MutLX) that virtually eliminates all false positive results while retaining an excellent proportion of true positives. Using our method, we identified, for the first time, a hyper-mutation (kataegis) event in a group of ∼30 cancer cells from a recurrent ovarian carcinoma. This was unidentifiable from the bulk WGS data. Overall, we propose DigiPico/MutLX method as a powerful framework for the identification of clone-specific variants at an unprecedented accuracy.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://elifesciences.org/articles/55207&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; is published in &lt;a href=&#34;https://elifesciences.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLife&lt;/a&gt; along with a &lt;a href=&#34;https://elifesciences.org/articles/57678&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;commentary&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -48,9 +48,9 @@
     
     <item>
       <title>PHG Foundation - Artificial intelligence for genomic medicine</title>
-      <link>https://cwcyau.github.io/post/2020-05-23_phg/</link>
+      <link>http://localhost:1313/post/2020-05-23_phg/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-05-23_phg/</guid>
+      <guid>http://localhost:1313/post/2020-05-23_phg/</guid>
       <description>&lt;p&gt;The PHG Foundation has published a report on &lt;a href=&#34;https://www.phgfoundation.org/blog/genomics-and-artificial-intelligence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial intelligence for genomic medicine&lt;/a&gt;. Christopher Yau is very pleased to have been able to share his experience and insight into the subjects covered in this report.&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thesis | Yau Research Group</title>
-    <link>https://cwcyau.github.io/publication-type/thesis/</link>
-      <atom:link href="https://cwcyau.github.io/publication-type/thesis/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/publication-type/thesis/</link>
+      <atom:link href="http://localhost:1313/publication-type/thesis/index.xml" rel="self" type="application/rss+xml" />
     <description>Thesis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Thesis</title>
-      <link>https://cwcyau.github.io/publication-type/thesis/</link>
+      <link>http://localhost:1313/publication-type/thesis/</link>
     </image>
     
     <item>
       <title>Statistical methodologies for the identification of copy number variation in mammalian genomes from high-throughput genomic datasets</title>
-      <link>https://cwcyau.github.io/publication/yau-2008-statistical/</link>
+      <link>http://localhost:1313/publication/yau-2008-statistical/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/yau-2008-statistical/</guid>
+      <guid>http://localhost:1313/publication/yau-2008-statistical/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeremie Becker | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/jeremie-becker/</link>
-      <atom:link href="https://cwcyau.github.io/author/jeremie-becker/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jeremie-becker/</link>
+      <atom:link href="http://localhost:1313/author/jeremie-becker/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeremie Becker</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Jeremie Becker</title>
-      <link>https://cwcyau.github.io/author/jeremie-becker/</link>
+      <link>http://localhost:1313/author/jeremie-becker/</link>
     </image>
     
     <item>
       <title>NucleoFinder: a statistical approach for the detection of nucleosome positions</title>
-      <link>https://cwcyau.github.io/publication/becker-2013-nucleofinder/</link>
+      <link>http://localhost:1313/publication/becker-2013-nucleofinder/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/becker-2013-nucleofinder/</guid>
+      <guid>http://localhost:1313/publication/becker-2013-nucleofinder/</guid>
       <description></description>
     </item>
     

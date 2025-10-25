@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Other | Yau Research Group</title>
-    <link>https://cwcyau.github.io/tag/other/</link>
-      <atom:link href="https://cwcyau.github.io/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/other/</link>
+      <atom:link href="http://localhost:1313/tag/other/index.xml" rel="self" type="application/rss+xml" />
     <description>Other</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Other</title>
-      <link>https://cwcyau.github.io/tag/other/</link>
+      <link>http://localhost:1313/tag/other/</link>
     </image>
     
     <item>
       <title>Health Data Research UK-Turing PhD Programme</title>
-      <link>https://cwcyau.github.io/event/hdruk-phd/</link>
+      <link>http://localhost:1313/event/hdruk-phd/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/event/hdruk-phd/</guid>
+      <guid>http://localhost:1313/event/hdruk-phd/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://www.hdruk.ac.uk/talent-training/hdr-uk-turing-phd-programme-funded-by-the-wellcome-trust/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Research UK-Turing PhD programme in Health Data Science&lt;/a&gt; aims to develop future leaders in health data science. Its underlying philosophy is that health data science requires a combination of expertise spanning three fundamental areas: statistical, computational and health sciences.&lt;/p&gt;
 &lt;p&gt;We’re looking for students who want to make a difference. People who want to work together to combine statistics and computation skills within a health setting to overcome existing challenges and look to develop new opportunities.&lt;/p&gt;
 &lt;p&gt;You will develop your background in quantitative science (e.g. maths, statistics, physics, engineering, computing) and learn new skills within the health and biomedical communities, so that together you can undertake ground-breaking research.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Co-Director:&lt;/em&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://cwcyau.github.io/authors/admin/&#34;&gt;Christopher Yau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/authors/admin/&#34;&gt;Christopher Yau&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

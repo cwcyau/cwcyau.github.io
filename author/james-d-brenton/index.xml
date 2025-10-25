@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James D Brenton | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/james-d-brenton/</link>
-      <atom:link href="https://cwcyau.github.io/author/james-d-brenton/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/james-d-brenton/</link>
+      <atom:link href="http://localhost:1313/author/james-d-brenton/index.xml" rel="self" type="application/rss+xml" />
     <description>James D Brenton</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>James D Brenton</title>
-      <link>https://cwcyau.github.io/author/james-d-brenton/</link>
+      <link>http://localhost:1313/author/james-d-brenton/</link>
     </image>
     
     <item>
       <title>Promises and challenges of adoptive T-cell therapies for solid tumours</title>
-      <link>https://cwcyau.github.io/publication/morotti-2021-promises/</link>
+      <link>http://localhost:1313/publication/morotti-2021-promises/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/morotti-2021-promises/</guid>
+      <guid>http://localhost:1313/publication/morotti-2021-promises/</guid>
       <description></description>
     </item>
     

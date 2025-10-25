@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samantha JL Knight | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/samantha-jl-knight/</link>
-      <atom:link href="https://cwcyau.github.io/author/samantha-jl-knight/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/samantha-jl-knight/</link>
+      <atom:link href="http://localhost:1313/author/samantha-jl-knight/index.xml" rel="self" type="application/rss+xml" />
     <description>Samantha JL Knight</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Samantha JL Knight</title>
-      <link>https://cwcyau.github.io/author/samantha-jl-knight/</link>
+      <link>http://localhost:1313/author/samantha-jl-knight/</link>
     </image>
     
     <item>
       <title>The Identification of Further Minimal Regions of Overlap in Chronic Lymphocytic Leukemia Using High-Resolution SNP Arrays</title>
-      <link>https://cwcyau.github.io/publication/knight-2014-identification/</link>
+      <link>http://localhost:1313/publication/knight-2014-identification/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/knight-2014-identification/</guid>
+      <guid>http://localhost:1313/publication/knight-2014-identification/</guid>
       <description></description>
     </item>
     

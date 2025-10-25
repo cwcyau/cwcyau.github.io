@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Maite Cabes | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/maite-cabes/</link>
-      <atom:link href="https://cwcyau.github.io/author/maite-cabes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/maite-cabes/</link>
+      <atom:link href="http://localhost:1313/author/maite-cabes/index.xml" rel="self" type="application/rss+xml" />
     <description>Maite Cabes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Maite Cabes</title>
-      <link>https://cwcyau.github.io/author/maite-cabes/</link>
+      <link>http://localhost:1313/author/maite-cabes/</link>
     </image>
     
     <item>
       <title>Towards Response Prediction Using Integrated Genomics in Chronic Lymphocytic Leukaemia: Results on 250 First-Line FCR Treated Patients from UK Clinical Trials</title>
-      <link>https://cwcyau.github.io/publication/clifford-2014-towards/</link>
+      <link>http://localhost:1313/publication/clifford-2014-towards/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/clifford-2014-towards/</guid>
+      <guid>http://localhost:1313/publication/clifford-2014-towards/</guid>
       <description></description>
     </item>
     

@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yun Feng | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/yun-feng/</link>
-      <atom:link href="https://cwcyau.github.io/author/yun-feng/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yun-feng/</link>
+      <atom:link href="http://localhost:1313/author/yun-feng/index.xml" rel="self" type="application/rss+xml" />
     <description>Yun Feng</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://cwcyau.github.io/author/yun-feng/avatar_hu_2a9d2d8987b82bea.jpg</url>
+      <url>http://localhost:1313/author/yun-feng/avatar_hu_2a9d2d8987b82bea.jpg</url>
       <title>Yun Feng</title>
-      <link>https://cwcyau.github.io/author/yun-feng/</link>
+      <link>http://localhost:1313/author/yun-feng/</link>
     </image>
+    
+    <item>
+      <title>Yun Feng</title>
+      <link>http://localhost:1313/author/yun-feng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/yun-feng/</guid>
+      <description>&lt;p&gt;Yun Feng completed his DPhil as an Oxford Nuffield Department of Medicine-Cancer Research UK Prize Scholarship student working on cancer genomics modelling. He was jointly supervised by Dr David Church. He is now Senior Associate in the &lt;a href=&#34;https://www.jpmorgan.com/technology/applied-ai-and-ml&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning Centre of Excellence&lt;/a&gt;) team at JP Morgan &amp;amp; Chase.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

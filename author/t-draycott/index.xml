@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>T Draycott | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/t-draycott/</link>
-      <atom:link href="https://cwcyau.github.io/author/t-draycott/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/t-draycott/</link>
+      <atom:link href="http://localhost:1313/author/t-draycott/index.xml" rel="self" type="application/rss+xml" />
     <description>T Draycott</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>T Draycott</title>
-      <link>https://cwcyau.github.io/author/t-draycott/</link>
+      <link>http://localhost:1313/author/t-draycott/</link>
     </image>
     
     <item>
       <title>Provision of Data Analysis and Economic Evaluation of the Incentivisation Scheme in support of Sign up to Safety on behalf of the NHS Litigation Authority</title>
-      <link>https://cwcyau.github.io/publication/pizzo-2017-provision/</link>
+      <link>http://localhost:1313/publication/pizzo-2017-provision/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/pizzo-2017-provision/</guid>
+      <guid>http://localhost:1313/publication/pizzo-2017-provision/</guid>
       <description></description>
     </item>
     

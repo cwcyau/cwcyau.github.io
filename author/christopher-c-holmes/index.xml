@@ -2,77 +2,77 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher C Holmes | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/christopher-c-holmes/</link>
-      <atom:link href="https://cwcyau.github.io/author/christopher-c-holmes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/christopher-c-holmes/</link>
+      <atom:link href="http://localhost:1313/author/christopher-c-holmes/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher C Holmes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Christopher C Holmes</title>
-      <link>https://cwcyau.github.io/author/christopher-c-holmes/</link>
+      <link>http://localhost:1313/author/christopher-c-holmes/</link>
     </image>
     
     <item>
       <title>Statistical inference in hidden Markov models using k-segment constraints</title>
-      <link>https://cwcyau.github.io/publication/titsias-2016-statistical/</link>
+      <link>http://localhost:1313/publication/titsias-2016-statistical/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/titsias-2016-statistical/</guid>
+      <guid>http://localhost:1313/publication/titsias-2016-statistical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A decision-theoretic approach for segmental classification</title>
-      <link>https://cwcyau.github.io/publication/yau-2013-decision/</link>
+      <link>http://localhost:1313/publication/yau-2013-decision/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/yau-2013-decision/</guid>
+      <guid>http://localhost:1313/publication/yau-2013-decision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NucleoFinder: a statistical approach for the detection of nucleosome positions</title>
-      <link>https://cwcyau.github.io/publication/becker-2013-nucleofinder/</link>
+      <link>http://localhost:1313/publication/becker-2013-nucleofinder/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/becker-2013-nucleofinder/</guid>
+      <guid>http://localhost:1313/publication/becker-2013-nucleofinder/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A statistical approach for detecting genomic aberrations in heterogeneous tumor samples from single nucleotide polymorphism genotyping data</title>
-      <link>https://cwcyau.github.io/publication/yau-2010-statistical/</link>
+      <link>http://localhost:1313/publication/yau-2010-statistical/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/yau-2010-statistical/</guid>
+      <guid>http://localhost:1313/publication/yau-2010-statistical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>On the utility of graphics cards to perform massively parallel simulation of advanced Monte Carlo methods</title>
-      <link>https://cwcyau.github.io/publication/lee-2010-utility/</link>
+      <link>http://localhost:1313/publication/lee-2010-utility/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/lee-2010-utility/</guid>
+      <guid>http://localhost:1313/publication/lee-2010-utility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A genotype calling algorithm for the illumina beadarray platform</title>
-      <link>https://cwcyau.github.io/publication/giannoulatou-2008-genotype/</link>
+      <link>http://localhost:1313/publication/giannoulatou-2008-genotype/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/giannoulatou-2008-genotype/</guid>
+      <guid>http://localhost:1313/publication/giannoulatou-2008-genotype/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GenoSNP: a variational Bayes within-sample SNP genotyping algorithm that does not require a reference population</title>
-      <link>https://cwcyau.github.io/publication/giannoulatou-2008-genosnp/</link>
+      <link>http://localhost:1313/publication/giannoulatou-2008-genosnp/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/giannoulatou-2008-genosnp/</guid>
+      <guid>http://localhost:1313/publication/giannoulatou-2008-genosnp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QuantiSNP: an Objective Bayes Hidden-Markov Model to detect and accurately map copy number variation using SNP genotyping data</title>
-      <link>https://cwcyau.github.io/publication/colella-2007-quantisnp/</link>
+      <link>http://localhost:1313/publication/colella-2007-quantisnp/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/colella-2007-quantisnp/</guid>
+      <guid>http://localhost:1313/publication/colella-2007-quantisnp/</guid>
       <description></description>
     </item>
     

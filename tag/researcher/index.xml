@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Researcher | Yau Research Group</title>
-    <link>https://cwcyau.github.io/tag/researcher/</link>
-      <atom:link href="https://cwcyau.github.io/tag/researcher/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tag/researcher/</link>
+      <atom:link href="http://localhost:1313/tag/researcher/index.xml" rel="self" type="application/rss+xml" />
     <description>Researcher</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Researcher</title>
-      <link>https://cwcyau.github.io/tag/researcher/</link>
+      <link>http://localhost:1313/tag/researcher/</link>
     </image>
     
     <item>
       <title>HDRUK PhD Director</title>
-      <link>https://cwcyau.github.io/post/2021-04-01_hdruk_director/</link>
+      <link>http://localhost:1313/post/2021-04-01_hdruk_director/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-04-01_hdruk_director/</guid>
+      <guid>http://localhost:1313/post/2021-04-01_hdruk_director/</guid>
       <description>&lt;p&gt;Health Data Research UK is pleased to announce the appointment of Professor Christopher Yau as Director of its HDRUK-Turing Wellcome PhD Programme in Health Data Science, starting 1 April 2021. (&lt;a href=&#34;https://www.hdruk.ac.uk/news/christopher-yau-appointed-director-of-health-data-research-uk-turing-wellcome-phd-programme/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.hdruk.ac.uk/news/christopher-yau-appointed-director-of-health-data-research-uk-turing-wellcome-phd-programme/)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CC Holmes | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/cc-holmes/</link>
-      <atom:link href="https://cwcyau.github.io/author/cc-holmes/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/cc-holmes/</link>
+      <atom:link href="http://localhost:1313/author/cc-holmes/index.xml" rel="self" type="application/rss+xml" />
     <description>CC Holmes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>CC Holmes</title>
-      <link>https://cwcyau.github.io/author/cc-holmes/</link>
+      <link>http://localhost:1313/author/cc-holmes/</link>
     </image>
     
     <item>
       <title>CNV discovery using SNP genotyping arrays</title>
-      <link>https://cwcyau.github.io/publication/yau-2008-cnv/</link>
+      <link>http://localhost:1313/publication/yau-2008-cnv/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/yau-2008-cnv/</guid>
+      <guid>http://localhost:1313/publication/yau-2008-cnv/</guid>
       <description></description>
     </item>
     

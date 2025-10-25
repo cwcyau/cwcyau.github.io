@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Garry Mallett | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/garry-mallett/</link>
-      <atom:link href="https://cwcyau.github.io/author/garry-mallett/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/garry-mallett/</link>
+      <atom:link href="http://localhost:1313/author/garry-mallett/index.xml" rel="self" type="application/rss+xml" />
     <description>Garry Mallett</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Garry Mallett</title>
-      <link>https://cwcyau.github.io/author/garry-mallett/</link>
+      <link>http://localhost:1313/author/garry-mallett/</link>
     </image>
     
     <item>
       <title>Adipocyte-like signature in ovarian cancer minimal residual disease identifies metabolic vulnerabilities of tumor initiating cells</title>
-      <link>https://cwcyau.github.io/publication/artibani-2021-adipocyte/</link>
+      <link>http://localhost:1313/publication/artibani-2021-adipocyte/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/artibani-2021-adipocyte/</guid>
+      <guid>http://localhost:1313/publication/artibani-2021-adipocyte/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ahmed a Ahmed | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/ahmed-a-ahmed/</link>
-      <atom:link href="https://cwcyau.github.io/author/ahmed-a-ahmed/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/ahmed-a-ahmed/</link>
+      <atom:link href="http://localhost:1313/author/ahmed-a-ahmed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ahmed a Ahmed</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Ahmed a Ahmed</title>
-      <link>https://cwcyau.github.io/author/ahmed-a-ahmed/</link>
+      <link>http://localhost:1313/author/ahmed-a-ahmed/</link>
     </image>
     
     <item>
       <title>An interpretable meta-clustering framework for single-cell RNA-Seq data integration and evaluation</title>
-      <link>https://cwcyau.github.io/publication/hu-2021-interpretable/</link>
+      <link>http://localhost:1313/publication/hu-2021-interpretable/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/hu-2021-interpretable/</guid>
+      <guid>http://localhost:1313/publication/hu-2021-interpretable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation</title>
-      <link>https://cwcyau.github.io/publication/hu-2021-cider/</link>
+      <link>http://localhost:1313/publication/hu-2021-cider/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/hu-2021-cider/</guid>
+      <guid>http://localhost:1313/publication/hu-2021-cider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
-      <link>https://cwcyau.github.io/publication/karaminejadranjbar-2020-highly/</link>
+      <link>http://localhost:1313/publication/karaminejadranjbar-2020-highly/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/karaminejadranjbar-2020-highly/</guid>
+      <guid>http://localhost:1313/publication/karaminejadranjbar-2020-highly/</guid>
       <description></description>
     </item>
     

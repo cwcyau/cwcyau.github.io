@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shivan Sivakumar | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/shivan-sivakumar/</link>
-      <atom:link href="https://cwcyau.github.io/author/shivan-sivakumar/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/shivan-sivakumar/</link>
+      <atom:link href="http://localhost:1313/author/shivan-sivakumar/index.xml" rel="self" type="application/rss+xml" />
     <description>Shivan Sivakumar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Shivan Sivakumar</title>
-      <link>https://cwcyau.github.io/author/shivan-sivakumar/</link>
+      <link>http://localhost:1313/author/shivan-sivakumar/</link>
     </image>
     
     <item>
       <title>Genomic profiling in pancreatic cancer reveals spatial genetic heterogeneity but spatial transcriptomic homogeneity</title>
-      <link>https://cwcyau.github.io/publication/sivakumar-2020-genomic/</link>
+      <link>http://localhost:1313/publication/sivakumar-2020-genomic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/sivakumar-2020-genomic/</guid>
+      <guid>http://localhost:1313/publication/sivakumar-2020-genomic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunophenotypes of pancreatic ductal adenocarcinoma: Meta-analysis of transcriptional subtypes</title>
-      <link>https://cwcyau.github.io/publication/de-2019-immunophenotypes/</link>
+      <link>http://localhost:1313/publication/de-2019-immunophenotypes/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/de-2019-immunophenotypes/</guid>
+      <guid>http://localhost:1313/publication/de-2019-immunophenotypes/</guid>
       <description></description>
     </item>
     

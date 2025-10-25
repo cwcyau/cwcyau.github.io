@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simon Fiddy | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/simon-fiddy/</link>
-      <atom:link href="https://cwcyau.github.io/author/simon-fiddy/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/simon-fiddy/</link>
+      <atom:link href="http://localhost:1313/author/simon-fiddy/index.xml" rel="self" type="application/rss+xml" />
     <description>Simon Fiddy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Simon Fiddy</title>
-      <link>https://cwcyau.github.io/author/simon-fiddy/</link>
+      <link>http://localhost:1313/author/simon-fiddy/</link>
     </image>
     
     <item>
       <title>Factors influencing success of clinical genome sequencing across a broad spectrum of disorders</title>
-      <link>https://cwcyau.github.io/publication/taylor-2015-factors/</link>
+      <link>http://localhost:1313/publication/taylor-2015-factors/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/taylor-2015-factors/</guid>
+      <guid>http://localhost:1313/publication/taylor-2015-factors/</guid>
       <description></description>
     </item>
     

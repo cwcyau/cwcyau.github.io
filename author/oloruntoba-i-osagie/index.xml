@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oloruntoba I Osagie | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/oloruntoba-i-osagie/</link>
-      <atom:link href="https://cwcyau.github.io/author/oloruntoba-i-osagie/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/oloruntoba-i-osagie/</link>
+      <atom:link href="http://localhost:1313/author/oloruntoba-i-osagie/index.xml" rel="self" type="application/rss+xml" />
     <description>Oloruntoba I Osagie</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Oloruntoba I Osagie</title>
-      <link>https://cwcyau.github.io/author/oloruntoba-i-osagie/</link>
+      <link>http://localhost:1313/author/oloruntoba-i-osagie/</link>
     </image>
     
     <item>
       <title>The Oxford classic links epithelial-to-mesenchymal transition to immunosuppression in poor prognosis ovarian cancers</title>
-      <link>https://cwcyau.github.io/publication/hu-2021-oxford/</link>
+      <link>http://localhost:1313/publication/hu-2021-oxford/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/hu-2021-oxford/</guid>
+      <guid>http://localhost:1313/publication/hu-2021-oxford/</guid>
       <description></description>
     </item>
     

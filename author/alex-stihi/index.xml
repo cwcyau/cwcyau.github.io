@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alex Stihi | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/alex-stihi/</link>
-      <atom:link href="https://cwcyau.github.io/author/alex-stihi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/alex-stihi/</link>
+      <atom:link href="http://localhost:1313/author/alex-stihi/index.xml" rel="self" type="application/rss+xml" />
     <description>Alex Stihi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://cwcyau.github.io/author/alex-stihi/avatar_hu_74c3b1f9f39ecdbe.jpg</url>
+      <url>http://localhost:1313/author/alex-stihi/avatar_hu_74c3b1f9f39ecdbe.jpg</url>
       <title>Alex Stihi</title>
-      <link>https://cwcyau.github.io/author/alex-stihi/</link>
+      <link>http://localhost:1313/author/alex-stihi/</link>
     </image>
+    
+    <item>
+      <title>Alex Stihi</title>
+      <link>http://localhost:1313/author/alex-stihi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/alex-stihi/</guid>
+      <description>&lt;p&gt;Alex was a postdoctoral researcher at the University of Oxford. He was researching machine learning methods for the analysis of cancer spatial omics data. He previously obtained his PhD in Statistics at the University of Sheffield where he worked on modelling activity data. He is now a Data Scientist at &lt;a href=&#34;https://www.portalbiotech.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Portal Biotech&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

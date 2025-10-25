@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Krishnarajah Nirantharakumar | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/krishnarajah-nirantharakumar/</link>
-      <atom:link href="https://cwcyau.github.io/author/krishnarajah-nirantharakumar/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/krishnarajah-nirantharakumar/</link>
+      <atom:link href="http://localhost:1313/author/krishnarajah-nirantharakumar/index.xml" rel="self" type="application/rss+xml" />
     <description>Krishnarajah Nirantharakumar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Krishnarajah Nirantharakumar</title>
-      <link>https://cwcyau.github.io/author/krishnarajah-nirantharakumar/</link>
+      <link>http://localhost:1313/author/krishnarajah-nirantharakumar/</link>
     </image>
     
     <item>
       <title>Association between pregnancy-related complications and development of type 2 diabetes and hypertension in women: an umbrella review</title>
-      <link>https://cwcyau.github.io/publication/wambua-2024-association/</link>
+      <link>http://localhost:1313/publication/wambua-2024-association/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/wambua-2024-association/</guid>
+      <guid>http://localhost:1313/publication/wambua-2024-association/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and validation of a postpartum cardiovascular disease (CVD) risk prediction model in women with a history of pregnancy incorporating reproductive and pregnancy-related candidate predictors</title>
-      <link>https://cwcyau.github.io/publication/wambua-2024-development/</link>
+      <link>http://localhost:1313/publication/wambua-2024-development/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/wambua-2024-development/</guid>
+      <guid>http://localhost:1313/publication/wambua-2024-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Artificial Intelligence for Multiple Long-term conditions (AIM): A consensus statement from the NIHR AIM consortia</title>
-      <link>https://cwcyau.github.io/publication/dambha-2023-artificial/</link>
+      <link>http://localhost:1313/publication/dambha-2023-artificial/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/dambha-2023-artificial/</guid>
+      <guid>http://localhost:1313/publication/dambha-2023-artificial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pregnancy-related factors in risk prediction modelling for post-partum cardiovascular disease</title>
-      <link>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</link>
+      <link>http://localhost:1313/publication/wambua-2023-pregnancy/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</guid>
+      <guid>http://localhost:1313/publication/wambua-2023-pregnancy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>In simulated data and health records, latent class analysis was the optimum multimorbidity clustering algorithm</title>
-      <link>https://cwcyau.github.io/publication/nichols-2022-simulated/</link>
+      <link>http://localhost:1313/publication/nichols-2022-simulated/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/nichols-2022-simulated/</guid>
+      <guid>http://localhost:1313/publication/nichols-2022-simulated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mmVAE: multimorbidity clustering using Relaxed Bernoulli $ $β$ $-Variational Autoencoders</title>
-      <link>https://cwcyau.github.io/publication/gadd-2022-mmvae/</link>
+      <link>http://localhost:1313/publication/gadd-2022-mmvae/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/gadd-2022-mmvae/</guid>
+      <guid>http://localhost:1313/publication/gadd-2022-mmvae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protocol for development and validation of postpartum cardiovascular disease (CVD) risk prediction model incorporating reproductive and pregnancy-related candidate predictors</title>
-      <link>https://cwcyau.github.io/publication/wambua-2022-protocol/</link>
+      <link>http://localhost:1313/publication/wambua-2022-protocol/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/wambua-2022-protocol/</guid>
+      <guid>http://localhost:1313/publication/wambua-2022-protocol/</guid>
       <description></description>
     </item>
     

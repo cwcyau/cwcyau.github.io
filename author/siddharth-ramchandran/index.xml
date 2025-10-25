@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Siddharth Ramchandran | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/siddharth-ramchandran/</link>
-      <atom:link href="https://cwcyau.github.io/author/siddharth-ramchandran/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/siddharth-ramchandran/</link>
+      <atom:link href="http://localhost:1313/author/siddharth-ramchandran/index.xml" rel="self" type="application/rss+xml" />
     <description>Siddharth Ramchandran</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://cwcyau.github.io/author/siddharth-ramchandran/avatar_hu_11fcc193c35f5ccb.jpg</url>
+      <url>http://localhost:1313/author/siddharth-ramchandran/avatar_hu_11fcc193c35f5ccb.jpg</url>
       <title>Siddharth Ramchandran</title>
-      <link>https://cwcyau.github.io/author/siddharth-ramchandran/</link>
+      <link>http://localhost:1313/author/siddharth-ramchandran/</link>
     </image>
+    
+    <item>
+      <title>Siddharth Ramchandran</title>
+      <link>http://localhost:1313/author/siddharth-ramchandran/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/siddharth-ramchandran/</guid>
+      <description>&lt;p&gt;Siddharth is a visiting graduate student from Aalto University in Helsinki, Finland where he is supervised by &lt;a href=&#34;https://users.aalto.fi/~harrila/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harri Lahdesmaki&lt;/a&gt;. Siddharth is currently working on unsupervised deep generative models for clinical data with an aim to build comprehensive models for multi-disease modelling that can analyse bio-bank data at a population-wide scale and covering data from individuals even from birth/early life until disease onset. While in Oxford he will be collaborating with &lt;a href=&#34;https://www.stats.ox.ac.uk/~evans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Robin Evans&lt;/a&gt; on causal modelling and with &lt;a href=&#34;https://www.stats.ox.ac.uk/people/george-nicholson&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Nicholson&lt;/a&gt; on UK Biobank modelling.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

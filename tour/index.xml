@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About | Yau Research Group</title>
-    <link>https://cwcyau.github.io/tour/</link>
-      <atom:link href="https://cwcyau.github.io/tour/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tour/</link>
+      <atom:link href="http://localhost:1313/tour/index.xml" rel="self" type="application/rss+xml" />
     <description>About</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>About</title>
-      <link>https://cwcyau.github.io/tour/</link>
+      <link>http://localhost:1313/tour/</link>
     </image>
     
   </channel>

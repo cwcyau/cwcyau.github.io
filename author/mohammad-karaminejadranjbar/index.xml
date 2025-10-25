@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mohammad KaramiNejadRanjbar | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/mohammad-karaminejadranjbar/</link>
-      <atom:link href="https://cwcyau.github.io/author/mohammad-karaminejadranjbar/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/mohammad-karaminejadranjbar/</link>
+      <atom:link href="http://localhost:1313/author/mohammad-karaminejadranjbar/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad KaramiNejadRanjbar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Mohammad KaramiNejadRanjbar</title>
-      <link>https://cwcyau.github.io/author/mohammad-karaminejadranjbar/</link>
+      <link>http://localhost:1313/author/mohammad-karaminejadranjbar/</link>
     </image>
     
     <item>
       <title>Adipocyte-like signature in ovarian cancer minimal residual disease identifies metabolic vulnerabilities of tumor initiating cells</title>
-      <link>https://cwcyau.github.io/publication/artibani-2021-adipocyte/</link>
+      <link>http://localhost:1313/publication/artibani-2021-adipocyte/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/artibani-2021-adipocyte/</guid>
+      <guid>http://localhost:1313/publication/artibani-2021-adipocyte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
-      <link>https://cwcyau.github.io/publication/karaminejadranjbar-2020-highly/</link>
+      <link>http://localhost:1313/publication/karaminejadranjbar-2020-highly/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/karaminejadranjbar-2020-highly/</guid>
+      <guid>http://localhost:1313/publication/karaminejadranjbar-2020-highly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DigiPico: A whole-genome sequencing approach to investigate microscopic residual chemotherapy resistance disease in ovarian cancer</title>
-      <link>https://cwcyau.github.io/publication/karaminejadranjbar-2018-digipico/</link>
+      <link>http://localhost:1313/publication/karaminejadranjbar-2018-digipico/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/karaminejadranjbar-2018-digipico/</guid>
+      <guid>http://localhost:1313/publication/karaminejadranjbar-2018-digipico/</guid>
       <description></description>
     </item>
     

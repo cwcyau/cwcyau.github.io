@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Salma El-Sahhar | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/salma-el-sahhar/</link>
-      <atom:link href="https://cwcyau.github.io/author/salma-el-sahhar/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/salma-el-sahhar/</link>
+      <atom:link href="http://localhost:1313/author/salma-el-sahhar/index.xml" rel="self" type="application/rss+xml" />
     <description>Salma El-Sahhar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Salma El-Sahhar</title>
-      <link>https://cwcyau.github.io/author/salma-el-sahhar/</link>
+      <link>http://localhost:1313/author/salma-el-sahhar/</link>
     </image>
     
     <item>
       <title>A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
-      <link>https://cwcyau.github.io/publication/karaminejadranjbar-2020-highly/</link>
+      <link>http://localhost:1313/publication/karaminejadranjbar-2020-highly/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/karaminejadranjbar-2020-highly/</guid>
+      <guid>http://localhost:1313/publication/karaminejadranjbar-2020-highly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells</title>
-      <link>https://cwcyau.github.io/publication/hu-2020-repertoire/</link>
+      <link>http://localhost:1313/publication/hu-2020-repertoire/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/hu-2020-repertoire/</guid>
+      <guid>http://localhost:1313/publication/hu-2020-repertoire/</guid>
       <description></description>
     </item>
     

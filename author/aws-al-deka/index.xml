@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aws Al-Deka | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/aws-al-deka/</link>
-      <atom:link href="https://cwcyau.github.io/author/aws-al-deka/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/aws-al-deka/</link>
+      <atom:link href="http://localhost:1313/author/aws-al-deka/index.xml" rel="self" type="application/rss+xml" />
     <description>Aws Al-Deka</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Aws Al-Deka</title>
-      <link>https://cwcyau.github.io/author/aws-al-deka/</link>
+      <link>http://localhost:1313/author/aws-al-deka/</link>
     </image>
     
     <item>
       <title>Single cell functional immunogenomics of the fallopian tube reveals a precursor immune surveillance network for ovarian cancer prevention</title>
-      <link>https://cwcyau.github.io/publication/wang-2025-single/</link>
+      <link>http://localhost:1313/publication/wang-2025-single/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/wang-2025-single/</guid>
+      <guid>http://localhost:1313/publication/wang-2025-single/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Completing a genomic characterisation of microscopic tumour samples with copy number (vol 24, 453, 2023)</title>
-      <link>https://cwcyau.github.io/publication/nulsen-2024-completing/</link>
+      <link>http://localhost:1313/publication/nulsen-2024-completing/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/nulsen-2024-completing/</guid>
+      <guid>http://localhost:1313/publication/nulsen-2024-completing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correction: Completing a genomic characterisation of microscopic tumour samples with copy number</title>
-      <link>https://cwcyau.github.io/publication/nulsen-2024-correction/</link>
+      <link>http://localhost:1313/publication/nulsen-2024-correction/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/nulsen-2024-correction/</guid>
+      <guid>http://localhost:1313/publication/nulsen-2024-correction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Completing a genomic characterisation of microscopic tumour samples with copy number</title>
-      <link>https://cwcyau.github.io/publication/nulsen-2023-completing/</link>
+      <link>http://localhost:1313/publication/nulsen-2023-completing/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/nulsen-2023-completing/</guid>
+      <guid>http://localhost:1313/publication/nulsen-2023-completing/</guid>
       <description></description>
     </item>
     

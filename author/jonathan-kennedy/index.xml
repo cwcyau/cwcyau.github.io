@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jonathan Kennedy | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/jonathan-kennedy/</link>
-      <atom:link href="https://cwcyau.github.io/author/jonathan-kennedy/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jonathan-kennedy/</link>
+      <atom:link href="http://localhost:1313/author/jonathan-kennedy/index.xml" rel="self" type="application/rss+xml" />
     <description>Jonathan Kennedy</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Jonathan Kennedy</title>
-      <link>https://cwcyau.github.io/author/jonathan-kennedy/</link>
+      <link>http://localhost:1313/author/jonathan-kennedy/</link>
     </image>
     
     <item>
       <title>Effect of maternal multimorbidity on the risk of preterm birth: Record-linkage study</title>
-      <link>https://cwcyau.github.io/publication/azcoaga-2022-effect/</link>
+      <link>http://localhost:1313/publication/azcoaga-2022-effect/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/azcoaga-2022-effect/</guid>
+      <guid>http://localhost:1313/publication/azcoaga-2022-effect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimorbidity in pregnant women with health conditions that cause maternal death</title>
-      <link>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</link>
+      <link>http://localhost:1313/publication/lee-2022-multimorbidity/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</guid>
+      <guid>http://localhost:1313/publication/lee-2022-multimorbidity/</guid>
       <description></description>
     </item>
     

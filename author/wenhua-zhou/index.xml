@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wenhua Zhou | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/wenhua-zhou/</link>
-      <atom:link href="https://cwcyau.github.io/author/wenhua-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/wenhua-zhou/</link>
+      <atom:link href="http://localhost:1313/author/wenhua-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenhua Zhou</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://cwcyau.github.io/author/wenhua-zhou/avatar_hu_47d1c602afe330a4.jpg</url>
+      <url>http://localhost:1313/author/wenhua-zhou/avatar_hu_47d1c602afe330a4.jpg</url>
       <title>Wenhua Zhou</title>
-      <link>https://cwcyau.github.io/author/wenhua-zhou/</link>
+      <link>http://localhost:1313/author/wenhua-zhou/</link>
     </image>
     
     <item>
       <title>Wenhua Zhou</title>
-      <link>https://cwcyau.github.io/author/wenhua-zhou/</link>
+      <link>http://localhost:1313/author/wenhua-zhou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/author/wenhua-zhou/</guid>
+      <guid>http://localhost:1313/author/wenhua-zhou/</guid>
       <description>&lt;p&gt;Wenhua (Nelson) was a PhD student in Manchester jointly supervised by David Wong. He worked on developing neural network based emulators of classical risk prediction models.&lt;/p&gt;
 </description>
     </item>

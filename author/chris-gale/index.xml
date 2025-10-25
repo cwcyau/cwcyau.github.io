@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Gale | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/chris-gale/</link>
-      <atom:link href="https://cwcyau.github.io/author/chris-gale/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/chris-gale/</link>
+      <atom:link href="http://localhost:1313/author/chris-gale/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris Gale</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Chris Gale</title>
-      <link>https://cwcyau.github.io/author/chris-gale/</link>
+      <link>http://localhost:1313/author/chris-gale/</link>
     </image>
     
     <item>
       <title>The development of a core outcome set for studies of pregnant women with multimorbidity</title>
-      <link>https://cwcyau.github.io/publication/lee-2023-development/</link>
+      <link>http://localhost:1313/publication/lee-2023-development/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/lee-2023-development/</guid>
+      <guid>http://localhost:1313/publication/lee-2023-development/</guid>
       <description></description>
     </item>
     

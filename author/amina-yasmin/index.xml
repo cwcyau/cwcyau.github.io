@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amina Yasmin | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/amina-yasmin/</link>
-      <atom:link href="https://cwcyau.github.io/author/amina-yasmin/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/amina-yasmin/</link>
+      <atom:link href="http://localhost:1313/author/amina-yasmin/index.xml" rel="self" type="application/rss+xml" />
     <description>Amina Yasmin</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Amina Yasmin</title>
-      <link>https://cwcyau.github.io/author/amina-yasmin/</link>
+      <link>http://localhost:1313/author/amina-yasmin/</link>
     </image>
     
     <item>
       <title>eP117 The Accuracy of Clinical Coding in Electronic Patient Records Systems in Emergency General Surgery</title>
-      <link>https://cwcyau.github.io/publication/yasmin-2025-ep-117/</link>
+      <link>http://localhost:1313/publication/yasmin-2025-ep-117/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/yasmin-2025-ep-117/</guid>
+      <guid>http://localhost:1313/publication/yasmin-2025-ep-117/</guid>
       <description></description>
     </item>
     

@@ -2,31 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Latest News | Yau Research Group</title>
-    <link>https://cwcyau.github.io/post/</link>
-      <atom:link href="https://cwcyau.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Latest News</title>
-      <link>https://cwcyau.github.io/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
+      <title>TMLR: Continual learning via probabilistic exchangeable sequence modelling</title>
+      <link>http://localhost:1313/post/2025-10-19_continual_learning/</link>
+      <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-10-19_continual_learning/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../author/hanwen-xing&#34;&gt;Hanwen Xing&lt;/a&gt; whose paper &amp;ldquo;Continual learning via probabilistic exchangeable sequence modelling&amp;rdquo; was accepted in Transactions on Machine Learning Research. A copy of the paper can be found on &lt;a href=&#34;https://openreview.net/forum?id=fDnAsRUk0F&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenReview&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NeurIPS25: DoseSurv: Predicting Personalized Survival Outcomes under Continuous-Valued Treatments</title>
+      <link>http://localhost:1313/post/2025-09-17_dosesurv/</link>
+      <pubDate>Wed, 17 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2025-09-17_dosesurv/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../author/moritz-gogl&#34;&gt;Mortiz Gogl&lt;/a&gt; whose paper &amp;ldquo;DoseSurv: Predicting Personalized Survival Outcomes under Continuous-Valued Treatments&amp;rdquo; was accepted for NeurIPS 2025. A copy of the paper can be found on the &lt;a href=&#34;https://neurips.cc/virtual/2025/poster/119824&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeurIPS25 website&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>SurvivEHR preprint now available</title>
-      <link>https://cwcyau.github.io/post/2025-08-07_survivehr_medrxiv/</link>
+      <link>http://localhost:1313/post/2025-08-07_survivehr_medrxiv/</link>
       <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2025-08-07_survivehr_medrxiv/</guid>
-      <description>&lt;p&gt;A preprint of work by &lt;a href=&#34;../../authors/gadd&#34;&gt;Charles Gadd&lt;/a&gt; describing &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2025.08.04.25332916v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records&amp;rdquo;&lt;/a&gt; is now available on medRxiv.&lt;/p&gt;
+      <guid>http://localhost:1313/post/2025-08-07_survivehr_medrxiv/</guid>
+      <description>&lt;p&gt;A preprint of work by &lt;a href=&#34;../author/charles-gadd&#34;&gt;Charles Gadd&lt;/a&gt; describing &lt;a href=&#34;https://www.medrxiv.org/content/10.1101/2025.08.04.25332916v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records&amp;rdquo;&lt;/a&gt; is now available on medRxiv.&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Multiple long-term conditions (MLTCs) or multimorbidity &amp;ndash; the co-occurrence of multiple chronic conditions &amp;ndash;presents a growing challenge for primary care. Current predictive models often target single outcomes and overlook the complexities of time-to-event risk in real-world, longitudinal health data. Here, we present SurvivEHR, a generative transformer-based foundation model trained on over 7.6 billion coded events from 23 million patients in UK primary care. SurvivEHR introduces a competing risk time-to-event pretraining objective that enables accurate forecasting of future diagnoses, investigations, medications, and mortality. We demonstrate that SurvivEHR achieves strong risk stratification performance, captures clinically meaningful trajectories, and outperforms benchmark survival models across multiple tasks. The model also transfers effectively to fine-tuned prognostic tasks, particularly in low-resource settings. By learning patient trajectories directly from routine health records, SurvivEHR offers a scalable and privacy-preserving approach for building generalisable clinical risk tools that address the complexity of MLTCs in primary care..&amp;rdquo;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>GPerturb in Nature Communications</title>
-      <link>https://cwcyau.github.io/post/2025-07-01_gperturb/</link>
+      <link>http://localhost:1313/post/2025-07-01_gperturb/</link>
       <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2025-07-01_gperturb/</guid>
+      <guid>http://localhost:1313/post/2025-07-01_gperturb/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/xing&#34;&gt;Hanwen Xing&lt;/a&gt; on having his paper &lt;a href=&#34;https://www.nature.com/articles/s41467-025-61165-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;GPerturb: Gaussian process modelling of single-cell perturbation data&amp;rdquo;&lt;/a&gt; accepted in Nature Communications:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Single-cell RNA sequencing and CRISPR screening enable high-throughput analysis of genetic perturbations at single-cell resolution. Understanding combinatorial perturbation effects is essential but challenging due to data sparsity and complex biological mechanisms. We present GPerturb, a Gaussian process-based sparse perturbation regression model designed to estimate gene-level perturbation effects. GPerturb employs an additive structure to separate signal from noise and captures sparse, interpretable effects from both discrete and continuous responses. It also provides uncertainty estimates for the presence and strength of perturbation effects on individual genes. We demonstrate the use GPerturb on both simulated and real-world datasets, characterising its competitive performance with current state-of-the-art methods. Furthermore, the model reveals meaningful gene-perturbation interactions and identifies effects consistent with known biology. GPerturb offers a novel approach for uncovering complex dependencies between gene expression and perturbations and advancing our understanding of gene regulation at the single-cell level.&amp;rdquo;&lt;/p&gt;
 </description>
@@ -34,9 +52,9 @@
     
     <item>
       <title>New report on Synthetic Data for Development of AI</title>
-      <link>https://cwcyau.github.io/post/2025-07-01_phg_synthetic/</link>
+      <link>http://localhost:1313/post/2025-07-01_phg_synthetic/</link>
       <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2025-07-01_phg_synthetic/</guid>
+      <guid>http://localhost:1313/post/2025-07-01_phg_synthetic/</guid>
       <description>&lt;p&gt;Christopher Yau has contributed as a member of the expert working group to a new report &lt;a href=&#34;2025-08-07_SurvivEHR_medrxiv.md&#34;&gt;&amp;ldquo;The Synthetic Data for Development of AI as a Medical Device&amp;rdquo;&lt;/a&gt; now available via PHG Foundation:&lt;/p&gt;
 &lt;p&gt;&amp;ldquo;Synthetic data is artificially generated data that reflects the properties and relationships found in real data. While synthetic data can play an important role in AIaMD development, its use in regulatory submissions introduces specific considerations, especially when it constitutes a substantial part of the evidence package.&lt;/p&gt;
 &lt;p&gt;The Synthetic Data for Development of AI as a Medical Device (AIaMDs) report, produced by the Medicines and Healthcare products Regulatory Agency (MHRA) and the PHG Foundation, outlines these considerations, building on and complementing existing regulatory guidance. This marks an important and exciting first step for manufacturers and notified bodies collectively navigating this evolving landscape. The report provides crucial groundwork, though more work is required to move past these preliminary ideas.&amp;rdquo;&lt;/p&gt;
@@ -45,18 +63,18 @@
     
     <item>
       <title>Christopher Yau becomes Co-Director for the new CDT in Fundamentals of AI</title>
-      <link>https://cwcyau.github.io/post/2025-03-17_eitcdt_director/</link>
+      <link>http://localhost:1313/post/2025-03-17_eitcdt_director/</link>
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2025-03-17_eitcdt_director/</guid>
+      <guid>http://localhost:1313/post/2025-03-17_eitcdt_director/</guid>
       <description>&lt;p&gt;Professor Chris Yau will become Co-Director for the new &lt;a href=&#34;https://foaicdt.web.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre for Doctoral Training in Fundamentals of AI&lt;/a&gt;, an exciting new initiative in partnership with &lt;a href=&#34;https://www.eit.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EIT Oxford&lt;/a&gt; (The Ellison Institute of Technology).&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ML4H 2024</title>
-      <link>https://cwcyau.github.io/post/2024-08-16_ml4h_2024/</link>
+      <link>http://localhost:1313/post/2024-08-16_ml4h_2024/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2024-08-16_ml4h_2024/</guid>
+      <guid>http://localhost:1313/post/2024-08-16_ml4h_2024/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; on having his paper accepted at &lt;a href=&#34;https://www.mlforhc.org/2024-abstracts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ML4H 2024&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This paper introduces the Mixed Type Multimorbidity Variational Autoencoder (M3VAE), a deep probabilistic generative model developed for supervised dimensionality reduction in the context of multimorbidity analysis. The model is designed to overcome the limitations of purely supervised or unsupervised approaches in this field. M3VAE focuses on identifying latent representations of mixed-type health-related attributes essential for predicting patient survival outcomes. It integrates datasets with multiple modalities (by which we mean data of multiple types), encompassing health measurements, demographic details, and (potentially censored) survival outcomes. A key feature of M3VAE is its ability to reconstruct latent representations that exhibit clustering patterns, thereby revealing important patterns in disease co-occurrence. This functionality provides insights for understanding and predicting health outcomes. The efficacy of M3VAE has been demonstrated through experiments with both synthetic and real-world electronic health record data, showing its capability in identifying interpretable morbidity groupings related to future survival outcomes. The paper is available on &lt;a href=&#34;https://openreview.net/pdf/07ab0f2b2f529cdf9ca9d18dcad51c405ded4732.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenReview&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -64,9 +82,9 @@
     
     <item>
       <title>MLCB 2024</title>
-      <link>https://cwcyau.github.io/post/2024-08-16_mlcb_2024/</link>
+      <link>http://localhost:1313/post/2024-08-16_mlcb_2024/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2024-08-16_mlcb_2024/</guid>
+      <guid>http://localhost:1313/post/2024-08-16_mlcb_2024/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/gadd&#34;&gt;Charles Gadd&lt;/a&gt; on having his paper accepted at &lt;a href=&#34;https://sites.google.com/cs.washington.edu/mlcb2024/home?authuser=0&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLCB 2024&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Changes in the number of copies of certain parts of the genome, known as copy number alterations (CNAs), due to somatic mutation processes are a hallmark of many cancers. This genomic complexity is known to be associated with poorer outcomes for patients but describing its contribution in detail has been difficult. Copy number alterations can affect large regions spanning whole chromosomes or the entire genome itself but can also be localised to only small segments of the genome and no methods exist that allow this multi-scale nature to be quantified. In this paper, we address this using Wave-LSTM, a signal decomposition approach designed to capture the multi-scale structure of complex whole genome copy number profiles. Using wavelet-based source separation in combination with deep learning-based attention mechanisms. We show that Wave-LSTM can be used to derive multi-scale representations from copy number profiles which can be used to decipher sub-clonal structures from single-cell copy number data and to improve survival prediction performance from patient tumour profiles.&lt;/p&gt;
 </description>
@@ -74,9 +92,9 @@
     
     <item>
       <title>New paper in Bioinformatics</title>
-      <link>https://cwcyau.github.io/post/2023-12-13_rarity_2023/</link>
+      <link>http://localhost:1313/post/2023-12-13_rarity_2023/</link>
       <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2023-12-13_rarity_2023/</guid>
+      <guid>http://localhost:1313/post/2023-12-13_rarity_2023/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/martens&#34;&gt;Kaspar Martens&lt;/a&gt; on having his paper accepted in &lt;a href=&#34;https://academic.oup.com/bioinformatics/article/39/12/btad750/7471872?login=false&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Bioinformatics&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Cell type identification plays an important role in the analysis and interpretation of single-cell data and can be carried out via supervised or unsupervised clustering approaches. Supervised methods are best suited where we can list all cell types and their respective marker genes a priori, while unsupervised clustering algorithms look for groups of cells with similar expression properties. This property permits the identification of both known and unknown cell populations, making unsupervised methods suitable for discovery. Success is dependent on the relative strength of the expression signature of each group as well as the number of cells. Rare cell types therefore present a particular challenge that is magnified when they are defined by differentially expressing a small number of genes.&lt;/p&gt;
 &lt;p&gt;Typical unsupervised approaches fail to identify such rare subpopulations, and these cells tend to be absorbed into more prevalent cell types. In order to balance these competing demands, we have developed a novel statistical framework for unsupervised clustering, named Rarity, that enables the discovery process for rare cell types to be more robust, consistent, and interpretable. We achieve this by devising a novel clustering method based on a Bayesian latent variable model in which we assign cells to inferred latent binary on/off expression profiles. This lets us achieve increased sensitivity to rare cell populations while also allowing us to control and interpret potential false positive discoveries. We systematically study the challenges associated with rare cell type identification and demonstrate the utility of Rarity on various IMC datasets.&lt;/p&gt;
@@ -86,9 +104,9 @@
     
     <item>
       <title>New publication in BMC Bioinformatics</title>
-      <link>https://cwcyau.github.io/post/2023-11-30_picocnv_2023/</link>
+      <link>http://localhost:1313/post/2023-11-30_picocnv_2023/</link>
       <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2023-11-30_picocnv_2023/</guid>
+      <guid>http://localhost:1313/post/2023-11-30_picocnv_2023/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/nulsen&#34;&gt;Joel Nulsen&lt;/a&gt; on having his paper accepted in &lt;a href=&#34;https://link.springer.com/article/10.1186/s12859-023-05576-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BMC Bioinformatics&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Genomic insights in settings where tumour sample sizes are limited to just hundreds or even tens of cells hold great clinical potential, but also present significant technical challenges. We previously developed the DigiPico sequencing platform to accurately identify somatic mutations from such samples.&lt;/p&gt;
 &lt;p&gt;Here, we complete this genomic characterisation with copy number. We present a novel protocol, PicoCNV, to call allele-specific somatic copy number alterations from picogram quantities of tumour DNA. We find that PicoCNV provides exactly accurate copy number in 84% of the genome for even the smallest samples, and demonstrate its clinical potential in maintenance therapy.&lt;/p&gt;
@@ -98,9 +116,9 @@
     
     <item>
       <title>Multiple Long-Term Conditions Research Update</title>
-      <link>https://cwcyau.github.io/post/2023-10-12_mltc/</link>
+      <link>http://localhost:1313/post/2023-10-12_mltc/</link>
       <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2023-10-12_mltc/</guid>
+      <guid>http://localhost:1313/post/2023-10-12_mltc/</guid>
       <description>&lt;p&gt;We continue to contribute to the &lt;a href=&#34;https://mumpredict.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MUM-PREDICT&lt;/a&gt; and &lt;a href=&#34;https://www.birmingham.ac.uk/research/applied-health/research/optimal/index.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OPTIMAL&lt;/a&gt; projects over the last six months including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -124,18 +142,18 @@
     
     <item>
       <title>New paper with Breaking Free Online on substance abuse</title>
-      <link>https://cwcyau.github.io/post/2023-10-01_jamiaopen/</link>
+      <link>http://localhost:1313/post/2023-10-01_jamiaopen/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2023-10-01_jamiaopen/</guid>
+      <guid>http://localhost:1313/post/2023-10-01_jamiaopen/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../author/franziska-gunther&#34;&gt;Franziska Gunther&lt;/a&gt; on her collaborative work with &lt;a href=&#34;https://www.breakingfreeonline.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breaking Free Online&lt;/a&gt; on &lt;a href=&#34;https://academic.oup.com/jamiaopen/article/6/3/ooad072/7259137&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Identifying factors associated with user retention and outcomes of a digital intervention for substance use disorder: a retrospective analysis of real-world data&lt;/a&gt; which has been published in JAMIA Open.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>MLCB 2023</title>
-      <link>https://cwcyau.github.io/post/2023-08-16_mlcb_2023/</link>
+      <link>http://localhost:1313/post/2023-08-16_mlcb_2023/</link>
       <pubDate>Wed, 16 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2023-08-16_mlcb_2023/</guid>
+      <guid>http://localhost:1313/post/2023-08-16_mlcb_2023/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/martens&#34;&gt;Kaspar Martens&lt;/a&gt; on having his paper accepted at &lt;a href=&#34;https://sites.google.com/cs.washington.edu/mlcb2023/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MLCB 2023&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;Generative models for multimodal data permit the identification of latent factors that may be associated with important determinants of observed data heterogeneity. Common or shared factors could be important for explaining variation across modalities whereas other factors may be private and important only for the explanation of a single modality. Multimodal Variational Autoencoders, such as MVAE and MMVAE, are a natural choice for inferring those underlying latent factors and separating shared variation from private. In this work, we investigate their capability to reliably perform this disentanglement. In particular, wehighlight a challenging problem setting where modality-specific variation dominates the shared signal. Taking a cross-modal prediction perspective, we demonstrate limitations of existing models, and propose a modification how to make them more robust to modalityspecific variation. Our findings are supported by experiments on synthetic as well as various real-world multi-omics data sets. The paper is available on &lt;a href=&#34;https://proceedings.mlr.press/v240/martens24a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PMLR&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -143,18 +161,18 @@
     
     <item>
       <title>MIE 2023 success </title>
-      <link>https://cwcyau.github.io/post/2023-05-22_mie2023/</link>
+      <link>http://localhost:1313/post/2023-05-22_mie2023/</link>
       <pubDate>Mon, 22 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2023-05-22_mie2023/</guid>
+      <guid>http://localhost:1313/post/2023-05-22_mie2023/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../author/franziska-gunther&#34;&gt;Franziska Gunther&lt;/a&gt; on her collaborative work with Breaking Free Online which was presented at &lt;a href=&#34;https://www.mie2023.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIE 2023&lt;/a&gt;: &lt;a href=&#34;https://eprints.whiterose.ac.uk/198537/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;On the difficulty of predicting engagement with digital interventions for substance use disorders&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On the problem of early disease detection</title>
-      <link>https://cwcyau.github.io/post/earlydetection/</link>
+      <link>http://localhost:1313/post/earlydetection/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/earlydetection/</guid>
+      <guid>http://localhost:1313/post/earlydetection/</guid>
       <description>&lt;p&gt;The early detection of diseases is a highly desirable approach for addressing conditions where late stage disease cannot be easily treated or managed. Through early  detection, it may be possible to take actions to minimise future disease severity or even prevent disease occurrence altogether. However, while the general concept is readily accepted, putting early detection into practice is often far from straightforward.&lt;/p&gt;
 &lt;p&gt;In this post, I will outline some ideas that can underpin a conceptual framework for developing early detection markers and point out some common mistakes. This is intended to provide a non-technical guide to some principles that might stimulate suitable study designs in the future.&lt;/p&gt;
 &lt;h2 id=&#34;disease-progression&#34;&gt;Disease progression&lt;/h2&gt;
@@ -236,9 +254,9 @@
     
     <item>
       <title>MUM-PREDICT: HDRUK Team of the Year</title>
-      <link>https://cwcyau.github.io/post/2022-12-31_mumpredict/</link>
+      <link>http://localhost:1313/post/2022-12-31_mumpredict/</link>
       <pubDate>Sat, 31 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2022-12-31_mumpredict/</guid>
+      <guid>http://localhost:1313/post/2022-12-31_mumpredict/</guid>
       <description>&lt;p&gt;We are proud to have been part of a glittering array of publications arising from our contribution to the &lt;a href=&#34;https://mumpredict.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MUM-PREDICT&lt;/a&gt; projects over the last 12 months. The team also won the &lt;a href=&#34;https://www.hdruk.ac.uk/news/winners-announced-for-hdr-uks-annual-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Research UK Team of the Year 2022 award&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -259,9 +277,9 @@
     
     <item>
       <title>ML4H 2022</title>
-      <link>https://cwcyau.github.io/post/2022-12-01_ml4h_2022/</link>
+      <link>http://localhost:1313/post/2022-12-01_ml4h_2022/</link>
       <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2022-12-01_ml4h_2022/</guid>
+      <guid>http://localhost:1313/post/2022-12-01_ml4h_2022/</guid>
       <description>&lt;p&gt;Congratulations to group members &lt;a href=&#34;../../authors/gadd&#34;&gt;Charles Gadd&lt;/a&gt;, &lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; and &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; on the following papers accepted at &lt;a href=&#34;https://ml4health.github.io/online_proceedings.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ML4H&lt;/a&gt; and &lt;a href=&#34;https://neurips.cc/Conferences/2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeurIPS&lt;/a&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -280,18 +298,18 @@
     
     <item>
       <title>Nature Communications Paper on personalised metabolic models</title>
-      <link>https://cwcyau.github.io/post/2022-11-29_naturecomms/</link>
+      <link>http://localhost:1313/post/2022-11-29_naturecomms/</link>
       <pubDate>Tue, 29 Nov 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2022-11-29_naturecomms/</guid>
+      <guid>http://localhost:1313/post/2022-11-29_naturecomms/</guid>
       <description>&lt;p&gt;In a collaboration led by Carles Foguet and &lt;a href=&#34;https://www.inouyelab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mike Inouye&lt;/a&gt;, &lt;a href=&#34;../../author/yau&#34;&gt;Christopher Yau&lt;/a&gt; contributed to &lt;a href=&#34;https://www.nature.com/articles/s41467-022-35017-7&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genetically personalised organ-specific metabolic models in health and disease&lt;/a&gt; which has been published in Nature Communications.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Great UK PhD Data Science Survey</title>
-      <link>https://cwcyau.github.io/post/greatphdsurvey/</link>
+      <link>http://localhost:1313/post/greatphdsurvey/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/greatphdsurvey/</guid>
+      <guid>http://localhost:1313/post/greatphdsurvey/</guid>
       <description>&lt;p&gt;&lt;strong&gt;What am I doing?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;My name is &lt;a href=&#34;https://www.wrh.ox.ac.uk/team/christoper-yau&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christopher Yau&lt;/a&gt; and I am Professor of Artificial Intelligence at the &lt;a href=&#34;http://www.ox.ac.uk&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;University of Oxford&lt;/a&gt; and &lt;a href=&#34;https://www.hdruk.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Research UK&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;I am carrying out a &lt;a href=&#34;https://forms.gle/u55swJNChHbaKMMS6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;survey&lt;/a&gt; of UK PhD students who are working in any area of data science and I need your help! We hope to get survey responses from over 300 PhD students so please help us by sparing 10-15 minutes of your time to answer some questions.&lt;/p&gt;
@@ -317,9 +335,9 @@
     
     <item>
       <title>New report: My Cancer &amp; AI</title>
-      <link>https://cwcyau.github.io/post/mycancerai/</link>
+      <link>http://localhost:1313/post/mycancerai/</link>
       <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/mycancerai/</guid>
+      <guid>http://localhost:1313/post/mycancerai/</guid>
       <description>&lt;p&gt;A report on a patient engagement workshop series on what cancer patients think about artificial intelligence is now available.&lt;/p&gt;
 &lt;p&gt;The workshop series was developed in partnership with &lt;a href=&#34;https://ovarian.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Action&lt;/a&gt; (OCA) as part of my Turing AI Fellowship.&lt;/p&gt;
 &lt;p&gt;I am grateful to patients and OCA for their support in developing this work and its impact on my future research plans.&lt;/p&gt;
@@ -329,36 +347,36 @@
     
     <item>
       <title>AISTATS 2022</title>
-      <link>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</link>
+      <link>http://localhost:1313/post/2022-03-13_aistats_2022/</link>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</guid>
+      <guid>http://localhost:1313/post/2022-03-13_aistats_2022/</guid>
       <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper &lt;a href=&#34;http://aistats.org/aistats2022/accepted.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis&lt;/a&gt; has been accepted for presentation at &lt;a href=&#34;http://aistats.org/aistats2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2022&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Group relocation to Oxford.</title>
-      <link>https://cwcyau.github.io/post/2021-12-22_oxford/</link>
+      <link>http://localhost:1313/post/2021-12-22_oxford/</link>
       <pubDate>Wed, 22 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-12-22_oxford/</guid>
+      <guid>http://localhost:1313/post/2021-12-22_oxford/</guid>
       <description>&lt;p&gt;Christopher Yau will be relocating to the &lt;a href=&#34;https://www.bdi.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Big Data Institute&lt;/a&gt; at the University of Oxford in February 2022 to take up a position as Senior Research Fellow between the &lt;a href=&#34;https://www.wrh.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Department of Women&amp;rsquo;s and Reproductive Health&lt;/a&gt; and the &lt;a href=&#34;https://www.ndph.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nuffield Department of Population Health&lt;/a&gt;. Future recruitment to the group for postdocs and students will be via the University of Oxford.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation</title>
-      <link>https://cwcyau.github.io/post/2021-12-20_gbio/</link>
+      <link>http://localhost:1313/post/2021-12-20_gbio/</link>
       <pubDate>Mon, 20 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-12-20_gbio/</guid>
+      <guid>http://localhost:1313/post/2021-12-20_gbio/</guid>
       <description>&lt;p&gt;Our latest paper, based on the thesis work of former DPhil student Zhiyuan, has been published in Genome Biology. &lt;a href=&#34;https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02561-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation&lt;/a&gt; describes a meta-clustering workflow based on inter-group similarity measures. We demonstrate that CIDER outperforms other scRNA-Seq clustering methods and integration approaches in both simulated and real datasets. Moreover, we show that CIDER can be used to assess the biological correctness of integration in real datasets, while it does not require the existence of prior cellular annotations.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Rarity: Discovering rare cell populations from single-cell imaging data</title>
-      <link>https://cwcyau.github.io/post/2021-12-14_rarity/</link>
+      <link>http://localhost:1313/post/2021-12-14_rarity/</link>
       <pubDate>Tue, 14 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-12-14_rarity/</guid>
+      <guid>http://localhost:1313/post/2021-12-14_rarity/</guid>
       <description>&lt;p&gt;Kaspar Martens will present his latest work at the NeurIPS Workshop &amp;ldquo;Learning Meaningful Representations of Life&amp;rdquo;
 &lt;a href=&#34;https://drive.google.com/file/d/1r9TINxfXgB_cs4bOcT7ZYZjF5IMcb4X6/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rarity: Discovering rare cell populations from single-cell imaging data&lt;/a&gt;. The work arises from his Turing-Crick Biomedical Award which supports a collaboration between the Alan Turing Institute and the Ciccarelli Group at Kings College London and the Francis Crick Institute.&lt;/p&gt;
 </description>
@@ -366,18 +384,18 @@
     
     <item>
       <title>NeurIPS 2021 Success - Multi-Facet Clustering Variational Autoencoders</title>
-      <link>https://cwcyau.github.io/post/2021-12-07_mfcvae/</link>
+      <link>http://localhost:1313/post/2021-12-07_mfcvae/</link>
       <pubDate>Tue, 07 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-12-07_mfcvae/</guid>
+      <guid>http://localhost:1313/post/2021-12-07_mfcvae/</guid>
       <description>&lt;p&gt;Christopher Yau has supported Health Data Research UK (HDRUK) PhD students Fabian Falck and Haoting Zhang in the development of work that has now been published as a paper at the NeurIPS 2021 conference. The work entitled &lt;a href=&#34;https://proceedings.neurips.cc/paper/2021/hash/48cb136b65a69e8c2aa22913a0d91b2f-Abstract.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multi-Facet Clustering Variational Autoencoders&lt;/a&gt; is a novel class of variational autoencoders with a hierarchy of latent variables, each with a Mixture-of-Gaussians prior, that learns multiple clusterings simultaneously, and is trained fully unsupervised and end-to-end. Chris, who directs the HDRUK PhD programme, writes about the work of the students in this &lt;a href=&#34;https://www.hdruk.ac.uk/news/the-different-facets-of-data/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Yau receives award for ovarian cancer research</title>
-      <link>https://cwcyau.github.io/post/2021-11-20_chfwrf/</link>
+      <link>http://localhost:1313/post/2021-11-20_chfwrf/</link>
       <pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-11-20_chfwrf/</guid>
+      <guid>http://localhost:1313/post/2021-11-20_chfwrf/</guid>
       <description>&lt;p&gt;The &lt;a href=&#34;https://www.chfwrf.org/info/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Columbia Hospital For Women Research Foundation&lt;/a&gt; have awarded &lt;a href=&#34;../../authors/admin&#34;&gt;Christopher Yau&lt;/a&gt; the prize for most impactful paper in 2020 in the field of obstetrical and gynecologic and breast disease. The prize consisted of a $5,000 to a charity of Chris and Ahmed&amp;rsquo;s choosing and they selected &lt;a href=&#34;https://ovarian.org.uk/about-us/about-oca/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Action&lt;/a&gt; who co-funded the original work.&lt;/p&gt;
 &lt;p&gt;The paper &lt;a href=&#34;https://www.cell.com/cancer-cell/pdf/S1535-6108%2820%2930042-8.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;The Repertoire of Serous Ovarian Cancer Non-genetic Heterogeneity Revealed by Single-Cell Sequencing of Normal Fallopian Tube Epithelial Cells.&amp;rdquo;&lt;/a&gt; was a collaboration with the Ovarian Cancer Laboratory, led by Professor Ahmed Ahmed at Oxford. Chris and Ahmed co-supervised former group student &lt;a href=&#34;../../authors/hu&#34;&gt;Zhiyuan Hu&lt;/a&gt;, who was lead author.&lt;/p&gt;
 </description>
@@ -385,18 +403,18 @@
     
     <item>
       <title>Artificial Intelligence Webinar - Ovarian Cancer Action UK</title>
-      <link>https://cwcyau.github.io/post/2021-11-10_oca_video/</link>
+      <link>http://localhost:1313/post/2021-11-10_oca_video/</link>
       <pubDate>Wed, 10 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-11-10_oca_video/</guid>
+      <guid>http://localhost:1313/post/2021-11-10_oca_video/</guid>
       <description>&lt;p&gt;Recently &lt;a href=&#34;../../authors/admin&#34;&gt;Christopher Yau&lt;/a&gt; worked with &lt;a href=&#34;https://ovarian.org.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Action UK&lt;/a&gt; to put together a webinar on his research for patients and the public. You can find the video on Youtube: &lt;a href=&#34;https://www.youtube.com/watch?v=kQ8m4L15GYM&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;What is artificial intelligence and what does it mean for cancer research?&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Multiple postdoctoral research positions available</title>
-      <link>https://cwcyau.github.io/post/2021-08-01_postdocs/</link>
+      <link>http://localhost:1313/post/2021-08-01_postdocs/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-08-01_postdocs/</guid>
+      <guid>http://localhost:1313/post/2021-08-01_postdocs/</guid>
       <description>&lt;p&gt;We have 4-5 two/three-year postdoctoral positions available linked to the following projects:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -421,36 +439,36 @@
     
     <item>
       <title>ICML 2021</title>
-      <link>https://cwcyau.github.io/post/2021-07-18_icml_2021/</link>
+      <link>http://localhost:1313/post/2021-07-18_icml_2021/</link>
       <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-07-18_icml_2021/</guid>
+      <guid>http://localhost:1313/post/2021-07-18_icml_2021/</guid>
       <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper &lt;a href=&#34;http://proceedings.mlr.press/v139/danks21a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders&lt;/a&gt;. has been accepted for presentation at the International Conference for Machine Learning 2021.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ECOSTAT &amp; ISBA 2021</title>
-      <link>https://cwcyau.github.io/post/2021-06-26_isba_2021/</link>
+      <link>http://localhost:1313/post/2021-06-26_isba_2021/</link>
       <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-06-26_isba_2021/</guid>
+      <guid>http://localhost:1313/post/2021-06-26_isba_2021/</guid>
       <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; whose will presenting his work on &amp;ldquo;Learning multimorbidity and its temporal dynamics with the Wright-Fisher Indian Buffet Processs&amp;rdquo; at the &lt;a href=&#34;http://www.cmstatistics.org/EcoSta2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EcoStat 2021&lt;/a&gt; and the &lt;a href=&#34;https://events.stat.uconn.edu/ISBA2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Society for Bayesian Analysis World Meeting 2021&lt;/a&gt; conferences.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New study in JCI Insights</title>
-      <link>https://cwcyau.github.io/post/2021-05-04_ici_mara/</link>
+      <link>http://localhost:1313/post/2021-05-04_ici_mara/</link>
       <pubDate>Tue, 04 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-05-04_ici_mara/</guid>
+      <guid>http://localhost:1313/post/2021-05-04_ici_mara/</guid>
       <description>&lt;p&gt;Our paper &lt;a href=&#34;https://insight.jci.org/articles/view/147929&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Adipocyte-like signature in ovarian cancer minimal residual disease identifies metabolic vulnerabilities of tumor-initiating cells&amp;rdquo;&lt;/a&gt; with the &lt;a href=&#34;https://www.wrh.ox.ac.uk/research/ovarian-cancer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Oxford Ovarian Cancer Cell Lab&lt;/a&gt; has been featured on the cover of JCI Insight. The work used methods developed by former group student &lt;a href=&#34;../../authors/campbell&#34;&gt;Kieran Campbell&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PhD Opportunities 2021/22</title>
-      <link>https://cwcyau.github.io/post/2021-04-23_epsrc_dtp_2021/</link>
+      <link>http://localhost:1313/post/2021-04-23_epsrc_dtp_2021/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-04-23_epsrc_dtp_2021/</guid>
+      <guid>http://localhost:1313/post/2021-04-23_epsrc_dtp_2021/</guid>
       <description>&lt;p&gt;A new PhD projects is being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by &lt;strong&gt;21 May 2021&lt;/strong&gt; for the EPSRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;[Explainable AI for Multimodal Data Integration in Biomedical Applications](&lt;a href=&#34;https://www.findaphd.com/phds/project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.findaphd.com/phds/project/&lt;/a&gt;
@@ -461,18 +479,18 @@
     
     <item>
       <title>HDRUK PhD Director</title>
-      <link>https://cwcyau.github.io/post/2021-04-01_hdruk_director/</link>
+      <link>http://localhost:1313/post/2021-04-01_hdruk_director/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-04-01_hdruk_director/</guid>
+      <guid>http://localhost:1313/post/2021-04-01_hdruk_director/</guid>
       <description>&lt;p&gt;Health Data Research UK is pleased to announce the appointment of Professor Christopher Yau as Director of its HDRUK-Turing Wellcome PhD Programme in Health Data Science, starting 1 April 2021. (&lt;a href=&#34;https://www.hdruk.ac.uk/news/christopher-yau-appointed-director-of-health-data-research-uk-turing-wellcome-phd-programme/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.hdruk.ac.uk/news/christopher-yau-appointed-director-of-health-data-research-uk-turing-wellcome-phd-programme/)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>New Nature Reviews Methods Primer</title>
-      <link>https://cwcyau.github.io/post/2021-01-14_bayesprimer/</link>
+      <link>http://localhost:1313/post/2021-01-14_bayesprimer/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-01-14_bayesprimer/</guid>
+      <guid>http://localhost:1313/post/2021-01-14_bayesprimer/</guid>
       <description>&lt;p&gt;Christopher Yau and Kaspar Martens have contributed to an article &lt;em&gt;Bayesian statistics and modelling&lt;/em&gt; for the new Nature Reviews Methods Primer journal.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s43586-020-00001-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to paper&lt;/a&gt;&lt;/li&gt;
@@ -482,9 +500,9 @@
     
     <item>
       <title>New study in Clinical Cancer Research</title>
-      <link>https://cwcyau.github.io/post/2021-01-14_ccr/</link>
+      <link>http://localhost:1313/post/2021-01-14_ccr/</link>
       <pubDate>Thu, 14 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-01-14_ccr/</guid>
+      <guid>http://localhost:1313/post/2021-01-14_ccr/</guid>
       <description>&lt;p&gt;With collaborators in the Oxford Ovarian Cancer Lab and Imperial College London, Zhiyuan Hu has identified that OxC-defined EMT-high SOCs carry particularly poor prognosis independent of established clinical parameters. She found these tumours are associated with high frequency of immunosuppressive macrophages, suggesting a potential therapeutic target to improve clinical outcome.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://clincancerres.aacrjournals.org/content/early/2021/01/12/1078-0432.CCR-20-2782&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to paper&lt;/a&gt;&lt;/li&gt;
@@ -494,9 +512,9 @@
     
     <item>
       <title>New study in American Journal of Drug Alcohol Abuse</title>
-      <link>https://cwcyau.github.io/post/2021-01-11_opioid/</link>
+      <link>http://localhost:1313/post/2021-01-11_opioid/</link>
       <pubDate>Mon, 11 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2021-01-11_opioid/</guid>
+      <guid>http://localhost:1313/post/2021-01-11_opioid/</guid>
       <description>&lt;p&gt;Increasing rates of opioid-related overdose have been identified globally. Treatment for opioid use disorders (OUD) includes medications for opioid use disorder (MOUD) alongside behavioral support. In this study we use statistical analysis and machine learning to show that the Breaking Free Online program may reduce opioid use and improve biopsychosocial functioning in individuals with OUD.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33428458/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Link to paper&lt;/a&gt;&lt;/li&gt;
@@ -506,9 +524,9 @@
     
     <item>
       <title>Times Radio</title>
-      <link>https://cwcyau.github.io/post/2020-12-05_timesradio/</link>
+      <link>http://localhost:1313/post/2020-12-05_timesradio/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-12-05_timesradio/</guid>
+      <guid>http://localhost:1313/post/2020-12-05_timesradio/</guid>
       <description>&lt;p&gt;Christopher Yau appeared on the Hugo Rifkind on Times.Radio with Dame Janet Thornton and Tech Journalist Tom Chivers to discuss artificial intelligence and the recent AlphaFold2 development by Google Deepmind.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.thetimes.co.uk/radio/show/20201205-3541/2020-12-05&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Rifkind, Times.Radio&lt;/a&gt;&lt;/li&gt;
@@ -518,9 +536,9 @@
     
     <item>
       <title>Turing AI Acceleration Fellowship</title>
-      <link>https://cwcyau.github.io/post/2020-11-27_turingai/</link>
+      <link>http://localhost:1313/post/2020-11-27_turingai/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-11-27_turingai/</guid>
+      <guid>http://localhost:1313/post/2020-11-27_turingai/</guid>
       <description>&lt;p&gt;Christopher Yau has been awarded a 5-year Turing AI Acceleration Fellowship.&lt;/p&gt;
 &lt;p&gt;The Turing AI Acceleration Fellowships are part of the government’s AI sector deal investment in Turing AI fellowships, recommended by the independent 2017 UK AI Review, whose report ‘Growing the artificial intelligence industry in the UK,’ was co-authored by Reguis Professor of Computer Science at Southampton, Dame Wendy Hall, and Jérôme Pesenti, now Vice President of AI at Facebook.&lt;/p&gt;
 &lt;ul&gt;
@@ -539,9 +557,9 @@
     
     <item>
       <title>PhD Opportunities 2021/22</title>
-      <link>https://cwcyau.github.io/post/2020-10-22_mrc_dtp_2021/</link>
+      <link>http://localhost:1313/post/2020-10-22_mrc_dtp_2021/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-10-22_mrc_dtp_2021/</guid>
+      <guid>http://localhost:1313/post/2020-10-22_mrc_dtp_2021/</guid>
       <description>&lt;p&gt;Two new PhD projects are being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by &lt;strong&gt;15 November 2020&lt;/strong&gt; for the MRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -568,9 +586,9 @@
     
     <item>
       <title>Scientists closer to finding the cell of origin for ovarian cancer</title>
-      <link>https://cwcyau.github.io/post/2020-09-28_zh/</link>
+      <link>http://localhost:1313/post/2020-09-28_zh/</link>
       <pubDate>Mon, 28 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-09-28_zh/</guid>
+      <guid>http://localhost:1313/post/2020-09-28_zh/</guid>
       <description>&lt;p&gt;Former DPhil student Zhiyuan with the Ovarian Cancer Lab have created a new public engagement video showcasing our work on single cell sequencing of ovarian cancer.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://twitter.com/oxfordahmedlab/status/1310686724402622464?s=20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scientists closer to finding the cell of origin for ovarian cancer&lt;/a&gt;&lt;/li&gt;
@@ -580,9 +598,9 @@
     
     <item>
       <title>Setting guidelines to report the use of AI in clinical trials </title>
-      <link>https://cwcyau.github.io/post/2020-09-09_consortai/</link>
+      <link>http://localhost:1313/post/2020-09-09_consortai/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-09-09_consortai/</guid>
+      <guid>http://localhost:1313/post/2020-09-09_consortai/</guid>
       <description>&lt;p&gt;The CONSORT-AI and SPIRIT-AI Steering Groups (including Christopher Yau) have published their guidelines for conducting and reporting on clinical trials for AI interventions.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s41591-020-1069-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting guidelines to report the use of AI in clinical trials&lt;/a&gt;&lt;/li&gt;
@@ -592,9 +610,9 @@
     
     <item>
       <title>Postdoc Opportunity with HDRUK</title>
-      <link>https://cwcyau.github.io/post/2020-07-02_hdruk_mo/</link>
+      <link>http://localhost:1313/post/2020-07-02_hdruk_mo/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-07-02_hdruk_mo/</guid>
+      <guid>http://localhost:1313/post/2020-07-02_hdruk_mo/</guid>
       <description>&lt;p&gt;A new postdoc opportunity with myself and Dr Mike Inouye is available based in Cambridge:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;http://www.jobs.cam.ac.uk/job/26181/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Research UK (HDRUK) Multi-omics Consortium&lt;/a&gt;&lt;/li&gt;
@@ -604,9 +622,9 @@
     
     <item>
       <title>PhD Opportunities 2020/21</title>
-      <link>https://cwcyau.github.io/post/2020-06-24_mrc_case_2020/</link>
+      <link>http://localhost:1313/post/2020-06-24_mrc_case_2020/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-06-24_mrc_case_2020/</guid>
+      <guid>http://localhost:1313/post/2020-06-24_mrc_case_2020/</guid>
       <description>&lt;p&gt;A new funded PhD opportunity for UK/EU students is available to join my group for the academic year 2020/21:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.findaphd.com/phds/project/mrc-case-breaking-free-with-artificial-intelligence-using-data-driven-insights-to-improve-digital-health-support-for-substance-use-disorders/?p122456&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders&lt;/a&gt;&lt;/li&gt;
@@ -616,9 +634,9 @@
     
     <item>
       <title>New eLife publication: A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
-      <link>https://cwcyau.github.io/post/2020-05-21_digipico/</link>
+      <link>http://localhost:1313/post/2020-05-21_digipico/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-05-21_digipico/</guid>
+      <guid>http://localhost:1313/post/2020-05-21_digipico/</guid>
       <description>&lt;p&gt;Bulk whole genome sequencing (WGS) enables the analysis of tumor evolution but, because of depth limitations, can only identify old mutational events. The discovery of current mutational processes for predicting the tumor&amp;rsquo;s evolutionary trajectory requires dense sequencing of individual clones or single cells. Such studies, however, are inherently problematic because of the discovery of excessive false positive mutations when sequencing picogram quantities of DNA. Data pooling to increase the confidence in the discovered mutations, moves the discovery back in the past to a common ancestor. Here we report a robust whole genome sequencing and analysis pipeline (DigiPico/MutLX) that virtually eliminates all false positive results while retaining an excellent proportion of true positives. Using our method, we identified, for the first time, a hyper-mutation (kataegis) event in a group of ∼30 cancer cells from a recurrent ovarian carcinoma. This was unidentifiable from the bulk WGS data. Overall, we propose DigiPico/MutLX method as a powerful framework for the identification of clone-specific variants at an unprecedented accuracy.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;https://elifesciences.org/articles/55207&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; is published in &lt;a href=&#34;https://elifesciences.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eLife&lt;/a&gt; along with a &lt;a href=&#34;https://elifesciences.org/articles/57678&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;commentary&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -626,18 +644,18 @@
     
     <item>
       <title>PHG Foundation - Artificial intelligence for genomic medicine</title>
-      <link>https://cwcyau.github.io/post/2020-05-23_phg/</link>
+      <link>http://localhost:1313/post/2020-05-23_phg/</link>
       <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-05-23_phg/</guid>
+      <guid>http://localhost:1313/post/2020-05-23_phg/</guid>
       <description>&lt;p&gt;The PHG Foundation has published a report on &lt;a href=&#34;https://www.phgfoundation.org/blog/genomics-and-artificial-intelligence&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Artificial intelligence for genomic medicine&lt;/a&gt;. Christopher Yau is very pleased to have been able to share his experience and insight into the subjects covered in this report.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PhD Opportunities 2020/21</title>
-      <link>https://cwcyau.github.io/post/2020-03-26_phd/</link>
+      <link>http://localhost:1313/post/2020-03-26_phd/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-03-26_phd/</guid>
+      <guid>http://localhost:1313/post/2020-03-26_phd/</guid>
       <description>&lt;p&gt;There are two new funded PhD opportunities for UK/EU students available to join my group for the academic year 2020/21:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.findaphd.com/phds/project/epsrc-dtp-explainable-ai-for-multimodal-data-integration-in-biomedical-applications/?p120593&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explainable AI for Multimodal Data Integration in Biomedical Applications&lt;/a&gt;&lt;/li&gt;
@@ -652,54 +670,54 @@
     
     <item>
       <title>Cancer Cell Publication</title>
-      <link>https://cwcyau.github.io/post/2020-02-20_cancercell/</link>
+      <link>http://localhost:1313/post/2020-02-20_cancercell/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-02-20_cancercell/</guid>
+      <guid>http://localhost:1313/post/2020-02-20_cancercell/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/hu&#34;&gt;Zhiyuan Hu&lt;/a&gt; whose paper on the &amp;ldquo;The Repertoire of Serous Ovarian Cancer Non-genetic Heterogeneity Revealed by Single-Cell Sequencing of Normal Fallopian Tube Epithelial Cells&amp;rdquo; has been published in &lt;a href=&#34;https://www.cell.com/cancer-cell/fulltext/S1535-6108%2820%2930042-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cancer Cell&lt;/a&gt;. Read press coverage by the &lt;a href=&#34;https://www.dailymail.co.uk/health/article-7987639/Ovarian-cancer-hope-discovery-six-types-cell-trigger-silent-killer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daily Mail&lt;/a&gt; and the press release by the main funders &lt;a href=&#34;https://ovarian.org.uk/news-and-blog/news/ovarian-cancer-action-scientists-closer-finding-cell-origin-ovarian-cancer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Action&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AISTATS 2020</title>
-      <link>https://cwcyau.github.io/post/2020-01-17_kaspar/</link>
+      <link>http://localhost:1313/post/2020-01-17_kaspar/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-01-17_kaspar/</guid>
+      <guid>http://localhost:1313/post/2020-01-17_kaspar/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/kaspar&#34;&gt;Kaspar Martens&lt;/a&gt; who has had two papers accepted into &lt;a href=&#34;https://www.aistats.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2020&lt;/a&gt;. Papers to be published soon.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>WIRED - Everyone should be worried by big tech&#39;s huge NHS data grab</title>
-      <link>https://cwcyau.github.io/post/2019-12-16_wired/</link>
+      <link>http://localhost:1313/post/2019-12-16_wired/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2019-12-16_wired/</guid>
+      <guid>http://localhost:1313/post/2019-12-16_wired/</guid>
       <description>&lt;p&gt;Christopher Yau talks about data anonymity and privacy concerns in this &lt;a href=&#34;https://www.wired.co.uk/article/google-apple-amazon-nhs-health-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wired article&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>HDRUK-Turing PhD programme</title>
-      <link>https://cwcyau.github.io/post/2019-09-12_hdruk/</link>
+      <link>http://localhost:1313/post/2019-09-12_hdruk/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2019-09-12_hdruk/</guid>
+      <guid>http://localhost:1313/post/2019-09-12_hdruk/</guid>
       <description>&lt;p&gt;The Wellcome Trust have funded a new HDRUK-Turing Wellcome PhD programme in Health Data Science which will be jointly directed by Christopher Yau. Applications for entry October 2020 coming soon.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ICML 2019 SUCCESS!</title>
-      <link>https://cwcyau.github.io/post/2019-07-01_icml/</link>
+      <link>http://localhost:1313/post/2019-07-01_icml/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2019-07-01_icml/</guid>
+      <guid>http://localhost:1313/post/2019-07-01_icml/</guid>
       <description>&lt;p&gt;A paper by Kaspar Martens and group alumni Kieran Campbell Covariate GPLVM has been accepted for presentation at the International Conference on Machine Learning.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Proposal</title>
-      <link>https://cwcyau.github.io/post/2020-06-20_case-for-support-final/</link>
+      <link>http://localhost:1313/post/2020-06-20_case-for-support-final/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2020-06-20_case-for-support-final/</guid>
+      <guid>http://localhost:1313/post/2020-06-20_case-for-support-final/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Project Title:&lt;/strong&gt; clinAIcan - developing clinical applications of
 artificial intelligence for cancer&lt;/p&gt;
 &lt;h1 id=&#34;track-record-max-2-pages&#34;&gt;Track Record [max 2 pages]&lt;/h1&gt;

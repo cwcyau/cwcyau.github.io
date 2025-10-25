@@ -2,15 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natalia Hong | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/natalia-hong/</link>
-      <atom:link href="https://cwcyau.github.io/author/natalia-hong/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/natalia-hong/</link>
+      <atom:link href="http://localhost:1313/author/natalia-hong/index.xml" rel="self" type="application/rss+xml" />
     <description>Natalia Hong</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://cwcyau.github.io/author/natalia-hong/avatar_hu_8aa1dd402c02ddd3.jpg</url>
+      <url>http://localhost:1313/author/natalia-hong/avatar_hu_8aa1dd402c02ddd3.jpg</url>
       <title>Natalia Hong</title>
-      <link>https://cwcyau.github.io/author/natalia-hong/</link>
+      <link>http://localhost:1313/author/natalia-hong/</link>
     </image>
+    
+    <item>
+      <title>Natalia Hong</title>
+      <link>http://localhost:1313/author/natalia-hong/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/natalia-hong/</guid>
+      <description>&lt;p&gt;Natalia is a &lt;a href=&#34;https://www.hdruk.ac.uk/careers-in-health-data-science/further-education/phd-programme/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Health Data Research UK Wellcome PhD Programme&lt;/a&gt; student who completed her first year embedded within the &lt;a href=&#34;https://www.bdi.ox.ac.uk/study/cdt&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EPSRC CDT in Health Data Science&lt;/a&gt;. She is currently studying deep learning based risk prediction models within the multiple long-term conditions in pregnancy project (&lt;a href=&#34;https://mumpredict.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MUM-PREDICT&lt;/a&gt;). She is co-supervised by &lt;a href=&#34;https://www.birmingham.ac.uk/staff/profiles/applied-health/nirantharakumar-krishnarajah.aspx&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Krish Nirantharakumar&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

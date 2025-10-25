@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marco Heuvelman | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/marco-heuvelman/</link>
-      <atom:link href="https://cwcyau.github.io/author/marco-heuvelman/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/marco-heuvelman/</link>
+      <atom:link href="http://localhost:1313/author/marco-heuvelman/index.xml" rel="self" type="application/rss+xml" />
     <description>Marco Heuvelman</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Marco Heuvelman</title>
-      <link>https://cwcyau.github.io/author/marco-heuvelman/</link>
+      <link>http://localhost:1313/author/marco-heuvelman/</link>
     </image>
     
     <item>
       <title>TransfoRNA: Navigating the Uncertainties of Small RNA Annotation with an Adaptive Machine Learning Strategy</title>
-      <link>https://cwcyau.github.io/publication/taha-2024-transforna/</link>
+      <link>http://localhost:1313/publication/taha-2024-transforna/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/taha-2024-transforna/</guid>
+      <guid>http://localhost:1313/publication/taha-2024-transforna/</guid>
       <description></description>
     </item>
     

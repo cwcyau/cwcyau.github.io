@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>D Murray | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/d-murray/</link>
-      <atom:link href="https://cwcyau.github.io/author/d-murray/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/d-murray/</link>
+      <atom:link href="http://localhost:1313/author/d-murray/index.xml" rel="self" type="application/rss+xml" />
     <description>D Murray</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>D Murray</title>
-      <link>https://cwcyau.github.io/author/d-murray/</link>
+      <link>http://localhost:1313/author/d-murray/</link>
     </image>
     
     <item>
       <title>Exploiting VDJ recombination of T cells to dissect the anti-cancer immune interactions in T cell lymphoma</title>
-      <link>https://cwcyau.github.io/publication/murray-2020-exploiting/</link>
+      <link>http://localhost:1313/publication/murray-2020-exploiting/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/murray-2020-exploiting/</guid>
+      <guid>http://localhost:1313/publication/murray-2020-exploiting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-cell RNA sequencing with TCR repertoire profiling of mycosis fungoides</title>
-      <link>https://cwcyau.github.io/publication/murray-2019-single/</link>
+      <link>http://localhost:1313/publication/murray-2019-single/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/murray-2019-single/</guid>
+      <guid>http://localhost:1313/publication/murray-2019-single/</guid>
       <description></description>
     </item>
     

@@ -2,133 +2,133 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>C Yau | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/c-yau/</link>
-      <atom:link href="https://cwcyau.github.io/author/c-yau/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/c-yau/</link>
+      <atom:link href="http://localhost:1313/author/c-yau/index.xml" rel="self" type="application/rss+xml" />
     <description>C Yau</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>C Yau</title>
-      <link>https://cwcyau.github.io/author/c-yau/</link>
+      <link>http://localhost:1313/author/c-yau/</link>
     </image>
     
     <item>
       <title>Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension</title>
-      <link>https://cwcyau.github.io/publication/liu-2024-reporting/</link>
+      <link>http://localhost:1313/publication/liu-2024-reporting/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/liu-2024-reporting/</guid>
+      <guid>http://localhost:1313/publication/liu-2024-reporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ORCID: 0000-0001-9908-0773</title>
-      <link>https://cwcyau.github.io/publication/lee-2021-orcid/</link>
+      <link>http://localhost:1313/publication/lee-2021-orcid/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/lee-2021-orcid/</guid>
+      <guid>http://localhost:1313/publication/lee-2021-orcid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting VDJ recombination of T cells to dissect the anti-cancer immune interactions in T cell lymphoma</title>
-      <link>https://cwcyau.github.io/publication/murray-2020-exploiting/</link>
+      <link>http://localhost:1313/publication/murray-2020-exploiting/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/murray-2020-exploiting/</guid>
+      <guid>http://localhost:1313/publication/murray-2020-exploiting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Identification of Subtypes of Barrett&#39;s Esophagus and Esophageal Adenocarcinoma Based on DNA Methylation Profiles and Integration of Transcriptome and Genome Data Oesophageal Cancer Clinical and Molecular Stratification (OCCAMS) Consortium, May 2020, In: Gastroenterology. 158, 6, p. 1682-1697. e1 Research output: Contribution to journal&gt; Article</title>
-      <link>https://cwcyau.github.io/publication/temelkovski-2018-identification/</link>
+      <link>http://localhost:1313/publication/temelkovski-2018-identification/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/temelkovski-2018-identification/</guid>
+      <guid>http://localhost:1313/publication/temelkovski-2018-identification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immuno-phenotypes of Pancreatic Ductal Adenocarcinoma: Metaanalysis of transcriptional subtypes</title>
-      <link>https://cwcyau.github.io/publication/id-2017-immuno/</link>
+      <link>http://localhost:1313/publication/id-2017-immuno/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/id-2017-immuno/</guid>
+      <guid>http://localhost:1313/publication/id-2017-immuno/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Provision of Data Analysis and Economic Evaluation of the Incentivisation Scheme in support of Sign up to Safety on behalf of the NHS Litigation Authority</title>
-      <link>https://cwcyau.github.io/publication/pizzo-2017-provision/</link>
+      <link>http://localhost:1313/publication/pizzo-2017-provision/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/pizzo-2017-provision/</guid>
+      <guid>http://localhost:1313/publication/pizzo-2017-provision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correction: Corrigendum: Whole-genome sequencing of bladder cancers reveals somatic CDKN1A mutations and clinicopathological associations with mutation burden</title>
-      <link>https://cwcyau.github.io/publication/cazier-2014-correction/</link>
+      <link>http://localhost:1313/publication/cazier-2014-correction/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/cazier-2014-correction/</guid>
+      <guid>http://localhost:1313/publication/cazier-2014-correction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Whole-genome sequencing of bladder cancers reveals somatic CDKN1A mutations and clinicopathological associations with mutation burden</title>
-      <link>https://cwcyau.github.io/publication/cazier-2014-whole/</link>
+      <link>http://localhost:1313/publication/cazier-2014-whole/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/cazier-2014-whole/</guid>
+      <guid>http://localhost:1313/publication/cazier-2014-whole/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genome analysis of colorectal cancers in British Bangladeshis identifies early onset and a high prevalence of rbfox1 deletion compared to Caucasians</title>
-      <link>https://cwcyau.github.io/publication/sengupta-2013-genome/</link>
+      <link>http://localhost:1313/publication/sengupta-2013-genome/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/sengupta-2013-genome/</guid>
+      <guid>http://localhost:1313/publication/sengupta-2013-genome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantification of subclonal distributions of recurrent genomic aberrations in paired pre-treatment and relapse samples from patients with B-cell chronic lymphocytic leukemia</title>
-      <link>https://cwcyau.github.io/publication/knight-2012-quantification/</link>
+      <link>http://localhost:1313/publication/knight-2012-quantification/</link>
       <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/knight-2012-quantification/</guid>
+      <guid>http://localhost:1313/publication/knight-2012-quantification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian non-parametric hidden Markov models with applications in genomics</title>
-      <link>https://cwcyau.github.io/publication/yau-2011-bayesian/</link>
+      <link>http://localhost:1313/publication/yau-2011-bayesian/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/yau-2011-bayesian/</guid>
+      <guid>http://localhost:1313/publication/yau-2011-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Somatic copy number alterations in a defined ethnic cohort with a high frequency of early-onset colorectal cancer: 463</title>
-      <link>https://cwcyau.github.io/publication/sengupta-2011-somatic/</link>
+      <link>http://localhost:1313/publication/sengupta-2011-somatic/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/sengupta-2011-somatic/</guid>
+      <guid>http://localhost:1313/publication/sengupta-2011-somatic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian nonparametric hidden Markov models with</title>
-      <link>https://cwcyau.github.io/publication/yau-2009-bayesian/</link>
+      <link>http://localhost:1313/publication/yau-2009-bayesian/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/yau-2009-bayesian/</guid>
+      <guid>http://localhost:1313/publication/yau-2009-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CNV discovery using SNP genotyping arrays</title>
-      <link>https://cwcyau.github.io/publication/yau-2008-cnv/</link>
+      <link>http://localhost:1313/publication/yau-2008-cnv/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/yau-2008-cnv/</guid>
+      <guid>http://localhost:1313/publication/yau-2008-cnv/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Hidden Markov Models for Detecting Regions of Deletion and Duplication in the Human Genome using Illumina BeadChip Arrays</title>
-      <link>https://cwcyau.github.io/publication/holmes-2006-bayesian/</link>
+      <link>http://localhost:1313/publication/holmes-2006-bayesian/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/holmes-2006-bayesian/</guid>
+      <guid>http://localhost:1313/publication/holmes-2006-bayesian/</guid>
       <description></description>
     </item>
     

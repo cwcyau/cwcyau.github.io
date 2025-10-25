@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>J Jung | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/j-jung/</link>
-      <atom:link href="https://cwcyau.github.io/author/j-jung/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/j-jung/</link>
+      <atom:link href="http://localhost:1313/author/j-jung/index.xml" rel="self" type="application/rss+xml" />
     <description>J Jung</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>J Jung</title>
-      <link>https://cwcyau.github.io/author/j-jung/</link>
+      <link>http://localhost:1313/author/j-jung/</link>
     </image>
     
     <item>
       <title>NOX1 loss-of-function genetic variants in patients with inflammatory bowel disease</title>
-      <link>https://cwcyau.github.io/publication/schwerd-2018-nox-1/</link>
+      <link>http://localhost:1313/publication/schwerd-2018-nox-1/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/schwerd-2018-nox-1/</guid>
+      <guid>http://localhost:1313/publication/schwerd-2018-nox-1/</guid>
       <description></description>
     </item>
     

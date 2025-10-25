@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>A Darzi | Yau Research Group</title>
-    <link>https://cwcyau.github.io/author/a-darzi/</link>
-      <atom:link href="https://cwcyau.github.io/author/a-darzi/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/a-darzi/</link>
+      <atom:link href="http://localhost:1313/author/a-darzi/index.xml" rel="self" type="application/rss+xml" />
     <description>A Darzi</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
       <title>A Darzi</title>
-      <link>https://cwcyau.github.io/author/a-darzi/</link>
+      <link>http://localhost:1313/author/a-darzi/</link>
     </image>
     
     <item>
       <title>Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension</title>
-      <link>https://cwcyau.github.io/publication/liu-2024-reporting/</link>
+      <link>http://localhost:1313/publication/liu-2024-reporting/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/liu-2024-reporting/</guid>
+      <guid>http://localhost:1313/publication/liu-2024-reporting/</guid>
       <description></description>
     </item>
     
