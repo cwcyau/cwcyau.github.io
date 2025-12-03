@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reem Alsolami | Yau Research Group</title>
-    <link>http://localhost:1313/author/reem-alsolami/</link>
-      <atom:link href="http://localhost:1313/author/reem-alsolami/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/reem-alsolami/</link>
+      <atom:link href="https://cwcyau.github.io/author/reem-alsolami/index.xml" rel="self" type="application/rss+xml" />
     <description>Reem Alsolami</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Reem Alsolami</title>
-      <link>http://localhost:1313/author/reem-alsolami/</link>
+      <link>https://cwcyau.github.io/author/reem-alsolami/</link>
     </image>
     
     <item>
       <title>The Identification of Further Minimal Regions of Overlap in Chronic Lymphocytic Leukemia Using High-Resolution SNP Arrays</title>
-      <link>http://localhost:1313/publication/knight-2014-identification/</link>
+      <link>https://cwcyau.github.io/publication/knight-2014-identification/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/knight-2014-identification/</guid>
+      <guid>https://cwcyau.github.io/publication/knight-2014-identification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Towards Response Prediction Using Integrated Genomics in Chronic Lymphocytic Leukaemia: Results on 250 First-Line FCR Treated Patients from UK Clinical Trials</title>
-      <link>http://localhost:1313/publication/clifford-2014-towards/</link>
+      <link>https://cwcyau.github.io/publication/clifford-2014-towards/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/clifford-2014-towards/</guid>
+      <guid>https://cwcyau.github.io/publication/clifford-2014-towards/</guid>
       <description></description>
     </item>
     

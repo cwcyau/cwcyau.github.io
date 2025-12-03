@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ahmed Ashour Ahmed | Yau Research Group</title>
-    <link>http://localhost:1313/author/ahmed-ashour-ahmed/</link>
-      <atom:link href="http://localhost:1313/author/ahmed-ashour-ahmed/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/ahmed-ashour-ahmed/</link>
+      <atom:link href="https://cwcyau.github.io/author/ahmed-ashour-ahmed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ahmed Ashour Ahmed</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Ahmed Ashour Ahmed</title>
-      <link>http://localhost:1313/author/ahmed-ashour-ahmed/</link>
+      <link>https://cwcyau.github.io/author/ahmed-ashour-ahmed/</link>
     </image>
     
     <item>
       <title>Completing a genomic characterisation of microscopic tumour samples with copy number (vol 24, 453, 2023)</title>
-      <link>http://localhost:1313/publication/nulsen-2024-completing/</link>
+      <link>https://cwcyau.github.io/publication/nulsen-2024-completing/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nulsen-2024-completing/</guid>
+      <guid>https://cwcyau.github.io/publication/nulsen-2024-completing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Correction: Completing a genomic characterisation of microscopic tumour samples with copy number</title>
-      <link>http://localhost:1313/publication/nulsen-2024-correction/</link>
+      <link>https://cwcyau.github.io/publication/nulsen-2024-correction/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nulsen-2024-correction/</guid>
+      <guid>https://cwcyau.github.io/publication/nulsen-2024-correction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Method for identifying neo-antigens</title>
-      <link>http://localhost:1313/publication/ahmed-2023-method/</link>
+      <link>https://cwcyau.github.io/publication/ahmed-2023-method/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahmed-2023-method/</guid>
+      <guid>https://cwcyau.github.io/publication/ahmed-2023-method/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Completing a genomic characterisation of microscopic tumour samples with copy number</title>
-      <link>http://localhost:1313/publication/nulsen-2023-completing/</link>
+      <link>https://cwcyau.github.io/publication/nulsen-2023-completing/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nulsen-2023-completing/</guid>
+      <guid>https://cwcyau.github.io/publication/nulsen-2023-completing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>High-grade serous ovarian carcinoma (hgsoc)</title>
-      <link>http://localhost:1313/publication/ahmed-2022-high/</link>
+      <link>https://cwcyau.github.io/publication/ahmed-2022-high/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahmed-2022-high/</guid>
+      <guid>https://cwcyau.github.io/publication/ahmed-2022-high/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep single-cell RNA-seq of the putative cell of origin revealed a novel molecular subtype of high-grade serous ovarian cancer with poor prognosis</title>
-      <link>http://localhost:1313/publication/hu-2019-deep/</link>
+      <link>https://cwcyau.github.io/publication/hu-2019-deep/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2019-deep/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2019-deep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A pan-cancer genome-wide analysis reveals tumour dependencies by induction of nonsense-mediated decay</title>
-      <link>http://localhost:1313/publication/hu-2017-pan/</link>
+      <link>https://cwcyau.github.io/publication/hu-2017-pan/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2017-pan/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2017-pan/</guid>
       <description></description>
     </item>
     

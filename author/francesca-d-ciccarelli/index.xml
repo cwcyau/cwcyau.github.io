@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Francesca D Ciccarelli | Yau Research Group</title>
-    <link>http://localhost:1313/author/francesca-d-ciccarelli/</link>
-      <atom:link href="http://localhost:1313/author/francesca-d-ciccarelli/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/francesca-d-ciccarelli/</link>
+      <atom:link href="https://cwcyau.github.io/author/francesca-d-ciccarelli/index.xml" rel="self" type="application/rss+xml" />
     <description>Francesca D Ciccarelli</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Francesca D Ciccarelli</title>
-      <link>http://localhost:1313/author/francesca-d-ciccarelli/</link>
+      <link>https://cwcyau.github.io/author/francesca-d-ciccarelli/</link>
     </image>
     
     <item>
       <title>Pan-cancer detection of driver genes at the single-patient resolution</title>
-      <link>http://localhost:1313/publication/nulsen-2021-pan/</link>
+      <link>https://cwcyau.github.io/publication/nulsen-2021-pan/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nulsen-2021-pan/</guid>
+      <guid>https://cwcyau.github.io/publication/nulsen-2021-pan/</guid>
       <description></description>
     </item>
     

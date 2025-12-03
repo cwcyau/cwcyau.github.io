@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiannis Ragoussis | Yau Research Group</title>
-    <link>http://localhost:1313/author/jiannis-ragoussis/</link>
-      <atom:link href="http://localhost:1313/author/jiannis-ragoussis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/jiannis-ragoussis/</link>
+      <atom:link href="https://cwcyau.github.io/author/jiannis-ragoussis/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiannis Ragoussis</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Jiannis Ragoussis</title>
-      <link>http://localhost:1313/author/jiannis-ragoussis/</link>
+      <link>https://cwcyau.github.io/author/jiannis-ragoussis/</link>
     </image>
     
     <item>
       <title>A statistical approach for detecting genomic aberrations in heterogeneous tumor samples from single nucleotide polymorphism genotyping data</title>
-      <link>http://localhost:1313/publication/yau-2010-statistical/</link>
+      <link>https://cwcyau.github.io/publication/yau-2010-statistical/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yau-2010-statistical/</guid>
+      <guid>https://cwcyau.github.io/publication/yau-2010-statistical/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing CNV detection methods for SNP arrays</title>
-      <link>http://localhost:1313/publication/winchester-2009-comparing/</link>
+      <link>https://cwcyau.github.io/publication/winchester-2009-comparing/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/winchester-2009-comparing/</guid>
+      <guid>https://cwcyau.github.io/publication/winchester-2009-comparing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GenoSNP: a variational Bayes within-sample SNP genotyping algorithm that does not require a reference population</title>
-      <link>http://localhost:1313/publication/giannoulatou-2008-genosnp/</link>
+      <link>https://cwcyau.github.io/publication/giannoulatou-2008-genosnp/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/giannoulatou-2008-genosnp/</guid>
+      <guid>https://cwcyau.github.io/publication/giannoulatou-2008-genosnp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QuantiSNP: an Objective Bayes Hidden-Markov Model to detect and accurately map copy number variation using SNP genotyping data</title>
-      <link>http://localhost:1313/publication/colella-2007-quantisnp/</link>
+      <link>https://cwcyau.github.io/publication/colella-2007-quantisnp/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/colella-2007-quantisnp/</guid>
+      <guid>https://cwcyau.github.io/publication/colella-2007-quantisnp/</guid>
       <description></description>
     </item>
     

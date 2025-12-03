@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ata Siddiqui | Yau Research Group</title>
-    <link>http://localhost:1313/author/ata-siddiqui/</link>
-      <atom:link href="http://localhost:1313/author/ata-siddiqui/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/ata-siddiqui/</link>
+      <atom:link href="https://cwcyau.github.io/author/ata-siddiqui/index.xml" rel="self" type="application/rss+xml" />
     <description>Ata Siddiqui</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Ata Siddiqui</title>
-      <link>http://localhost:1313/author/ata-siddiqui/</link>
+      <link>https://cwcyau.github.io/author/ata-siddiqui/</link>
     </image>
     
     <item>
       <title>Defective tubulin detyrosination causes structural brain abnormalities with cognitive deficiency in humans and mice</title>
-      <link>http://localhost:1313/publication/pagnamenta-2019-defective/</link>
+      <link>https://cwcyau.github.io/publication/pagnamenta-2019-defective/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pagnamenta-2019-defective/</guid>
+      <guid>https://cwcyau.github.io/publication/pagnamenta-2019-defective/</guid>
       <description></description>
     </item>
     

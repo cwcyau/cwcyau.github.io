@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhiyuan Hu | Yau Research Group</title>
-    <link>http://localhost:1313/author/zhiyuan-hu/</link>
-      <atom:link href="http://localhost:1313/author/zhiyuan-hu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/zhiyuan-hu/</link>
+      <atom:link href="https://cwcyau.github.io/author/zhiyuan-hu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhiyuan Hu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Zhiyuan Hu</title>
-      <link>http://localhost:1313/author/zhiyuan-hu/</link>
+      <link>https://cwcyau.github.io/author/zhiyuan-hu/</link>
     </image>
     
     <item>
       <title>High-grade serous ovarian carcinoma (hgsoc)</title>
-      <link>http://localhost:1313/publication/ahmed-2022-high/</link>
+      <link>https://cwcyau.github.io/publication/ahmed-2022-high/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahmed-2022-high/</guid>
+      <guid>https://cwcyau.github.io/publication/ahmed-2022-high/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adipocyte-like signature in ovarian cancer minimal residual disease identifies metabolic vulnerabilities of tumor initiating cells</title>
-      <link>http://localhost:1313/publication/artibani-2021-adipocyte/</link>
+      <link>https://cwcyau.github.io/publication/artibani-2021-adipocyte/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/artibani-2021-adipocyte/</guid>
+      <guid>https://cwcyau.github.io/publication/artibani-2021-adipocyte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An interpretable meta-clustering framework for single-cell RNA-Seq data integration and evaluation</title>
-      <link>http://localhost:1313/publication/hu-2021-interpretable/</link>
+      <link>https://cwcyau.github.io/publication/hu-2021-interpretable/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2021-interpretable/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2021-interpretable/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CIDER: an interpretable meta-clustering framework for single-cell RNA-seq data integration and evaluation</title>
-      <link>http://localhost:1313/publication/hu-2021-cider/</link>
+      <link>https://cwcyau.github.io/publication/hu-2021-cider/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2021-cider/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2021-cider/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promises and challenges of adoptive T-cell therapies for solid tumours</title>
-      <link>http://localhost:1313/publication/morotti-2021-promises/</link>
+      <link>https://cwcyau.github.io/publication/morotti-2021-promises/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/morotti-2021-promises/</guid>
+      <guid>https://cwcyau.github.io/publication/morotti-2021-promises/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Oxford classic links epithelial-to-mesenchymal transition to immunosuppression in poor prognosis ovarian cancers</title>
-      <link>http://localhost:1313/publication/hu-2021-oxford/</link>
+      <link>https://cwcyau.github.io/publication/hu-2021-oxford/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2021-oxford/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2021-oxford/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells</title>
-      <link>http://localhost:1313/publication/hu-2020-repertoire/</link>
+      <link>https://cwcyau.github.io/publication/hu-2020-repertoire/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2020-repertoire/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2020-repertoire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep single-cell RNA-seq of the putative cell of origin revealed a novel molecular subtype of high-grade serous ovarian cancer with poor prognosis</title>
-      <link>http://localhost:1313/publication/hu-2019-deep/</link>
+      <link>https://cwcyau.github.io/publication/hu-2019-deep/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2019-deep/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2019-deep/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A pan-cancer genome-wide analysis reveals tumour dependencies by induction of nonsense-mediated decay</title>
-      <link>http://localhost:1313/publication/hu-2017-pan/</link>
+      <link>https://cwcyau.github.io/publication/hu-2017-pan/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2017-pan/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2017-pan/</guid>
       <description></description>
     </item>
     

@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alastair K Denniston | Yau Research Group</title>
-    <link>http://localhost:1313/author/alastair-k-denniston/</link>
-      <atom:link href="http://localhost:1313/author/alastair-k-denniston/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/alastair-k-denniston/</link>
+      <atom:link href="https://cwcyau.github.io/author/alastair-k-denniston/index.xml" rel="self" type="application/rss+xml" />
     <description>Alastair K Denniston</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Alastair K Denniston</title>
-      <link>http://localhost:1313/author/alastair-k-denniston/</link>
+      <link>https://cwcyau.github.io/author/alastair-k-denniston/</link>
     </image>
     
     <item>
       <title>Directrices para los protocolos de ensayos clı́nicos de intervenciones con inteligencia artificial: la extensión SPIRIT-AI</title>
-      <link>http://localhost:1313/publication/cruz-2024-directrices/</link>
+      <link>https://cwcyau.github.io/publication/cruz-2024-directrices/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cruz-2024-directrices/</guid>
+      <guid>https://cwcyau.github.io/publication/cruz-2024-directrices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Directrices para presentación de informes de ensayos clı́nicos sobre intervenciones con inteligencia artificial: extensión CONSORT-AI</title>
-      <link>http://localhost:1313/publication/liu-2024-directrices/</link>
+      <link>https://cwcyau.github.io/publication/liu-2024-directrices/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2024-directrices/</guid>
+      <guid>https://cwcyau.github.io/publication/liu-2024-directrices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension</title>
-      <link>http://localhost:1313/publication/liu-2024-reporting/</link>
+      <link>https://cwcyau.github.io/publication/liu-2024-reporting/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2024-reporting/</guid>
+      <guid>https://cwcyau.github.io/publication/liu-2024-reporting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension</title>
-      <link>http://localhost:1313/publication/rivera-2020-guidelines/</link>
+      <link>https://cwcyau.github.io/publication/rivera-2020-guidelines/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rivera-2020-guidelines/</guid>
+      <guid>https://cwcyau.github.io/publication/rivera-2020-guidelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension</title>
-      <link>http://localhost:1313/publication/liu-2020-reporting/</link>
+      <link>https://cwcyau.github.io/publication/liu-2020-reporting/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2020-reporting/</guid>
+      <guid>https://cwcyau.github.io/publication/liu-2020-reporting/</guid>
       <description></description>
     </item>
     

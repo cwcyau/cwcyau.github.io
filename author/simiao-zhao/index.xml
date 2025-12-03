@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simiao Zhao | Yau Research Group</title>
-    <link>http://localhost:1313/author/simiao-zhao/</link>
-      <atom:link href="http://localhost:1313/author/simiao-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/simiao-zhao/</link>
+      <atom:link href="https://cwcyau.github.io/author/simiao-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Simiao Zhao</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/simiao-zhao/avatar_hu_c473696d7b1acb89.jpeg</url>
+      <url>https://cwcyau.github.io/author/simiao-zhao/avatar_hu_c473696d7b1acb89.jpeg</url>
       <title>Simiao Zhao</title>
-      <link>http://localhost:1313/author/simiao-zhao/</link>
+      <link>https://cwcyau.github.io/author/simiao-zhao/</link>
     </image>
     
     <item>
       <title>Simiao Zhao</title>
-      <link>http://localhost:1313/author/simiao-zhao/</link>
+      <link>https://cwcyau.github.io/author/simiao-zhao/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/simiao-zhao/</guid>
+      <guid>https://cwcyau.github.io/author/simiao-zhao/</guid>
       <description>&lt;p&gt;Simiao is a DPhil student who is based at the Weatherall Institute of Molecular Medicine and jointly supervised by &lt;a href=&#34;https://www.rdm.ox.ac.uk/about/our-divisions/nuffield-division-of-clinical-laboratory-sciences/nuffield-division-of-clinical-laboratory-sciences-research/hematopoietic-stem-cell-genetics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Claus Nerlov&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>

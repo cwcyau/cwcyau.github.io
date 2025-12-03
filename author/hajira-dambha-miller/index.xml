@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hajira Dambha-Miller | Yau Research Group</title>
-    <link>http://localhost:1313/author/hajira-dambha-miller/</link>
-      <atom:link href="http://localhost:1313/author/hajira-dambha-miller/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/hajira-dambha-miller/</link>
+      <atom:link href="https://cwcyau.github.io/author/hajira-dambha-miller/index.xml" rel="self" type="application/rss+xml" />
     <description>Hajira Dambha-Miller</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Hajira Dambha-Miller</title>
-      <link>http://localhost:1313/author/hajira-dambha-miller/</link>
+      <link>https://cwcyau.github.io/author/hajira-dambha-miller/</link>
     </image>
     
     <item>
       <title>Artificial Intelligence for Multiple Long-term conditions (AIM): A consensus statement from the NIHR AIM consortia</title>
-      <link>http://localhost:1313/publication/dambha-2023-artificial/</link>
+      <link>https://cwcyau.github.io/publication/dambha-2023-artificial/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dambha-2023-artificial/</guid>
+      <guid>https://cwcyau.github.io/publication/dambha-2023-artificial/</guid>
       <description></description>
     </item>
     

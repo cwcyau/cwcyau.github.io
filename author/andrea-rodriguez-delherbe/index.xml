@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrea Rodriguez Delherbe | Yau Research Group</title>
-    <link>http://localhost:1313/author/andrea-rodriguez-delherbe/</link>
-      <atom:link href="http://localhost:1313/author/andrea-rodriguez-delherbe/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/andrea-rodriguez-delherbe/</link>
+      <atom:link href="https://cwcyau.github.io/author/andrea-rodriguez-delherbe/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrea Rodriguez Delherbe</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/andrea-rodriguez-delherbe/avatar_hu_e455af8adca910d0.jpg</url>
+      <url>https://cwcyau.github.io/author/andrea-rodriguez-delherbe/avatar_hu_e455af8adca910d0.jpg</url>
       <title>Andrea Rodriguez Delherbe</title>
-      <link>http://localhost:1313/author/andrea-rodriguez-delherbe/</link>
+      <link>https://cwcyau.github.io/author/andrea-rodriguez-delherbe/</link>
     </image>
-    
-    <item>
-      <title>Andrea Rodriguez Delherbe</title>
-      <link>http://localhost:1313/author/andrea-rodriguez-delherbe/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/andrea-rodriguez-delherbe/</guid>
-      <description>&lt;p&gt;Andrea is a DPhil student who focuses on implementing computational models based on diverse machine learning techniques and high-performance computing to study the principles of gene regulation across evolution and species within the scientific context of developmental biology in zebrafish and chicken embryos. She is supervised by &lt;a href=&#34;https://www.stowers.org/people/tatjana-sauka-spengler&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Professor Tatjana Sauka-Spengler&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Volker Tresp | Yau Research Group</title>
-    <link>http://localhost:1313/author/volker-tresp/</link>
-      <atom:link href="http://localhost:1313/author/volker-tresp/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/volker-tresp/</link>
+      <atom:link href="https://cwcyau.github.io/author/volker-tresp/index.xml" rel="self" type="application/rss+xml" />
     <description>Volker Tresp</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Volker Tresp</title>
-      <link>http://localhost:1313/author/volker-tresp/</link>
+      <link>https://cwcyau.github.io/author/volker-tresp/</link>
     </image>
     
     <item>
       <title>A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
-      <link>http://localhost:1313/publication/karaminejadranjbar-2020-highly/</link>
+      <link>https://cwcyau.github.io/publication/karaminejadranjbar-2020-highly/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/karaminejadranjbar-2020-highly/</guid>
+      <guid>https://cwcyau.github.io/publication/karaminejadranjbar-2020-highly/</guid>
       <description></description>
     </item>
     

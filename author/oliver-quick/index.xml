@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oliver Quick | Yau Research Group</title>
-    <link>http://localhost:1313/author/oliver-quick/</link>
-      <atom:link href="http://localhost:1313/author/oliver-quick/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/oliver-quick/</link>
+      <atom:link href="https://cwcyau.github.io/author/oliver-quick/index.xml" rel="self" type="application/rss+xml" />
     <description>Oliver Quick</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Oliver Quick</title>
-      <link>http://localhost:1313/author/oliver-quick/</link>
+      <link>https://cwcyau.github.io/author/oliver-quick/</link>
     </image>
     
     <item>
       <title>Money that no one wants to pay or receive: engaging for safety: Report to the Health Foundation</title>
-      <link>http://localhost:1313/publication/quick-2017-money/</link>
+      <link>https://cwcyau.github.io/publication/quick-2017-money/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/quick-2017-money/</guid>
+      <guid>https://cwcyau.github.io/publication/quick-2017-money/</guid>
       <description></description>
     </item>
     

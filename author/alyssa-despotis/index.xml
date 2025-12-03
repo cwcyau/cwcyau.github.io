@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alyssa Despotis | Yau Research Group</title>
+    <link>https://cwcyau.github.io/author/alyssa-despotis/</link>
+      <atom:link href="https://cwcyau.github.io/author/alyssa-despotis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alyssa Despotis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://cwcyau.github.io/author/alyssa-despotis/avatar_hu_75e19a80cde4a57c.jpg</url>
+      <title>Alyssa Despotis</title>
+      <link>https://cwcyau.github.io/author/alyssa-despotis/</link>
+    </image>
+    
+  </channel>
+</rss>

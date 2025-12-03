@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew L Beam | Yau Research Group</title>
-    <link>http://localhost:1313/author/andrew-l-beam/</link>
-      <atom:link href="http://localhost:1313/author/andrew-l-beam/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/andrew-l-beam/</link>
+      <atom:link href="https://cwcyau.github.io/author/andrew-l-beam/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrew L Beam</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Andrew L Beam</title>
-      <link>http://localhost:1313/author/andrew-l-beam/</link>
+      <link>https://cwcyau.github.io/author/andrew-l-beam/</link>
     </image>
     
     <item>
       <title>Guidelines for clinical trial protocols for interventions involving artificial intelligence: the SPIRIT-AI extension</title>
-      <link>http://localhost:1313/publication/rivera-2020-guidelines/</link>
+      <link>https://cwcyau.github.io/publication/rivera-2020-guidelines/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rivera-2020-guidelines/</guid>
+      <guid>https://cwcyau.github.io/publication/rivera-2020-guidelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension</title>
-      <link>http://localhost:1313/publication/liu-2020-reporting/</link>
+      <link>https://cwcyau.github.io/publication/liu-2020-reporting/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2020-reporting/</guid>
+      <guid>https://cwcyau.github.io/publication/liu-2020-reporting/</guid>
       <description></description>
     </item>
     

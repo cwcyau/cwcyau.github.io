@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>N Moss | Yau Research Group</title>
-    <link>http://localhost:1313/author/n-moss/</link>
-      <atom:link href="http://localhost:1313/author/n-moss/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/n-moss/</link>
+      <atom:link href="https://cwcyau.github.io/author/n-moss/index.xml" rel="self" type="application/rss+xml" />
     <description>N Moss</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>N Moss</title>
-      <link>http://localhost:1313/author/n-moss/</link>
+      <link>https://cwcyau.github.io/author/n-moss/</link>
     </image>
     
     <item>
       <title>ORCID: 0000-0001-9908-0773</title>
-      <link>http://localhost:1313/publication/lee-2021-orcid/</link>
+      <link>https://cwcyau.github.io/publication/lee-2021-orcid/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lee-2021-orcid/</guid>
+      <guid>https://cwcyau.github.io/publication/lee-2021-orcid/</guid>
       <description></description>
     </item>
     

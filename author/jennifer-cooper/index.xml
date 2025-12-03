@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jennifer Cooper | Yau Research Group</title>
-    <link>http://localhost:1313/author/jennifer-cooper/</link>
-      <atom:link href="http://localhost:1313/author/jennifer-cooper/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/jennifer-cooper/</link>
+      <atom:link href="https://cwcyau.github.io/author/jennifer-cooper/index.xml" rel="self" type="application/rss+xml" />
     <description>Jennifer Cooper</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Jennifer Cooper</title>
-      <link>http://localhost:1313/author/jennifer-cooper/</link>
+      <link>https://cwcyau.github.io/author/jennifer-cooper/</link>
     </image>
     
     <item>
       <title>Sociodemographic characteristics and longitudinal progression of multimorbidity</title>
-      <link>http://localhost:1313/publication/chen-2023-sociodemographic/</link>
+      <link>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-2023-sociodemographic/</guid>
+      <guid>https://cwcyau.github.io/publication/chen-2023-sociodemographic/</guid>
       <description></description>
     </item>
     

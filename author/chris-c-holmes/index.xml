@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris C Holmes | Yau Research Group</title>
-    <link>http://localhost:1313/author/chris-c-holmes/</link>
-      <atom:link href="http://localhost:1313/author/chris-c-holmes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/chris-c-holmes/</link>
+      <atom:link href="https://cwcyau.github.io/author/chris-c-holmes/index.xml" rel="self" type="application/rss+xml" />
     <description>Chris C Holmes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Chris C Holmes</title>
-      <link>http://localhost:1313/author/chris-c-holmes/</link>
+      <link>https://cwcyau.github.io/author/chris-c-holmes/</link>
     </image>
     
     <item>
       <title>A multi-resolution framework for U-Nets with applications to hierarchical VAEs</title>
-      <link>http://localhost:1313/publication/falck-2022-multi/</link>
+      <link>https://cwcyau.github.io/publication/falck-2022-multi/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/falck-2022-multi/</guid>
+      <guid>https://cwcyau.github.io/publication/falck-2022-multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multi-facet clustering variational autoencoders</title>
-      <link>http://localhost:1313/publication/falck-2021-multi/</link>
+      <link>https://cwcyau.github.io/publication/falck-2021-multi/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/falck-2021-multi/</guid>
+      <guid>https://cwcyau.github.io/publication/falck-2021-multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian boolean matrix factorisation</title>
-      <link>http://localhost:1313/publication/rukat-2017-bayesian/</link>
+      <link>https://cwcyau.github.io/publication/rukat-2017-bayesian/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rukat-2017-bayesian/</guid>
+      <guid>https://cwcyau.github.io/publication/rukat-2017-bayesian/</guid>
       <description></description>
     </item>
     

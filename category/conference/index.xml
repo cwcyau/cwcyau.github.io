@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conference | Yau Research Group</title>
-    <link>http://localhost:1313/category/conference/</link>
-      <atom:link href="http://localhost:1313/category/conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/category/conference/</link>
+      <atom:link href="https://cwcyau.github.io/category/conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Conference</title>
-      <link>http://localhost:1313/category/conference/</link>
+      <link>https://cwcyau.github.io/category/conference/</link>
     </image>
     
     <item>
       <title>AISTATS 2020</title>
-      <link>http://localhost:1313/post/2020-01-17_kaspar/</link>
+      <link>https://cwcyau.github.io/post/2020-01-17_kaspar/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020-01-17_kaspar/</guid>
+      <guid>https://cwcyau.github.io/post/2020-01-17_kaspar/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/kaspar&#34;&gt;Kaspar Martens&lt;/a&gt; who has had two papers accepted into &lt;a href=&#34;https://www.aistats.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2020&lt;/a&gt;. Papers to be published soon.&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tong Yu | Yau Research Group</title>
-    <link>http://localhost:1313/author/tong-yu/</link>
-      <atom:link href="http://localhost:1313/author/tong-yu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/tong-yu/</link>
+      <atom:link href="https://cwcyau.github.io/author/tong-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Tong Yu</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/tong-yu/avatar_hu_b9462783ce56a133.jpg</url>
+      <url>https://cwcyau.github.io/author/tong-yu/avatar_hu_b9462783ce56a133.jpg</url>
       <title>Tong Yu</title>
-      <link>http://localhost:1313/author/tong-yu/</link>
+      <link>https://cwcyau.github.io/author/tong-yu/</link>
     </image>
     
     <item>
       <title>Tong Yu</title>
-      <link>http://localhost:1313/author/tong-yu/</link>
+      <link>https://cwcyau.github.io/author/tong-yu/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/tong-yu/</guid>
+      <guid>https://cwcyau.github.io/author/tong-yu/</guid>
       <description>&lt;p&gt;Tong Yu was a visiting graduate student from Norwegian University of Science and Technology where he was supervised by &lt;a href=&#34;https://www.ntnu.edu/employees/zhirong.yang&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Zhirong Yang&lt;/a&gt;. He will spent his visit in Oxford investigating multi-scale signal processing using deep learning.&lt;/p&gt;
 </description>
     </item>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Omits | Yau Research Group</title>
+    <link>https://cwcyau.github.io/tag/omits/</link>
+      <atom:link href="https://cwcyau.github.io/tag/omits/index.xml" rel="self" type="application/rss+xml" />
+    <description>Omits</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <title>Omits</title>
+      <link>https://cwcyau.github.io/tag/omits/</link>
+    </image>
+    
+    <item>
+      <title>GPerturb - Gaussian process modelling of single-cell perturbation data</title>
+      <link>https://cwcyau.github.io/event/gperturb/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/event/gperturb/</guid>
+      <description>&lt;p&gt;In this work, we introduce &lt;strong&gt;GPerturb&lt;/strong&gt;, a new computational framework that helps make sense of high-throughput single-cell experiments in which genes are perturbed (for example via CRISPR) and the outcomes captured at single-cell resolution. The model uses &lt;strong&gt;Gaussian process regression&lt;/strong&gt; within a hierarchical, additive structure to &lt;strong&gt;separate baseline (unperturbed) gene expression&lt;/strong&gt; from the &lt;strong&gt;effect of perturbations&lt;/strong&gt;, and to provide &lt;strong&gt;interpretable, uncertainty-aware estimates&lt;/strong&gt; of how each gene responds.&lt;/p&gt;
+&lt;p&gt;Because single-cell perturbation data are often sparse, high‐dimensional and complex, GPerturb addresses these challenges by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;modelling both continuous and count‐based expression data (via normal or zero‐inflated Poisson likelihoods) in a unified way.&lt;/li&gt;
+&lt;li&gt;providing gene‐level effect estimates (rather than black‐box latent embeddings), making results more interpretable for biological follow‐up.&lt;/li&gt;
+&lt;li&gt;demonstrating that its performance is competitive with state‐of‐the‐art deep-learning approaches across multiple datasets (single‐gene, multi‐gene, dosage perturbations) while retaining interpretability and flexibility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In short: this work presents a &lt;strong&gt;scalable and interpretable model&lt;/strong&gt; for analysing complex single-cell perturbation datasets, offering new opportunities to uncover how genes respond to perturbations (including multi-gene and dosage effects) and to support downstream biological discovery.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Investigator:&lt;/em&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../author/christopher-yau/&#34;&gt;Christopher Yau&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../author/hanwen-xing/&#34;&gt;Hanwen Xing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

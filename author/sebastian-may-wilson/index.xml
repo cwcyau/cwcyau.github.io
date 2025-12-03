@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sebastian May-Wilson | Yau Research Group</title>
-    <link>http://localhost:1313/author/sebastian-may-wilson/</link>
-      <atom:link href="http://localhost:1313/author/sebastian-may-wilson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/sebastian-may-wilson/</link>
+      <atom:link href="https://cwcyau.github.io/author/sebastian-may-wilson/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebastian May-Wilson</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Sebastian May-Wilson</title>
-      <link>http://localhost:1313/author/sebastian-may-wilson/</link>
+      <link>https://cwcyau.github.io/author/sebastian-may-wilson/</link>
     </image>
     
     <item>
       <title>An atlas of genetic scores to predict multi-omic traits</title>
-      <link>http://localhost:1313/publication/xu-2023-atlas/</link>
+      <link>https://cwcyau.github.io/publication/xu-2023-atlas/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xu-2023-atlas/</guid>
+      <guid>https://cwcyau.github.io/publication/xu-2023-atlas/</guid>
       <description></description>
     </item>
     

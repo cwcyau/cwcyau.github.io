@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kaspar Maertens | Yau Research Group</title>
-    <link>http://localhost:1313/author/kaspar-maertens/</link>
-      <atom:link href="http://localhost:1313/author/kaspar-maertens/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/kaspar-maertens/</link>
+      <atom:link href="https://cwcyau.github.io/author/kaspar-maertens/index.xml" rel="self" type="application/rss+xml" />
     <description>Kaspar Maertens</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/kaspar-maertens/avatar_hu_98574a2a3a2a342a.jpg</url>
+      <url>https://cwcyau.github.io/author/kaspar-maertens/avatar_hu_98574a2a3a2a342a.jpg</url>
       <title>Kaspar Maertens</title>
-      <link>http://localhost:1313/author/kaspar-maertens/</link>
+      <link>https://cwcyau.github.io/author/kaspar-maertens/</link>
     </image>
-    
-    <item>
-      <title>Kaspar Maertens</title>
-      <link>http://localhost:1313/author/kaspar-maertens/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/kaspar-maertens/</guid>
-      <description>&lt;p&gt;Kaspar Maertens was a graduate student at the University of Oxford supervised by Christopher Yau and Professor Chris Holmes. He completed his DPhil in 2020. He is interested in statistical machine learning and has been researching methods for dimensionality reduction using Gaussian Processes and Deep Neural Networks. He was previously a Research Fellow funded by the Crick-Turing Biomedical Award and returned to Oxford as a Postdoctoral Research Fellow in 2022. He is now a Research Scientist at Novo Nordisk.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

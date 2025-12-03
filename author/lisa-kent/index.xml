@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lisa Kent | Yau Research Group</title>
-    <link>http://localhost:1313/author/lisa-kent/</link>
-      <atom:link href="http://localhost:1313/author/lisa-kent/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/lisa-kent/</link>
+      <atom:link href="https://cwcyau.github.io/author/lisa-kent/index.xml" rel="self" type="application/rss+xml" />
     <description>Lisa Kent</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Lisa Kent</title>
-      <link>http://localhost:1313/author/lisa-kent/</link>
+      <link>https://cwcyau.github.io/author/lisa-kent/</link>
     </image>
     
     <item>
       <title>Maternal and child outcomes for pregnant women with pre-existing multiple long-term conditions: protocol for an observational study in the UK</title>
-      <link>http://localhost:1313/publication/lee-2023-maternal/</link>
+      <link>https://cwcyau.github.io/publication/lee-2023-maternal/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lee-2023-maternal/</guid>
+      <guid>https://cwcyau.github.io/publication/lee-2023-maternal/</guid>
       <description></description>
     </item>
     

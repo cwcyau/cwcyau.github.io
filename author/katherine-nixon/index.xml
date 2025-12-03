@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Katherine Nixon | Yau Research Group</title>
-    <link>http://localhost:1313/author/katherine-nixon/</link>
-      <atom:link href="http://localhost:1313/author/katherine-nixon/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/katherine-nixon/</link>
+      <atom:link href="https://cwcyau.github.io/author/katherine-nixon/index.xml" rel="self" type="application/rss+xml" />
     <description>Katherine Nixon</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Katherine Nixon</title>
-      <link>http://localhost:1313/author/katherine-nixon/</link>
+      <link>https://cwcyau.github.io/author/katherine-nixon/</link>
     </image>
     
     <item>
       <title>The Oxford classic links epithelial-to-mesenchymal transition to immunosuppression in poor prognosis ovarian cancers</title>
-      <link>http://localhost:1313/publication/hu-2021-oxford/</link>
+      <link>https://cwcyau.github.io/publication/hu-2021-oxford/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2021-oxford/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2021-oxford/</guid>
       <description></description>
     </item>
     

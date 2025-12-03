@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Samuel a Lambert | Yau Research Group</title>
-    <link>http://localhost:1313/author/samuel-a-lambert/</link>
-      <atom:link href="http://localhost:1313/author/samuel-a-lambert/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/samuel-a-lambert/</link>
+      <atom:link href="https://cwcyau.github.io/author/samuel-a-lambert/index.xml" rel="self" type="application/rss+xml" />
     <description>Samuel a Lambert</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Samuel a Lambert</title>
-      <link>http://localhost:1313/author/samuel-a-lambert/</link>
+      <link>https://cwcyau.github.io/author/samuel-a-lambert/</link>
     </image>
     
     <item>
       <title>An atlas of genetic scores to predict multi-omic traits</title>
-      <link>http://localhost:1313/publication/xu-2023-atlas/</link>
+      <link>https://cwcyau.github.io/publication/xu-2023-atlas/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/xu-2023-atlas/</guid>
+      <guid>https://cwcyau.github.io/publication/xu-2023-atlas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Genetically personalised organ-specific metabolic models in health and disease</title>
-      <link>http://localhost:1313/publication/foguet-2022-genetically/</link>
+      <link>https://cwcyau.github.io/publication/foguet-2022-genetically/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/foguet-2022-genetically/</guid>
+      <guid>https://cwcyau.github.io/publication/foguet-2022-genetically/</guid>
       <description></description>
     </item>
     

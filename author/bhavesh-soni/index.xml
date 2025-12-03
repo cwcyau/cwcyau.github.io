@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bhavesh Soni | Yau Research Group</title>
-    <link>http://localhost:1313/author/bhavesh-soni/</link>
-      <atom:link href="http://localhost:1313/author/bhavesh-soni/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/bhavesh-soni/</link>
+      <atom:link href="https://cwcyau.github.io/author/bhavesh-soni/index.xml" rel="self" type="application/rss+xml" />
     <description>Bhavesh Soni</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/bhavesh-soni/avatar_hu_b8bc5e2e9db5af3.jpeg</url>
+      <url>https://cwcyau.github.io/author/bhavesh-soni/avatar_hu_b8bc5e2e9db5af3.jpeg</url>
       <title>Bhavesh Soni</title>
-      <link>http://localhost:1313/author/bhavesh-soni/</link>
+      <link>https://cwcyau.github.io/author/bhavesh-soni/</link>
     </image>
     
     <item>
       <title>Bhavesh Soni</title>
-      <link>http://localhost:1313/author/bhavesh-soni/</link>
+      <link>https://cwcyau.github.io/author/bhavesh-soni/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/bhavesh-soni/</guid>
+      <guid>https://cwcyau.github.io/author/bhavesh-soni/</guid>
       <description>&lt;p&gt;Bhavesh is a DPhil student who is based at Roche and co-supervised by Stephan Gasser. He is developing computational approaches for examining the signaling dynamics in the tumour microenvironment.&lt;/p&gt;
 </description>
     </item>

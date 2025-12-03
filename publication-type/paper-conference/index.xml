@@ -2,213 +2,213 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper-Conference | Yau Research Group</title>
-    <link>http://localhost:1313/publication-type/paper-conference/</link>
-      <atom:link href="http://localhost:1313/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/publication-type/paper-conference/</link>
+      <atom:link href="https://cwcyau.github.io/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
     <description>Paper-Conference</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Paper-Conference</title>
-      <link>http://localhost:1313/publication-type/paper-conference/</link>
+      <link>https://cwcyau.github.io/publication-type/paper-conference/</link>
     </image>
     
     <item>
       <title>STATE-SPACE-LIKE MODELS TO CALL COPY NUMBERS</title>
-      <link>http://localhost:1313/publication/visscher-2025-state/</link>
+      <link>https://cwcyau.github.io/publication/visscher-2025-state/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/visscher-2025-state/</guid>
+      <guid>https://cwcyau.github.io/publication/visscher-2025-state/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development and validation of a postpartum cardiovascular disease (CVD) risk prediction model in women with a history of pregnancy incorporating reproductive and pregnancy-related candidate predictors</title>
-      <link>http://localhost:1313/publication/wambua-2024-development/</link>
+      <link>https://cwcyau.github.io/publication/wambua-2024-development/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wambua-2024-development/</guid>
+      <guid>https://cwcyau.github.io/publication/wambua-2024-development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Disentangling shared and private latent factors in multimodal Variational Autoencoders</title>
-      <link>http://localhost:1313/publication/martens-2024-disentangling/</link>
+      <link>https://cwcyau.github.io/publication/martens-2024-disentangling/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martens-2024-disentangling/</guid>
+      <guid>https://cwcyau.github.io/publication/martens-2024-disentangling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mixed Type Multimorbidity Variational Autoencoder: A Deep Generative Model for Multimorbidity Analysis</title>
-      <link>http://localhost:1313/publication/kim-2024-mixed/</link>
+      <link>https://cwcyau.github.io/publication/kim-2024-mixed/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kim-2024-mixed/</guid>
+      <guid>https://cwcyau.github.io/publication/kim-2024-mixed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pregnancy-related factors in risk prediction modelling for post-partum cardiovascular disease</title>
-      <link>http://localhost:1313/publication/wambua-2023-pregnancy/</link>
+      <link>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wambua-2023-pregnancy/</guid>
+      <guid>https://cwcyau.github.io/publication/wambua-2023-pregnancy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derivative-based neural modelling of cumulative distribution functions for survival analysis</title>
-      <link>http://localhost:1313/publication/danks-2022-derivative/</link>
+      <link>https://cwcyau.github.io/publication/danks-2022-derivative/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/danks-2022-derivative/</guid>
+      <guid>https://cwcyau.github.io/publication/danks-2022-derivative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Diagnosing Acute Appendicitis using Machine Learning: A Systematic Review</title>
-      <link>http://localhost:1313/publication/chan-2022-diagnosing/</link>
+      <link>https://cwcyau.github.io/publication/chan-2022-diagnosing/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chan-2022-diagnosing/</guid>
+      <guid>https://cwcyau.github.io/publication/chan-2022-diagnosing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature allocation approach for multimorbidity trajectory modelling</title>
-      <link>http://localhost:1313/publication/kim-2022-feature/</link>
+      <link>https://cwcyau.github.io/publication/kim-2022-feature/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kim-2022-feature/</guid>
+      <guid>https://cwcyau.github.io/publication/kim-2022-feature/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mmVAE: multimorbidity clustering using Relaxed Bernoulli $ $β$ $-Variational Autoencoders</title>
-      <link>http://localhost:1313/publication/gadd-2022-mmvae/</link>
+      <link>https://cwcyau.github.io/publication/gadd-2022-mmvae/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gadd-2022-mmvae/</guid>
+      <guid>https://cwcyau.github.io/publication/gadd-2022-mmvae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multimorbidity in pregnant women with health conditions that cause maternal death</title>
-      <link>http://localhost:1313/publication/lee-2022-multimorbidity/</link>
+      <link>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lee-2022-multimorbidity/</guid>
+      <guid>https://cwcyau.github.io/publication/lee-2022-multimorbidity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basisdevae: Interpretable simultaneous dimensionality reduction and feature-level clustering with derivative-based variational autoencoders</title>
-      <link>http://localhost:1313/publication/danks-2021-basisdevae/</link>
+      <link>https://cwcyau.github.io/publication/danks-2021-basisdevae/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/danks-2021-basisdevae/</guid>
+      <guid>https://cwcyau.github.io/publication/danks-2021-basisdevae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BasisVAE: Translation-invariant feature-level clustering with Variational Autoencoders</title>
-      <link>http://localhost:1313/publication/martens-2020-basisvae/</link>
+      <link>https://cwcyau.github.io/publication/martens-2020-basisvae/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martens-2020-basisvae/</guid>
+      <guid>https://cwcyau.github.io/publication/martens-2020-basisvae/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Exploiting VDJ recombination of T cells to dissect the anti-cancer immune interactions in T cell lymphoma</title>
-      <link>http://localhost:1313/publication/murray-2020-exploiting/</link>
+      <link>https://cwcyau.github.io/publication/murray-2020-exploiting/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/murray-2020-exploiting/</guid>
+      <guid>https://cwcyau.github.io/publication/murray-2020-exploiting/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural decomposition: Functional anova with variational autoencoders</title>
-      <link>http://localhost:1313/publication/martens-2020-neural/</link>
+      <link>https://cwcyau.github.io/publication/martens-2020-neural/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martens-2020-neural/</guid>
+      <guid>https://cwcyau.github.io/publication/martens-2020-neural/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Augmented ensemble mcmc sampling in factorial hidden markov models</title>
-      <link>http://localhost:1313/publication/martens-2019-augmented/</link>
+      <link>https://cwcyau.github.io/publication/martens-2019-augmented/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martens-2019-augmented/</guid>
+      <guid>https://cwcyau.github.io/publication/martens-2019-augmented/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decomposing feature-level variation with covariate Gaussian process latent variable models</title>
-      <link>http://localhost:1313/publication/martens-2019-decomposing/</link>
+      <link>https://cwcyau.github.io/publication/martens-2019-decomposing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martens-2019-decomposing/</guid>
+      <guid>https://cwcyau.github.io/publication/martens-2019-decomposing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MixDir: scalable Bayesian clustering for high-dimensional categorical data</title>
-      <link>http://localhost:1313/publication/ahlmann-2018-mixdir/</link>
+      <link>https://cwcyau.github.io/publication/ahlmann-2018-mixdir/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahlmann-2018-mixdir/</guid>
+      <guid>https://cwcyau.github.io/publication/ahlmann-2018-mixdir/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Probabilistic Boolean Tensor Decomposition</title>
-      <link>http://localhost:1313/publication/rukat-2018-probabilistic/</link>
+      <link>https://cwcyau.github.io/publication/rukat-2018-probabilistic/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rukat-2018-probabilistic/</guid>
+      <guid>https://cwcyau.github.io/publication/rukat-2018-probabilistic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian boolean matrix factorisation</title>
-      <link>http://localhost:1313/publication/rukat-2017-bayesian/</link>
+      <link>https://cwcyau.github.io/publication/rukat-2017-bayesian/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rukat-2017-bayesian/</guid>
+      <guid>https://cwcyau.github.io/publication/rukat-2017-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comprehensive genome-wide analysis of CLL samples from UK 1st line and relapsed/refractory clinical trials</title>
-      <link>http://localhost:1313/publication/robbe-2013-comprehensive/</link>
+      <link>https://cwcyau.github.io/publication/robbe-2013-comprehensive/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/robbe-2013-comprehensive/</guid>
+      <guid>https://cwcyau.github.io/publication/robbe-2013-comprehensive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A recursive, stochastic vessel segmentation framework that robustly handles bifurcations</title>
-      <link>http://localhost:1313/publication/allen-2008-recursive/</link>
+      <link>https://cwcyau.github.io/publication/allen-2008-recursive/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/allen-2008-recursive/</guid>
+      <guid>https://cwcyau.github.io/publication/allen-2008-recursive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantitative image analysis of chromosome dynamics in early Drosophila embryos</title>
-      <link>http://localhost:1313/publication/yau-2007-quantitative/</link>
+      <link>https://cwcyau.github.io/publication/yau-2007-quantitative/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yau-2007-quantitative/</guid>
+      <guid>https://cwcyau.github.io/publication/yau-2007-quantitative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian Hidden Markov Models for Detecting Regions of Deletion and Duplication in the Human Genome using Illumina BeadChip Arrays</title>
-      <link>http://localhost:1313/publication/holmes-2006-bayesian/</link>
+      <link>https://cwcyau.github.io/publication/holmes-2006-bayesian/</link>
       <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/holmes-2006-bayesian/</guid>
+      <guid>https://cwcyau.github.io/publication/holmes-2006-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Application of NBS Labeling technology on cellular protein quantitation and identification</title>
-      <link>http://localhost:1313/publication/kesuma-2004-application/</link>
+      <link>https://cwcyau.github.io/publication/kesuma-2004-application/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kesuma-2004-application/</guid>
+      <guid>https://cwcyau.github.io/publication/kesuma-2004-application/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Systematic Proteome analysis of breast cancer cell lines</title>
-      <link>http://localhost:1313/publication/ou-2004-systematic/</link>
+      <link>https://cwcyau.github.io/publication/ou-2004-systematic/</link>
       <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ou-2004-systematic/</guid>
+      <guid>https://cwcyau.github.io/publication/ou-2004-systematic/</guid>
       <description></description>
     </item>
     

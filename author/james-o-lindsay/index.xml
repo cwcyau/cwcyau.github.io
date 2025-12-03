@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>James O Lindsay | Yau Research Group</title>
-    <link>http://localhost:1313/author/james-o-lindsay/</link>
-      <atom:link href="http://localhost:1313/author/james-o-lindsay/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/james-o-lindsay/</link>
+      <atom:link href="https://cwcyau.github.io/author/james-o-lindsay/index.xml" rel="self" type="application/rss+xml" />
     <description>James O Lindsay</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>James O Lindsay</title>
-      <link>http://localhost:1313/author/james-o-lindsay/</link>
+      <link>https://cwcyau.github.io/author/james-o-lindsay/</link>
     </image>
     
     <item>
       <title>Separation of dual oxidase 2 and lactoperoxidase expression in intestinal crypts and species differences may limit hydrogen peroxide scavenging during mucosal healing in mice and humans</title>
-      <link>http://localhost:1313/publication/rigoni-2018-separation/</link>
+      <link>https://cwcyau.github.io/publication/rigoni-2018-separation/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rigoni-2018-separation/</guid>
+      <guid>https://cwcyau.github.io/publication/rigoni-2018-separation/</guid>
       <description></description>
     </item>
     

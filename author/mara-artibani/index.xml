@@ -2,69 +2,69 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mara Artibani | Yau Research Group</title>
-    <link>http://localhost:1313/author/mara-artibani/</link>
-      <atom:link href="http://localhost:1313/author/mara-artibani/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/mara-artibani/</link>
+      <atom:link href="https://cwcyau.github.io/author/mara-artibani/index.xml" rel="self" type="application/rss+xml" />
     <description>Mara Artibani</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Mara Artibani</title>
-      <link>http://localhost:1313/author/mara-artibani/</link>
+      <link>https://cwcyau.github.io/author/mara-artibani/</link>
     </image>
     
     <item>
       <title>The Oxford Classic can identify HGSOC patients who may benefit from EMT-targeting therapies</title>
-      <link>http://localhost:1313/publication/rai-2024-oxford/</link>
+      <link>https://cwcyau.github.io/publication/rai-2024-oxford/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rai-2024-oxford/</guid>
+      <guid>https://cwcyau.github.io/publication/rai-2024-oxford/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Adipocyte-like signature in ovarian cancer minimal residual disease identifies metabolic vulnerabilities of tumor initiating cells</title>
-      <link>http://localhost:1313/publication/artibani-2021-adipocyte/</link>
+      <link>https://cwcyau.github.io/publication/artibani-2021-adipocyte/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/artibani-2021-adipocyte/</guid>
+      <guid>https://cwcyau.github.io/publication/artibani-2021-adipocyte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Promises and challenges of adoptive T-cell therapies for solid tumours</title>
-      <link>http://localhost:1313/publication/morotti-2021-promises/</link>
+      <link>https://cwcyau.github.io/publication/morotti-2021-promises/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/morotti-2021-promises/</guid>
+      <guid>https://cwcyau.github.io/publication/morotti-2021-promises/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Oxford classic links epithelial-to-mesenchymal transition to immunosuppression in poor prognosis ovarian cancers</title>
-      <link>http://localhost:1313/publication/hu-2021-oxford/</link>
+      <link>https://cwcyau.github.io/publication/hu-2021-oxford/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2021-oxford/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2021-oxford/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A highly accurate platform for clone-specific mutation discovery enables the study of active mutational processes</title>
-      <link>http://localhost:1313/publication/karaminejadranjbar-2020-highly/</link>
+      <link>https://cwcyau.github.io/publication/karaminejadranjbar-2020-highly/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/karaminejadranjbar-2020-highly/</guid>
+      <guid>https://cwcyau.github.io/publication/karaminejadranjbar-2020-highly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The repertoire of serous ovarian cancer non-genetic heterogeneity revealed by single-cell sequencing of normal fallopian tube epithelial cells</title>
-      <link>http://localhost:1313/publication/hu-2020-repertoire/</link>
+      <link>https://cwcyau.github.io/publication/hu-2020-repertoire/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2020-repertoire/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2020-repertoire/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Premalignant SOX2 overexpression in the fallopian tubes of ovarian cancer patients: Discovery and validation studies</title>
-      <link>http://localhost:1313/publication/hellner-2016-premalignant/</link>
+      <link>https://cwcyau.github.io/publication/hellner-2016-premalignant/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hellner-2016-premalignant/</guid>
+      <guid>https://cwcyau.github.io/publication/hellner-2016-premalignant/</guid>
       <description></description>
     </item>
     

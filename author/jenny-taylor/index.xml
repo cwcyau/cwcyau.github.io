@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jenny Taylor | Yau Research Group</title>
-    <link>http://localhost:1313/author/jenny-taylor/</link>
-      <atom:link href="http://localhost:1313/author/jenny-taylor/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/jenny-taylor/</link>
+      <atom:link href="https://cwcyau.github.io/author/jenny-taylor/index.xml" rel="self" type="application/rss+xml" />
     <description>Jenny Taylor</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Jenny Taylor</title>
-      <link>http://localhost:1313/author/jenny-taylor/</link>
+      <link>https://cwcyau.github.io/author/jenny-taylor/</link>
     </image>
     
     <item>
       <title>Quantitative Whole Genome Analysis of Sequential Samples From Patients with B-CLL Identifies Novel Recurrent Copy Number Alterations Involving Critical B-Cell Transcription Factors</title>
-      <link>http://localhost:1313/publication/timbs-2010-quantitative/</link>
+      <link>https://cwcyau.github.io/publication/timbs-2010-quantitative/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/timbs-2010-quantitative/</guid>
+      <guid>https://cwcyau.github.io/publication/timbs-2010-quantitative/</guid>
       <description></description>
     </item>
     

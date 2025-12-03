@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steven Kiddle | Yau Research Group</title>
-    <link>http://localhost:1313/author/steven-kiddle/</link>
-      <atom:link href="http://localhost:1313/author/steven-kiddle/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/steven-kiddle/</link>
+      <atom:link href="https://cwcyau.github.io/author/steven-kiddle/index.xml" rel="self" type="application/rss+xml" />
     <description>Steven Kiddle</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Steven Kiddle</title>
-      <link>http://localhost:1313/author/steven-kiddle/</link>
+      <link>https://cwcyau.github.io/author/steven-kiddle/</link>
     </image>
     
     <item>
       <title>In simulated data and health records, latent class analysis was the optimum multimorbidity clustering algorithm</title>
-      <link>http://localhost:1313/publication/nichols-2022-simulated/</link>
+      <link>https://cwcyau.github.io/publication/nichols-2022-simulated/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nichols-2022-simulated/</guid>
+      <guid>https://cwcyau.github.io/publication/nichols-2022-simulated/</guid>
       <description></description>
     </item>
     

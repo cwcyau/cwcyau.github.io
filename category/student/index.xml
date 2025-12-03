@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Student | Yau Research Group</title>
-    <link>http://localhost:1313/category/student/</link>
-      <atom:link href="http://localhost:1313/category/student/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/category/student/</link>
+      <atom:link href="https://cwcyau.github.io/category/student/index.xml" rel="self" type="application/rss+xml" />
     <description>Student</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Student</title>
-      <link>http://localhost:1313/category/student/</link>
+      <link>https://cwcyau.github.io/category/student/</link>
     </image>
     
     <item>
       <title>AISTATS 2022</title>
-      <link>http://localhost:1313/post/2022-03-13_aistats_2022/</link>
+      <link>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</link>
       <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2022-03-13_aistats_2022/</guid>
+      <guid>https://cwcyau.github.io/post/2022-03-13_aistats_2022/</guid>
       <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper &lt;a href=&#34;http://aistats.org/aistats2022/accepted.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Derivative-Based Neural Modelling of Cumulative Distribution Functions for Survival Analysis&lt;/a&gt; has been accepted for presentation at &lt;a href=&#34;http://aistats.org/aistats2022&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2022&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ICML 2021</title>
-      <link>http://localhost:1313/post/2021-07-18_icml_2021/</link>
+      <link>https://cwcyau.github.io/post/2021-07-18_icml_2021/</link>
       <pubDate>Sun, 18 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021-07-18_icml_2021/</guid>
+      <guid>https://cwcyau.github.io/post/2021-07-18_icml_2021/</guid>
       <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/danks&#34;&gt;Dominic Danks&lt;/a&gt; whose paper &lt;a href=&#34;http://proceedings.mlr.press/v139/danks21a.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BasisDeVAE: Interpretable Simultaneous Dimensionality Reduction and Feature-Level Clustering with Derivative-Based Variational Autoencoders&lt;/a&gt;. has been accepted for presentation at the International Conference for Machine Learning 2021.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>ECOSTAT &amp; ISBA 2021</title>
-      <link>http://localhost:1313/post/2021-06-26_isba_2021/</link>
+      <link>https://cwcyau.github.io/post/2021-06-26_isba_2021/</link>
       <pubDate>Sat, 26 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021-06-26_isba_2021/</guid>
+      <guid>https://cwcyau.github.io/post/2021-06-26_isba_2021/</guid>
       <description>&lt;p&gt;Congratulations to PhD student &lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; whose will presenting his work on &amp;ldquo;Learning multimorbidity and its temporal dynamics with the Wright-Fisher Indian Buffet Processs&amp;rdquo; at the &lt;a href=&#34;http://www.cmstatistics.org/EcoSta2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EcoStat 2021&lt;/a&gt; and the &lt;a href=&#34;https://events.stat.uconn.edu/ISBA2021/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;International Society for Bayesian Analysis World Meeting 2021&lt;/a&gt; conferences.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>PhD Opportunities 2021/22</title>
-      <link>http://localhost:1313/post/2021-04-23_epsrc_dtp_2021/</link>
+      <link>https://cwcyau.github.io/post/2021-04-23_epsrc_dtp_2021/</link>
       <pubDate>Fri, 23 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021-04-23_epsrc_dtp_2021/</guid>
+      <guid>https://cwcyau.github.io/post/2021-04-23_epsrc_dtp_2021/</guid>
       <description>&lt;p&gt;A new PhD projects is being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by &lt;strong&gt;21 May 2021&lt;/strong&gt; for the EPSRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;[Explainable AI for Multimodal Data Integration in Biomedical Applications](&lt;a href=&#34;https://www.findaphd.com/phds/project/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.findaphd.com/phds/project/&lt;/a&gt;
@@ -54,9 +54,9 @@
     
     <item>
       <title>PhD Opportunities 2021/22</title>
-      <link>http://localhost:1313/post/2020-10-22_mrc_dtp_2021/</link>
+      <link>https://cwcyau.github.io/post/2020-10-22_mrc_dtp_2021/</link>
       <pubDate>Sun, 08 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020-10-22_mrc_dtp_2021/</guid>
+      <guid>https://cwcyau.github.io/post/2020-10-22_mrc_dtp_2021/</guid>
       <description>&lt;p&gt;Two new PhD projects are being advertised to join my group at the University of Manchester for the academic year 2021/22. Applications are due by &lt;strong&gt;15 November 2020&lt;/strong&gt; for the MRC Doctoral Training Programme. Successful applicants will receive funding support for their PhD studies.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -83,9 +83,9 @@
     
     <item>
       <title>PhD Opportunities 2020/21</title>
-      <link>http://localhost:1313/post/2020-06-24_mrc_case_2020/</link>
+      <link>https://cwcyau.github.io/post/2020-06-24_mrc_case_2020/</link>
       <pubDate>Wed, 24 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020-06-24_mrc_case_2020/</guid>
+      <guid>https://cwcyau.github.io/post/2020-06-24_mrc_case_2020/</guid>
       <description>&lt;p&gt;A new funded PhD opportunity for UK/EU students is available to join my group for the academic year 2020/21:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.findaphd.com/phds/project/mrc-case-breaking-free-with-artificial-intelligence-using-data-driven-insights-to-improve-digital-health-support-for-substance-use-disorders/?p122456&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breaking Free with Artificial Intelligence: using data-driven insights to improve digital health support for substance use disorders&lt;/a&gt;&lt;/li&gt;
@@ -95,9 +95,9 @@
     
     <item>
       <title>PhD Opportunities 2020/21</title>
-      <link>http://localhost:1313/post/2020-03-26_phd/</link>
+      <link>https://cwcyau.github.io/post/2020-03-26_phd/</link>
       <pubDate>Thu, 26 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020-03-26_phd/</guid>
+      <guid>https://cwcyau.github.io/post/2020-03-26_phd/</guid>
       <description>&lt;p&gt;There are two new funded PhD opportunities for UK/EU students available to join my group for the academic year 2020/21:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.findaphd.com/phds/project/epsrc-dtp-explainable-ai-for-multimodal-data-integration-in-biomedical-applications/?p120593&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Explainable AI for Multimodal Data Integration in Biomedical Applications&lt;/a&gt;&lt;/li&gt;
@@ -112,18 +112,18 @@
     
     <item>
       <title>Cancer Cell Publication</title>
-      <link>http://localhost:1313/post/2020-02-20_cancercell/</link>
+      <link>https://cwcyau.github.io/post/2020-02-20_cancercell/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020-02-20_cancercell/</guid>
+      <guid>https://cwcyau.github.io/post/2020-02-20_cancercell/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/hu&#34;&gt;Zhiyuan Hu&lt;/a&gt; whose paper on the &amp;ldquo;The Repertoire of Serous Ovarian Cancer Non-genetic Heterogeneity Revealed by Single-Cell Sequencing of Normal Fallopian Tube Epithelial Cells&amp;rdquo; has been published in &lt;a href=&#34;https://www.cell.com/cancer-cell/fulltext/S1535-6108%2820%2930042-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cancer Cell&lt;/a&gt;. Read press coverage by the &lt;a href=&#34;https://www.dailymail.co.uk/health/article-7987639/Ovarian-cancer-hope-discovery-six-types-cell-trigger-silent-killer.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Daily Mail&lt;/a&gt; and the press release by the main funders &lt;a href=&#34;https://ovarian.org.uk/news-and-blog/news/ovarian-cancer-action-scientists-closer-finding-cell-origin-ovarian-cancer/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ovarian Cancer Action&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>AISTATS 2020</title>
-      <link>http://localhost:1313/post/2020-01-17_kaspar/</link>
+      <link>https://cwcyau.github.io/post/2020-01-17_kaspar/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020-01-17_kaspar/</guid>
+      <guid>https://cwcyau.github.io/post/2020-01-17_kaspar/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/kaspar&#34;&gt;Kaspar Martens&lt;/a&gt; who has had two papers accepted into &lt;a href=&#34;https://www.aistats.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;AISTATS 2020&lt;/a&gt;. Papers to be published soon.&lt;/p&gt;
 </description>
     </item>

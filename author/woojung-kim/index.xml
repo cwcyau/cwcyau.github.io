@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Woojung Kim | Yau Research Group</title>
-    <link>http://localhost:1313/author/woojung-kim/</link>
-      <atom:link href="http://localhost:1313/author/woojung-kim/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/woojung-kim/</link>
+      <atom:link href="https://cwcyau.github.io/author/woojung-kim/index.xml" rel="self" type="application/rss+xml" />
     <description>Woojung Kim</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Woojung Kim</title>
-      <link>http://localhost:1313/author/woojung-kim/</link>
+      <link>https://cwcyau.github.io/author/woojung-kim/</link>
     </image>
     
     <item>
       <title>Mixed Type Multimorbidity Variational Autoencoder: A Deep Generative Model for Multimorbidity Analysis</title>
-      <link>http://localhost:1313/publication/kim-2024-mixed/</link>
+      <link>https://cwcyau.github.io/publication/kim-2024-mixed/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kim-2024-mixed/</guid>
+      <guid>https://cwcyau.github.io/publication/kim-2024-mixed/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Feature allocation approach for multimorbidity trajectory modelling</title>
-      <link>http://localhost:1313/publication/kim-2022-feature/</link>
+      <link>https://cwcyau.github.io/publication/kim-2022-feature/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kim-2022-feature/</guid>
+      <guid>https://cwcyau.github.io/publication/kim-2022-feature/</guid>
       <description></description>
     </item>
     

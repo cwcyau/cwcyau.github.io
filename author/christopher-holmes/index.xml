@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christopher Holmes | Yau Research Group</title>
-    <link>http://localhost:1313/author/christopher-holmes/</link>
-      <atom:link href="http://localhost:1313/author/christopher-holmes/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/christopher-holmes/</link>
+      <atom:link href="https://cwcyau.github.io/author/christopher-holmes/index.xml" rel="self" type="application/rss+xml" />
     <description>Christopher Holmes</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Christopher Holmes</title>
-      <link>http://localhost:1313/author/christopher-holmes/</link>
+      <link>https://cwcyau.github.io/author/christopher-holmes/</link>
     </image>
     
     <item>
       <title>Directrices para los protocolos de ensayos clı́nicos de intervenciones con inteligencia artificial: la extensión SPIRIT-AI</title>
-      <link>http://localhost:1313/publication/cruz-2024-directrices/</link>
+      <link>https://cwcyau.github.io/publication/cruz-2024-directrices/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/cruz-2024-directrices/</guid>
+      <guid>https://cwcyau.github.io/publication/cruz-2024-directrices/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Directrices para presentación de informes de ensayos clı́nicos sobre intervenciones con inteligencia artificial: extensión CONSORT-AI</title>
-      <link>http://localhost:1313/publication/liu-2024-directrices/</link>
+      <link>https://cwcyau.github.io/publication/liu-2024-directrices/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2024-directrices/</guid>
+      <guid>https://cwcyau.github.io/publication/liu-2024-directrices/</guid>
       <description></description>
     </item>
     

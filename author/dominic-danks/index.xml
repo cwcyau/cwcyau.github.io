@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dominic Danks | Yau Research Group</title>
-    <link>http://localhost:1313/author/dominic-danks/</link>
-      <atom:link href="http://localhost:1313/author/dominic-danks/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/dominic-danks/</link>
+      <atom:link href="https://cwcyau.github.io/author/dominic-danks/index.xml" rel="self" type="application/rss+xml" />
     <description>Dominic Danks</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Dominic Danks</title>
-      <link>http://localhost:1313/author/dominic-danks/</link>
+      <link>https://cwcyau.github.io/author/dominic-danks/</link>
     </image>
     
     <item>
       <title>A multi-resolution framework for U-Nets with applications to hierarchical VAEs</title>
-      <link>http://localhost:1313/publication/falck-2022-multi/</link>
+      <link>https://cwcyau.github.io/publication/falck-2022-multi/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/falck-2022-multi/</guid>
+      <guid>https://cwcyau.github.io/publication/falck-2022-multi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Derivative-based neural modelling of cumulative distribution functions for survival analysis</title>
-      <link>http://localhost:1313/publication/danks-2022-derivative/</link>
+      <link>https://cwcyau.github.io/publication/danks-2022-derivative/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/danks-2022-derivative/</guid>
+      <guid>https://cwcyau.github.io/publication/danks-2022-derivative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Basisdevae: Interpretable simultaneous dimensionality reduction and feature-level clustering with derivative-based variational autoencoders</title>
-      <link>http://localhost:1313/publication/danks-2021-basisdevae/</link>
+      <link>https://cwcyau.github.io/publication/danks-2021-basisdevae/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/danks-2021-basisdevae/</guid>
+      <guid>https://cwcyau.github.io/publication/danks-2021-basisdevae/</guid>
       <description></description>
     </item>
     

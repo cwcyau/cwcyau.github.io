@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Celeste M Bento | Yau Research Group</title>
-    <link>http://localhost:1313/author/celeste-m-bento/</link>
-      <atom:link href="http://localhost:1313/author/celeste-m-bento/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/celeste-m-bento/</link>
+      <atom:link href="https://cwcyau.github.io/author/celeste-m-bento/index.xml" rel="self" type="application/rss+xml" />
     <description>Celeste M Bento</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Celeste M Bento</title>
-      <link>http://localhost:1313/author/celeste-m-bento/</link>
+      <link>https://cwcyau.github.io/author/celeste-m-bento/</link>
     </image>
     
     <item>
       <title>Erythrocytosis associated with a novel missense mutation in the BPGM gene</title>
-      <link>http://localhost:1313/publication/petousi-2014-erythrocytosis/</link>
+      <link>https://cwcyau.github.io/publication/petousi-2014-erythrocytosis/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/petousi-2014-erythrocytosis/</guid>
+      <guid>https://cwcyau.github.io/publication/petousi-2014-erythrocytosis/</guid>
       <description></description>
     </item>
     

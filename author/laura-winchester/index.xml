@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laura Winchester | Yau Research Group</title>
-    <link>http://localhost:1313/author/laura-winchester/</link>
-      <atom:link href="http://localhost:1313/author/laura-winchester/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/laura-winchester/</link>
+      <atom:link href="https://cwcyau.github.io/author/laura-winchester/index.xml" rel="self" type="application/rss+xml" />
     <description>Laura Winchester</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Laura Winchester</title>
-      <link>http://localhost:1313/author/laura-winchester/</link>
+      <link>https://cwcyau.github.io/author/laura-winchester/</link>
     </image>
     
     <item>
       <title>Comparing CNV detection methods for SNP arrays</title>
-      <link>http://localhost:1313/publication/winchester-2009-comparing/</link>
+      <link>https://cwcyau.github.io/publication/winchester-2009-comparing/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/winchester-2009-comparing/</guid>
+      <guid>https://cwcyau.github.io/publication/winchester-2009-comparing/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Andrew Vickers | Yau Research Group</title>
-    <link>http://localhost:1313/author/andrew-vickers/</link>
-      <atom:link href="http://localhost:1313/author/andrew-vickers/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/andrew-vickers/</link>
+      <atom:link href="https://cwcyau.github.io/author/andrew-vickers/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrew Vickers</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Andrew Vickers</title>
-      <link>http://localhost:1313/author/andrew-vickers/</link>
+      <link>https://cwcyau.github.io/author/andrew-vickers/</link>
     </image>
     
     <item>
       <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
-      <link>http://localhost:1313/publication/rao-2025-refined/</link>
+      <link>https://cwcyau.github.io/publication/rao-2025-refined/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rao-2025-refined/</guid>
+      <guid>https://cwcyau.github.io/publication/rao-2025-refined/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Refined selection of individuals for preventive cardiovascular disease treatment with a transformer-based risk model</title>
-      <link>http://localhost:1313/publication/rao-2024-refined/</link>
+      <link>https://cwcyau.github.io/publication/rao-2024-refined/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rao-2024-refined/</guid>
+      <guid>https://cwcyau.github.io/publication/rao-2024-refined/</guid>
       <description></description>
     </item>
     

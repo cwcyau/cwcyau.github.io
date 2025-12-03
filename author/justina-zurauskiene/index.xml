@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justina Zurauskiene | Yau Research Group</title>
-    <link>http://localhost:1313/author/justina-zurauskiene/</link>
-      <atom:link href="http://localhost:1313/author/justina-zurauskiene/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/justina-zurauskiene/</link>
+      <atom:link href="https://cwcyau.github.io/author/justina-zurauskiene/index.xml" rel="self" type="application/rss+xml" />
     <description>Justina Zurauskiene</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/justina-zurauskiene/avatar_hu_dace1a415d33fcf0.jpg</url>
+      <url>https://cwcyau.github.io/author/justina-zurauskiene/avatar_hu_dace1a415d33fcf0.jpg</url>
       <title>Justina Zurauskiene</title>
-      <link>http://localhost:1313/author/justina-zurauskiene/</link>
+      <link>https://cwcyau.github.io/author/justina-zurauskiene/</link>
     </image>
     
     <item>
       <title>Justina Zurauskiene</title>
-      <link>http://localhost:1313/author/justina-zurauskiene/</link>
+      <link>https://cwcyau.github.io/author/justina-zurauskiene/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/justina-zurauskiene/</guid>
+      <guid>https://cwcyau.github.io/author/justina-zurauskiene/</guid>
       <description>&lt;p&gt;Justina works on statistical methods for genomic data analysis. At Oxford, she has developed novel hierarchical clustering methods for single cell data and also nonparametric smoothing techniques for decoding Hidden Markov models. She obtained her PhD from the Systems Biology group at Imperial College London with Professor Michael Stumpf before joining the Yau group at the Wellcome Trust Centre for Human Genetics in Oxford. She is now a BRIDGE Fellow at the University of Birmingham.&lt;/p&gt;
 </description>
     </item>

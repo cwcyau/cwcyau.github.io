@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Emma Pierson | Yau Research Group</title>
-    <link>http://localhost:1313/author/emma-pierson/</link>
-      <atom:link href="http://localhost:1313/author/emma-pierson/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/emma-pierson/</link>
+      <atom:link href="https://cwcyau.github.io/author/emma-pierson/index.xml" rel="self" type="application/rss+xml" />
     <description>Emma Pierson</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/emma-pierson/avatar_hu_f86ee1a807cc39a4.jpg</url>
+      <url>https://cwcyau.github.io/author/emma-pierson/avatar_hu_f86ee1a807cc39a4.jpg</url>
       <title>Emma Pierson</title>
-      <link>http://localhost:1313/author/emma-pierson/</link>
+      <link>https://cwcyau.github.io/author/emma-pierson/</link>
     </image>
     
     <item>
       <title>Emma Pierson</title>
-      <link>http://localhost:1313/author/emma-pierson/</link>
+      <link>https://cwcyau.github.io/author/emma-pierson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/emma-pierson/</guid>
+      <guid>https://cwcyau.github.io/author/emma-pierson/</guid>
       <description>&lt;p&gt;Emma completed her MSc by Research in Statistics in 2015 at the University of Oxford. Her research was on zero-inflated methods in single cell genomic data modelling. She is now completing a PhD at Stanford University.&lt;/p&gt;
 </description>
     </item>

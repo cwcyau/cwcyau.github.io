@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Graham Steers | Yau Research Group</title>
-    <link>http://localhost:1313/author/graham-steers/</link>
-      <atom:link href="http://localhost:1313/author/graham-steers/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/graham-steers/</link>
+      <atom:link href="https://cwcyau.github.io/author/graham-steers/index.xml" rel="self" type="application/rss+xml" />
     <description>Graham Steers</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Graham Steers</title>
-      <link>http://localhost:1313/author/graham-steers/</link>
+      <link>https://cwcyau.github.io/author/graham-steers/</link>
     </image>
     
     <item>
       <title>A statistical approach for detecting genomic aberrations in heterogeneous tumor samples from single nucleotide polymorphism genotyping data</title>
-      <link>http://localhost:1313/publication/yau-2010-statistical/</link>
+      <link>https://cwcyau.github.io/publication/yau-2010-statistical/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yau-2010-statistical/</guid>
+      <guid>https://cwcyau.github.io/publication/yau-2010-statistical/</guid>
       <description></description>
     </item>
     

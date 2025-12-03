@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Digital Health | Yau Research Group</title>
-    <link>http://localhost:1313/tag/digital-health/</link>
-      <atom:link href="http://localhost:1313/tag/digital-health/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/tag/digital-health/</link>
+      <atom:link href="https://cwcyau.github.io/tag/digital-health/index.xml" rel="self" type="application/rss+xml" />
     <description>Digital Health</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 16 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Digital Health</title>
-      <link>http://localhost:1313/tag/digital-health/</link>
+      <link>https://cwcyau.github.io/tag/digital-health/</link>
     </image>
     
     <item>
       <title>ML4H 2024</title>
-      <link>http://localhost:1313/post/2024-08-16_ml4h_2024/</link>
+      <link>https://cwcyau.github.io/post/2024-08-16_ml4h_2024/</link>
       <pubDate>Fri, 16 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2024-08-16_ml4h_2024/</guid>
+      <guid>https://cwcyau.github.io/post/2024-08-16_ml4h_2024/</guid>
       <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../authors/kim&#34;&gt;Woojung Kim&lt;/a&gt; on having his paper accepted at &lt;a href=&#34;https://www.mlforhc.org/2024-abstracts&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ML4H 2024&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;This paper introduces the Mixed Type Multimorbidity Variational Autoencoder (M3VAE), a deep probabilistic generative model developed for supervised dimensionality reduction in the context of multimorbidity analysis. The model is designed to overcome the limitations of purely supervised or unsupervised approaches in this field. M3VAE focuses on identifying latent representations of mixed-type health-related attributes essential for predicting patient survival outcomes. It integrates datasets with multiple modalities (by which we mean data of multiple types), encompassing health measurements, demographic details, and (potentially censored) survival outcomes. A key feature of M3VAE is its ability to reconstruct latent representations that exhibit clustering patterns, thereby revealing important patterns in disease co-occurrence. This functionality provides insights for understanding and predicting health outcomes. The efficacy of M3VAE has been demonstrated through experiments with both synthetic and real-world electronic health record data, showing its capability in identifying interpretable morbidity groupings related to future survival outcomes. The paper is available on &lt;a href=&#34;https://openreview.net/pdf/07ab0f2b2f529cdf9ca9d18dcad51c405ded4732.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OpenReview&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -24,9 +24,9 @@
     
     <item>
       <title>MuM-Predict</title>
-      <link>http://localhost:1313/event/mumpredict/</link>
+      <link>https://cwcyau.github.io/event/mumpredict/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/mumpredict/</guid>
+      <guid>https://cwcyau.github.io/event/mumpredict/</guid>
       <description>&lt;p&gt;The MuM-PreDiCT project has been successful in the funding call from the Strategic Priorities Fund (SPF): Tackling multimorbidity at scale: Understanding disease clusters, determinants &amp;amp; biological pathways.&lt;/p&gt;
 &lt;p&gt;This Strategic Priorities Fund (SPF) initiative, is jointly funded by the UKRI – MRC and the Department of Health and Social Care (DHSC), through the National Institute for Health Research (NIHR).&lt;/p&gt;
 &lt;p&gt;The project will study and improve maternity care for women who are also managing two or more long-term health conditions. These can be both physical conditions, such as diabetes and raised blood pressure, and mental health conditions such as depression and anxiety.&lt;/p&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>OPTIMAL</title>
-      <link>http://localhost:1313/event/optimal/</link>
+      <link>https://cwcyau.github.io/event/optimal/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/optimal/</guid>
+      <guid>https://cwcyau.github.io/event/optimal/</guid>
       <description>&lt;p&gt;The OPTIMAL study is three-year study funded by the &lt;a href=&#34;https://www.nihr.ac.uk/documents/artificial-intelligence-for-multiple-long-term-conditions-aim-programme-research-collaboration-stage-2-minutes/27578s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NIHR AI for Multimorbidity&lt;/a&gt; and is a collaboration with the Universities of Birmingham and St Andrews with CPRD and University Hospitals Birmingham.&lt;/p&gt;
 &lt;p&gt;In this study our group will develop novel artificial intelligence technologies to study electronic health records of individuals with two or more conditions known as &amp;ldquo;complex multimorbidity&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Our aim is to:&lt;/p&gt;
@@ -53,9 +53,9 @@
     
     <item>
       <title>Roche ML for Antibody Design</title>
-      <link>http://localhost:1313/event/roche-antibody/</link>
+      <link>https://cwcyau.github.io/event/roche-antibody/</link>
       <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/roche-antibody/</guid>
+      <guid>https://cwcyau.github.io/event/roche-antibody/</guid>
       <description>&lt;p&gt;In a new two-year collaboration with Roche, the group will be supporting a Roche Postdoctoral Fellowship in the development of antibodies. We will make use of Roche&amp;rsquo;s existing antibody data to develop machine-learning models generating sequences of antibodies with desired biophysical properties. Our aims are to:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Develop machine learning models that ingest in-house antibody engineering data on antibodies to generate novel sequences with increased likelihood of desired biophysical properties,&lt;/li&gt;
@@ -68,9 +68,9 @@
     
     <item>
       <title>Turing AI Acceleration Fellowship</title>
-      <link>http://localhost:1313/post/2020-11-27_turingai/</link>
+      <link>https://cwcyau.github.io/post/2020-11-27_turingai/</link>
       <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020-11-27_turingai/</guid>
+      <guid>https://cwcyau.github.io/post/2020-11-27_turingai/</guid>
       <description>&lt;p&gt;Christopher Yau has been awarded a 5-year Turing AI Acceleration Fellowship.&lt;/p&gt;
 &lt;p&gt;The Turing AI Acceleration Fellowships are part of the government’s AI sector deal investment in Turing AI fellowships, recommended by the independent 2017 UK AI Review, whose report ‘Growing the artificial intelligence industry in the UK,’ was co-authored by Reguis Professor of Computer Science at Southampton, Dame Wendy Hall, and Jérôme Pesenti, now Vice President of AI at Facebook.&lt;/p&gt;
 &lt;ul&gt;
@@ -89,9 +89,9 @@
     
     <item>
       <title>Setting guidelines to report the use of AI in clinical trials </title>
-      <link>http://localhost:1313/post/2020-09-09_consortai/</link>
+      <link>https://cwcyau.github.io/post/2020-09-09_consortai/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2020-09-09_consortai/</guid>
+      <guid>https://cwcyau.github.io/post/2020-09-09_consortai/</guid>
       <description>&lt;p&gt;The CONSORT-AI and SPIRIT-AI Steering Groups (including Christopher Yau) have published their guidelines for conducting and reporting on clinical trials for AI interventions.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://www.nature.com/articles/s41591-020-1069-z&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting guidelines to report the use of AI in clinical trials&lt;/a&gt;&lt;/li&gt;
@@ -101,9 +101,9 @@
     
     <item>
       <title>BIRM-CAM</title>
-      <link>http://localhost:1313/event/birmcam/</link>
+      <link>https://cwcyau.github.io/event/birmcam/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/birmcam/</guid>
+      <guid>https://cwcyau.github.io/event/birmcam/</guid>
       <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
 &lt;p&gt;Christopher Yau is a co-investigator in the &lt;a href=&#34;https://birmcam.github.io/birmcam/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BIRM-CAM&lt;/a&gt; project that is led by Professors Tom Marshall (University of Birmingham) and Sylvia Richardson (MRC Biostatistics Unit, University of Cambridge).&lt;/p&gt;
 &lt;h1 id=&#34;multimorbidity&#34;&gt;Multimorbidity&lt;/h1&gt;
@@ -119,9 +119,9 @@
     
     <item>
       <title>Breaking Free with Artificial Intelligence</title>
-      <link>http://localhost:1313/event/breaking-free/</link>
+      <link>https://cwcyau.github.io/event/breaking-free/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/event/breaking-free/</guid>
+      <guid>https://cwcyau.github.io/event/breaking-free/</guid>
       <description>&lt;p&gt;Using digital technology to improve health and care is now a priority focus for the UK National Health Service. New and maturing technological developments hold the potential to have a transformative effect on health service delivery. Digital health solutions can aid in the reduction of waiting times, more effective use of limited resources and improved treatment fidelity but, once such technologies are implemented, the dearth of data that can be acquired through their adoption itself presents a challenge. Data-driven insights, driven by machine learning and artificial intelligence techniques, can offer a glimpse of previously unknown patterns and identify opportunities for the development of new healthcare practices or policies. As digital health platforms become more sophisticated, the data that can be acquired often becomes more complex and heterogeneous, machine-based interpretation becomes a near-necessity.&lt;/p&gt;
 &lt;p&gt;The &lt;a href=&#34;http://www.breakingfreegroup.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Breaking Free Group&lt;/a&gt; is a leading digital health and behaviour science company. Founded in 2010, it is formed from a team of psychologists, substance misuse experts and technology specialists. With an organisational philosophy built around the principles of state-of-the-art behaviour science and the UK Medical Research Council evaluation framework, they have developed a bespoke digital behavioural intervention platform that provides 24/7 access to a secure, GDPR-compliant, online digital cognitive behaviour therapy (CBT) platform with a particular focus on substance misuse. Users of the platform complete pre- and post-therapy questionnaires and interactive exercises designed to teach strategies to overcome addictive behaviours and improve wellbeing. Scoring on questionnaire responses can signpost users to personalised information sources. Real-time quantitative data from the platform can be anonymously fed to health service providers and commissioners for planning and policy development purposes.&lt;/p&gt;
 &lt;p&gt;Breaking Free has seen its digital platform commissioned for use by the Ministry of Justice in UK prisons, Non-Government Charitable Organisations and NHS Trusts. Uniquely, Breaking Free operates under a research ethics protocol approved by the NHS Health Research Authority and endorsement by the National Institute of Clinical Excellence allowing the data they collect to be utilised for broader research applications. More recently, two new online platforms have been deployed more widely to the public targeting alcohol consumption reduction and smoking cessation. Breaking Free are based in both Birmingham and Manchester.&lt;/p&gt;

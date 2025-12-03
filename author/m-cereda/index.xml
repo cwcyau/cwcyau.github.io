@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>M Cereda | Yau Research Group</title>
-    <link>http://localhost:1313/author/m-cereda/</link>
-      <atom:link href="http://localhost:1313/author/m-cereda/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/m-cereda/</link>
+      <atom:link href="https://cwcyau.github.io/author/m-cereda/index.xml" rel="self" type="application/rss+xml" />
     <description>M Cereda</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>M Cereda</title>
-      <link>http://localhost:1313/author/m-cereda/</link>
+      <link>https://cwcyau.github.io/author/m-cereda/</link>
     </image>
     
     <item>
       <title>Identification of Subtypes of Barrett&#39;s Esophagus and Esophageal Adenocarcinoma Based on DNA Methylation Profiles and Integration of Transcriptome and Genome Data Oesophageal Cancer Clinical and Molecular Stratification (OCCAMS) Consortium, May 2020, In: Gastroenterology. 158, 6, p. 1682-1697. e1 Research output: Contribution to journal&gt; Article</title>
-      <link>http://localhost:1313/publication/temelkovski-2018-identification/</link>
+      <link>https://cwcyau.github.io/publication/temelkovski-2018-identification/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/temelkovski-2018-identification/</guid>
+      <guid>https://cwcyau.github.io/publication/temelkovski-2018-identification/</guid>
       <description></description>
     </item>
     

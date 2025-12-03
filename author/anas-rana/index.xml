@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Anas Rana | Yau Research Group</title>
-    <link>http://localhost:1313/author/anas-rana/</link>
-      <atom:link href="http://localhost:1313/author/anas-rana/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/anas-rana/</link>
+      <atom:link href="https://cwcyau.github.io/author/anas-rana/index.xml" rel="self" type="application/rss+xml" />
     <description>Anas Rana</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/anas-rana/avatar_hu_c638faca8ffc4be0.jpg</url>
+      <url>https://cwcyau.github.io/author/anas-rana/avatar_hu_c638faca8ffc4be0.jpg</url>
       <title>Anas Rana</title>
-      <link>http://localhost:1313/author/anas-rana/</link>
+      <link>https://cwcyau.github.io/author/anas-rana/</link>
     </image>
     
     <item>
       <title>Anas Rana</title>
-      <link>http://localhost:1313/author/anas-rana/</link>
+      <link>https://cwcyau.github.io/author/anas-rana/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/anas-rana/</guid>
+      <guid>https://cwcyau.github.io/author/anas-rana/</guid>
       <description>&lt;p&gt;Anas obtained his PhD in Computational Biology from the University of Warwick before taking up a postdoc at the University of Oxford. He was a Turing-funded Research Fellow at the University of Birmingham jointly supervised with Dr Andrew Beggs. He is now a Lecturer at the University of Birmingham.&lt;/p&gt;
 </description>
     </item>

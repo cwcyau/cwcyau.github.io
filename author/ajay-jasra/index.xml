@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ajay Jasra | Yau Research Group</title>
-    <link>http://localhost:1313/author/ajay-jasra/</link>
-      <atom:link href="http://localhost:1313/author/ajay-jasra/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/ajay-jasra/</link>
+      <atom:link href="https://cwcyau.github.io/author/ajay-jasra/index.xml" rel="self" type="application/rss+xml" />
     <description>Ajay Jasra</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Ajay Jasra</title>
-      <link>http://localhost:1313/author/ajay-jasra/</link>
+      <link>https://cwcyau.github.io/author/ajay-jasra/</link>
     </image>
     
     <item>
       <title>The alive particle filter and its use in particle Markov chain Monte Carlo</title>
-      <link>http://localhost:1313/publication/moral-2015-alive/</link>
+      <link>https://cwcyau.github.io/publication/moral-2015-alive/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/moral-2015-alive/</guid>
+      <guid>https://cwcyau.github.io/publication/moral-2015-alive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A sequential algorithm for fast fi fitting of Dirichlet process mixture models</title>
-      <link>http://localhost:1313/publication/nott-2014-sequential/</link>
+      <link>https://cwcyau.github.io/publication/nott-2014-sequential/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nott-2014-sequential/</guid>
+      <guid>https://cwcyau.github.io/publication/nott-2014-sequential/</guid>
       <description></description>
     </item>
     

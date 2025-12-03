@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kieran Campbell | Yau Research Group</title>
-    <link>http://localhost:1313/author/kieran-campbell/</link>
-      <atom:link href="http://localhost:1313/author/kieran-campbell/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/kieran-campbell/</link>
+      <atom:link href="https://cwcyau.github.io/author/kieran-campbell/index.xml" rel="self" type="application/rss+xml" />
     <description>Kieran Campbell</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Kieran Campbell</title>
-      <link>http://localhost:1313/author/kieran-campbell/</link>
+      <link>https://cwcyau.github.io/author/kieran-campbell/</link>
     </image>
     
     <item>
       <title>Bayesian statistical learning for big data biology</title>
-      <link>http://localhost:1313/publication/yau-2019-bayesian/</link>
+      <link>https://cwcyau.github.io/publication/yau-2019-bayesian/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yau-2019-bayesian/</guid>
+      <guid>https://cwcyau.github.io/publication/yau-2019-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decomposing feature-level variation with covariate Gaussian process latent variable models</title>
-      <link>http://localhost:1313/publication/martens-2019-decomposing/</link>
+      <link>https://cwcyau.github.io/publication/martens-2019-decomposing/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/martens-2019-decomposing/</guid>
+      <guid>https://cwcyau.github.io/publication/martens-2019-decomposing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrated single cell analysis reveals cell cycle and ontogeny related transcriptional heterogeneity in HSCs</title>
-      <link>http://localhost:1313/publication/povinelli-2018-integrated/</link>
+      <link>https://cwcyau.github.io/publication/povinelli-2018-integrated/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/povinelli-2018-integrated/</guid>
+      <guid>https://cwcyau.github.io/publication/povinelli-2018-integrated/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unravelling cell cycle and ontogeny transcriptional heterogeneity in hematopoietic stem cells through integrated single cell RNA-seq</title>
-      <link>http://localhost:1313/publication/povinelli-2017-unravelling/</link>
+      <link>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/povinelli-2017-unravelling/</guid>
+      <guid>https://cwcyau.github.io/publication/povinelli-2017-unravelling/</guid>
       <description></description>
     </item>
     

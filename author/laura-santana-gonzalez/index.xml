@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Laura Santana González | Yau Research Group</title>
-    <link>http://localhost:1313/author/laura-santana-gonzalez/</link>
-      <atom:link href="http://localhost:1313/author/laura-santana-gonzalez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/laura-santana-gonzalez/</link>
+      <atom:link href="https://cwcyau.github.io/author/laura-santana-gonzalez/index.xml" rel="self" type="application/rss+xml" />
     <description>Laura Santana González</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Laura Santana González</title>
-      <link>http://localhost:1313/author/laura-santana-gonzalez/</link>
+      <link>https://cwcyau.github.io/author/laura-santana-gonzalez/</link>
     </image>
     
     <item>
       <title>Deep single-cell RNA-seq of the putative cell of origin revealed a novel molecular subtype of high-grade serous ovarian cancer with poor prognosis</title>
-      <link>http://localhost:1313/publication/hu-2019-deep/</link>
+      <link>https://cwcyau.github.io/publication/hu-2019-deep/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hu-2019-deep/</guid>
+      <guid>https://cwcyau.github.io/publication/hu-2019-deep/</guid>
       <description></description>
     </item>
     

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bianca Kramer | Yau Research Group</title>
-    <link>http://localhost:1313/author/bianca-kramer/</link>
-      <atom:link href="http://localhost:1313/author/bianca-kramer/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/bianca-kramer/</link>
+      <atom:link href="https://cwcyau.github.io/author/bianca-kramer/index.xml" rel="self" type="application/rss+xml" />
     <description>Bianca Kramer</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Bianca Kramer</title>
-      <link>http://localhost:1313/author/bianca-kramer/</link>
+      <link>https://cwcyau.github.io/author/bianca-kramer/</link>
     </image>
     
     <item>
       <title>Bayesian statistics and modelling</title>
-      <link>http://localhost:1313/publication/van-2021-bayesian/</link>
+      <link>https://cwcyau.github.io/publication/van-2021-bayesian/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/van-2021-bayesian/</guid>
+      <guid>https://cwcyau.github.io/publication/van-2021-bayesian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publisher Correction: Bayesian statistics and modelling</title>
-      <link>http://localhost:1313/publication/van-2021-publisher/</link>
+      <link>https://cwcyau.github.io/publication/van-2021-publisher/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/van-2021-publisher/</guid>
+      <guid>https://cwcyau.github.io/publication/van-2021-publisher/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,1408 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: December 3, 2025 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.9c85b7451138c421e4165efcc1eee9b5.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Christopher Yau" />
+
+
+
+
+
+  
+
+<meta name="description" content="This guide reflects my own personal views and opinions and not those of the National Institute for Health and Care Research (NIHR), UK Research and Innovation (UKRI) or the Medical Research Council (MRC). For official information about the funding schemes discussed please refer to the NIHR website." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://cwcyau.github.io/post/2025-11-13_bettermethods/" />
+<link rel="canonical" href="https://cwcyau.github.io/post/2025-11-13_bettermethods/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_2311fe1a408f47c1.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_4eb7679362359773.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Yau Research Group" />
+<meta property="og:url" content="https://cwcyau.github.io/post/2025-11-13_bettermethods/" />
+<meta property="og:title" content="A unofficial guide to NIHR-MRC Better Methods, Better Research applications | Yau Research Group" />
+<meta property="og:description" content="This guide reflects my own personal views and opinions and not those of the National Institute for Health and Care Research (NIHR), UK Research and Innovation (UKRI) or the Medical Research Council (MRC). For official information about the funding schemes discussed please refer to the NIHR website." /><meta property="og:image" content="https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2025-11-13T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2025-11-13T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://cwcyau.github.io/post/2025-11-13_bettermethods/"
+  },
+  "headline": "A unofficial guide to NIHR-MRC Better Methods, Better Research applications",
+  
+  "datePublished": "2025-11-13T00:00:00Z",
+  "dateModified": "2025-11-13T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Yau"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yau Research Group",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cwcyau.github.io/media/icon_hu_f7eee4fa97025c42.png"
+    }
+  },
+  "description": "\u003cp\u003e\u003cem\u003eThis guide reflects my own personal views and opinions and not those of the National Institute for Health and Care Research (NIHR), UK Research and Innovation (UKRI) or the Medical Research Council (MRC). For official information about the funding schemes discussed please refer to the \u003ca href=\"https://www.nihr.ac.uk/\" target=\"_blank\" rel=\"noopener\"\u003eNIHR website\u003c/a\u003e.\u003c/em\u003e\u003c/p\u003e"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>A unofficial guide to NIHR-MRC Better Methods, Better Research applications | Yau Research Group</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="e3b540751f487eda28128c992b65f3c7" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Yau Research Group</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Yau Research Group</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/tour"><span>About</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/post"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>People</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/event"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>A unofficial guide to NIHR-MRC Better Methods, Better Research applications</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov 13, 2025
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    9 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/general/">General</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p><em>This guide reflects my own personal views and opinions and not those of the National Institute for Health and Care Research (NIHR), UK Research and Innovation (UKRI) or the Medical Research Council (MRC). For official information about the funding schemes discussed please refer to the <a href="https://www.nihr.ac.uk/" target="_blank" rel="noopener">NIHR website</a>.</em></p>
+<p><em>This guide is intended for those from UK-based research communities who are not familiar with NIHR funding particularly those doing mathematical and computational sciences and who focus more on foundational methods research.</em></p>
+<hr>
+<h2 id="background">Background</h2>
+<p>The <a href="https://www.nihr.ac.uk/research-funding/funding-programmes/better-methods-better-research" target="_blank" rel="noopener">Better Methods, Better Research (BMBR)</a> programme funds methodological research to ensure that optimal research methods are used in biomedical, health, and care-focused research, policy, and delivery. It is one of the few UK funding schemes dedicated to methodology development — whether qualitative or quantitative. Specifically methods <em>must be applicable beyond a single case study or research question</em> and should also be developed with end-user engagement.</p>
+<p>In late 2024, BMBR transitioned from being operated by the Medical Research Council (MRC) to the National Institute for Health and Care Research (NIHR). This change brought several important differences for applicants and award holders familiar with the MRC/UKRI model. Some of these may be particularly unfamiliar to those from mathematical and computational science backgrounds.</p>
+<p>I created this <em>unofficial</em> guide to help researchers interested in applying. Practical advice can be hard to find, and having previously served as a BMBR funding panel member (under MRC) and as a successful applicant in the first NIHR-led round (you can read my <a href="https://osf.io/s357f" target="_blank" rel="noopener">research protocol here</a>), I hope my insights will be useful.</p>
+<hr>
+<h2 id="who-are-the-funders">Who Are the Funders?</h2>
+<p>NIHR and MRC derive their budgets from different sources:</p>
+<ul>
+<li>
+<p><strong>MRC</strong> is part of <a href="https://www.ukri.org/" target="_blank" rel="noopener">UKRI</a>, which primarily receives funding from the <a href="https://www.gov.uk/government/organisations/department-for-science-innovation-and-technology" target="_blank" rel="noopener">Department for Science, Innovation and Technology (DSIT)</a>.</p>
+</li>
+<li>
+<p><strong>NIHR</strong> is primarily funded by the <a href="https://www.gov.uk/government/organisations/department-of-health-and-social-care" target="_blank" rel="noopener">Department for Health and Social Care (DHSC)</a>.</p>
+</li>
+</ul>
+<p>Broadly speaking, MRC focuses on basic biomedical discovery and early translation, while NIHR’s remit extends further into applied and translational research, including clinical trials and experimental medicine studies.</p>
+<p>For BMBR applicants, this distinction matters. NIHR’s systems and terminology have evolved primarily around applied studies. Some of its processes, language, and structures are therefore not optimised for methods research.</p>
+<p><em>Don’t be discouraged, though — methods research remains firmly within the BMBR remit.</em></p>
+<hr>
+<h2 id="grant-or-contract">Grant or Contract?</h2>
+<p>A key difference between NIHR and MRC funding lies in the nature of the award. NIHR issues <strong>contracts</strong>, not grants.</p>
+<p>This means the process is more formal, with a stronger emphasis on accountability and legal enforceability regarding the work undertaken. These contractual implications permeate the application, award setup, and project monitoring stages.</p>
+<p>If you’re used to the relative flexibility of UKRI grants, NIHR contracts can feel more restrictive and administratively demanding. However, NIHR Programme Managers are available throughout your contract to support delivery and help resolve challenges.</p>
+<p>The system is designed to motivate researchers and ensure projects — particularly those involving multiple collaborators — stay on track and meet their agreed milestones.</p>
+<p>If you really dislike oversight or have a deep aversion to administration, NIHR funding may not be the best fit.</p>
+<hr>
+<h2 id="applying">Applying</h2>
+<p>Under NIHR, BMBR applications have become longer and more detailed than their previous MRC equivalents. This reflects NIHR’s broader framework and the contractual nature of its awards.</p>
+<p>Your application serves as a foundation for the future contract and monitoring process, so you’ll need to define clear objectives and timelines — these will later translate directly into milestones for project monitoring.</p>
+<p>It is more work than a typical UKRI application, but this extra detail often results in stronger, more carefully planned proposals — particularly regarding public and patient involvement and engagement (PPIE).</p>
+<p>Because your proposed timescales will form the basis of your contractual milestones, <strong>be realistic</strong>. Discuss risks and mitigation plans, and focus on tangible deliverables.</p>
+<p>Importantly do not forget the <em>lay or non-technical summary</em>. This is often left to the last step by many applicants but remember this piece of text is not just read b Public-Patient Involvement and Engagement representatives, but also by NIHR staff, reviewers and panelists who may not be expert in your area (but may have influence on the decision to recommend funding!) and even experts who just do not have a lot of time! It is important that this summary captures the main features of your proposal succinctly and powerfully.</p>
+<p>NIHR provides comprehensive <a href="https://www.nihr.ac.uk/bmbr-guidance-applicants" target="_blank" rel="noopener">guidance for applicants</a> — if you follow their structure closely, you won’t go far wrong.</p>
+<hr>
+<h2 id="public-and-patient-involvement-and-engagement-ppie">Public and Patient Involvement and Engagement (PPIE)</h2>
+<p>PPIE can seem daunting for foundational methods researchers. The development of algorithms, analytical techniques, or computational tools may feel far removed from the concerns of patients or the public.</p>
+<p>A common question I’m asked by potential BMBR applicants is:<br>
+<em>“What am I going to do about PPIE?”</em> or <em>“What did you do?”</em> — especially since PPIE representatives sit on NIHR funding panels.</p>
+<p>If PPIE is new to you, there are some excellent resources available which are more specific to methodology research:</p>
+<ul>
+<li>A recent <a href="https://onlinelibrary.wiley.com/doi/full/10.1002/sim.70159" target="_blank" rel="noopener">paper in <em>Statistics in Medicine</em></a> showcases case studies of PPIE in statistical methodology research.</li>
+<li><a href="https://le.ac.uk/people/laura-gray" target="_blank" rel="noopener">Laura Gray</a> and colleagues at the <a href="https://leicesterbrc.nihr.ac.uk/ppismart/" target="_blank" rel="noopener">NIHR Leicester Biomedical Research Centre</a> have created particularly helpful guidance.</li>
+</ul>
+<p>If you’re based in a physical sciences department, seek advice from colleagues in medical or applied health sciences — they often have significant PPIE experience and institutional support structures in place.</p>
+<p>For methodology work, it is necessary to think quite creatively about PPIE and you may need to do this with PPIE support <em>before</em> you apply. You may need to investigate locally within your university whether there are any funds to support this or externally. Recently, MRC created a new funding stream to support <a href="https://www.ukri.org/opportunity/supporting-researchers-to-involve-public-at-pre-application-stage/" target="_blank" rel="noopener">pre-application PPIE activities</a>. If funds are hard to come by, you can also volunteer with local patient support groups. Many are really interested in having scientists come to talk to them about existing and new research.</p>
+<p>As with any part of your research, what you propose should be appropriate and useful. PPIE should never be a box-ticking exercise. Your project may benefit from it — or it may not. The key is to think carefully and make a clear, justified case.</p>
+<p>In my own BMBR award, there was no PPIE component but the inspiration for the work had drawn on prior PPIE activities I’d undertaken (see <a href="https://cwcyau.github.io/post/mycancerai/" target="_blank" rel="noopener">here</a>) and also relevant work with collaborators in other projects (see <a href="https://www.mumpredict.org/" target="_blank" rel="noopener">here</a>). I also referenced PPIE efforts by other researchers that directly informed my proposed work. But note, in my case, the decision to not include PPIE, was actually informed by PPIE!</p>
+<hr>
+<h2 id="what-happens-if-youre-awarded">What Happens If You’re Awarded?</h2>
+<p>If you’re successful — congratulations!</p>
+<p>Be aware that NIHR award setup is more involved than a typical UKRI grant. You’ll be asked to refine your research and delivery plan in response to panel feedback and NIHR requirements. This may include providing additional justifications or quotes for expenditure items.</p>
+<p>You will need to produce a <strong>project timeline with milestones and deliverables</strong>, which will form the basis for ongoing monitoring. Your assigned Programme Manager will guide you through this process.</p>
+<p>You may also need to prepare <strong>study protocols</strong> and <strong>ethics approvals</strong>, where applicable. A study protocol is a comprehensive, detailed document describing exactly how the study will be conducted. The concept and terminology used can feel unfamiliar if you’re from a non-clinical background — much of it stems from clinical studies or trial governance. The key thing is that in this domain, how you conduct your research is as important as what the research is and what discoveries arise from it. As a consequence, for methodology researchers used to more blue skies, foundational research, this can seem very different when the conventional wisdom is to <em>go where the research takes us</em>.</p>
+<p>Practically, what does this mean?</p>
+<p>Well, you need to be a bit more specific about what you want to do. A statement like <em>&ldquo;I will develop a prediction model to do X&rdquo;</em> might need to extend to:</p>
+<div class="highlight"><pre tabindex="0" class="chroma"><code class="language-gdscript3" data-lang="gdscript3"><span class="line"><span class="cl"><span class="n">I</span> <span class="n">will</span> <span class="n">develop</span> <span class="n">a</span> <span class="n">prediction</span> <span class="n">model</span> <span class="n">to</span> <span class="k">do</span> <span class="n">X</span><span class="p">,</span> <span class="n">this</span> <span class="n">will</span> <span class="n">include</span><span class="p">:</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">-</span> <span class="n">Defining</span> <span class="n">the</span> <span class="n">target</span> <span class="n">population</span> <span class="ow">and</span> <span class="n">inclusion</span><span class="o">/</span><span class="n">exclusion</span> <span class="n">criteria</span><span class="p">,</span> <span class="k">for</span> <span class="n">example</span><span class="p">,</span> <span class="n">adults</span> <span class="n">aged</span> <span class="mi">18</span><span class="o">+</span> <span class="n">presenting</span> <span class="n">with</span> <span class="n">condition</span> <span class="n">Y</span> <span class="n">at</span> <span class="n">UK</span> <span class="n">secondary</span> <span class="n">care</span> <span class="n">centres</span> <span class="n">between</span> <span class="mi">2025</span><span class="err">–</span><span class="mf">2027.</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">-</span> <span class="n">Specifying</span> <span class="n">data</span> <span class="n">sources</span><span class="p">,</span> <span class="n">such</span> <span class="n">as</span> <span class="n">anonymised</span> <span class="n">patient</span> <span class="n">records</span> <span class="n">from</span> <span class="p">[</span><span class="n">dataset</span> <span class="n">name</span><span class="p">]</span> <span class="ow">or</span> <span class="n">prospectively</span> <span class="n">collected</span> <span class="n">data</span> <span class="n">through</span> <span class="p">[</span><span class="n">study</span> <span class="n">site</span><span class="o">/</span><span class="n">registry</span><span class="p">]</span><span class="o">.</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">-</span> <span class="n">Predefining</span> <span class="n">predictor</span> <span class="n">variables</span><span class="p">,</span> <span class="n">including</span> <span class="n">clinical</span><span class="p">,</span> <span class="n">demographic</span><span class="p">,</span> <span class="ow">and</span> <span class="n">laboratory</span> <span class="n">factors</span> <span class="n">identified</span> <span class="n">from</span> <span class="n">prior</span> <span class="n">literature</span> <span class="ow">or</span> <span class="n">expert</span> <span class="n">consensus</span><span class="o">.</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">-</span> <span class="n">Establishing</span> <span class="n">the</span> <span class="n">outcome</span> <span class="n">definition</span><span class="p">,</span> <span class="n">specifying</span> <span class="n">exactly</span> <span class="n">what</span> <span class="n">outcome</span> <span class="n">the</span> <span class="n">model</span> <span class="n">will</span> <span class="n">predict</span> <span class="p">(</span><span class="n">e</span><span class="o">.</span><span class="n">g</span><span class="o">.</span><span class="p">,</span> <span class="mi">30</span><span class="o">-</span><span class="n">day</span> <span class="n">readmission</span><span class="p">,</span> <span class="n">treatment</span> <span class="n">response</span><span class="p">,</span> <span class="ow">or</span> <span class="n">survival</span><span class="p">)</span><span class="o">.</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">-</span> <span class="n">Describing</span> <span class="n">the</span> <span class="n">statistical</span> <span class="ow">and</span> <span class="n">machine</span> <span class="n">learning</span> <span class="n">methods</span> <span class="n">to</span> <span class="n">be</span> <span class="n">used</span><span class="p">,</span> <span class="n">such</span> <span class="n">as</span> <span class="n">logistic</span> <span class="n">regression</span><span class="p">,</span> <span class="n">random</span> <span class="n">forests</span><span class="p">,</span> <span class="ow">or</span> <span class="n">gradient</span> <span class="n">boosting</span><span class="p">,</span> <span class="n">with</span> <span class="n">cross</span><span class="o">-</span><span class="n">validation</span> <span class="ow">and</span> <span class="n">calibration</span> <span class="n">assessment</span><span class="o">.</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">-</span> <span class="n">Planning</span> <span class="n">how</span> <span class="n">missing</span> <span class="n">data</span> <span class="n">will</span> <span class="n">be</span> <span class="n">handled</span><span class="p">,</span> <span class="k">for</span> <span class="n">example</span><span class="p">,</span> <span class="n">using</span> <span class="n">multiple</span> <span class="n">imputation</span> <span class="ow">or</span> <span class="n">complete</span><span class="o">-</span><span class="k">case</span> <span class="n">analysis</span><span class="o">.</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">-</span> <span class="n">Outlining</span> <span class="n">performance</span> <span class="n">measures</span><span class="p">,</span>  <span class="n">e</span><span class="o">.</span><span class="n">g</span><span class="o">.</span><span class="p">,</span> <span class="n">AUROC</span><span class="p">,</span> <span class="n">sensitivity</span><span class="p">,</span> <span class="n">specificity</span><span class="p">,</span> <span class="n">calibration</span> <span class="n">slope</span><span class="o">/</span><span class="n">intercept</span><span class="o">.</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">-</span> <span class="n">Specifying</span> <span class="n">internal</span> <span class="n">validation</span> <span class="p">(</span><span class="n">e</span><span class="o">.</span><span class="n">g</span><span class="o">.</span><span class="p">,</span> <span class="n">bootstrapping</span> <span class="ow">or</span> <span class="n">k</span><span class="o">-</span><span class="n">fold</span> <span class="n">cross</span><span class="o">-</span><span class="n">validation</span><span class="p">)</span> <span class="ow">and</span> <span class="n">any</span> <span class="n">plans</span> <span class="k">for</span> <span class="n">external</span> <span class="n">validation</span> <span class="n">using</span> <span class="n">independent</span> <span class="n">data</span><span class="o">.</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">-</span> <span class="n">Detailing</span> <span class="n">how</span> <span class="n">model</span> <span class="n">performance</span> <span class="ow">and</span> <span class="n">interpretability</span> <span class="n">will</span> <span class="n">be</span> <span class="n">reported</span><span class="p">,</span> <span class="n">following</span> <span class="n">TRIPOD</span> <span class="n">guidelines</span><span class="o">.</span>
+</span></span><span class="line"><span class="cl">
+</span></span><span class="line"><span class="cl"><span class="o">-</span> <span class="n">Describing</span> <span class="n">governance</span><span class="p">,</span> <span class="n">data</span> <span class="n">management</span><span class="p">,</span> <span class="ow">and</span> <span class="n">ethical</span> <span class="n">considerations</span> <span class="err">—</span> <span class="n">including</span> <span class="n">data</span> <span class="n">access</span> <span class="n">permissions</span><span class="p">,</span> <span class="n">patient</span> <span class="n">confidentiality</span><span class="p">,</span> <span class="ow">and</span> <span class="n">approvals</span> <span class="n">from</span> <span class="n">a</span> <span class="n">research</span> <span class="n">ethics</span> <span class="n">committee</span> <span class="n">where</span> <span class="n">applicable</span><span class="o">.</span>
+</span></span></code></pre></div><p>Most universities have guidance on developing study and ethics protocols, though it may sit in a different department from your own. If you require help, contact your Programme Manager and make much sure you provide them with a plain English description of your project (what it involves and what is to be delivered). Mathematical and computational work may be as alien to them as applied health research is to you!</p>
+<p>Finally, <strong>study registration</strong> is required. This is standard practice in clinical research to ensure transparency, integrity and accountability. For methodological projects that don’t fit conventional registration types, flexible options exist. For example, I registered my project using the <a href="https://osf.io/registries/my-registrations" target="_blank" rel="noopener">Open Science Framework (OSF)</a>, which provides an open and adaptable study registration platform suitable for a wide range of research designs.</p>
+<p>During the project, your progress will be measured relative to your stated milestones. If you experience any delays or changes need to be made, you should work with your Programme Manager in good time to coordinate these changes. Significant changes may need to be referred to the Programme Director for the BMBR programme for further consideration.</p>
+<hr>
+<h2 id="closing-thoughts">Closing Thoughts</h2>
+<p>Transitioning from MRC to NIHR funding can feel like stepping into a different world — more structure, more process, and more oversight. But it also brings valuable discipline, clarity, and support for delivering meaningful research.</p>
+<p>If you’re undertaking foundational methodological work in the UK and want your research to have clear translational relevance, <strong>NIHR’s BMBR scheme is well worth considering</strong>.</p>
+<p>** Special thanks to a number of friends and colleagues for providing valuable feedback on earlier versions of this article **</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/general/">General</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2025-11-13_bettermethods%2F&amp;text=A&#43;unofficial&#43;guide&#43;to&#43;NIHR-MRC&#43;Better&#43;Methods%2C&#43;Better&#43;Research&#43;applications" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2025-11-13_bettermethods%2F&amp;t=A&#43;unofficial&#43;guide&#43;to&#43;NIHR-MRC&#43;Better&#43;Methods%2C&#43;Better&#43;Research&#43;applications" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=A%20unofficial%20guide%20to%20NIHR-MRC%20Better%20Methods%2C%20Better%20Research%20applications&amp;body=https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2025-11-13_bettermethods%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2025-11-13_bettermethods%2F&amp;title=A&#43;unofficial&#43;guide&#43;to&#43;NIHR-MRC&#43;Better&#43;Methods%2C&#43;Better&#43;Research&#43;applications" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=A&#43;unofficial&#43;guide&#43;to&#43;NIHR-MRC&#43;Better&#43;Methods%2C&#43;Better&#43;Research&#43;applications%20https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2025-11-13_bettermethods%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2025-11-13_bettermethods%2F&amp;title=A&#43;unofficial&#43;guide&#43;to&#43;NIHR-MRC&#43;Better&#43;Methods%2C&#43;Better&#43;Research&#43;applications" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/christopher-yau/"><img class="avatar mr-3 avatar-circle" src="/author/christopher-yau/avatar_hu_73208077adf738c8.jpg" alt="Christopher Yau"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/christopher-yau/">Christopher Yau</a></h5>
+      <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
+      <p class="card-text">I am Professor of Artificial Intelligence. I am interested in statistical machine learning and its applications in the biomedical sciences.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:christopher.yau@wrh.ox.ac.uk" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/cwcyau" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=5tyrt68AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/cwcyau" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2025 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.0dfcdd67ca42b8dbc94d6bf1aa446ffb.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

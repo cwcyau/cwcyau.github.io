@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Health Data | Yau Research Group</title>
-    <link>http://localhost:1313/category/health-data/</link>
-      <atom:link href="http://localhost:1313/category/health-data/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/category/health-data/</link>
+      <atom:link href="https://cwcyau.github.io/category/health-data/index.xml" rel="self" type="application/rss+xml" />
     <description>Health Data</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Health Data</title>
-      <link>http://localhost:1313/category/health-data/</link>
+      <link>https://cwcyau.github.io/category/health-data/</link>
     </image>
     
     <item>
       <title>HDRUK PhD Director</title>
-      <link>http://localhost:1313/post/2021-04-01_hdruk_director/</link>
+      <link>https://cwcyau.github.io/post/2021-04-01_hdruk_director/</link>
       <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2021-04-01_hdruk_director/</guid>
+      <guid>https://cwcyau.github.io/post/2021-04-01_hdruk_director/</guid>
       <description>&lt;p&gt;Health Data Research UK is pleased to announce the appointment of Professor Christopher Yau as Director of its HDRUK-Turing Wellcome PhD Programme in Health Data Science, starting 1 April 2021. (&lt;a href=&#34;https://www.hdruk.ac.uk/news/christopher-yau-appointed-director-of-health-data-research-uk-turing-wellcome-phd-programme/%29&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.hdruk.ac.uk/news/christopher-yau-appointed-director-of-health-data-research-uk-turing-wellcome-phd-programme/)&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>WIRED - Everyone should be worried by big tech&#39;s huge NHS data grab</title>
-      <link>http://localhost:1313/post/2019-12-16_wired/</link>
+      <link>https://cwcyau.github.io/post/2019-12-16_wired/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2019-12-16_wired/</guid>
+      <guid>https://cwcyau.github.io/post/2019-12-16_wired/</guid>
       <description>&lt;p&gt;Christopher Yau talks about data anonymity and privacy concerns in this &lt;a href=&#34;https://www.wired.co.uk/article/google-apple-amazon-nhs-health-data&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wired article&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>HDRUK-Turing PhD programme</title>
-      <link>http://localhost:1313/post/2019-09-12_hdruk/</link>
+      <link>https://cwcyau.github.io/post/2019-09-12_hdruk/</link>
       <pubDate>Thu, 12 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/2019-09-12_hdruk/</guid>
+      <guid>https://cwcyau.github.io/post/2019-09-12_hdruk/</guid>
       <description>&lt;p&gt;The Wellcome Trust have funded a new HDRUK-Turing Wellcome PhD programme in Health Data Science which will be jointly directed by Christopher Yau. Applications for entry October 2020 coming soon.&lt;/p&gt;
 </description>
     </item>

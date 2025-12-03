@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alistair Easton | Yau Research Group</title>
-    <link>http://localhost:1313/author/alistair-easton/</link>
-      <atom:link href="http://localhost:1313/author/alistair-easton/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/alistair-easton/</link>
+      <atom:link href="https://cwcyau.github.io/author/alistair-easton/index.xml" rel="self" type="application/rss+xml" />
     <description>Alistair Easton</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Alistair Easton</title>
-      <link>http://localhost:1313/author/alistair-easton/</link>
+      <link>https://cwcyau.github.io/author/alistair-easton/</link>
     </image>
     
     <item>
       <title>The Oxford Classic can identify HGSOC patients who may benefit from EMT-targeting therapies</title>
-      <link>http://localhost:1313/publication/rai-2024-oxford/</link>
+      <link>https://cwcyau.github.io/publication/rai-2024-oxford/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rai-2024-oxford/</guid>
+      <guid>https://cwcyau.github.io/publication/rai-2024-oxford/</guid>
       <description></description>
     </item>
     

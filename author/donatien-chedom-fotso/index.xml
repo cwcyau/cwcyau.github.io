@@ -2,24 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Donatien Chedom-Fotso | Yau Research Group</title>
-    <link>http://localhost:1313/author/donatien-chedom-fotso/</link>
-      <atom:link href="http://localhost:1313/author/donatien-chedom-fotso/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/donatien-chedom-fotso/</link>
+      <atom:link href="https://cwcyau.github.io/author/donatien-chedom-fotso/index.xml" rel="self" type="application/rss+xml" />
     <description>Donatien Chedom-Fotso</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/donatien-chedom-fotso/avatar_hu_f79be442d8618019.jpg</url>
+      <url>https://cwcyau.github.io/author/donatien-chedom-fotso/avatar_hu_f79be442d8618019.jpg</url>
       <title>Donatien Chedom-Fotso</title>
-      <link>http://localhost:1313/author/donatien-chedom-fotso/</link>
+      <link>https://cwcyau.github.io/author/donatien-chedom-fotso/</link>
     </image>
-    
-    <item>
-      <title>Donatien Chedom-Fotso</title>
-      <link>http://localhost:1313/author/donatien-chedom-fotso/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/donatien-chedom-fotso/</guid>
-      <description>&lt;p&gt;Doni was a joint postdoc with Professor Ahmed Ahmed in the Ovarian Cancer Laboratory at the University of Oxford. He worled on cancer genomics and evolutionary modelling in ovarian cancer. He developed a novel statistical approach for inferring the cellular prevalence of mutations using state-of-the-art long-read whole genome sequencing data. Doni is now a Data Science Consultant.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

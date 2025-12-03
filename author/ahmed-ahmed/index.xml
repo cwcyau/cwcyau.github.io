@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ahmed Ahmed | Yau Research Group</title>
-    <link>http://localhost:1313/author/ahmed-ahmed/</link>
-      <atom:link href="http://localhost:1313/author/ahmed-ahmed/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/ahmed-ahmed/</link>
+      <atom:link href="https://cwcyau.github.io/author/ahmed-ahmed/index.xml" rel="self" type="application/rss+xml" />
     <description>Ahmed Ahmed</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Ahmed Ahmed</title>
-      <link>http://localhost:1313/author/ahmed-ahmed/</link>
+      <link>https://cwcyau.github.io/author/ahmed-ahmed/</link>
     </image>
     
     <item>
       <title>DigiPico: A whole-genome sequencing approach to investigate microscopic residual chemotherapy resistance disease in ovarian cancer</title>
-      <link>http://localhost:1313/publication/karaminejadranjbar-2018-digipico/</link>
+      <link>https://cwcyau.github.io/publication/karaminejadranjbar-2018-digipico/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/karaminejadranjbar-2018-digipico/</guid>
+      <guid>https://cwcyau.github.io/publication/karaminejadranjbar-2018-digipico/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abstract LB-340: A novel method for estimating somatic mutations cellular prevalence in cancer using whole genome haplotype phasing</title>
-      <link>http://localhost:1313/publication/chedom-2016-abstract/</link>
+      <link>https://cwcyau.github.io/publication/chedom-2016-abstract/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chedom-2016-abstract/</guid>
+      <guid>https://cwcyau.github.io/publication/chedom-2016-abstract/</guid>
       <description></description>
     </item>
     

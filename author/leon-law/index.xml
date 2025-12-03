@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leon Law | Yau Research Group</title>
-    <link>http://localhost:1313/author/leon-law/</link>
-      <atom:link href="http://localhost:1313/author/leon-law/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/leon-law/</link>
+      <atom:link href="https://cwcyau.github.io/author/leon-law/index.xml" rel="self" type="application/rss+xml" />
     <description>Leon Law</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/leon-law/avatar_hu_7e6131fe94d0471b.jpg</url>
+      <url>https://cwcyau.github.io/author/leon-law/avatar_hu_7e6131fe94d0471b.jpg</url>
       <title>Leon Law</title>
-      <link>http://localhost:1313/author/leon-law/</link>
+      <link>https://cwcyau.github.io/author/leon-law/</link>
     </image>
     
     <item>
       <title>Leon Law</title>
-      <link>http://localhost:1313/author/leon-law/</link>
+      <link>https://cwcyau.github.io/author/leon-law/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/leon-law/</guid>
+      <guid>https://cwcyau.github.io/author/leon-law/</guid>
       <description>&lt;p&gt;Leon was an Oxford OxWASP student working on kernel methods for structured data problems. He was jointly supervised by Associate Professor Dino Sejdinovic. He is now in Hong Kong working in the financial sector.&lt;/p&gt;
 </description>
     </item>

@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mabel Bohorquez | Yau Research Group</title>
-    <link>http://localhost:1313/author/mabel-bohorquez/</link>
-      <atom:link href="http://localhost:1313/author/mabel-bohorquez/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/mabel-bohorquez/</link>
+      <atom:link href="https://cwcyau.github.io/author/mabel-bohorquez/index.xml" rel="self" type="application/rss+xml" />
     <description>Mabel Bohorquez</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
       <title>Mabel Bohorquez</title>
-      <link>http://localhost:1313/author/mabel-bohorquez/</link>
+      <link>https://cwcyau.github.io/author/mabel-bohorquez/</link>
     </image>
     
     <item>
       <title>Abstract LB-158: Germline mutations in PALB2, BRCA1 and RAD51C observed in gastric cancer cases</title>
-      <link>http://localhost:1313/publication/sahasrabudhe-2017-abstract/</link>
+      <link>https://cwcyau.github.io/publication/sahasrabudhe-2017-abstract/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sahasrabudhe-2017-abstract/</guid>
+      <guid>https://cwcyau.github.io/publication/sahasrabudhe-2017-abstract/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Germline mutations in PALB2, BRCA1, and RAD51C, which regulate DNA recombination repair, in patients with gastric cancer</title>
-      <link>http://localhost:1313/publication/sahasrabudhe-2017-germline/</link>
+      <link>https://cwcyau.github.io/publication/sahasrabudhe-2017-germline/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sahasrabudhe-2017-germline/</guid>
+      <guid>https://cwcyau.github.io/publication/sahasrabudhe-2017-germline/</guid>
       <description></description>
     </item>
     

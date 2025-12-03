@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Joel Nulsen | Yau Research Group</title>
-    <link>http://localhost:1313/author/joel-nulsen/</link>
-      <atom:link href="http://localhost:1313/author/joel-nulsen/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://cwcyau.github.io/author/joel-nulsen/</link>
+      <atom:link href="https://cwcyau.github.io/author/joel-nulsen/index.xml" rel="self" type="application/rss+xml" />
     <description>Joel Nulsen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>http://localhost:1313/author/joel-nulsen/avatar_hu_33b13e86cd85bc03.jpg</url>
+      <url>https://cwcyau.github.io/author/joel-nulsen/avatar_hu_33b13e86cd85bc03.jpg</url>
       <title>Joel Nulsen</title>
-      <link>http://localhost:1313/author/joel-nulsen/</link>
+      <link>https://cwcyau.github.io/author/joel-nulsen/</link>
     </image>
     
     <item>
       <title>Joel Nulsen</title>
-      <link>http://localhost:1313/author/joel-nulsen/</link>
+      <link>https://cwcyau.github.io/author/joel-nulsen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/joel-nulsen/</guid>
+      <guid>https://cwcyau.github.io/author/joel-nulsen/</guid>
       <description>&lt;p&gt;Joel joined Francesca Ciccarelli’s lab in 2017, where he is currently pursuing his PhD at Kings College London and the Francis Crick Institute. He is interested in cancer evolution, and is currently working to understand how a cancer patient’s inherited genetic background can influence the evolutionary trajectory of their tumour. He is particularly focusing on this problem in oesophageal adenocarcinoma, a disease with rapidly increasing incidence, poor survival, and about which much remains to be understood, particularly at a molecular level. He worked with Christopher Yau on developing deep learning approaches for the identification of cancer driver genes. He is now a Computational Biologist at Singula Bio and an affiliate member of the group.&lt;/p&gt;
 </description>
     </item>
