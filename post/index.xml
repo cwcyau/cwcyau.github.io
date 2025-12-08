@@ -5,12 +5,51 @@
     <link>https://cwcyau.github.io/post/</link>
       <atom:link href="https://cwcyau.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 18 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_7613a4a452ac7087.png</url>
+      <url>https://cwcyau.github.io/media/icon_hu_91b8b2faea5b4fd3.png</url>
       <title>Latest News</title>
       <link>https://cwcyau.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Workshop presentations</title>
+      <link>https://cwcyau.github.io/post/2025-12-07_neurips_2025/</link>
+      <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2025-12-07_neurips_2025/</guid>
+      <description>&lt;p&gt;The group was represented at a number of workshops over the weekend:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Multimodal Survival Analysis with Locally Deployable Large Language Models&lt;/em&gt; at the &lt;a href=&#34;https://nips2025fm4ls.github.io/pages/accepted-paper.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NeurIPS 2025 2nd Workshop on Multi-modal Foundation Models and Large Language Models for Life Sciences&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Boolean matrix factorisation for scRNA-seq&lt;/em&gt; at &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1GAdHjcGHKxAmBzUXPIl-HCjoq05el1GjdD8S13mPwUE/edit?gid=1611479772#gid=1611479772&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ML4H&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Regularizing Treatment in Deep Survival Models&lt;/em&gt; at &lt;a href=&#34;https://docs.google.com/spreadsheets/d/1GAdHjcGHKxAmBzUXPIl-HCjoq05el1GjdD8S13mPwUE/edit?gid=1611479772#gid=1611479772&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ML4H&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Bootstrapping-Based Regularisation for Stable Deep Learning Clinical Prediction Models&lt;/em&gt; at &lt;a href=&#34;https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/WiML&amp;amp;referrer=%5BHomepage%5D%28%2F%29#tab-accept&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WiML&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;Imputation Free Deep Survival Prediction using Conditional Variational Autoencoders&lt;/em&gt; at &lt;a href=&#34;https://openreview.net/group?id=NeurIPS.cc/2025/Workshop/WiML&amp;amp;referrer=%5BHomepage%5D%28%2F%29#tab-accept&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;WiML&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;MIND: Multimodal Integration with Neighbourhood-aware Distributions&lt;/em&gt; &lt;a href=&#34;https://multimodal-rep-learning-for-health.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Multimodal Representation Learning for Healthcare&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Well done to Natalia Hong, Sara Matijevic, Moritz Golg, Ellen Visscher and Hanwen Xing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Improving maternity care for all</title>
+      <link>https://cwcyau.github.io/post/2025-12-05_aims_journal/</link>
+      <pubDate>Fri, 05 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2025-12-05_aims_journal/</guid>
+      <description>&lt;p&gt;We are very pleased to have contributed an article to the Association for Improvements in the Maternity Services (AIMS) journal entitled &lt;a href=&#34;https://www.aims.org.uk/journal/index/37/4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Women, Pregnancy and Artificial Intelligence: Opportunities and Cautions in the Age of Digital Maternity&amp;rdquo;&lt;/a&gt; as part of the MuM-Predict consortium. The article demonstrates our commitment to connecting AI research to those it affects.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AAAI26: Hybrid restricted master problem for Boolean matrix factorisation</title>
