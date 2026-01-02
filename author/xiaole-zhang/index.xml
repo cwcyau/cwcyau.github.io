@@ -12,14 +12,5 @@
       <link>https://cwcyau.github.io/author/xiaole-zhang/</link>
     </image>
     
-    <item>
-      <title>Xiaole Zhang</title>
-      <link>https://cwcyau.github.io/author/xiaole-zhang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/author/xiaole-zhang/</guid>
-      <description>&lt;p&gt;Xiaole completed his PhD in the Department of Mathematics at Imperial College London. His research is concerned with approximation inference methods in Bayesian Statistics, in particular, online variational methods for fitting Dirichlet Process Mixtures and Approximate Bayesian Computation techniques for Hidden Markov Models with intractable likelihood or transition densities. He was co-supervised by Ajay Jasra (NUS) and Nik Kantas (Imperial).&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

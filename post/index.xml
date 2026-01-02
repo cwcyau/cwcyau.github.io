@@ -5,7 +5,7 @@
     <link>https://cwcyau.github.io/post/</link>
       <atom:link href="https://cwcyau.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 31 Dec 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/media/icon_hu_91b8b2faea5b4fd3.png</url>
       <title>Latest News</title>
@@ -271,29 +271,6 @@ For me, this work starts well before a student ever arrives on the programme.&lt
       <pubDate>Mon, 17 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://cwcyau.github.io/post/2025-03-17_eitcdt_director/</guid>
       <description>&lt;p&gt;Professor Chris Yau will become Co-Director for the new &lt;a href=&#34;https://foaicdt.web.ox.ac.uk/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Centre for Doctoral Training in Fundamentals of AI&lt;/a&gt;, an exciting new initiative in partnership with &lt;a href=&#34;https://www.eit.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;EIT Oxford&lt;/a&gt; (The Ellison Institute of Technology).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The fundamentals of artificial intelligence and education in 2026</title>
-      <link>https://cwcyau.github.io/post/2025-12-31_fundamentals_of_ai/</link>
-      <pubDate>Fri, 03 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/post/2025-12-31_fundamentals_of_ai/</guid>
-      <description>&lt;p&gt;&lt;em&gt;This blog is part of a short series of articles I will be writing as part of the end of 2025 and to welcome the start of 2026. All opinions expressed are my own and do not represent the views of any individuals or organisations mentioned in the articles. Further, I am a UK-based academic scientist and these articles reflect the UK context.&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;In the previous part of this blog series, I discussed how I became co-Director of the Ellison Institute of Technology Fundamentals of AI Centre for Doctoral Training (EIT FoAI CDT), and how I think about building PhD programmes more generally. In this part, I want to focus on a more specific and arguably more difficult question: what exactly are the fundamentals of AI? And, closely related, how should we think about training doctoral students in this area as we move into 2026?&lt;/p&gt;
-&lt;h2 id=&#34;what-are-the-fundamentals-of-ai&#34;&gt;What are the fundamentals of AI?&lt;/h2&gt;
-&lt;p&gt;If you ask ten people what the fundamentals of AI are, you will almost certainly get ten different answers. That is not a failure of the field so much as a reflection of its breadth, its pace of change, and its unresolved intellectual questions.&lt;/p&gt;
-&lt;p&gt;For some, the fundamentals of AI are grounded in long-standing theoretical foundations. This view emphasises areas such as probability theory, statistics, optimisation, learning theory, information theory, logic and algorithms. From this perspective, progress in AI rests on understanding generalisation, uncertainty, sample efficiency, and the limits of computation. These foundations have underpinned decades of work in machine learning and remain essential for reasoning rigorously about models and methods.&lt;/p&gt;
-&lt;p&gt;For others, particularly given developments over the last decade, the fundamentals of AI are increasingly associated with understanding modern, large-scale systems whose behaviour was not explicitly programmed. This includes work aimed at explaining the emergent and often poorly understood properties of contemporary AI systems: large language models, foundation models, and other architectures whose capabilities appear to arise from scale, data, and training dynamics rather than carefully specified rules.&lt;/p&gt;
-&lt;p&gt;In this view, the fundamentals are less about closed-form theory and more about empirical understanding. Questions about representation, emergence, alignment, robustness, and interpretability become central. Why do these systems work as well as they do? Where do they fail? How stable are their behaviours across contexts, data distributions, and deployment settings?&lt;/p&gt;
-&lt;p&gt;There is also a third, complementary perspective that situates AI fundamentals in interaction with the world. From this angle, the fundamentals are not purely mathematical or computational, but socio-technical. They include how AI systems interact with people, institutions, and environments; how incentives shape deployment; how values, norms, and power structures are encoded; and how systems behave once embedded in real-world settings.&lt;/p&gt;
-&lt;h2 id=&#34;how-to-construct-a-cdt-in-foai&#34;&gt;How to construct a CDT in FoAI&lt;/h2&gt;
-&lt;p&gt;These perspectives are not mutually exclusive, but they do pull in different directions when it comes to training doctoral students. A curriculum built solely around classical theory risks being disconnected from the systems that currently dominate practice. One focused only on contemporary models risks producing researchers without the conceptual tools to reason about why those systems behave as they do, or how the field might evolve beyond them.&lt;/p&gt;
-&lt;p&gt;The challenge, then, is not to identify a single definitive set of fundamentals, but to decide which foundations matter most for developing researchers who can contribute meaningfully to the field over the long term - researchers who can adapt as the technology changes, rather than being trained narrowly around the current state of the art.&lt;/p&gt;
-&lt;h2 id=&#34;realities-for-uk-higher-education&#34;&gt;Realities for UK Higher Education&lt;/h2&gt;
-&lt;p&gt;We also need to be pragmatic. What skills, expertise and infrastructure do we have?&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Coming next:&lt;/strong&gt;
-&lt;em&gt;In the next blog in the series I will talk about how I approached building a &amp;ldquo;Fundamentals of AI&amp;rdquo; CDT and what exactly are the fundamentals of AI?&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     

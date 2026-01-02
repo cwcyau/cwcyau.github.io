@@ -2,10 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://cwcyau.github.io/post/</loc>
-    <lastmod>2026-01-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://cwcyau.github.io/category/academia/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,6 +15,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/categories/</loc>
+    <lastmod>2025-12-31T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://cwcyau.github.io/post/</loc>
     <lastmod>2025-12-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -140,18 +140,6 @@
   </url><url>
     <loc>https://cwcyau.github.io/post/2025-03-17_eitcdt_director/</loc>
     <lastmod>2025-03-17T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/category/ai/</loc>
-    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/tag/ai/</loc>
-    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://cwcyau.github.io/post/2025-12-31_fundamentals_of_ai/</loc>
-    <lastmod>2025-01-03T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://cwcyau.github.io/author/others/</loc>
