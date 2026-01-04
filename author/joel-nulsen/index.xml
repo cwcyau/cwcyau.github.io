@@ -12,5 +12,14 @@
       <link>https://cwcyau.github.io/author/joel-nulsen/</link>
     </image>
     
+    <item>
+      <title>Joel Nulsen</title>
+      <link>https://cwcyau.github.io/author/joel-nulsen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/author/joel-nulsen/</guid>
+      <description>&lt;p&gt;Joel joined Francesca Ciccarelli’s lab in 2017, where he is currently pursuing his PhD at Kings College London and the Francis Crick Institute. He is interested in cancer evolution, and is currently working to understand how a cancer patient’s inherited genetic background can influence the evolutionary trajectory of their tumour. He is particularly focusing on this problem in oesophageal adenocarcinoma, a disease with rapidly increasing incidence, poor survival, and about which much remains to be understood, particularly at a molecular level. He worked with Christopher Yau on developing deep learning approaches for the identification of cancer driver genes. He is now a Computational Biologist at Singula Bio and an affiliate member of the group.&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>

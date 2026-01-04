@@ -1,0 +1,1376 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: January 4, 2026 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.9c85b7451138c421e4165efcc1eee9b5.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Christopher Yau" />
+
+
+
+
+
+  
+
+<meta name="description" content="This blog is part of a short series of articles I will be writing to welcome the start of 2026. All opinions expressed are my own and do not represent the views of any individuals or organisations mentioned in the articles. Further, I am a UK-based academic scientist and these articles reflect the UK context." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://cwcyau.github.io/post/2026-01-03_fundamentals_of_ai/" />
+<link rel="canonical" href="https://cwcyau.github.io/post/2026-01-03_fundamentals_of_ai/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_b1cd7418e3ea4167.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_b63f22b2e9d877.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="https://cwcyau.github.io/media/icon_hu_91b8b2faea5b4fd3.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Yau Research Group" />
+<meta property="og:url" content="https://cwcyau.github.io/post/2026-01-03_fundamentals_of_ai/" />
+<meta property="og:title" content="The fundamentals of artificial intelligence and education in 2026 | Yau Research Group" />
+<meta property="og:description" content="This blog is part of a short series of articles I will be writing to welcome the start of 2026. All opinions expressed are my own and do not represent the views of any individuals or organisations mentioned in the articles. Further, I am a UK-based academic scientist and these articles reflect the UK context." /><meta property="og:image" content="https://cwcyau.github.io/media/icon_hu_91b8b2faea5b4fd3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2026-01-03T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2026-01-03T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://cwcyau.github.io/post/2026-01-03_fundamentals_of_ai/"
+  },
+  "headline": "The fundamentals of artificial intelligence and education in 2026",
+  
+  "datePublished": "2026-01-03T00:00:00Z",
+  "dateModified": "2026-01-03T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Yau"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yau Research Group",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cwcyau.github.io/media/icon_hu_81c3a25f4c3dfd1c.png"
+    }
+  },
+  "description": "\u003cp\u003e\u003cem\u003eThis blog is part of a short series of articles I will be writing to welcome the start of 2026. All opinions expressed are my own and do not represent the views of any individuals or organisations mentioned in the articles. Further, I am a UK-based academic scientist and these articles reflect the UK context.\u003c/em\u003e\u003c/p\u003e"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>The fundamentals of artificial intelligence and education in 2026 | Yau Research Group</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="4d2b445b57f1958114a4b5d7efabcccf" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Yau Research Group</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Yau Research Group</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/tour"><span>About</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/post"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>People</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/event"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>The fundamentals of artificial intelligence and education in 2026</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Jan 3, 2026
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    12 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/ai/">Ai</a>, <a href="/category/phd/">Phd</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p><em>This blog is part of a short series of articles I will be writing to welcome the start of 2026. All opinions expressed are my own and do not represent the views of any individuals or organisations mentioned in the articles. Further, I am a UK-based academic scientist and these articles reflect the UK context.</em></p>
+<p>In the previous part of this blog series, I discussed how I became co-Director of the Ellison Institute of Technology Fundamentals of AI Centre for Doctoral Training (EIT FoAI CDT), and how I think about building PhD programmes more generally. In this part, I want to focus on a more specific and arguably more difficult question: what exactly are the fundamentals of AI? And, closely related, how should we think about training doctoral students in this area as we move into 2026?</p>
+<h2 id="what-are-the-fundamentals-of-ai">What are the fundamentals of AI?</h2>
+<p>If you ask ten people what the fundamentals of AI are, you will almost certainly get ten different answers. That is not a failure of the field so much as a reflection of its breadth, its pace of change, and its unresolved intellectual questions.</p>
+<p>For some, the fundamentals of AI are grounded in long-standing theoretical foundations. This view emphasises areas such as probability theory, statistics, optimisation, learning theory, information theory, logic and algorithms. From this perspective, progress in AI rests on understanding generalisation, uncertainty, sample efficiency, and the limits of computation. These foundations have underpinned decades of work in machine learning and remain essential for reasoning rigorously about models and methods.</p>
+<p>For others, particularly given developments over the last decade, the fundamentals of AI are increasingly associated with understanding modern, large-scale systems whose behaviour was not explicitly programmed. This includes work aimed at explaining the emergent and often poorly understood properties of contemporary AI systems: large language models, foundation models, and other architectures whose capabilities appear to arise from scale, data, and training dynamics rather than carefully specified rules.</p>
+<p>In this view, the fundamentals are less about closed-form theory and more about empirical understanding. Questions about representation, emergence, alignment, robustness, and interpretability become central. Why do these systems work as well as they do? Where do they fail? How stable are their behaviours across contexts, data distributions, and deployment settings?</p>
+<p>There is also a third, comtemporary perspective that situates AI fundamentals in interaction with the world. From this angle, the fundamentals are not purely mathematical or computational, but socio-technical. They include how AI systems interact with people, institutions, and environments; how incentives shape deployment; how values, norms, and power structures are encoded; and how systems behave once embedded in real-world settings.</p>
+<h2 id="building-a-cdt-in-foai">Building a CDT in FoAI</h2>
+<p>These perspectives are not mutually exclusive, but they do pull in different directions when it comes to training doctoral students. A curriculum built solely around classical theory risks being disconnected from the systems that currently dominate practice. One focused only on contemporary models risks producing researchers without the conceptual tools to reason about why those systems behave as they do, or how the field might evolve beyond them.</p>
+<p>The challenge, then, is not to identify a single definitive set of fundamentals, but to decide which foundations matter most for developing researchers who can contribute meaningfully to the field over the long term - researchers who can adapt as the technology changes, rather than being trained narrowly around the current state of the art.</p>
+<p>For this reason, in designing the FoAI CDT we organised the intellectual space around three non-mutually exclusive domains. These domains are not intended to be rigid tracks or silos, but overlapping perspectives through which students can frame and evolve their research over time.</p>
+<p><strong>(1) Theory and Foundations</strong></p>
+<p>This domain encompasses the deeply theoretical and foundational aspects of mathematics and computer science that underpin AI. It includes areas such as learning theory, optimisation, probability, statistics, information theory, algorithms, and the mathematical properties of representations.</p>
+<p>Research in this space often focuses on understanding the conditions under which AI methods work, when they fail, and what guarantees - if any - can be provided about their behaviour. If you are interested in the analysis of optimisation algorithms, generalisation bounds, or the relative efficiency of different representational frameworks, your work would naturally sit here.</p>
+<p>While research in this domain can appear distant from immediate practical application, its value lies in producing rigorous, generalisable insights. These foundations provide the conceptual scaffolding that allows the field to move beyond empirical trial-and-error and to reason more systematically about the capabilities and limitations of AI systems.</p>
+<p><strong>(2) Applied Fundamentals</strong></p>
+<p>Applied Fundamentals encompasses research driven by scientific and real-world applications, where empirical observation plays a central role in shaping new AI concepts and methods. Researchers working in this domain often start from practical problems—whether in science, engineering, or other domains—and use these challenges to interrogate existing theory and methods.</p>
+<p>Work in this space frequently involves developing novel variations of established approaches, often breaking the simplifying assumptions that made the original theory mathematically tractable. In doing so, it tests the robustness of foundational ideas and extends them to settings that better reflect the complexity of real-world data and systems.</p>
+<p>This domain sits at the interface between theory and practice. It recognises that many advances in AI have emerged not from theory alone, but from the tension between theoretical expectations and empirical behaviour. Applied Fundamentals provides a structured way to engage with that tension rather than treating it as an inconvenience.</p>
+<p><strong>(3) Systems &amp; Engineering</strong></p>
+<p>The Systems &amp; Engineering domain focuses on the study of modern large-scale AI systems and the principles that govern their construction, efficiency, and behaviour. This includes work on architectures, training pipelines, infrastructure, scalability, robustness, and the emergent properties of complex systems.</p>
+<p>Researchers in this domain often operate at a higher level of abstraction, making use of commonly adopted building blocks—such as transformers—rather than re-deriving methods from first principles. The goal is not simply to build bigger or faster systems, but to understand how system-level choices interact with learning dynamics, data, and deployment contexts. For example, this might include the study of agent-based systems and reinforcement learning, where behaviour emerges through interaction with environments, tools, and other agents over time. In these settings, questions about coordination, credit assignment, stability, and long-horizon behaviour become central, further reinforcing the need for system-level abstractions that go beyond static model performance.</p>
+<p>A key challenge in this space is reconciling empirical observations of system behaviour with approximate or simplified models that allow analysis, comparison, and generalisation. Systems &amp; Engineering research is therefore critical for translating theoretical insight into practice at scale, and for ensuring that AI systems behave in predictable and reliable ways when deployed.</p>
+<h2 id="maths-physics-and-engineering">Maths, Physics and Engineering</h2>
+<p>In my mind, these domains are analogous to the way in which pure mathematics, theoretical physics, and engineering have historically been linked and have interacted with one another.</p>
+<p>Pure mathematics develops abstract structures and results without immediate concern for application, yet over time it has repeatedly provided the language and tools that make new theories possible. Theoretical physics has often drawn directly on these mathematical foundations to formulate models of the natural world, while simultaneously posing new problems that push mathematics in unexpected directions. Engineering, in turn, takes physical laws and theoretical insight and turns them into working systems—bridges, engines, circuits, and communication networks—that operate in the real world.</p>
+<p>Crucially, engineering does not attempt to understand these systems at the most fundamental, atomistic level. Instead, it relies on abstraction, approximation, and modelling at appropriate scales. No engineer designs a jet engine by simulating individual particles; they work with higher-level representations that capture the behaviour that matters for performance, safety, and reliability.</p>
+<p>AI increasingly occupies a similar position. Theoretical work provides insights into learning, optimisation, and representation. Applied research tests and stretches these ideas in complex, often messy real-world settings. Systems and engineering research builds artefacts—large, interconnected models and infrastructures - whose behaviour emerges from interactions across many layers and cannot be fully understood by inspecting individual components in isolation.</p>
+<p>As with engineering, the challenge is to develop the right abstractions: models that are simple enough to reason about, yet rich enough to capture essential behaviour. Understanding modern AI systems is therefore not just a matter of more data or more computation, but of finding conceptual frameworks that allow us to reason about complexity without being overwhelmed by it.</p>
+<p>Seen this way, training doctoral students in the fundamentals of AI is not about choosing between theory and practice. It is about enabling movement between levels of abstraction, and about equipping researchers with the intellectual tools to contribute at the points where these domains intersect. Historically, many of the most significant advances have occurred precisely at those intersections, and there is good reason to believe the same will be true for AI.</p>
+<h2 id="universities-staying-relevant">Universities staying relevant</h2>
+<p>Taken together, these three domains provide a flexible framework for the FoAI CDT. Rather than forcing a narrow or fashionable definition of AI, they create an inclusive umbrella under which a broad range of students and academic supervisors can meaningfully contribute. This structure also allows us to design a teaching curriculum that moves between levels of abstraction, evolves as the field changes, and situates technical content within a wider intellectual landscape. Instead of prescribing a single path, the aim is to equip students with foundations that allow them to navigate a field that remains very much in flux.</p>
+<p>That flexibility is not just desirable; it is necessary.</p>
+<p>There is an increasing gulf between academic AI and industry-led AI, driven by differences in scale, pace, and incentives. Many of the most visible advances in AI now emerge from environments with access to vast computational resources, proprietary datasets, and engineering teams operating on timelines that are difficult to match within universities. This is not a criticism of academia, but a practical reality.</p>
+<p>Even at doctoral level, UK higher education cannot generally aspire to sit at the absolute cutting edge of large-scale AI development in the way that a small number of well-resourced industrial labs can (and increasingly even small-to-medium enterprises, SMEs). Attempting to compete directly on those terms is neither realistic nor, in my view, desirable. Doing so risks distorting academic priorities and undervaluing the distinctive contributions that universities are uniquely well placed to make.</p>
+<p>Universities have a long-standing and central role as educators and stewards of good research practice. This goes beyond the development of practical skills—such as software engineering or familiarity with particular toolchains—to cultivating a deeper understanding of how and why methods work.</p>
+<p>Anyone who has attempted to publish in a major machine learning conference in recent years will recognise the increasingly formulaic nature of both writing and reviewing. A new model is proposed, it is evaluated against a set of benchmarks, followed by a sequence of ablation studies. Performance improves, components are removed, curves are plotted. The implicit question is always: does it work better than what came before?</p>
+<p>But the more important question—often left unanswered—is why.</p>
+<p>Why does a particular architectural choice matter? Why does performance improve or degrade under certain conditions? Why should we expect behaviour observed on a benchmark to persist across different datasets, tasks, or deployment contexts? Without engaging seriously with these questions, it becomes difficult to distinguish genuine insight from incremental optimisation.</p>
+<p>Academic environments are uniquely positioned to slow things down enough to interrogate assumptions, to prioritise understanding over leaderboard performance, and to reward explanation rather than just results. In a field moving as quickly as AI, that role is not antiquated—it is essential.</p>
+<p>Developing researchers who are comfortable asking why, and who can reason carefully about evidence and uncertainty, is ultimately more valuable than training students to optimise for the conventions of the moment. Tools, benchmarks, and dominant paradigms will change. The ability to think critically and adapt is what endures.</p>
+<h2 id="partnership-with-ellison-institute-of-technology">Partnership with Ellison Institute of Technology</h2>
+<p>These realities are exactly why the partnership with the Ellison Institute of Technology (EIT) is so important for the FoAI CDT.</p>
+<p>The collaboration brings together genuinely complementary strengths. The University of Oxford provides deep academic expertise, a culture of critical inquiry, and a long tradition of foundational research and doctoral training. It is an environment well suited to asking difficult questions, interrogating assumptions, and prioritising understanding over short-term performance.</p>
+<p>EIT, by contrast, operates closer to an industrial research model: problem-driven, well-resourced, and oriented towards ambitious scientific applications of AI. This brings exposure to large-scale systems, modern tooling, and the kinds of empirical challenges that increasingly define contemporary AI research. Importantly, this is not industry in the narrow sense of product optimisation or rapid commercialisation, but an environment where real-world constraints and scale are treated as first-class research concerns.</p>
+<p>What makes this partnership work is that these perspectives are aligned rather than in tension. Many researchers at EIT place a high value on fundamental understanding and are motivated by questions that cut across theory, application, and system-level behaviour. This creates space for doctoral students to engage with modern AI systems without being trained narrowly around benchmarks, leaderboards, or transient trends.</p>
+<p>In practice, this means students can be exposed to different research cultures and ways of working while maintaining a shared commitment to rigour, explanation, and long-term impact. They can see how theoretical ideas break — or need to be adapted - when confronted with real systems, and how empirical observations can in turn motivate new foundational questions.</p>
+<p>The FoAI CDT is therefore not an attempt to replicate large industrial AI labs within a university setting, nor to chase the cutting edge for its own sake. Instead, it is about creating an environment in which students learn to move fluently between abstraction and implementation, between explanation and experimentation, and between academic and applied perspectives.</p>
+<p>In a field evolving as rapidly as AI, this ability to navigate between worlds may be more valuable than proximity to any single technical frontier. It is also, in my view, where doctoral training can make its most distinctive and lasting contribution.</p>
+<p>In that sense, the question is not whether universities can keep up with AI, but whether they can continue to shape the kinds of researchers the field will need in the long term.</p>
+<p><strong>Coming next:</strong>
+<em>In the next blog in the series I will talk about health data - what is its value?</em></p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/phd/">Phd</a>
+  
+  <a class="badge badge-light" href="/tag/ai/">Ai</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2026-01-03_fundamentals_of_ai%2F&amp;text=The&#43;fundamentals&#43;of&#43;artificial&#43;intelligence&#43;and&#43;education&#43;in&#43;2026" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2026-01-03_fundamentals_of_ai%2F&amp;t=The&#43;fundamentals&#43;of&#43;artificial&#43;intelligence&#43;and&#43;education&#43;in&#43;2026" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=The%20fundamentals%20of%20artificial%20intelligence%20and%20education%20in%202026&amp;body=https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2026-01-03_fundamentals_of_ai%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2026-01-03_fundamentals_of_ai%2F&amp;title=The&#43;fundamentals&#43;of&#43;artificial&#43;intelligence&#43;and&#43;education&#43;in&#43;2026" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=The&#43;fundamentals&#43;of&#43;artificial&#43;intelligence&#43;and&#43;education&#43;in&#43;2026%20https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2026-01-03_fundamentals_of_ai%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fcwcyau.github.io%2Fpost%2F2026-01-03_fundamentals_of_ai%2F&amp;title=The&#43;fundamentals&#43;of&#43;artificial&#43;intelligence&#43;and&#43;education&#43;in&#43;2026" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/christopher-yau/"><img class="avatar mr-3 avatar-circle" src="/author/christopher-yau/avatar_hu_73208077adf738c8.jpg" alt="Christopher Yau"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/christopher-yau/">Christopher Yau</a></h5>
+      <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
+      <p class="card-text">I am Professor of Artificial Intelligence. I am interested in statistical machine learning and its applications in the biomedical sciences.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:christopher.yau@wrh.ox.ac.uk" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/cwcyau" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=5tyrt68AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/cwcyau" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2026 Christopher Yau. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.0dfcdd67ca42b8dbc94d6bf1aa446ffb.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
