@@ -1,0 +1,1393 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: May 10, 2026 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.9c85b7451138c421e4165efcc1eee9b5.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Christopher Yau" />
+
+
+
+
+
+  
+
+<meta name="description" content="After years of work, our paper “SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records” has been published in npj Digital Medicine. This has been a monumental amount of work between my research team in Oxford and those at Birmingham." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="https://cwcyau.github.io/post/survivehr/" />
+<link rel="canonical" href="https://cwcyau.github.io/post/survivehr/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_b1cd7418e3ea4167.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_b63f22b2e9d877.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="https://cwcyau.github.io/media/icon_hu_91b8b2faea5b4fd3.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Yau Research Group" />
+<meta property="og:url" content="https://cwcyau.github.io/post/survivehr/" />
+<meta property="og:title" content="Artificial Intelligence for Multiple Long-Term Conditions | Yau Research Group" />
+<meta property="og:description" content="After years of work, our paper “SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records” has been published in npj Digital Medicine. This has been a monumental amount of work between my research team in Oxford and those at Birmingham." /><meta property="og:image" content="https://cwcyau.github.io/media/icon_hu_91b8b2faea5b4fd3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2026-05-10T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2026-05-10T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://cwcyau.github.io/post/survivehr/"
+  },
+  "headline": "Artificial Intelligence for Multiple Long-Term Conditions",
+  
+  "datePublished": "2026-05-10T00:00:00Z",
+  "dateModified": "2026-05-10T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Yau"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yau Research Group",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://cwcyau.github.io/media/icon_hu_81c3a25f4c3dfd1c.png"
+    }
+  },
+  "description": "\u003cp\u003eAfter years of work, our paper \u003ca href=\"https://www.nature.com/articles/s41746-026-02709-z\" target=\"_blank\" rel=\"noopener\"\u003e“SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records”\u003c/a\u003e has been published in \u003ca href=\"https://www.nature.com/npjdigitalmed/\" target=\"_blank\" rel=\"noopener\"\u003enpj Digital Medicine\u003c/a\u003e. This has been a monumental amount of work between my research team in Oxford and those at Birmingham.\u003c/p\u003e"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Artificial Intelligence for Multiple Long-Term Conditions | Yau Research Group</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="c40c70a76f6a6652ef932d85dc261eed" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.4fef3e534144e9903491f0cc6527eccd.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Yau Research Group</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Yau Research Group</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/tour"><span>About</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/post"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>People</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/event"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Artificial Intelligence for Multiple Long-Term Conditions</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 10, 2026
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    15 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/ai/">Ai</a>, <a href="/category/ehr/">Ehr</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>After years of work, our paper <a href="https://www.nature.com/articles/s41746-026-02709-z" target="_blank" rel="noopener">“SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records”</a> has been published in <a href="https://www.nature.com/npjdigitalmed/" target="_blank" rel="noopener">npj Digital Medicine</a>. This has been a monumental amount of work between my research team in Oxford and those at Birmingham.</p>
+<h2 id="background">Background</h2>
+<p>As the ageing population increases, larger numbers of older people will experience multiple long-term conditions (MLTCs) which require medical treatment. Traditionally, medical education and research has focused on single health conditions at a time, and the interaction between multiple conditions remains comparatively poorly understood. Furthermore, it is widely recognised that the management of MLTCs requires significant resources and places strain on health systems. Consequently, a better understanding of how to manage these conditions with the best combination of medical treatments will help older people to manage their symptoms more effectively and improve their quality of life as well as helping to balance health systems.</p>
+<h2 id="the-problem">The problem</h2>
+<p>In the UK, general practitioners based in the community are normally the first line of support for people with complex health conditions. This will include initiating the necessary investigations to enable diagnoses, managing and reviewing medications, and referring to secondary and tertiary care as required. A GP record will therefore span a lifetime of health events. We were interested to determine if the wealth of UK GP data could be used to drive predictive models for multiple long-term health conditions.</p>
+<p>In the classic approach to creating a risk prediction model, one would apply to extract a cohort data set from a population-level resource which could be used to build a prediction model for a pre-designated health outcome of interest. If we wanted to examine another health condition, we would repeat the process (Figure 1a). This was not going to work for our intended research. We therefore developed a <a href="https://www.cprd.com/approved-studies/optimising-therapies-and-disease-trajectories-patients-living-complex" target="_blank" rel="noopener">study protocol</a> which sought to examine risk prediction against a background of MLTCs which required access to a more general cohort of individuals. From this, we proposed to develop what we would now call a <em>foundation model</em> (at the time when we developed the protocol in 2020, the term &ldquo;foundation model&rdquo; had not come into general use) which would capture the essential properties of the MLTC cohort from which specialised predictive models could be derived via fine-tuning or transfer learning (Figure 1b).</p>
+<figure>
+    <img src="concept.png"
+         alt="Concept">
+    <figcaption><b>Figure 1: Risk prediction models.</b> (a) The classic approach to prediction modelling requires repeated extraction of specific cohorts from a population data collection to build targeted prediction models for each health outcome of interest one at a time. (b) For our MLTC work, we pre-trained a single model on an MLTC cohort that encompassed a wide range of health conditions from which specialised prediction models could be spawned without reference back to the population data.</figcaption>
+</figure>
+<h2 id="building-the-foundation-model">Building the foundation model</h2>
+<p>Fundamentally, the foundation model needed to be able to encode a patient history consisting of time-ordered but non-uniform sequence of events with different labels (and potentially attached values) into a vector embedding which could be used to seed a risk prediction model (Figure 2). In the first instance, we focus on <em>the next medical event</em> but we will return to this choice later in the blog .</p>
+<figure>
+    <img src="competingrisk.png"
+         alt="Modelling Challenge">
+    <figcaption><b>Figure 2: Modelling Challenge.</b> The goal is to transform patient medical histories into next medical event prediction.</figcaption>
+</figure>
+<p>The challenge is that are many next events and these are <em>competing</em> against each other since only one event can be <em>next</em>. Once that next event has occurred, the risk of all the other events changes, e.g. the result of a blood test could increase or decrease the probabilities of different health conditions. Furthermore, the time interval between events is variable. This gives rise to many design choices for the foundation model.</p>
+<p>During the lifetime of our project, many others have also taken the same problem and an era of electronic health record (EHR) foundation models has arisen. These works have often utilised the power of natural language model technology. In language modelling, transformer-based models have made the process of using sequences of tokenised data to predict the next item a very standard predictive activity. Since a sequence of medical events could be seen as a sequence of tokens, we can broadly apply the same principles but different approaches have been adopted to handle the inter-event timings and the risk modelling.</p>
+<figure>
+    <img src="modeltypes.png"
+         alt="Model Types">
+    <figcaption><b>Figure 3: EHR Foundation model types.</b> Event times can be handled in different ways, (a) they can be ignored, (b) incorporated as labels or (c) in SurvivEHR used directly as part of a time-to-event based training objective.</figcaption>
+</figure>
+<p>One option is to ignore the inter-event spacing altogether (Figure 3a) which can allow more direct use of existing language-based transformer models (eg GPT-2).  While this simplification can seem drastic, it is not necessarily that destructive depending on the setting and parameters of use. Many EHR foundation models embed the event times into the abstraction of each event, this naturally allows event times to be incorporated into the models and their inclusion in the predictive output (Figure 3b). Our approach instead utilised prior work we had developed in deep learning-based competing risks models (<a href="https://proceedings.mlr.press/v151/danks22a/danks22a.pdf" target="_blank" rel="noopener">DeSurv</a>) which allowed us to utilise an alternative competing risk, time-to-event based training objective (Figure 3c). This brought together a novel combination of modern machine learning technology for handling large unstructured longitudinal, mixed type inputs with classical statistical ideas for risk prediction and censoring.</p>
+<h2 id="survivehr">SurvivEHR</h2>
+<p>More specifically, at a high level, SurvivEHR combines two different ideas. The first is a transformer-based language model architecture (GPT-2) which is very effective at turning long sequences into abstract vector representations that capture contextual information. The second is a competing-risks, time-to-event prediction framework based on our earlier DeSurv work. Rather than directly predicting a single next token in the style of a standard language model, the transformer instead produces a representation of the patient history which is then passed to a survival modelling head. This head estimates cumulative incidence functions for each possible next event, allowing us to predict both what may happen next and when it may occur. Importantly, because these are competing risks, increasing the likelihood of one future event necessarily changes the relative likelihood of all others.</p>
+<figure>
+    <img src="survivehr.png"
+         alt="Concept">
+    <figcaption><b>Figure 4: Model architecture for SurvivEHR.</b> GPT-2 transformer encodes patient histories into representations which are fed into the DeSurv competing risks time-to-event modelling head which generates cumulative incidence functions for each possible next event possibility.</figcaption>
+</figure>
+<p>We subsequently created a pre-trained model using more than 7.6 billion coded clinical events from over 23 million patients within CPRD primary care records. However, a major challenge in evaluating foundation models is determining whether any improvement genuinely comes from the pre-training process itself, rather than simply from using a larger or more flexible neural network architecture. We therefore designed a series of comparisons to isolate the effect of pre-training from the effect of model complexity alone (Figure 5).</p>
+<p>First, we compared against more classical survival analysis and machine learning approaches that only used cross-sectional patient information rather than full longitudinal histories. Second, we trained versions of the SurvivEHR architecture entirely from scratch without pre-training. Finally, we also examined the “zero-shot” behaviour of the pre-trained model itself without any task-specific fine-tuning. This allowed us to disentangle the contribution of the transformer architecture, the longitudinal patient histories, and the self-supervised pre-training objective.</p>
+<figure>
+    <img src="experiments.png"
+         alt="Concept">
+    <figcaption><b>Figure 5: Experimental comparisons.</b> (a) Traditional cross-sectional survival models use only snapshot patient information without longitudinal histories. (b) SurvivEHR evaluated in a zero-shot setting without task-specific training. (c) SurvivEHR architecture trained from scratch without foundation-model pre-training. (d) Full fine-tuning of the pre-trained SurvivEHR model for downstream prediction tasks.</figcaption>
+</figure>
+<p>Overall, we found that pre-training substantially improved downstream predictive performance. Fine-tuning specialised prediction models from the pre-trained SurvivEHR model consistently outperformed training the same architecture entirely from scratch. This was particularly noticeable when the downstream cohort sizes were small, suggesting that the pre-trained model had already learnt clinically useful representations of patient trajectories from the much larger CPRD population.</p>
+<p>We also examined how robust the models were under distributional shift — that is, when training and evaluation populations differed geographically or demographically. Models fine-tuned from the pre-trained SurvivEHR foundation model were substantially more stable and transferred better between regions than models trained only on local cohorts. This is important because many healthcare prediction models perform well only in the specific population from which they were developed.</p>
+<p>Finally, we explored what the model had actually learnt internally. By probing the trajectories generated by SurvivEHR and visualising the learnt embedding representations, we found that the model appeared to recover many known clinical relationships directly from routine GP records. For example, it learnt expected associations between diabetes and cardiovascular disease, between blood pressure monitoring and hypertension diagnoses, and between particular diagnoses and their associated medication patterns. Importantly, these relationships were not manually encoded into the system but instead emerged naturally from the underlying patient histories.</p>
+<h2 id="safeguards">Safeguards</h2>
+<p>It is important to note that throughout our work, we recognised that working with GP records, at scale, and building this type of technology could raise sensitive questions about patient privacy, data release, etc. It was therefore extremely important to us that we addressed those within the design of the project from the outset.</p>
+<p>Firstly, we should state the data we received from CPRD was de-identified and anonymous. There was no free text data. Our research was also registered and approved in the usual CPRD way. <a href="https://www.birmingham.ac.uk/collaborate/enterprise/about/annual-review-2023-24/operating-divisions/dexter" target="_blank" rel="noopener">Dexter</a> was used to extract data tables for a fixed set of approximately eighty health conditions and associated tests and medications. Furthermore, preprocessing created new categories of health condition and medication labels which amalgamated read codes. As a consequence, SurvivEHR does not model data at the read-code level only on the categories we created. This removed a layer of granularity present in the raw data and meant that while we built a foundation model it was <em>not</em> a model of everything.</p>
+<p>Second, as stated earlier, our pre-trained model was only set up to do next-event prediction. While in language modelling, next token prediction has been shown to be incredibly powerful, this is because in the context of language, syntax and grammar rules means there are strong and persistent patterns of next-token occurrence. In contrast, with medical events, while certain events do co-occur (eg medications for certain conditions), the association of events in general is much weaker, for example, GP records often do not contain information on any pre- or early symptomatic signs that a health condition is emerging and the first record of a condition is the visit where it is diagnosed.</p>
+<p>It is important to understand that we <em>could</em> have readily gone beyond next event prediction and adopted a pre-training objective that covered multi-step prediction and random time horizons. Doing so would have greatly enhanced SurvivEHR generative capabilities which we show in the paper largely peters out after 3-4 future event predictions. However, in doing so there remained the possibility (albeit small) that SurvivEHR could memorise and be able to recapitulate whole or partial real patient histories through memorisation. The unknown risks and consequences of this meant we purposefully limited the generative capability of SurvivEHR including its zero-shot predictive capabilities.</p>
+<p>Throughout the project we therefore tried to strike a balance between scientific exploration and restraint. There are many technically possible directions we could have pursued that may have increased the generative capabilities of the model further. However, because these systems are trained on records ultimately derived from real patients — many of whom are still alive and actively receiving care — we believed it was important to adopt a cautious and conservative approach. Our aim was not simply to push technological capability as far as possible, but to understand how these methods could be developed responsibly within healthcare research settings.</p>
+<p><em>Note - the majority of this work pre-dated the CPRD Safe Trusted Research Environment infrastructure and was conducted at the University of Birmingham via their Research Computing facilities with only approved researchers being able to access the data and models.</em></p>
+<h2 id="discussion">Discussion</h2>
+<h3 id="health-records-are-shaped-by-health-systems">Health records are shaped by health systems</h3>
+<p>One of the interesting things about working on SurvivEHR over such a long time period was watching the wider field of EHR foundation models emerge around us. When we began this work in 2020, the idea of large-scale healthcare foundation models was still relatively niche. Since then, there has been an explosion of related work, much of it based on U.S. hospital systems or insurance claims data. However, one thing that I think is still underappreciated is just how strongly health records reflect the structure of the healthcare system from which they arise.</p>
+<p>Of particular importance to us was that the UK health system is fundamentally different from the U.S. healthcare system, and this is reflected directly in the longitudinal structure of the health record itself. GP records contain decades of relatively continuous community-based care, repeated monitoring, medication management, referrals, and chronic disease follow-up. In contrast, many U.S.-based datasets arise from hospital encounters or insurance reimbursement systems and therefore encode quite different healthcare processes. This means that EHR foundation models are not interchangeable abstractions over “health”. They implicitly learn patterns shaped by policy, healthcare access, coding practice, incentives, and workflow. In my opinion, there is often insufficient recognition within the field that different healthcare systems require different assumptions, modelling strategies, and evaluation frameworks.</p>
+<h3 id="foundation-models-versus-medical-language-models">Foundation models versus medical language models</h3>
+<p>Another important question is how these systems may eventually become useful in practice. Increasingly, general-purpose large language models are being adapted for healthcare applications and potentially consumer-facing medical tools. However, most of these systems are trained predominantly on medical literature, clinical guidelines, textbooks, and internet-scale text corpora. They usually have not been trained directly on large-scale real-world patient trajectories. As a consequence, many medical risk statements generated by general-purpose LLMs are effectively extrapolations from the published literature — closer to automated meta-analysis than direct observation of population-scale clinical histories.</p>
+<p>EHR foundation models potentially occupy a different role. Rather than replacing clinical language models, they could instead provide a mechanism through which predictions or recommendations generated by LLMs can be grounded against patterns learned from real-world healthcare trajectories. However, this immediately raises difficult questions around privacy, governance, and memorisation. If these systems become sufficiently powerful, they may eventually begin to behave less like abstract predictive models and more like compressed representations of the underlying patient records themselves. This has profound implications for organisations responsible for stewardship of healthcare data.</p>
+<h3 id="the-uncertainty-hidden-within-health-records">The uncertainty hidden within health records</h3>
+<p>It is also important to realise how much uncertainty exists in these predictions. Health records are not direct measurements of disease biology; they are records of interactions between people and healthcare systems. In the UK, people generally do not visit their GP unless they believe something may be wrong. In many cases, the earliest physiological or behavioural signs of disease progression are therefore entirely absent from the record. There may be long delays between symptom onset and formal diagnosis. Furthermore, many important contextual variables — social factors, family situations, stress, personal experiences — are incompletely represented or absent altogether. Consequently, these models are always operating with only a partial and highly indirect view of underlying health processes.</p>
+<h3 id="the-practical-realities-of-building-the-model">The practical realities of building the model</h3>
+<p>From a practical perspective, building the model was also considerably more difficult than many people might assume. One major challenge throughout the project was simply obtaining sufficient computational access. The CPRD data needed to remain within secure research infrastructure, which constrained where computation could occur. Although GPU hardware existed within the University of Birmingham research computing environment, gaining practical access required significant investment in queue priority and infrastructure usage. There were periods where we spent days or even weeks waiting for access to a single GPU. While the UK is now investing heavily in national AI infrastructure, the broader challenge of combining secure health data environments with scalable high-performance compute remains unresolved.</p>
+<h3 id="the-future-of-the-health-record-itself">The future of the health record itself</h3>
+<p>At the same time, the nature of healthcare records themselves may soon begin to change. Increasingly, general practices are experimenting with Ambient Voice Technologies (AVTs) for consultation transcription, automated note generation, clinical coding support, and potentially automated follow-up recommendations. This may fundamentally alter the relationship between data generation and downstream analysis. Historically, health records have largely represented observations manually entered by clinicians during clinical workflows. If parts of the documentation process itself become AI-assisted, future EHR foundation models may increasingly be trained on data partially generated by earlier generations of AI systems. The implications of this feedback loop remain poorly understood.</p>
+<h3 id="what-next">What next?</h3>
+<p>For me personally, the development of SurvivEHR probably marks the end of one chapter of my research career. My goal was never specifically to build an EHR foundation model in the way the field now talks about them. Rather, the motivation was methodological: how can we combine modern machine learning approaches with classical statistical ideas around censoring, competing risks, and longitudinal prediction? I hope other researchers will continue to adapt and extend the competing-risk, time-to-event framework we developed here.</p>
+<p>Ultimately, though, I suspect that healthcare foundation models of this type will need to be developed in close partnership with — or directly by — the organisations responsible for stewardship of the underlying data resources. The governance, privacy, and infrastructural requirements are simply too tightly coupled to the data itself.</p>
+<p>As for what comes next for me, one thing this work has reinforced is how naive most current EHR foundation models still are in their representation of healthcare data. Almost all current systems treat the health record as a passive chronological sequence. But health records are not passive — they are generated dynamically through observation, investigation, clinical suspicion, administrative workflow, and documentation processes. Increasingly, I think the truly interesting problem is not simply modelling the patient trajectory, but modelling the <em>process through which the health record itself comes into existence</em>.</p>
+<p><strong>So watch this space.</strong></p>
+<h2 id="acknowledgements">Acknowledgements</h2>
+<p>Particular credit goes to former postdoc Charles Gadd who led the development of SurvivEHR. The work was supported by an <a href="https://www.nihr.ac.uk/" target="_blank" rel="noopener">National Institute for Health and Care Research</a> (NIHR) <a href="https://www.nihr.ac.uk/news/nihr-awards-ps12-million-artificial-intelligence-research-help-understand-multiple-long-term-conditions" target="_blank" rel="noopener">Artificial Intelligence for Multimorbidity (AIM) award</a> named <a href="https://www.birmingham.ac.uk/research/projects/optimal-research-project" target="_blank" rel="noopener">``OPTIMising therapies, disease trajectories, and AI assisted clinical management for patients Living with complex multimorbidity&quot;</a> or OPTIMAL. This was a collaboration between research teams at the Universities of Birmingham, Oxford, St Andrews with <a href="https://www.cprd.com/" target="_blank" rel="noopener">CPRD</a>, NHS Greater Glasgow &amp; Clyde and University Hospitals Birmingham. In addition, the project received support from UKRI/EPSRC (Grant Ref: EP/Y018192/1 and EP/V023233/2).</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/ehr/">Ehr</a>
+  
+  <a class="badge badge-light" href="/tag/ai/">Ai</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fcwcyau.github.io%2Fpost%2Fsurvivehr%2F&amp;text=Artificial&#43;Intelligence&#43;for&#43;Multiple&#43;Long-Term&#43;Conditions" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fcwcyau.github.io%2Fpost%2Fsurvivehr%2F&amp;t=Artificial&#43;Intelligence&#43;for&#43;Multiple&#43;Long-Term&#43;Conditions" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Artificial%20Intelligence%20for%20Multiple%20Long-Term%20Conditions&amp;body=https%3A%2F%2Fcwcyau.github.io%2Fpost%2Fsurvivehr%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fcwcyau.github.io%2Fpost%2Fsurvivehr%2F&amp;title=Artificial&#43;Intelligence&#43;for&#43;Multiple&#43;Long-Term&#43;Conditions" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Artificial&#43;Intelligence&#43;for&#43;Multiple&#43;Long-Term&#43;Conditions%20https%3A%2F%2Fcwcyau.github.io%2Fpost%2Fsurvivehr%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fcwcyau.github.io%2Fpost%2Fsurvivehr%2F&amp;title=Artificial&#43;Intelligence&#43;for&#43;Multiple&#43;Long-Term&#43;Conditions" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/christopher-yau/"><img class="avatar mr-3 avatar-circle" src="/author/christopher-yau/avatar_hu_73208077adf738c8.jpg" alt="Christopher Yau"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/christopher-yau/">Christopher Yau</a></h5>
+      <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
+      <p class="card-text">I am Professor of Artificial Intelligence. I am interested in statistical machine learning and its applications in the biomedical sciences.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:christopher.yau@wrh.ox.ac.uk" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/cwcyau" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=5tyrt68AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/cwcyau" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2026 Christopher Yau. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.0dfcdd67ca42b8dbc94d6bf1aa446ffb.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.69fc52a6dc16aaf1a452cfbb36466dac.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>

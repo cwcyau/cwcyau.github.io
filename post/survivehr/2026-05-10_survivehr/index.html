@@ -1,0 +1,1342 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: May 10, 2026 --><html lang="en-us" >
+
+
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+
+  
+  
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Christopher Yau" />
+
+
+
+
+
+  
+
+<meta name="description" content="After years of work, our paper “SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records” has been published in npj Digital Medicine. This has been a monumental amount of work between my research team in Oxford and those at Birmingham." />
+
+
+
+<link rel="alternate" hreflang="en-us" href="http://localhost:1313/post/survivehr/2026-05-10_survivehr/" />
+<link rel="canonical" href="http://localhost:1313/post/survivehr/2026-05-10_survivehr/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu_b1cd7418e3ea4167.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu_b63f22b2e9d877.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="http://localhost:1313/media/icon_hu_91b8b2faea5b4fd3.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Yau Research Group" />
+<meta property="og:url" content="http://localhost:1313/post/survivehr/2026-05-10_survivehr/" />
+<meta property="og:title" content="Artificial Intelligence for Multiple Long-Term Conditions | Yau Research Group" />
+<meta property="og:description" content="After years of work, our paper “SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records” has been published in npj Digital Medicine. This has been a monumental amount of work between my research team in Oxford and those at Birmingham." /><meta property="og:image" content="http://localhost:1313/media/icon_hu_91b8b2faea5b4fd3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2026-05-10T00:00:00&#43;00:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2026-05-10T00:00:00&#43;00:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://localhost:1313/post/survivehr/2026-05-10_survivehr/"
+  },
+  "headline": "Artificial Intelligence for Multiple Long-Term Conditions",
+  
+  "datePublished": "2026-05-10T00:00:00Z",
+  "dateModified": "2026-05-10T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Christopher Yau"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Yau Research Group",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://localhost:1313/media/icon_hu_81c3a25f4c3dfd1c.png"
+    }
+  },
+  "description": "\u003cp\u003eAfter years of work, our paper \u003ca href=\"https://www.nature.com/articles/s41746-026-02709-z\" target=\"_blank\" rel=\"noopener\"\u003e“SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records”\u003c/a\u003e has been published in \u003ca href=\"https://www.nature.com/npjdigitalmed/\" target=\"_blank\" rel=\"noopener\"\u003enpj Digital Medicine\u003c/a\u003e. This has been a monumental amount of work between my research team in Oxford and those at Birmingham.\u003c/p\u003e"
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Artificial Intelligence for Multiple Long-Term Conditions | Yau Research Group</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="a3e4045c3aaedffa350140d1a2168f2c" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Yau Research Group</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Yau Research Group</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/tour"><span>About</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/post"><span>News</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/people"><span>People</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/event"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/publication"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+
+        
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Artificial Intelligence for Multiple Long-Term Conditions</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 10, 2026
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/ai/">Ai</a>, <a href="/category/ehr/">Ehr</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>After years of work, our paper <a href="https://www.nature.com/articles/s41746-026-02709-z" target="_blank" rel="noopener">“SurvivEHR: a competing risks, time-to-event foundation model for multiple long-term conditions from primary care electronic health records”</a> has been published in <a href="https://www.nature.com/npjdigitalmed/" target="_blank" rel="noopener">npj Digital Medicine</a>. This has been a monumental amount of work between my research team in Oxford and those at Birmingham.</p>
+<h2 id="background">Background</h2>
+<p>As the ageing population increases, larger numbers of older people will experience multiple long-term conditions which require medical treatment. A better understanding of how to manage these conditions with the best combination of medical treatments will help older people to manage their symptoms more effectively and improve their quality of life.</p>
+<figure>
+    <img src="overview.png"
+         alt="Overview">
+    <figcaption>Figure 1. An illustration of the terminology used in this article with the four phases of disease progression and the ideal placing of the opportunity and detection windows to enable early detection of disease.</figcaption>
+</figure>
+<p>The work was supported by an <a href="https://www.nihr.ac.uk/" target="_blank" rel="noopener">National Institute for Health and Care Research</a> (NIHR) <a href="https://www.nihr.ac.uk/news/nihr-awards-ps12-million-artificial-intelligence-research-help-understand-multiple-long-term-conditions" target="_blank" rel="noopener">Artificial Intelligence for Multimorbidity (AIM) award</a> named <a href="https://www.birmingham.ac.uk/research/projects/optimal-research-project" target="_blank" rel="noopener">``OPTIMising therapies, disease trajectories, and AI assisted clinical management for patients Living with complex multimorbidity&quot;</a> or OPTIMAL. This was a collaboration between research teams at the Universities of Birmingham, Oxford, St Andrews with <a href="https://www.cprd.com/" target="_blank" rel="noopener">CPRD</a>, NHS Greater Glasgow &amp; Clyde and University Hospitals Birmingham.</p>
+<h2 id="what-is-survivehr">What is SurvivEHR?</h2>
+<p>SurvivEHR is a foundation model trained on longitudinal UK primary care electronic health records (EHRs). In practical terms, it learns patterns in how diagnoses, medications, investigations, and other health events evolve over time across millions of patient histories.</p>
+<p>Unlike many existing clinical prediction models that focus on a single disease outcome, SurvivEHR was designed around the reality that patients often live with multiple long-term conditions simultaneously. The model therefore operates in a competing-risk, time-to-event framework, meaning it learns both what health event may happen next and when it is likely to occur.</p>
+<p>The model was trained on more than 7.6 billion coded clinical events from over 23 million patients within CPRD primary care records. Rather than being built for a single prediction task, SurvivEHR is intended as a reusable foundation that can later be adapted to different downstream clinical prediction problems, particularly in settings where available training data may be limited.</p>
+<p>One of the aspects we were especially interested in was whether large-scale longitudinal primary care data contain learnable trajectories of multimorbidity progression. Our experiments suggest that they do: the model was able to recover many clinically meaningful associations between conditions, investigations, medications, and future outcomes directly from routine GP records.</p>
+<h2 id="safeguards">Safeguards</h2>
+<p>We recognised at the very beginning that working with GP records, at scale, and building this type of technology could raise sensitive questions about patient privacy, data release, etc. It was therefore extremely important to us that we addressed those within the design of the project from the outset.</p>
+<p>Firstly, we should state the data we received from CPRD was de-identified and anonymous. There was no free text data. Our research was also registered and approved in the usual CPRD way. Dexter was used to extract data tables. This preprocessing created new categories of health condition and medication labels which amalgamated read codes. SurvivEHR does not model data at the read-code level only on the categories we created. This removed a layer of granularity present in the raw data.</p>
+<p>Second, our base model was only trained to do next-event prediction. While in language modelling, next token prediction has been shown to be incredibly powerful, this is because in the context of language, syntax and grammar rules means there are strong and persistent patterns of next-token occurrence. In contrast, with medical events, while certain events do co-occur (eg medications for certain conditions), the association of events in general is much weaker. This occurs for a number of reasons, for example, GP records often do not contain information on any pre- or early symptomatic signs that a health condition is emerging and the first record of a condition is the visit where it is diagnosed.</p>
+<p>Note - the majority of this work pre-dated the CPRD Safe Trusted Research Environment infrastructure and was conducted at the University of Birmingham via their Research Computing facilities with only approved researchers being able to access the data and models.</p>
+
+    </div>
+
+    
+
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tag/ehr/">Ehr</a>
+  
+  <a class="badge badge-light" href="/tag/ai/">Ai</a>
+  
+</div>
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2Fsurvivehr%2F2026-05-10_survivehr%2F&amp;text=Artificial&#43;Intelligence&#43;for&#43;Multiple&#43;Long-Term&#43;Conditions" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpost%2Fsurvivehr%2F2026-05-10_survivehr%2F&amp;t=Artificial&#43;Intelligence&#43;for&#43;Multiple&#43;Long-Term&#43;Conditions" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Artificial%20Intelligence%20for%20Multiple%20Long-Term%20Conditions&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpost%2Fsurvivehr%2F2026-05-10_survivehr%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2Fsurvivehr%2F2026-05-10_survivehr%2F&amp;title=Artificial&#43;Intelligence&#43;for&#43;Multiple&#43;Long-Term&#43;Conditions" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Artificial&#43;Intelligence&#43;for&#43;Multiple&#43;Long-Term&#43;Conditions%20http%3A%2F%2Flocalhost%3A1313%2Fpost%2Fsurvivehr%2F2026-05-10_survivehr%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=http%3A%2F%2Flocalhost%3A1313%2Fpost%2Fsurvivehr%2F2026-05-10_survivehr%2F&amp;title=Artificial&#43;Intelligence&#43;for&#43;Multiple&#43;Long-Term&#43;Conditions" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/christopher-yau/"><img class="avatar mr-3 avatar-circle" src="/author/christopher-yau/avatar_hu_73208077adf738c8.jpg" alt="Christopher Yau"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/christopher-yau/">Christopher Yau</a></h5>
+      <h6 class="card-subtitle">Professor of Artificial Intelligence</h6>
+      <p class="card-text">I am Professor of Artificial Intelligence. I am interested in statistical machine learning and its applications in the biomedical sciences.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:christopher.yau@wrh.ox.ac.uk" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/cwcyau" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.co.uk/citations?user=5tyrt68AAAAJ&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/cwcyau" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2026 Christopher Yau. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
