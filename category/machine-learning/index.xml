@@ -5,12 +5,30 @@
     <link>https://cwcyau.github.io/category/machine-learning/</link>
       <atom:link href="https://cwcyau.github.io/category/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/media/icon_hu_91b8b2faea5b4fd3.png</url>
       <title>Machine Learning</title>
       <link>https://cwcyau.github.io/category/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>ICML26: Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture -- Bridging Predictive and Generative Self-Supervised Learning</title>
+      <link>https://cwcyau.github.io/post/2026-04-30_varjepa/</link>
+      <pubDate>Thu, 30 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2026-04-30_varjepa/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../author/moritz-gogl/&#34;&gt;Moritz Golg&lt;/a&gt; whose paper &amp;ldquo;Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture - Bridging Predictive and Generative Self-Supervised Learning&amp;rdquo; was accepted for presentation at &lt;a href=&#34;https://aaai.org/conference/aaai/aaai-26/program-overview/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICML 2026&lt;/a&gt;. A preprint paper can be found on &lt;a href=&#34;https://arxiv.org/abs/2603.20111&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Journal of Healthcare Informatics: Imputation Free Deep Survival Prediction with Conditional Variational Autoencoders</title>
+      <link>https://cwcyau.github.io/post/2026-04-10__misscvae/</link>
+      <pubDate>Fri, 10 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2026-04-10__misscvae/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../author/natalia-hong/&#34;&gt;Natalia Hong&lt;/a&gt; whose paper &amp;ldquo;Imputation Free Deep Survival Prediction with Conditional Variational Autoencoders&amp;rdquo; was accepted for publication in the &lt;a href=&#34;https://link.springer.com/article/10.1007/s41666-026-00234-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Journal of Healthcare Informatics Research&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Workshop presentations</title>
