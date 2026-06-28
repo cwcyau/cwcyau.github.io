@@ -5,12 +5,56 @@
     <link>https://cwcyau.github.io/tag/machine-learning/</link>
       <atom:link href="https://cwcyau.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/media/icon_hu_91b8b2faea5b4fd3.png</url>
       <title>Machine Learning</title>
       <link>https://cwcyau.github.io/tag/machine-learning/</link>
     </image>
+    
+    <item>
+      <title>Rethinking JEPA: a generative perspective</title>
+      <link>https://cwcyau.github.io/post/2026-05-14_varjepa_explain/</link>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2026-05-14_varjepa_explain/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Recently my student Moritz Gogl and I had a paper &amp;ldquo;Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture - Bridging Predictive and Generative Self-Supervised Learning&amp;rdquo; was accepted for presentation at &lt;a href=&#34;https://aaai.org/conference/aaai/aaai-26/program-overview/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;ICML 2026&lt;/a&gt;. A preprint paper can be found on &lt;a href=&#34;https://arxiv.org/abs/2603.20111&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;. This blog goes into the details of how this work came about.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;catching-up-on-my-reading&#34;&gt;Catching up on my reading&lt;/h2&gt;
+&lt;p&gt;I find it difficult to sleep on long-haul flights and, while on a family visit to China last year, I found myself wide awake while passengers around me dozed off. Instead of watching a movie on the in-flight entertainment system or reading a book, I opened up my (science) reading list and caught up on literature that I never have enough time to read.&lt;/p&gt;
+&lt;p&gt;As I scrolled through my saved reading files, I came across a &lt;a href=&#34;https://www.turingpost.com/p/jepa&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Turing Post blog on JEPA or “Joint Embedding Predictive Architectures”&lt;/a&gt;. I had heard about them in passing but didn’t really know the details and figured it would be worth a browse.&lt;/p&gt;
+&lt;h2 id=&#34;jepa&#34;&gt;JEPA&lt;/h2&gt;
+&lt;p&gt;The blog introduced an idea by Yann Lecun that the generative models behind LLMs were limited and something else was required. Without dwelling on the discussion of world models and other motivating factors, the solution presented was JEPA.&lt;/p&gt;
+&lt;p&gt;The key idea in JEPA is that pairs of related inputs (e.g. sequential frames of a video) can be encoded into abstract representations, each capturing the essential features of the inputs, and that it should be possible to derive a prediction model that bridges the two by predicting one representation from the other. Unlike generative models which focus on the ability to reconstruct the original inputs, JEPA is only concerned with the reconstruction of the representations. This argued the blog/LeCun would lead to better generalisation properties.&lt;/p&gt;
+&lt;p&gt;[INSERT RELEVANT JEPA SCHEMATIC DIAGRAM HERE]&lt;/p&gt;
+&lt;p&gt;I’m not going to discuss the latter but rather the design of JEPA itself, in particular, focusing on the argument that LeCun makes that we should therefore “abandon generative models in favor joint-embedding architectures” and “abandon probabilistic models in favor of energy-based models” (&lt;a href=&#34;https://drive.google.com/file/d/1Ymx_LCVzy7vZXalrVHPXjX9qbpd9k_bo/view&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;from his Harvard lecture slides&lt;/a&gt;).&lt;/p&gt;
+&lt;h2 id=&#34;coupled-variational-autoencoders&#34;&gt;Coupled variational autoencoders&lt;/h2&gt;
+&lt;p&gt;However, when I stared at the diagrammatic illustration of JEPA, my first thought was “this looks like a particular type coupled variational autoencoder?” Years of working on models like this gave me the gut feeling that JEPA wasn’t quite the departure from generative models that was being claimed.&lt;/p&gt;
+&lt;p&gt;Now, it is worth noting that a variational autoencoder or VAE, isn’t a model with a reconstruction loss and a Kullback-Liebler divergence loss term tacked on to it for regularisation. The VAE arises from the application of amortised stochastic variational inference applied to a particular construction of Bayesian Latent Variable Model. It is nothing like a classic autoencoder, it’s just that the derived VI updates happened to give you something that looks akin to a probabilistic version of an autoencoder.&lt;/p&gt;
+&lt;p&gt;[INSERT RELEVANT VAE EQUATION HERE]&lt;/p&gt;
+&lt;p&gt;Rant aside. I set out to identify whether there was a latent variable model construction which, combined with variation inference, would give rise to VI updates which resemble the steps used in JEPA. It turns out that such a construction does exist which we would later call Var-JEPA.&lt;/p&gt;
+&lt;h2 id=&#34;elbos&#34;&gt;ELBOs&lt;/h2&gt;
+&lt;p&gt;What was interesting though is that this construction led to an objective function (ELBO) whose components overlapped with JEPA - it included the representation prediction term, the input-specific embedding terms - as well as a series of additional KL terms. However, it also included the reconstruction terms which JEPA said we do not need or desire.&lt;/p&gt;
+&lt;p&gt;[INSERT RELEVANT VAR-JEPA EQUATION HERE]&lt;/p&gt;
+&lt;p&gt;This was interesting to me. Empirically, JEPA implementations are prone to optimisation collapse and various heuristics were needed to stabilise training. Viewed from the perspective of Var-JEPA, are the training problems with JEPA because it ignores these critical ELBO components? Was JEPA optimising a flawed objective? Var-JEPA trained stably. Well, as stably as any VAE does (e.g. it can be sensitive to posterior collapse etc). So we experimented by removing those loss components which were not present in JEPA from Var-JEPA to see how it worked.&lt;/p&gt;
+&lt;p&gt;What happened next was illuminating.&lt;/p&gt;
+&lt;h2 id=&#34;comparing-with-jepa&#34;&gt;Comparing with JEPA&lt;/h2&gt;
+&lt;p&gt;As we progressively removed the terms that distinguish Var-JEPA from JEPA, the model began to exhibit precisely the pathologies that practitioners of JEPA have spent considerable effort trying to avoid. In particular, eliminating the reconstruction and generation components caused the learned representations to collapse. The latent variables became increasingly well-behaved according to superficial distributional metrics, yet they carried dramatically less information about the underlying data-generating process. Performance on downstream probing tasks deteriorated accordingly.&lt;/p&gt;
+&lt;p&gt;This was perhaps the most interesting result of the exercise. From the standard JEPA narrative, reconstruction losses are often portrayed as an undesirable distraction. The argument is that a model should focus on predicting abstract representations rather than wasting capacity reconstructing irrelevant details of the input. Yet in the variational formulation, the reconstruction terms serve a deeper purpose. They force the latent representations to remain grounded in the observations that generated them. Without that constraint, there is nothing preventing the model from drifting towards representations that are easy to predict but ultimately uninformative.&lt;/p&gt;
+&lt;p&gt;The KL terms played a similarly important role. Removing them led to increasingly pathological latent distributions. From a variational perspective this is unsurprising: the KL penalties are not arbitrary regularisers but arise naturally from the probabilistic model. They ensure that the latent variables remain compatible with the assumed generative structure and prevent the inference network from encoding information in an unconstrained fashion.&lt;/p&gt;
+&lt;p&gt;Many of the stabilisation techniques that have appeared in the JEPA literature - EMA targets, variance regularisers, distribution matching objectives, and more recently approaches such as &lt;a href=&#34;https://arxiv.org/abs/2511.08544&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LeJEPA&lt;/a&gt; - can be interpreted as introducing constraints that arise naturally from the ELBO in the variational formulation.&lt;/p&gt;
+&lt;h2 id=&#34;implications&#34;&gt;Implications&lt;/h2&gt;
+&lt;p&gt;Does this mean that JEPA is &amp;ldquo;really&amp;rdquo; a VAE? Well, no. What we show is that if you want architectures in which representations are used to predict other representations, then there is nothing inherently non-generative about that idea. The same design pattern can emerge naturally from coupled latent variable models combined with variational inference. Have we come up with a new&lt;/p&gt;
+&lt;p&gt;As such this opens up the possibility of new architectures that borrow from the extensive generative toolkit.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Royal Society Open Science: RLevolution: unravelling the history of genomic instability through deep reinforcement learning</title>
+      <link>https://cwcyau.github.io/post/2026-05-01_rlevolution/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2026-05-01_rlevolution/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../author/yun-feng/&#34;&gt;Yun Feng&lt;/a&gt; whose paper &amp;ldquo;RLevolution: unravelling the history of genomic instability through deep reinforcement learning&amp;rdquo; was accepted for publication in &lt;a href=&#34;https://royalsocietypublishing.org/rsos/article/13/5/251811/481598/RLevolution-unravelling-the-history-of-genomic?searchresult=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Royal Society Open Science&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>ICML26: Var-JEPA: A Variational Formulation of the Joint-Embedding Predictive Architecture -- Bridging Predictive and Generative Self-Supervised Learning</title>

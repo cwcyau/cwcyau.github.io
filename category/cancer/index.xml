@@ -5,12 +5,21 @@
     <link>https://cwcyau.github.io/category/cancer/</link>
       <atom:link href="https://cwcyau.github.io/category/cancer/index.xml" rel="self" type="application/rss+xml" />
     <description>Cancer</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://cwcyau.github.io/media/icon_hu_91b8b2faea5b4fd3.png</url>
       <title>Cancer</title>
       <link>https://cwcyau.github.io/category/cancer/</link>
     </image>
+    
+    <item>
+      <title>Royal Society Open Science: RLevolution: unravelling the history of genomic instability through deep reinforcement learning</title>
+      <link>https://cwcyau.github.io/post/2026-05-01_rlevolution/</link>
+      <pubDate>Fri, 01 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/post/2026-05-01_rlevolution/</guid>
+      <description>&lt;p&gt;Congratulations to &lt;a href=&#34;../../author/yun-feng/&#34;&gt;Yun Feng&lt;/a&gt; whose paper &amp;ldquo;RLevolution: unravelling the history of genomic instability through deep reinforcement learning&amp;rdquo; was accepted for publication in &lt;a href=&#34;https://royalsocietypublishing.org/rsos/article/13/5/251811/481598/RLevolution-unravelling-the-history-of-genomic?searchresult=1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Royal Society Open Science&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>GPerturb in Nature Communications</title>

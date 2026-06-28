@@ -5,19 +5,20 @@
     <link>https://cwcyau.github.io/author/constantin-ahlmann-eltze/</link>
       <atom:link href="https://cwcyau.github.io/author/constantin-ahlmann-eltze/index.xml" rel="self" type="application/rss+xml" />
     <description>Constantin Ahlmann-Eltze</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://cwcyau.github.io/media/icon_hu_91b8b2faea5b4fd3.png</url>
+      <url>https://cwcyau.github.io/author/constantin-ahlmann-eltze/avatar_hu_6bd71daf8f0d7a9.jpg</url>
       <title>Constantin Ahlmann-Eltze</title>
       <link>https://cwcyau.github.io/author/constantin-ahlmann-eltze/</link>
     </image>
     
     <item>
-      <title>MixDir: scalable Bayesian clustering for high-dimensional categorical data</title>
-      <link>https://cwcyau.github.io/publication/ahlmann-2018-mixdir/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://cwcyau.github.io/publication/ahlmann-2018-mixdir/</guid>
-      <description></description>
+      <title>Constantin Ahlmann-Eltze</title>
+      <link>https://cwcyau.github.io/author/constantin-ahlmann-eltze/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://cwcyau.github.io/author/constantin-ahlmann-eltze/</guid>
+      <description>&lt;p&gt;Constantin was a visiting ERASMUS Masters student from the University of Heidelberg in Germany. He worked on dimensionality reduction problems for high-dimensional mixed data type observations. He is now a PhD student at EMBL Heidelberg.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
